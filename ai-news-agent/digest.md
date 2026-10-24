@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-10-24 10:01
+
+- **[Offer change: Anthropic Startups](https://www.anthropic.com/startups)** (Anthropic Startups, 10/10) - Claude for Startups gives early‑stage startups free credits or discounted access to Anthropic’s Claude model; eligibility is limited to qualifying startup companies (typically early‑stage, product‑building teams). No explicit application deadline is listed on the page.
+- **[ThinkRail from JetBrains](https://thinkrail.ai/)** (Hacker News, 7/10) - JetBrains launches ThinkRail, a new framework for constructing AI‑driven workflows, adding a versatile tool for agent and tool integration.
+- **[T3 Code Nightly 0.1.3-nightly.20261024.3617 (27e0c684c585)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.3-nightly.20261024.3617)** (T3 Code releases, 6/10) - T3 Code ships nightly 0.1.3‑nightly, fixing mobile live‑activity bugs and polishing the AI coding assistant that developers rely on for rapid prototyping.
+
 ## 2026-10-24 09:01
 
 - **[Offer change: GitHub Education pack](https://education.github.com/pack)** (GitHub Education pack, 10/10) - GitHub Student Developer Pack offers free access
