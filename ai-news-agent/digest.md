@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-24 21:31
+
+- **[Built a home for 5 local companions on Gemma 4 26B: 3D rooms, journals, a D&D campaign, and they can text me on Discord](https://www.reddit.com/r/LocalLLaMA/comments/1xduy84/built_a_home_for_5_local_companions_on_gemma_4/)** (Reddit LocalLLaMA, 7/10) - Someone built a local‑only AI companion system using the 26‑billion‑parameter Gemma‑4 model quantized to fit on an RTX 3070 Ti, serving each character via LM Studio and a small Python server, and visualizing them in three‑js rooms that also link to Discord. The project demonstrates practical quantization and multi‑agent deployment techniques for running large language models on consumer hardware.
+- **[Made a rhythm game where 4 small neural nets listen to your song right in the browser tab (open source)](https://www.reddit.com/r/LocalLLaMA/comments/1xeia9o/made_a_rhythm_game_where_4_small_neural_nets/)** (Reddit LocalLLaMA, 6/10) - A developer released an open‑source web app that runs four tiny neural networks inside the browser to turn any MP3 into a rhythm‑game level, with all inference happening locally. This shows how you can build privacy‑preserving, low‑latency AI experiences on the client side without needing a server.
+
 ## 2026-10-24 21:01
 
 - **[KLD is misunderstood](https://www.reddit.com/r/LocalLLaMA/comments/1xeim3m/kld_is_misunderstood/)** (Reddit LocalLLaMA, 6/10) - A technical post clarifies how Kullback-Leibler Divergence (KLD) measures probability differences rather than overall response quality in quantized language models. This helps developers avoid relying on misleading benchmarks when selecting compressed open-source models for local deployment.
