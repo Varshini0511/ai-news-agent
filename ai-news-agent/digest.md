@@ -1,5 +1,13 @@
 # AI Digest
 
+## 2026-10-24 00:50
+
+- **[Offer change: Anthropic Startups](https://www.anthropic.com/startups)** (Anthropic Startups, 10/10) - Claude for Startups is a program that gives startup teams free credits or discounted access to Anthropic’s Claude AI model. It’s open to early‑stage companies building products with Claude, and currently has no stated expiration date.
+- **[Offer change: Google Gemini for students](https://gemini.google/students/)** (Google Gemini for students, 10/10) - Google AI Pro (Gemini) offers a free 1‑year student plan—including 4× higher Gemini usage limits, 5 TB storage, Gemini Spark and Gemini Omni—available to U.S. college students aged 18 or older (new users or those whose prior trial has expired). The offer must be redeemed by December 31 2026.
+- **[Offer change: Google AI plans](https://one.google.com/about/google-ai-plans/)** (Google AI plans, 10/10) - Google AI Pro and Google AI Ultra subscribers can get
+- **[Strata now supports Qwen 3.6 35B](https://www.reddit.com/r/LocalLLaMA/comments/1xdktmz/strata_now_supports_qwen_36_35b/)** (Reddit LocalLLaMA, 8/10) - Strata adds support for Qwen 3.6 35B, giving builders immediate access to a powerful new open‑source LLM for inference and agent experiments.
+- **[Monish](https://www.producthunt.com/products/monish)** (Product Hunt, 7/10) - Monish places AI agents on the iPhone lock screen, showcasing a novel low‑friction deployment channel for personal assistant agents.
+
 ## 2026-10-24 05:38
 
 - **[Peras](https://www.producthunt.com/products/peras)** (Product Hunt, 7/10) - A budget and execution safety guardrail for CLI coding tools like Claude Code and OpenAI Codex.
