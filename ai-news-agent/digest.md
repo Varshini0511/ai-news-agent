@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-24 09:01
+
+- **[Offer change: GitHub Education pack](https://education.github.com/pack)** (GitHub Education pack, 10/10) - GitHub Student Developer Pack offers free access
+
 ## 2026-10-24 08:45
 
 - **[[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed](https://latent.space/p/ainews-kimi-31/)** (Latent Space, 8/10) - Kimi 3.1 Pro introduces a new high‑speed API and open‑weight model, offering builders faster inference and more control.
