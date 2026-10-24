@@ -1,5 +1,15 @@
 # AI Digest
 
+## 2026-10-24 19:01
+
+- **[Offer change: Anthropic Startups](https://www.anthropic.com/startups)** (Anthropic Startups, 10/10) - Claude for Startups offers qualifying early‑stage startups free credits to access Anthropic’s Claude model via its API.  Eligible companies can apply now; the program is ongoing with no fixed deadline listed.
+- **[Dream-1](https://dreamlabs.ai/research/dream-1/)** (Hacker News, 8/10) - Dream-1 is a newly released large language model promising higher quality generation, marking a significant addition to the open‑source model ecosystem.
+- **[AbliteratedOutTheBox Strata Announcement](https://www.reddit.com/r/LocalLLaMA/comments/1xe8x9c/abliteratedoutthebox_strata_announcement/)** (Reddit LocalLLaMA, 7/10) - The AbliteratedOutTheBox Strata fork adds an inference‑time ablation engine to llama.cpp, letting developers run smaller models with less VRAM without fine‑tuning.
+- **[New Nvidia unlock works on Chinese 3080 20GB too](https://www.reddit.com/r/LocalLLaMA/comments/1xdn33h/new_nvidia_unlock_works_on_chinese_3080_20gb_too/)** (Reddit LocalLLaMA, 6/10) - A community‑made unlock restores full compute instruction support on Nvidia 3080 20GB GPUs, expanding hardware options for local LLM deployment.
+- **[🌋 Pushing PCIe x1 to the limit: lvgale concurrently serving 27B, 9B, and 2B LLMs on a hardware abomination 📈](https://www.reddit.com/r/LocalLLaMA/comments/1xdq2cj/pushing_pcie_x1_to_the_limit_lvgale_concurrently/)** (Reddit LocalLLaMA, 6/10) - Demonstrates running 27B, 9B, and 2B models concurrently over a PCIe x1 link, showcasing aggressive hardware optimization for multi‑model serving.
+- **[Some benchmarks on mini-AGI (dynamic continual learning model) after training it completely from scratch for a month on a 8GB VRAM GPU.](https://www.reddit.com/r/LocalLLaMA/comments/1xds6ts/some_benchmarks_on_miniagi_dynamic_continual/)** (Reddit LocalLLaMA, 6/10) - Benchmarks of a month‑long trained mini‑AGI on an 8GB GPU provide insight into continual‑learning model capabilities for low‑resource developers.
+- **[big cloud models like opus 5.5 get all the motion graphics praise, but i made this with local qwen3.8 flash next. it's very possible!](https://www.reddit.com/r/LocalLLaMA/comments/1xebkti/big_cloud_models_like_opus_55_get_all_the_motion/)** (Reddit LocalLLaMA, 6/10) - Shows that the locally run Qwen 3.8‑Flash model can match cloud‑based Opus 5.5 quality, highlighting the viability of high‑performance open‑source alternatives.
+
 ## 2026-10-24 17:31
 
 - **[Offer change: GitHub Education pack](https://education.github.com/pack)** (GitHub Education pack, 10/10) - GitHub Student Developer Pack members get multiple new benefits, including
