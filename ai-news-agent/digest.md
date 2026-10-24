@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-24 22:31
+
+- **[M6 Mac Mini owners (32GB): now you can run Qwen3.8-27B in high quality on the Apple Neural Engine](https://www.reddit.com/r/LocalLLaMA/comments/1xejv61/m6_mac_mini_owners_32gb_now_you_can_run_qwen3827b/)** (Reddit LocalLLaMA, 6/10) - ANEMLL Forge version 0.2.1 was released, enabling Mac users to run 27-billion parameter language models on the Apple Neural Engine with large context windows. This tool allows developers to efficiently run and test open-source models locally on Mac hardware without cloud API costs.
+
 ## 2026-10-24 21:31
 
 - **[Built a home for 5 local companions on Gemma 4 26B: 3D rooms, journals, a D&D campaign, and they can text me on Discord](https://www.reddit.com/r/LocalLLaMA/comments/1xduy84/built_a_home_for_5_local_companions_on_gemma_4/)** (Reddit LocalLLaMA, 7/10) - Someone built a local‑only AI companion system using the 26‑billion‑parameter Gemma‑4 model quantized to fit on an RTX 3070 Ti, serving each character via LM Studio and a small Python server, and visualizing them in three‑js rooms that also link to Discord. The project demonstrates practical quantization and multi‑agent deployment techniques for running large language models on consumer hardware.
