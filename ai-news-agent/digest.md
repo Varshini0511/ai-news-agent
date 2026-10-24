@@ -1,5 +1,14 @@
 # AI Digest
 
+## 2026-10-24 08:45
+
+- **[[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed](https://latent.space/p/ainews-kimi-31/)** (Latent Space, 8/10) - Kimi 3.1 Pro introduces a new high‑speed API and open‑weight model, offering builders faster inference and more control.
+- **[AgentValley](https://www.producthunt.com/products/agentvalley)** (Product Hunt, 8/10) - AgentValley surfaces all Claude Code agents in a Mac UI, simplifying management of AI agents for builders.
+- **[1Password for Agents](https://www.producthunt.com/products/1password)** (Product Hunt, 7/10) - 1Password for Agents enables AI agents to authenticate securely without exposing passwords, a key agent‑security tool.
+- **[myPip](https://www.producthunt.com/products/mypip-2)** (Product Hunt, 6/10) - myPip lets developers generate, publish, and monetize games using AI‑generated code, a useful new coding assistant.
+- **[sideOS.ai](https://www.producthunt.com/products/sideos-ai)** (Product Hunt, 6/10) - sideOS.ai provides a local AI engine for dictation and background tasks, useful for offline agent workflows.
+- **[Canva Craft](https://www.producthunt.com/products/canva)** (Product Hunt, 6/10) - Canva Craft turns text prompts into editable design assets, streamlining creative workflows for AI‑enhanced design.
+
 ## 2026-10-24 06:08
 
 - **[Offer change: Anthropic Education](https://www.anthropic.com/education)** (Anthropic Education, 10/10) - Anthropic has introduced "Claude for Higher Education,"
