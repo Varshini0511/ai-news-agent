@@ -29,7 +29,8 @@ PROVIDERS = {
 }
 ORDER = os.getenv("LLM_ORDER", "gemini,xai,groq,anthropic").split(",")
 ANTHROPIC_MODEL = os.getenv("ANTHROPIC_MODEL", "claude-haiku-5-5")
-MIN_SCORE = int(os.getenv("MIN_SCORE", "6"))  # 1-10 relevance threshold
+MIN_SCORE = int(os.getenv("MIN_SCORE", "6"))
+BREAKING_SCORE = int(os.getenv("BREAKING_SCORE", "9"))  # sent immediately, individually, with a siren  # 1-10 relevance threshold
 
 
 def llm(system, user, max_tokens=1500):
@@ -86,7 +87,9 @@ def rank(interests, items):
         batch = items[i:i + 25]
         listing = "\n".join(f"{n}. [{it['source']}] {it['title']} - {it['text'][:300]}"
                             for n, it in enumerate(batch))
-        text = llm("You curate an AI news feed for a builder. Reply with ONLY a JSON list: "
+        text = llm("You curate an AI news feed for a builder. Scores 9-10 are RARE and mean breaking/very important: "
+                   "a major new model or product release, a big API or pricing change, or a time-limited free-credit/student offer. "
+                   "Routine posts, tutorials and research are 6-8. Reply with ONLY a JSON list: "
                    '[{"id":int,"score":1-10,"summary":"one sentence, why it matters"}] for every item.',
                    f"Interests: {interests}\n\nItems:\n{listing}", 4000)
         try:
@@ -131,20 +134,31 @@ def check_pages(cfg):
     return alerts
 
 
+def _tg_send(token, chat, body, markdown=True):
+    payload = {"chat_id": chat, "text": body, "disable_web_page_preview": not markdown}
+    if markdown:
+        payload["parse_mode"] = "Markdown"
+    r = requests.post(f"https://api.telegram.org/bot{token}/sendMessage", json=payload, timeout=20)
+    if r.status_code == 400 and markdown:  # stray Markdown characters: resend as plain text
+        return _tg_send(token, chat, body, markdown=False)
+    if not r.ok:
+        raise RuntimeError(f"Telegram {r.status_code}: {r.json().get('description')}")
+
+
 def notify_telegram(picks):
+    """Breaking items (score >= BREAKING_SCORE) go out one by one with a siren; the rest as one bundled digest."""
     token, chat = os.getenv("TELEGRAM_BOT_TOKEN"), os.getenv("TELEGRAM_CHAT_ID")
     if not (token and chat):
         print("[info] Telegram not configured; skipping push")
         return
-    for p in picks[:10]:
-        body = f"*{p['title']}*\n_{p['source']}_ · {p['score']}/10\n{p['summary']}\n{p['link']}"
-        r = requests.post(f"https://api.telegram.org/bot{token}/sendMessage",
-                          json={"chat_id": chat, "text": body, "parse_mode": "Markdown"}, timeout=20)
-        if r.status_code == 400 and "parse" in r.text:  # stray Markdown characters: resend as plain text
-            r = requests.post(f"https://api.telegram.org/bot{token}/sendMessage",
-                              json={"chat_id": chat, "text": body}, timeout=20)
-        if not r.ok:
-            raise RuntimeError(f"Telegram {r.status_code}: {r.json().get('description')}")
+    breaking = [p for p in picks if p["score"] >= BREAKING_SCORE]
+    rest = [p for p in picks if p["score"] < BREAKING_SCORE]
+    for p in breaking[:8]:
+        _tg_send(token, chat, f"🚨 *BREAKING* ({p['score']}/10)\n*{p['title']}*\n_{p['source']}_\n{p['summary']}\n{p['link']}")
+    if rest:
+        lines = [f"📰 *AI digest* - {len(rest)} updates"] + [
+            f"\n*{p['title']}* ({p['source']}, {p['score']}/10)\n{p['summary']}\n{p['link']}" for p in rest[:12]]
+        _tg_send(token, chat, "\n".join(lines)[:4000])
 
 
 def notify_email(picks):
