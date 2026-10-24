@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-24 10:31
+
+- **[Offer change: GitHub Student program](https://github.com/education/students)** (GitHub Student program, 10/10) - GitHub’s Student Developer Pack includes free access to Git
+- **[Offer change: Anthropic Education](https://www.anthropic.com/education)** (Anthropic Education, 10/10) - 
+
 ## 2026-10-24 10:01
 
 - **[Offer change: Anthropic Startups](https://www.anthropic.com/startups)** (Anthropic Startups, 10/10) - Claude for Startups gives early‑stage startups free credits or discounted access to Anthropic’s Claude model; eligibility is limited to qualifying startup companies (typically early‑stage, product‑building teams). No explicit application deadline is listed on the page.
