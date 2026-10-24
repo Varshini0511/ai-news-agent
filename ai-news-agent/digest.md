@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-10-24 19:31
+
+- **[Block’s new voice model sounds eerily human](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/)** (TechCrunch AI, 7/10) - Block released a new voice‑synthesis model that can run entirely on a MacBook with an M4 Max processor. Developers can now generate realistic speech on‑device, keeping data private and avoiding latency from cloud services.
+- **[1Password launches a way for AI agents to log in on your behalf without seeing your password](https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/)** (TechCrunch AI, 7/10) - 1Password introduced a feature that lets AI assistants log into user accounts without ever seeing the actual password. This zero‑knowledge approach lets developers add AI helpers that can act for users while keeping credentials secure.
+- **[qwen3.8 27B on my 3090 basically tied Opus 5.5 on a Korean RAG benchmark, which I did not expect](https://www.reddit.com/r/LocalLLaMA/comments/1xe4v74/qwen38_27b_on_my_3090_basically_tied_opus_55_on_a/)** (Reddit LocalLLaMA, 6/10) - The open‑source Qwen 3.8 model with 27 billion parameters performed as well as the commercial Opus 5.5 model on a Korean RAG benchmark. This shows developers can run a strong Korean‑language retrieval‑augmented generation system locally without paying for a cloud API.
+
 ## 2026-10-24 19:01
 
 - **[Offer change: Anthropic Startups](https://www.anthropic.com/startups)** (Anthropic Startups, 10/10) - Claude for Startups offers qualifying early‑stage startups free credits to access Anthropic’s Claude model via its API.  Eligible companies can apply now; the program is ongoing with no fixed deadline listed.
