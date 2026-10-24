@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-24 17:31
+
+- **[Offer change: GitHub Education pack](https://education.github.com/pack)** (GitHub Education pack, 10/10) - GitHub Student Developer Pack members get multiple new benefits, including
+- **[Show HN: Argus- open source security platform to protect against agentic attacks](https://github.com/thomasunise/argus)** (Hacker News, 7/10) - Argus is an open‑source security platform aimed at defending AI agents from malicious behavior, a practical tool for builders of autonomous agents.
+
 ## 2026-10-24 17:01
 
 - **[Offer change: GitHub Education pack](https://education.github.com/pack)** (GitHub Education pack, 10/10) - The GitHub Student Developer Pack offers students free 1-
