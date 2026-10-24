@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-24 04:37
+
+- **[Qwen4-27B PR found](https://www.reddit.com/r/LocalLLaMA/comments/1xdwrak/qwen427b_pr_found/)** (Reddit LocalLLaMA, 6/10) - A GitHub pull request in vLLM hints at early implementation support for an upcoming Qwen4-27B model.
+- **[ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO](https://www.reddit.com/r/LocalLLaMA/comments/1xdtk7m/istadaslabdeepseekv41flash1017gsqrco/)** (Reddit LocalLLaMA, 6/10) - ISTA-DASLab released GSQ-RCO smart quantized GGUF weights for the DeepSeek-V4.1-Flash model.
+
 ## 2026-10-24 00:50
 
 - **[Offer change: Anthropic Startups](https://www.anthropic.com/startups)** (Anthropic Startups, 10/10) - Claude for Startups is a program that gives startup teams free credits or discounted access to Anthropic’s Claude AI model. It’s open to early‑stage companies building products with Claude, and currently has no stated expiration date.
