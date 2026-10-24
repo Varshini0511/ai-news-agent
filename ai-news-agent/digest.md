@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-24 16:31
+
+- **[Offer change: Anthropic Startups](https://www.anthropic.com/startups)** (Anthropic Startups, 10/10) - Claude for Startups offers early‑stage startups free credits to use Anthropic’s Claude models; eligibility is limited to qualifying startups (typically early‑stage, product‑focused companies) that apply for the program. The program has no fixed deadline and accepts applications on a rolling basis.
+- **[8 GB GPU, 262K context 3.5 BPW Qwen-Flash-Next Coder 70 T/s using llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xebdzl/8_gb_gpu_262k_context_35_bpw_qwenflashnext_coder/)** (Reddit LocalLLaMA, 7/10) - Qwen‑Flash‑Next Coder running on 8 GB GPUs with 262k token context demonstrates a high‑capacity, low‑resource model that builders can deploy locally for coding assistants.
+
 ## 2026-10-24 16:01
 
 - **[Offer change: GitHub Education pack](https://education.github.com/pack)** (GitHub Education pack, 10/10) - The GitHub Education pack offers verified students a bundle
