@@ -1,0 +1,54 @@
+# Add/remove feeds freely. Any RSS/Atom URL works.
+interests: >
+  New model releases, agent frameworks and tooling (MCP, Claude Code, LangGraph, etc.),
+  practical agent-building tutorials, major AI company announcements, open-source AI projects,
+  AI research that is directly useful to builders. Also: newly released developer tools (AI coding tools like T3 Code, Cursor, Claude Code, Codex, Gemini CLI),
+  and anything offering free credits, free tiers, promos or grants for AI APIs/tools (rate these 8+).
+  Ignore hype, funding gossip and opinion fluff.
+
+feeds:
+  - {name: Anthropic News,   url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml"}  # community-generated; Anthropic has no official RSS
+  - {name: Anthropic Eng,    url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml"}
+  - {name: OpenAI Blog,      url: "https://openai.com/news/rss.xml"}
+  - {name: Google AI Blog,   url: "https://blog.google/technology/ai/rss/"}
+  - {name: Hugging Face,     url: "https://huggingface.co/blog/feed.xml"}
+  - {name: Simon Willison,   url: "https://simonwillison.net/atom/everything/"}
+  - {name: Latent Space,     url: "https://www.latent.space/feed"}
+  - {name: Hacker News,      url: "https://news.ycombinator.com/rss"}
+  - {name: arXiv cs.AI,      url: "https://rss.arxiv.org/rss/cs.AI"}
+  - {name: Reddit LocalLLaMA, url: "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"}
+
+  # Labs / models
+  - {name: Google DeepMind,  url: "https://deepmind.google/blog/rss.xml"}
+  - {name: Mistral,          url: "https://mistral.ai/rss.xml"}
+  # Dev tool releases (GitHub). New tools show up here first.
+  - {name: Claude Code releases, url: "https://github.com/anthropics/claude-code/releases.atom"}
+  - {name: OpenAI Codex releases, url: "https://github.com/openai/codex/releases.atom"}
+  - {name: Gemini CLI releases,   url: "https://github.com/google-gemini/gemini-cli/releases.atom"}
+  - {name: OpenAI Agents SDK,     url: "https://github.com/openai/openai-agents-python/releases.atom"}
+  - {name: MCP servers releases,  url: "https://github.com/modelcontextprotocol/servers/releases.atom"}
+  - {name: T3 Code releases,      url: "https://github.com/pingdotgg/t3code/releases.atom"}
+  - {name: Cursor changelog,      url: "https://cursor.com/changelog/rss.xml"}
+  - {name: Theo (t3.gg) YouTube,  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCbRP3c757lWg9M-U7TyEkXA"}
+  # Newsletters / launches (cover xAI, Perplexity, Meta etc. which have no RSS)
+  - {name: TLDR AI,          url: "https://tldr.tech/api/rss/ai"}
+  - {name: Ben's Bites,      url: "https://www.bensbites.com/feed"}
+  - {name: Import AI,        url: "https://importai.substack.com/feed"}
+  - {name: Product Hunt,     url: "https://www.producthunt.com/feed"}
+  # Community (Reddit sometimes rate-limits with 429; the agent just skips and retries next run)
+  - {name: r/ClaudeAI,       url: "https://www.reddit.com/r/ClaudeAI/top/.rss?t=day"}
+  - {name: r/grok,           url: "https://www.reddit.com/r/grok/top/.rss?t=day"}
+  - {name: r/perplexity_ai,  url: "https://www.reddit.com/r/perplexity_ai/top/.rss?t=day"}
+  - {name: r/ChatGPTCoding,  url: "https://www.reddit.com/r/ChatGPTCoding/top/.rss?t=day"}
+
+# Pages with no RSS. The agent snapshots their text and alerts when something relevant changes
+# (e.g. a new student offer or credit program opens).
+watch_pages:
+  - {name: GitHub Education pack,      url: "https://education.github.com/pack"}
+  - {name: GitHub Student program,     url: "https://github.com/education/students"}
+  - {name: Anthropic Education,        url: "https://www.anthropic.com/education"}
+  - {name: Anthropic Startups,         url: "https://www.anthropic.com/startups"}
+  - {name: Google Gemini for students, url: "https://gemini.google/students/"}
+  - {name: Google AI plans,            url: "https://one.google.com/about/google-ai-plans/"}
+  - {name: Google for Startups AI,     url: "https://cloud.google.com/startup/ai"}
+  - {name: Cursor students,            url: "https://cursor.com/students"}
