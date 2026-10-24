@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-24 14:31
+
+- **[Offer change: GitHub Education pack](https://education.github.com/pack)** (GitHub Education pack, 10/10) - , UI, icons, music). Not AI tool credits
+- **[Offer change: Anthropic Startups](https://www.anthropic.com/startups)** (Anthropic Startups, 10/10) - The Claude for Startups program gives early‑stage startups free usage credits (or discounted pricing) to build on Anthropic’s Claude models. It’s open to qualifying startups (typically early‑stage, low‑revenue or pre‑revenue companies); no specific deadline is listed, so you can apply while the program remains active.
+
 ## 2026-10-24 12:31
 
 - **[Offer change: Anthropic Education](https://www.anthropic.com/education)** (Anthropic Education, 10/10) - Anthropic has launched a "Claude for Higher Education" program
