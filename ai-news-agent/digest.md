@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-10-24 12:31
+
+- **[Offer change: Anthropic Education](https://www.anthropic.com/education)** (Anthropic Education, 10/10) - Anthropic has launched a "Claude for Higher Education" program
+- **[Offer change: Anthropic Startups](https://www.anthropic.com/startups)** (Anthropic Startups, 10/10) - Anthropic offers the "Claude for Startups" program providing
+- **[[Release] ISTA GSQ-RCO GGUFs for DeepSeek-V4.1-Flash-1017](https://www.reddit.com/r/LocalLLaMA/comments/1xe2wg8/release_ista_gsqrco_ggufs_for_deepseekv41flash1017/)** (Reddit LocalLLaMA, 7/10) - DeepSeek V4.1‑Flash‑1017 GGUF weights released, giving builders a compact, faster model for local inference
+
 ## 2026-10-24 12:01
 
 - **[Offer change: GitHub Education pack](https://education.github.com/pack)** (GitHub Education pack, 10/10) - 
