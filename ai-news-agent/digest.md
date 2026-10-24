@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-10-24 06:08
+
+- **[Offer change: Anthropic Education](https://www.anthropic.com/education)** (Anthropic Education, 10/10) - Anthropic has introduced "Claude for Higher Education,"
+- **[Offer change: Anthropic Startups](https://www.anthropic.com/startups)** (Anthropic Startups, 10/10) - Claude for Startups provides early‑stage startups with free usage credits for Anthropic’s Claude model (often up to several thousand dollars in credit). It’s open to qualifying startups (e.g., early‑stage companies with limited revenue) and accepts applications on a rolling basis, so there’s no fixed deadline.
+- **[A practical guide to AI image generation, from diffusion to agents](https://danielball.com/notes/ai_image_generation.html)** (Hacker News, 6/10) - A practical guide walking through the technical mechanics of diffusion models and how to incorporate image generation into AI agent systems.
+
 ## 2026-10-24 04:37
 
 - **[Qwen4-27B PR found](https://www.reddit.com/r/LocalLLaMA/comments/1xdwrak/qwen427b_pr_found/)** (Reddit LocalLLaMA, 6/10) - A GitHub pull request in vLLM hints at early implementation support for an upcoming Qwen4-27B model.
