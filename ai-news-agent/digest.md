@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-24 17:01
+
+- **[Offer change: GitHub Education pack](https://education.github.com/pack)** (GitHub Education pack, 10/10) - The GitHub Student Developer Pack offers students free 1-
+- **[Kimi K3.1 removes cyberattack training data from open weight release](https://www.reddit.com/r/LocalLLaMA/comments/1xecgrf/kimi_k31_removes_cyberattack_training_data_from/)** (Reddit LocalLLaMA, 7/10) - Kimi K3.1 drops cyber‑attack training data from its open‑weight release, a noteworthy model‑update that impacts security‑focused developers.
+
 ## 2026-10-24 16:31
 
 - **[Offer change: Anthropic Startups](https://www.anthropic.com/startups)** (Anthropic Startups, 10/10) - Claude for Startups offers early‑stage startups free credits to use Anthropic’s Claude models; eligibility is limited to qualifying startups (typically early‑stage, product‑focused companies) that apply for the program. The program has no fixed deadline and accepts applications on a rolling basis.
