@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-24 23:01
+
+- **[We should be more ambitious with the software we build](https://danluu.com/ambitious/)** (Hacker News, 6/10) - Argus is a free, open‑source platform that lets you create autonomous agents to monitor and respond to security incidents. It provides a ready‑made framework you can adapt to build AI‑driven automation for your own operations, saving you from writing all the plumbing yourself.
+
 ## 2026-10-24 22:31
 
 - **[M6 Mac Mini owners (32GB): now you can run Qwen3.8-27B in high quality on the Apple Neural Engine](https://www.reddit.com/r/LocalLLaMA/comments/1xejv61/m6_mac_mini_owners_32gb_now_you_can_run_qwen3827b/)** (Reddit LocalLLaMA, 6/10) - ANEMLL Forge version 0.2.1 was released, enabling Mac users to run 27-billion parameter language models on the Apple Neural Engine with large context windows. This tool allows developers to efficiently run and test open-source models locally on Mac hardware without cloud API costs.
