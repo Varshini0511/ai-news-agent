@@ -1,7 +1,7 @@
 name: ai-news-agent
 on:
   schedule:
-    - cron: "0 */3 * * *"   # every 3 hours, runs in the cloud even when your laptop is off
+    - cron: "*/30 * * * *"   # every 30 min (GitHub may start runs a few minutes late)
   workflow_dispatch:
 permissions:
   contents: write
