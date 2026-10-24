@@ -1,5 +1,12 @@
 # AI Digest
 
+## 2026-10-24 16:01
+
+- **[Offer change: GitHub Education pack](https://education.github.com/pack)** (GitHub Education pack, 10/10) - The GitHub Education pack offers verified students a bundle
+- **[Offer change: Anthropic Startups](https://www.anthropic.com/startups)** (Anthropic Startups, 10/10) - Claude for Startups is a program that gives qualifying early‑stage startups free credits (or discounted usage) for Anthropic’s Claude models. It’s open to startups building AI products with Claude, and applications are accepted on a rolling basis (no fixed deadline).
+- **[Spark X2.6 4B is the best of it's size](https://www.reddit.com/r/LocalLLaMA/comments/1xe1kkh/spark_x26_4b_is_the_best_of_its_size/)** (Reddit LocalLLaMA, 8/10) - Introduces the Spark X2.6 4B model, which demonstrates strong tool‑calling capabilities useful for building compact agents.
+- **[Gyro quants looks like EXL3 but kinda closed source. please explain why we need this.](https://www.reddit.com/r/LocalLLaMA/comments/1xe41qe/gyro_quants_looks_like_exl3_but_kinda_closed/)** (Reddit LocalLLaMA, 6/10) - Highlights the Gyro quantization technique, a newer, possibly more efficient alternative to EXL3 for running local LLMs.
+
 ## 2026-10-24 14:43
 
 - **[Offer change: GitHub Education pack](https://education.github.com/pack)** (GitHub Education pack, 10/10) - Evaluate Relevance & Offers:**
