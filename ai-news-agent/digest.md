@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-24 21:01
+
+- **[KLD is misunderstood](https://www.reddit.com/r/LocalLLaMA/comments/1xeim3m/kld_is_misunderstood/)** (Reddit LocalLLaMA, 6/10) - A technical post clarifies how Kullback-Leibler Divergence (KLD) measures probability differences rather than overall response quality in quantized language models. This helps developers avoid relying on misleading benchmarks when selecting compressed open-source models for local deployment.
+
 ## 2026-10-24 20:01
 
 - **[OpenAI makes its Jev competitor widely available as decision model competition heats up](https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/)** (TechCrunch AI, 9/10) - OpenAI released a new decision‑making model that it is making publicly available, positioning it as an alternative to the earlier Jev system. Builders can use the model to add structured reasoning or recommendation capabilities to apps without having to train their own decision engine.
