@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-24 14:43
+
+- **[Offer change: GitHub Education pack](https://education.github.com/pack)** (GitHub Education pack, 10/10) - Evaluate Relevance & Offers:**
+
 ## 2026-10-24 14:31
 
 - **[Offer change: GitHub Education pack](https://education.github.com/pack)** (GitHub Education pack, 10/10) - , UI, icons, music). Not AI tool credits
