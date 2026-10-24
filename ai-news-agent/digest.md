@@ -1,5 +1,12 @@
 # AI Digest
 
+## 2026-10-24 20:01
+
+- **[OpenAI makes its Jev competitor widely available as decision model competition heats up](https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/)** (TechCrunch AI, 9/10) - OpenAI released a new decision‑making model that it is making publicly available, positioning it as an alternative to the earlier Jev system. Builders can use the model to add structured reasoning or recommendation capabilities to apps without having to train their own decision engine.
+- **[Canva releases its first image generation model](https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/)** (TechCrunch AI, 8/10) - Canva launched its own text‑to‑image generation model for all users, promising higher quality and lower cost than existing services. Developers can embed the model via Canva’s API to create custom graphics on the fly, saving time and avoiding third‑party licensing.
+- **[Canva’s first AI image model plans designs before generating them](https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model)** (The Verge AI, 8/10) - Canva’s new image model, Canva Craft, uses a two‑step process that first plans a layout before generating the picture, improving design relevance. This approach lets developers build tools that produce more purposeful visuals, reducing the need for post‑generation editing.
+- **[Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend](https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech)** (The Verge AI, 7/10) - Block (formerly Square) introduced an open‑source chat model called Dessa, trained from scratch on human conversations. The model can be fine‑tuned for customer‑service bots or personal assistants, giving developers a privacy‑friendly alternative to large‑scale chat APIs.
+
 ## 2026-10-24 19:31
 
 - **[Block’s new voice model sounds eerily human](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/)** (TechCrunch AI, 7/10) - Block released a new voice‑synthesis model that can run entirely on a MacBook with an M4 Max processor. Developers can now generate realistic speech on‑device, keeping data private and avoiding latency from cloud services.
