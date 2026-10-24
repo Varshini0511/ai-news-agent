@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-24 12:01
+
+- **[Offer change: GitHub Education pack](https://education.github.com/pack)** (GitHub Education pack, 10/10) - 
+
 ## 2026-10-24 10:31
 
 - **[Offer change: GitHub Student program](https://github.com/education/students)** (GitHub Student program, 10/10) - GitHub’s Student Developer Pack includes free access to Git
