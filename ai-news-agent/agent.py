@@ -4,7 +4,7 @@ Run once:      python agent.py
 Run forever:   python agent.py --loop 30     (every 30 minutes)
 """
 import argparse, json, os, sys, time, datetime, pathlib
-import difflib, smtplib
+import calendar, difflib, smtplib
 from email.message import EmailMessage
 import feedparser, requests, yaml
 from bs4 import BeautifulSoup
@@ -30,7 +30,12 @@ PROVIDERS = {
 ORDER = os.getenv("LLM_ORDER", "gemini,xai,groq,anthropic").split(",")
 ANTHROPIC_MODEL = os.getenv("ANTHROPIC_MODEL", "claude-haiku-5-5")
 MIN_SCORE = int(os.getenv("MIN_SCORE", "6"))
-BREAKING_SCORE = int(os.getenv("BREAKING_SCORE", "9"))  # sent immediately, individually, with a siren  # 1-10 relevance threshold
+BREAKING_SCORE = int(os.getenv("BREAKING_SCORE", "9"))  # sent immediately, individually, with a siren
+MAX_AGE_HOURS = int(os.getenv("MAX_AGE_HOURS", "72"))  # older articles are skipped, even if never seen
+PER_SOURCE = int(os.getenv("PER_SOURCE", "3"))  # at most this many picks per source per run, so one site can't flood the feed
+PAGE_CHECK_HOURS = 24  # watched offer pages are checked once a day, not every run
+PAGE_COOLDOWN_DAYS = 14  # and a page alerts at most once per 14 days
+OFFER_WORDS = ("credit", "free", "student", "offer", "discount", "grant", "promo", "trial", "$", "%")
 
 
 def llm(system, user, max_tokens=1500):
@@ -66,44 +71,73 @@ def load_seen():
     return set(json.loads(SEEN.read_text())) if SEEN.exists() else set()
 
 
+def _age_hours(e):
+    t = e.get("published_parsed") or e.get("updated_parsed")
+    return (time.time() - calendar.timegm(t)) / 3600 if t else None  # feedparser times are UTC
+
+
 def fetch_new(cfg, seen):
-    items = []
+    """New, recent items only. Old ones are returned separately so they get marked seen and never come back."""
+    items, stale = [], []
     for f in cfg["feeds"]:
         try:
             for e in feedparser.parse(f["url"], agent="Mozilla/5.0 ai-news-agent").entries[:15]:
                 link = e.get("link")
-                if link and link not in seen:
-                    items.append({"source": f["name"], "title": e.get("title", ""),
-                                  "link": link, "text": (e.get("summary") or "")[:600]})
+                if not link or link in seen:
+                    continue
+                age = _age_hours(e)
+                if age is not None and age > MAX_AGE_HOURS:
+                    stale.append(link)
+                    continue
+                text = BeautifulSoup(e.get("summary") or "", "html.parser").get_text(" ", strip=True)
+                items.append({"source": f["name"], "title": e.get("title", ""), "link": link, "text": text[:600]})
         except Exception as ex:
             print(f"[warn] {f['name']}: {ex}", file=sys.stderr)
-    return items
+    return items, stale
 
 
 def rank(interests, items):
-    """One LLM call per batch of 25: returns [{id, score, summary}]."""
-    out = []
-    for i in range(0, len(items), 25):
-        batch = items[i:i + 25]
-        listing = "\n".join(f"{n}. [{it['source']}] {it['title']} - {it['text'][:300]}"
+    """One LLM call per batch of 15. Returns (picks, links that were actually scored).
+    Items in a failed batch (quota, bad output) are not marked scored, so they are retried next run."""
+    out, done = [], []
+    for i in range(0, len(items), 15):
+        batch = items[i:i + 15]
+        listing = "\n".join(f"{n}. [{it['source']}] {it['title']} - {it['text'][:280]}"
                             for n, it in enumerate(batch))
-        text = llm("You curate an AI news feed for a builder. Scores 9-10 are RARE and mean breaking/very important: "
-                   "a major new model or product release, a big API or pricing change, or a time-limited free-credit/student offer. "
-                   "Routine posts, tutorials and research are 6-8. Reply with ONLY a JSON list: "
-                   '[{"id":int,"score":1-10,"summary":"one sentence, why it matters"}] for every item.',
-                   f"Interests: {interests}\n\nItems:\n{listing}", 4000)
         try:
-            for r in json.loads(text[text.index("["): text.rindex("]") + 1]):
-                if r["score"] >= MIN_SCORE and 0 <= r["id"] < len(batch):
-                    out.append({**batch[r["id"]], **r})
+            text = llm("You curate a daily AI news feed for a working software engineer who is learning AI. "
+                       "Scores 9-10 are RARE: a major new model or product release, a big API or pricing change. "
+                       "Useful releases, tools and tutorials are 6-8. Memes, questions, complaints, rumours, gossip, "
+                       "funding news and vague posts are 1-4. "
+                       "For each item write a summary of 2 short plain-English sentences: what actually happened, then "
+                       "why it is useful to someone building with AI. No jargon or hype; explain any acronym. "
+                       'Reply with ONLY a JSON list: [{"id":int,"score":1-10,"summary":"..."}] for every item.',
+                       f"Interests: {interests}\n\nItems:\n{listing}", 3000)
+            rows = json.loads(text[text.index("["): text.rindex("]") + 1])
         except Exception as ex:
-            print(f"[warn] bad model output: {ex}", file=sys.stderr)
-    return sorted(out, key=lambda x: -x["score"])
+            print(f"[warn] ranking batch skipped, will retry next run: {ex}", file=sys.stderr)
+            continue
+        done += [it["link"] for it in batch]
+        for r in rows:
+            if isinstance(r.get("id"), int) and 0 <= r["id"] < len(batch) and r.get("score", 0) >= MIN_SCORE:
+                out.append({**batch[r["id"]], **r})
+    out.sort(key=lambda x: -x["score"])
+    per, picks = {}, []
+    for p in out:  # keep the feed varied
+        per[p["source"]] = per.get(p["source"], 0) + 1
+        if per[p["source"]] <= PER_SOURCE:
+            picks.append(p)
+    return picks, done
 
 
 def check_pages(cfg):
     """Snapshot watched pages; when text changes, ask the LLM if it is a new/open student or credit offer."""
     snaps = json.loads(PAGES.read_text(encoding="utf-8")) if PAGES.exists() else {}
+    meta = snaps.setdefault("_meta", {})
+    now = time.time()
+    if now - meta.get("checked", 0) < PAGE_CHECK_HOURS * 3600:
+        return []
+    meta["checked"] = now
     alerts = []
     for pg in cfg.get("watch_pages", []):
         try:
@@ -121,15 +155,23 @@ def check_pages(cfg):
             continue  # first run: just record the baseline
         added = [l for l in difflib.unified_diff(old, lines[:600], lineterm="", n=0)
                  if l.startswith("+") and not l.startswith("+++")]
-        if not added:
+        added = [l for l in added if any(w in l.lower() for w in OFFER_WORDS)]
+        if not added or now - meta.get("alerted", {}).get(pg["url"], 0) < PAGE_COOLDOWN_DAYS * 86400:
             continue
-        ans = llm("You watch pages for NEW free credits / student offers / discounts / grants for AI tools. "
-                   "Given added lines from a page, reply 'NO' if it is only noise or unrelated. Otherwise reply "
-                   "with one or two sentences: what the offer is, who is eligible, and any deadline.",
-                  f"Page: {pg['name']}\n" + "\n".join(added[:60]), 300).strip()
-        if not ans.upper().startswith("NO"):
-            alerts.append({"source": pg["name"], "title": f"Offer change: {pg['name']}", "link": pg["url"],
-                           "score": 10, "summary": ans})
+        try:
+            ans = llm("You watch pages for NEW free credits / student offers / discounts / grants for AI tools. "
+                      "You get only the lines ADDED to the page since yesterday. Most changes are noise: reworded "
+                      "text, rotating banners, dates, an offer that already existed. Reply exactly NO unless the "
+                      "added lines clearly announce a NEW offer. If they do, reply with two plain sentences: what "
+                      "the new offer is, and who can get it (plus any deadline).",
+                      f"Page: {pg['name']}\n" + "\n".join(added[:60]), 800).strip()
+        except Exception as ex:
+            print(f"[warn] page {pg['name']}: {ex}", file=sys.stderr)
+            continue
+        if ans and not ans.upper().startswith("NO"):
+            meta.setdefault("alerted", {})[pg["url"]] = now
+            alerts.append({"source": pg["name"], "title": f"New offer: {pg['name']}", "link": pg["url"],
+                           "score": 8, "summary": ans})
     PAGES.write_text(json.dumps(snaps), encoding="utf-8")
     return alerts
 
@@ -189,22 +231,21 @@ def write_digest(picks):
 def run_once():
     cfg = yaml.safe_load((HERE / "sources.yaml").read_text(encoding="utf-8"))
     seen = load_seen()
-    items = fetch_new(cfg, seen)
-    print(f"{len(items)} new items")
+    items, stale = fetch_new(cfg, seen)
+    print(f"{len(items)} new items ({len(stale)} older than {MAX_AGE_HOURS}h skipped)")
     alerts = check_pages(cfg)
-    if items or alerts:
-        picks = alerts + (rank(cfg["interests"], items) if items else [])
-        print(f"{len(picks)} worth reading")
-        if picks:
-            write_digest(picks)
-            for send in (notify_email, notify_telegram):
-                try:
-                    send(picks)
-                except Exception as ex:
-                    print(f"[warn] {send.__name__} failed: {ex}", file=sys.stderr)
-        seen.update(i["link"] for i in items)
-        SEEN.write_text(json.dumps(sorted(seen)[-5000:]))
-
+    ranked, done = rank(cfg["interests"], items) if items else ([], [])
+    picks = alerts + ranked
+    print(f"{len(picks)} worth reading; {len(items) - len(done)} left for the next run")
+    if picks:
+        write_digest(picks)
+        for send in (notify_email, notify_telegram):
+            try:
+                send(picks)
+            except Exception as ex:
+                print(f"[warn] {send.__name__} failed: {ex}", file=sys.stderr)
+    seen.update(stale + done)
+    SEEN.write_text(json.dumps(sorted(seen)[-8000:]))
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()

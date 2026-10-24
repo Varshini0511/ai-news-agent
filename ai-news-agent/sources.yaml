@@ -1,10 +1,11 @@
 # Add/remove feeds freely. Any RSS/Atom URL works.
 interests: >
-  New model releases, agent frameworks and tooling (MCP, Claude Code, LangGraph, etc.),
-  practical agent-building tutorials, major AI company announcements, open-source AI projects,
-  AI research that is directly useful to builders. Also: newly released developer tools (AI coding tools like T3 Code, Cursor, Claude Code, Codex, Gemini CLI),
-  and anything offering free credits, free tiers, promos or grants for AI APIs/tools (rate these 8+).
-  Ignore hype, funding gossip and opinion fluff.
+  A balanced mix across ALL AI companies (OpenAI, Google, Anthropic, Meta, Microsoft/Azure, xAI, Mistral,
+  open-source models), not just one. New model releases, agent frameworks and tooling (MCP, LangGraph,
+  Semantic Kernel, Azure AI Foundry), practical agent-building and RAG tutorials, AI coding tools,
+  open-source AI projects, research that is directly useful to builders, and AI for .NET / Azure developers.
+  New free credits or free tiers for AI APIs (only if the offer is new).
+  Ignore hype, funding gossip, opinion fluff, memes and Reddit questions or complaints.
 
 feeds:
   - {name: Anthropic News,   url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml"}  # community-generated; Anthropic has no official RSS
@@ -18,6 +19,12 @@ feeds:
   - {name: arXiv cs.AI,      url: "https://rss.arxiv.org/rss/cs.AI"}
   - {name: Reddit LocalLLaMA, url: "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"}
 
+  # Mainstream AI news (broad, readable coverage)
+  - {name: TechCrunch AI,    url: "https://techcrunch.com/category/artificial-intelligence/feed/"}
+  - {name: The Verge AI,     url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"}
+  - {name: MIT Tech Review AI, url: "https://www.technologyreview.com/topic/artificial-intelligence/feed"}
+  - {name: Microsoft AI / Azure, url: "https://azure.microsoft.com/en-us/blog/feed/"}
+  - {name: .NET Blog,        url: "https://devblogs.microsoft.com/dotnet/feed/"}
   # Labs / models
   - {name: Google DeepMind,  url: "https://deepmind.google/blog/rss.xml"}
   - {name: Mistral,          url: "https://mistral.ai/rss.xml"}
