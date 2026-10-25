@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-25 21:31
+
+- **[Lure-TTS and Lure-Turbo: 600M voice models to run 4x faster than real time, with inline (tags), direction, and voice cloning. Trained for under $200.](https://www.reddit.com/r/LocalLLaMA/comments/1xf14j2/luretts_and_lureturbo_600m_voice_models_to_run_4x/)** (Reddit LocalLLaMA, 7/10) - A developer released Lure-TTS, an open-source 600-million parameter text-to-speech (TTS) model that runs four times faster than real time with voice cloning capabilities. It offers developers a lightweight, low-latency option for building responsive local voice assistants and audio applications.
+
 ## 2026-10-25 20:31
 
 - **[CUDA: fuse FFN gate/up matmuls and GLU in MMQ with interleaved gate/up rows by anujj · Pull Request #29948 · ggml-org/llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xey0uw/cuda_fuse_ffn_gateup_matmuls_and_glu_in_mmq_with/)** (Reddit LocalLLaMA, 6/10) - A pull request to the llama.cpp repository adds a fused kernel that combines the feed‑forward network gate and matrix‑multiply operations, plus a GLU implementation, boosting token‑per‑second speed by roughly 5‑7 % on several quantized model formats. This makes running LLaMA‑style models locally quicker and cheaper, helping developers who run inference on personal machines or small servers.
