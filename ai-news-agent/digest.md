@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-25 16:31
+
+- **[GPT-X3-150M takes #1 on the Open SLM Leaderboard, dethroning HuggingFace's SmolLM2-135M with a GDN2/GQA hybrid - Check it out!](https://www.reddit.com/r/LocalLLaMA/comments/1xerxtr/gptx3150m_takes_1_on_the_open_slm_leaderboard/)** (Reddit LocalLLaMA, 6/10) - GPT-X3-150M rose to the top of the Open SLM leaderboard, overtaking HuggingFace’s SmolLM2‑135M with its GDN2/GQA hybrid design. The model’s small size and efficient architecture make it a good fit for developers who need fast, low‑resource language models for edge or prototype projects.
+
 ## 2026-10-25 13:01
 
 - **[Nanbeige/Nanbeige4.3-33B · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xf0kz4/nanbeigenanbeige4333b_hugging_face/)** (Reddit LocalLLaMA, 6/10) - Nanbeige released Nanbeige4.3-33B, an open-weights large language model available on Hugging Face that demonstrates strong benchmark performance against similar model sizes. It provides developers with a capable open-source option for self-hosted text generation and knowledge distillation into smaller models.
