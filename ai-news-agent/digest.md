@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-25 07:01
+
+- **[Llama Windows](https://www.producthunt.com/products/llama-windows)** (Product Hunt, 6/10) - Llama Windows is a background application that runs open-source language models locally on Windows. It is useful for developers who want to power local Windows software with AI without paying for cloud API calls.
+
 ## 2026-10-25 04:31
 
 - **[Five Qwen3.8-27B models outperform Fable 5 Using GVS5H Harness](https://github.com/slee-persis/GVS5H)** (Hacker News, 6/10) - A set of five Qwen 3.8‑27B language models were benchmarked and achieved higher accuracy than the Fable‑5 model when run with the GVS5H testing harness. This indicates that the open‑source Qwen 3.8‑27B can be a strong, cost‑effective alternative for developers who need high‑quality text generation without using a larger proprietary model.
