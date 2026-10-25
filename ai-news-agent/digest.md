@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-10-25 19:31
+
+- **[New offer: GitHub Education pack](https://education.github.com/pack)** (GitHub Education pack, 8/10) - Camber is offering a free Student plan that includes 40 CPU hours, 5 GPU hours, 50 GB of storage, and 50 agent messages per month to build and run AI agents. Enrolled students can access this offer for as long as they are enrolled.
+- **[Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English](https://huggingface.co/destined/hurston-1)** (Hacker News, 6/10) - Hurston-1 is an open-source text-to-speech (TTS) model specifically trained to produce authentic Southern American and Afro-English accents. It is useful for developers building voice agents or audio applications that require specific regional or cultural speech synthesis.
+- **[RTX 3080 20GB got reBAR and P2P unlock! +70% prompt processing speed](https://www.reddit.com/r/LocalLLaMA/comments/1xf9kmd/rtx_3080_20gb_got_rebar_and_p2p_unlock_70_prompt/)** (Reddit LocalLLaMA, 6/10) - Community developers unlocked Peer-to-Peer memory transfers on modified 20GB RTX 3080 graphics cards, yielding a 70% speedup in prompt processing for multi-card setups. This is useful for developers running open-source large language models locally who want faster inference on budget hardware.
+
 ## 2026-10-25 19:01
 
 - **[qwen: merge tensors on convert by am17an · Pull Request #31028 · ggml-org/llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xf716t/qwen_merge_tensors_on_convert_by_am17an_pull/)** (Reddit LocalLLaMA, 6/10) - A pull request was submitted to the open-source llama.cpp project to properly merge tensors during conversion for Qwen models. This fixes conversion issues for developers quantizing and running Qwen language models locally.
