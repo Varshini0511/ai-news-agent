@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-25 19:01
+
+- **[qwen: merge tensors on convert by am17an · Pull Request #31028 · ggml-org/llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xf716t/qwen_merge_tensors_on_convert_by_am17an_pull/)** (Reddit LocalLLaMA, 6/10) - A pull request was submitted to the open-source llama.cpp project to properly merge tensors during conversion for Qwen models. This fixes conversion issues for developers quantizing and running Qwen language models locally.
+
 ## 2026-10-25 18:01
 
 - **[Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents](https://github.com/socrates6969/jukebox-os)** (Hacker News, 7/10) - Developers launched Jukebox-OS, an open-source sandbox environment that adds deterministic replay and transactional safety guarantees to AI agent tool calls. It helps builders safely test, debug, and roll back complex multi-step agent actions by making external tool executions reproducible.
