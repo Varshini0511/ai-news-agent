@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-25 08:31
+
+- **[Lean-QwenFlash: Qwen3.8-Flash-Next (125B) running at ~20 tok/s on 16gb vram and 8gb ram via direct nvme SSD offloading](https://www.reddit.com/r/LocalLLaMA/comments/1xev6bo/leanqwenflash_qwen38flashnext_125b_running_at_20/)** (Reddit LocalLLaMA, 6/10) - Lean-QwenFlash is an offloading method that streams model weights directly from an NVMe SSD to run the 125-billion parameter Qwen3.8-Flash-Next model on consumer PCs with 16GB VRAM and 8GB RAM. This enables developers to test massive local Mixture-of-Experts (MoE) models without needing expensive high-memory workstations.
+
 ## 2026-10-25 08:01
 
 - **[AgentGrid.io](https://www.producthunt.com/products/agentgrid-io)** (Product Hunt, 6/10) - AgentGrid.io released a shared workspace where both people and AI agents can collaborate on tasks. The platform can simplify building and testing multi‑agent workflows by giving you a common UI and API to coordinate them.
