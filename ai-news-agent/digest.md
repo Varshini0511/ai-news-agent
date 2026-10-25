@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-25 18:01
+
+- **[Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents](https://github.com/socrates6969/jukebox-os)** (Hacker News, 7/10) - Developers launched Jukebox-OS, an open-source sandbox environment that adds deterministic replay and transactional safety guarantees to AI agent tool calls. It helps builders safely test, debug, and roll back complex multi-step agent actions by making external tool executions reproducible.
+- **[A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)** (Hacker News, 6/10) - Researchers demonstrated that a decade-old Convolutional Neural Network (CNN) outperformed modern frontier Large Language Models (LLMs) at identifying skin cancer from medical images. It serves as a practical reminder that smaller, task-specific vision models are often more accurate and cheaper than general-purpose LLMs for domain tasks.
+
 ## 2026-10-25 17:31
 
 - **[model: DSV4.1 flash by am17an · Pull Request #31086 · ggml-org/llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xeqf7k/model_dsv41_flash_by_am17an_pull_request_31086/)** (Reddit LocalLLaMA, 7/10) - DeepSeek released a 763‑billion‑parameter model called V4.1 Flash, and a pull request adds support for it in the llama.cpp inference library. The model’s size and the lightweight llama.cpp integration let developers run a very powerful language model on a single GPU, making high‑quality generation more accessible for experimental projects and edge deployments.
