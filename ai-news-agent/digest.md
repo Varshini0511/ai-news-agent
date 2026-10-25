@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-25 04:31
+
+- **[Five Qwen3.8-27B models outperform Fable 5 Using GVS5H Harness](https://github.com/slee-persis/GVS5H)** (Hacker News, 6/10) - A set of five Qwen 3.8‑27B language models were benchmarked and achieved higher accuracy than the Fable‑5 model when run with the GVS5H testing harness. This indicates that the open‑source Qwen 3.8‑27B can be a strong, cost‑effective alternative for developers who need high‑quality text generation without using a larger proprietary model.
+
 ## 2026-10-25 03:01
 
 - **[Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)** (Hacker News, 7/10) - Cerebras has launched real-time inference support for trillion-parameter AI models using its custom wafer-scale chip architecture. This enables developers to query massive, frontier-class models at significantly higher generation speeds compared to traditional GPU clusters.
