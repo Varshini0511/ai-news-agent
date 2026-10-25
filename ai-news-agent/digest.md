@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-25 11:31
+
+- **[Samsung running a TensorFlow lite model on 960x540 image to track you](https://twitter.com/mike64_t/status/2114150399406202896)** (Hacker News, 6/10) - Samsung demonstrated a TensorFlow Lite model that can follow a person in a 960×540 video stream on a phone. This shows how small, efficient models can run locally, which helps developers build privacy‑preserving, low‑latency AI features for mobile apps.
+
 ## 2026-10-25 11:01
 
 - **[Kimi K3.1 Pro Tech Blog: Advancing Open Intelligence](https://www.reddit.com/r/LocalLLaMA/comments/1xewcs8/kimi_k31_pro_tech_blog_advancing_open_intelligence/)** (Reddit LocalLLaMA, 6/10) - Moonshot AI published a tech blog detailing Kimi K3.1 Pro, an open-weight post-trained Large Language Model scheduled for release on November 4th. Because it uses the same underlying architecture as Kimi K3, developers will be able to run and integrate it immediately using existing local inference frameworks.
