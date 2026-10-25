@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-25 17:31
+
+- **[model: DSV4.1 flash by am17an · Pull Request #31086 · ggml-org/llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xeqf7k/model_dsv41_flash_by_am17an_pull_request_31086/)** (Reddit LocalLLaMA, 7/10) - DeepSeek released a 763‑billion‑parameter model called V4.1 Flash, and a pull request adds support for it in the llama.cpp inference library. The model’s size and the lightweight llama.cpp integration let developers run a very powerful language model on a single GPU, making high‑quality generation more accessible for experimental projects and edge deployments.
+
 ## 2026-10-25 16:31
 
 - **[GPT-X3-150M takes #1 on the Open SLM Leaderboard, dethroning HuggingFace's SmolLM2-135M with a GDN2/GQA hybrid - Check it out!](https://www.reddit.com/r/LocalLLaMA/comments/1xerxtr/gptx3150m_takes_1_on_the_open_slm_leaderboard/)** (Reddit LocalLLaMA, 6/10) - GPT-X3-150M rose to the top of the Open SLM leaderboard, overtaking HuggingFace’s SmolLM2‑135M with its GDN2/GQA hybrid design. The model’s small size and efficient architecture make it a good fit for developers who need fast, low‑resource language models for edge or prototype projects.
