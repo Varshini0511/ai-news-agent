@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-25 03:01
+
+- **[Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)** (Hacker News, 7/10) - Cerebras has launched real-time inference support for trillion-parameter AI models using its custom wafer-scale chip architecture. This enables developers to query massive, frontier-class models at significantly higher generation speeds compared to traditional GPU clusters.
+
 ## 2026-10-25 00:31
 
 - **[v2.1.0](https://github.com/modelcontextprotocol/servers/releases/tag/v2.1.0)** (MCP servers releases, 7/10) - The Model Context Protocol (MCP) server packages released version 2.1.0, fixing eight security vulnerabilities across three server components. Updating to the new versions protects your AI workflows and keeps the toolchain stable.
