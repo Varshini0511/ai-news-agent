@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-25 08:01
+
+- **[AgentGrid.io](https://www.producthunt.com/products/agentgrid-io)** (Product Hunt, 6/10) - AgentGrid.io released a shared workspace where both people and AI agents can collaborate on tasks. The platform can simplify building and testing multi‑agent workflows by giving you a common UI and API to coordinate them.
+
 ## 2026-10-25 07:01
 
 - **[Llama Windows](https://www.producthunt.com/products/llama-windows)** (Product Hunt, 6/10) - Llama Windows is a background application that runs open-source language models locally on Windows. It is useful for developers who want to power local Windows software with AI without paying for cloud API calls.
