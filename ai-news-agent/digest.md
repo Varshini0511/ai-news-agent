@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-25 10:33
+
+- **[Simon Willison built a fun mobile RTS game with Claude Code over 321 agent commits and shares what he learned](https://www.reddit.com/r/ClaudeAI/comments/1xec6lx/simon_willison_built_a_fun_mobile_rts_game_with/)** (r/ClaudeAI, 7/10) - Developer Simon Willison published key learnings from building a complete mobile RTS game using Claude Code across 321 automated commits. It gives practical guidance on managing long-running coding agents, tracking version histories, and mitigating context degradation during development.
+
 ## 2026-10-25 08:31
 
 - **[Lean-QwenFlash: Qwen3.8-Flash-Next (125B) running at ~20 tok/s on 16gb vram and 8gb ram via direct nvme SSD offloading](https://www.reddit.com/r/LocalLLaMA/comments/1xev6bo/leanqwenflash_qwen38flashnext_125b_running_at_20/)** (Reddit LocalLLaMA, 6/10) - Lean-QwenFlash is an offloading method that streams model weights directly from an NVMe SSD to run the 125-billion parameter Qwen3.8-Flash-Next model on consumer PCs with 16GB VRAM and 8GB RAM. This enables developers to test massive local Mixture-of-Experts (MoE) models without needing expensive high-memory workstations.
