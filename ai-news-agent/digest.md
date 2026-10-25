@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-25 20:31
+
+- **[CUDA: fuse FFN gate/up matmuls and GLU in MMQ with interleaved gate/up rows by anujj · Pull Request #29948 · ggml-org/llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xey0uw/cuda_fuse_ffn_gateup_matmuls_and_glu_in_mmq_with/)** (Reddit LocalLLaMA, 6/10) - A pull request to the llama.cpp repository adds a fused kernel that combines the feed‑forward network gate and matrix‑multiply operations, plus a GLU implementation, boosting token‑per‑second speed by roughly 5‑7 % on several quantized model formats. This makes running LLaMA‑style models locally quicker and cheaper, helping developers who run inference on personal machines or small servers.
+
 ## 2026-10-25 19:31
 
 - **[New offer: GitHub Education pack](https://education.github.com/pack)** (GitHub Education pack, 8/10) - Camber is offering a free Student plan that includes 40 CPU hours, 5 GPU hours, 50 GB of storage, and 50 agent messages per month to build and run AI agents. Enrolled students can access this offer for as long as they are enrolled.
