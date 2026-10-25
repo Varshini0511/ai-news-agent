@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-25 13:01
+
+- **[Nanbeige/Nanbeige4.3-33B · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xf0kz4/nanbeigenanbeige4333b_hugging_face/)** (Reddit LocalLLaMA, 6/10) - Nanbeige released Nanbeige4.3-33B, an open-weights large language model available on Hugging Face that demonstrates strong benchmark performance against similar model sizes. It provides developers with a capable open-source option for self-hosted text generation and knowledge distillation into smaller models.
+
 ## 2026-10-25 11:31
 
 - **[Samsung running a TensorFlow lite model on 960x540 image to track you](https://twitter.com/mike64_t/status/2114150399406202896)** (Hacker News, 6/10) - Samsung demonstrated a TensorFlow Lite model that can follow a person in a 960×540 video stream on a phone. This shows how small, efficient models can run locally, which helps developers build privacy‑preserving, low‑latency AI features for mobile apps.
