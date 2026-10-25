@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-25 11:01
+
+- **[Kimi K3.1 Pro Tech Blog: Advancing Open Intelligence](https://www.reddit.com/r/LocalLLaMA/comments/1xewcs8/kimi_k31_pro_tech_blog_advancing_open_intelligence/)** (Reddit LocalLLaMA, 6/10) - Moonshot AI published a tech blog detailing Kimi K3.1 Pro, an open-weight post-trained Large Language Model scheduled for release on November 4th. Because it uses the same underlying architecture as Kimi K3, developers will be able to run and integrate it immediately using existing local inference frameworks.
+
 ## 2026-10-25 10:33
 
 - **[Simon Willison built a fun mobile RTS game with Claude Code over 321 agent commits and shares what he learned](https://www.reddit.com/r/ClaudeAI/comments/1xec6lx/simon_willison_built_a_fun_mobile_rts_game_with/)** (r/ClaudeAI, 7/10) - Developer Simon Willison published key learnings from building a complete mobile RTS game using Claude Code across 321 automated commits. It gives practical guidance on managing long-running coding agents, tracking version histories, and mitigating context degradation during development.
