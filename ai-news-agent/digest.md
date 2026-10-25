@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-25 00:31
+
+- **[v2.1.0](https://github.com/modelcontextprotocol/servers/releases/tag/v2.1.0)** (MCP servers releases, 7/10) - The Model Context Protocol (MCP) server packages released version 2.1.0, fixing eight security vulnerabilities across three server components. Updating to the new versions protects your AI workflows and keeps the toolchain stable.
+
 ## 2026-10-24 23:01
 
 - **[We should be more ambitious with the software we build](https://danluu.com/ambitious/)** (Hacker News, 6/10) - Argus is a free, open‑source platform that lets you create autonomous agents to monitor and respond to security incidents. It provides a ready‑made framework you can adapt to build AI‑driven automation for your own operations, saving you from writing all the plumbing yourself.
