@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-26 17:31
+
+- **[The Git Forge for Agent-Human Collaboration](https://entire.com/blog/the-git-forge-for-agent-human-collaboration)** (Hacker News, 6/10) - A new code hosting platform has been launched specifically designed to manage pull requests and code changes between AI agents and human developers. This is useful for engineers who want to integrate autonomous AI coding tools directly into standard version control workflows.
+
 ## 2026-10-26 17:01
 
 - **[boro64/Ternary-Nemotron-3.5-Lightning-30B-A3B-GGUF · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xfqi2d/boro64ternarynemotron35lightning30ba3bgguf/)** (Reddit LocalLLaMA, 7/10) - A new 30‑billion‑parameter Nemotron model called Ternary‑Nemotron‑3.5‑Lightning‑30B‑A3B was released on Hugging Face, using ternary (1.58‑bit) weights and supporting up to 368 k tokens of context while running on a single 12 GB GPU. Its tiny size and huge context window let developers build long‑document retrieval or chat applications on modest hardware without needing expensive cloud GPUs.
