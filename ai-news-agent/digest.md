@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-26 05:01
+
+- **[Microsoft Decision-1: 9B Qwen Model Launch Explained](https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/)** (Hacker News, 7/10) - A technical breakdown explains Microsoft's Decision-1, a 9-billion parameter model fine-tuned from Alibaba's open-source Qwen architecture. It provides AI builders with insights into how smaller, specialized models can be optimized for complex decision-making tasks with lower compute costs.
+
 ## 2026-10-26 04:01
 
 - **[Phronix: The Capability-Centric Learning Paradigm for Agents](https://arxiv.org/abs/2610.31789)** (arXiv cs.AI, 7/10) - Phronix proposes a new way to train agents that focus on the capabilities they need for a task rather than just copying data. This can make scientific‑computing agents more efficient when you need them to write instrumentation or analysis code.
