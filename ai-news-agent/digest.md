@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-10-26 07:31
+
+- **[tabsh](https://www.producthunt.com/products/tabsh)** (Product Hunt, 6/10) - Tabsh launched a browser-based interface designed specifically for working alongside AI agents. It provides a lightweight workspace for developers looking to integrate and test agentic software workflows directly in the browser.
+- **[VibeiDE](https://www.producthunt.com/products/vibeide)** (Product Hunt, 6/10) - VibeIDE introduced a development tool that allows software engineers to queue and execute AI agent tasks in parallel. This is useful for developers who want to scale automated code generation by reviewing multiple agent outputs asynchronously.
+- **[ManyAgents](https://www.producthunt.com/products/manyagents)** (Product Hunt, 6/10) - ManyAgents released a Mac desktop application designed to orchestrate teams of AI coding agents from a single window. It gives developers a practical interface to coordinate multi-agent software development workflows without managing complex terminal setups.
+
 ## 2026-10-26 05:01
 
 - **[Microsoft Decision-1: 9B Qwen Model Launch Explained](https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/)** (Hacker News, 7/10) - A technical breakdown explains Microsoft's Decision-1, a 9-billion parameter model fine-tuned from Alibaba's open-source Qwen architecture. It provides AI builders with insights into how smaller, specialized models can be optimized for complex decision-making tasks with lower compute costs.
