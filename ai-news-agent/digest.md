@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-26 20:32
+
+- **[Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob)** (Hacker News, 6/10) - Hob is an open-source application designed as a local, on-device alternative to AI chat interfaces like ChatGPT. It helps developers run private conversational workflows locally on their own hardware without relying on cloud APIs.
+
 ## 2026-10-26 19:42
 
 - **[Opus 5.5 writes slop code, but succeeds anyways. A research project inspired by SlopCodeBench](https://www.reddit.com/r/ClaudeAI/comments/1xfkhum/opus_55_writes_slop_code_but_succeeds_anyways_a/)** (r/ClaudeAI, 8/10) - Researchers applied the SlopCodeBench benchmark, where an AI agent adds new features to existing code without breaking it, to evaluate Opus 5.5’s coding ability. The findings help developers understand how well current coding agents handle incremental development tasks.
