@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-10-26 16:03
+
+- **[Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)** (Hacker News, 7/10) - Sebastian Raschka published a video course that walks through building reasoning models from first principles. It gives software engineers concrete examples they can follow to create models that go beyond simple classification.
+- **[rust-v0.165.0-alpha.2](https://github.com/openai/codex/releases/tag/rust-v0.165.0-alpha.2)** (OpenAI Codex releases, 7/10) - OpenAI released rust‑v0.165.0‑alpha.2 of its Codex library, adding updated bindings and bug fixes for the Rust programming language. Rust developers can now more easily embed code‑completion or generation features into their applications.
+- **[SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/)** (Hacker News, 6/10) - A new blog post demonstrates how to run SIMD‑accelerated computer‑vision inference on a $2 microcontroller. This shows developers how to squeeze fast image processing onto ultra‑cheap edge hardware.
+
 ## 2026-10-26 13:48
 
 - **[Apple’s 20B model 📱, Kimi K3.1 Pro 🧠, Block Dessa 🗣️, frontier training security 🔐](https://tldr.tech/ai/2026-10-26)** (TLDR AI, 6/10) - Apple announced research on a 20-billion parameter language model optimized for on-device tasks, alongside updates for Moonshot AI's Kimi model. These releases highlight techniques for balancing efficiency and reasoning performance when deploying models locally.
