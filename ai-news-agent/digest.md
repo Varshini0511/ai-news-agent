@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-26 18:02
+
+- **[Supabase’s Plan for a Billion AI-Built Apps](https://latent.space/p/supabase_s_plan_for_a_billion_ai-built_apps/)** (Latent Space, 7/10) - Supabase announced new backend capabilities aimed at AI‑generated apps, including running long‑lived AI agents next to the database and schema tools that make it easier for agents to understand and modify data structures. Builders can use Supabase to host AI‑driven back‑ends without writing custom infrastructure for agent workloads.
+- **[Scale reservoir uncertainty analysis with agile reservoir modeling](https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/)** (Microsoft AI / Azure, 6/10) - Microsoft Azure published a guide for “agile reservoir modeling,” a workflow that uses Azure AI services to speed up uncertainty analysis on large subsurface datasets. Developers can follow the guide to build fast, connected AI pipelines for scientific or engineering data on Azure.
+
 ## 2026-10-26 17:31
 
 - **[The Git Forge for Agent-Human Collaboration](https://entire.com/blog/the-git-forge-for-agent-human-collaboration)** (Hacker News, 6/10) - A new code hosting platform has been launched specifically designed to manage pull requests and code changes between AI agents and human developers. This is useful for engineers who want to integrate autonomous AI coding tools directly into standard version control workflows.
