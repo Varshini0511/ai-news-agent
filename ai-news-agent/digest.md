@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-26 13:31
+
+- **[Fixing Tool-Call Accuracy in vLLM](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm)** (Hacker News, 7/10) - The vLLM library fixed bugs that caused wrong or missed tool calls when using its function‑calling feature. This makes the open‑source inference engine more reliable for developers building agents that need to call external APIs or services.
+
 ## 2026-10-26 13:01
 
 - **[Tasks as Code: Move Your Tickets into the Repository](https://typemill.net/knowledge-hub/tasks-as-code)** (Hacker News, 6/10) - A guide shows how to store work tickets as code files inside a source repository. This lets developers keep their task list under version control and hook it into automated build and deployment tools.
