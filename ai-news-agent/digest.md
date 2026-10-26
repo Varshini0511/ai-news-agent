@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-10-26 19:42
+
+- **[Opus 5.5 writes slop code, but succeeds anyways. A research project inspired by SlopCodeBench](https://www.reddit.com/r/ClaudeAI/comments/1xfkhum/opus_55_writes_slop_code_but_succeeds_anyways_a/)** (r/ClaudeAI, 8/10) - Researchers applied the SlopCodeBench benchmark, where an AI agent adds new features to existing code without breaking it, to evaluate Opus 5.5’s coding ability. The findings help developers understand how well current coding agents handle incremental development tasks.
+- **[I built an open source sky camera that Claude Code can actually run. Saturday night it caught 17 meteors and had them sorted before I woke up.](https://www.reddit.com/r/ClaudeAI/comments/1xfqc9x/i_built_an_open_source_sky_camera_that_claude/)** (r/ClaudeAI, 7/10) - A developer released an open‑source sky‑camera that records night video and uses Anthropic’s Claude Code model to automatically find and sort meteors. It shows how a coding model can replace manual video review, letting engineers add AI‑driven analysis to custom hardware projects.
+- **[Same game built twice: Opus alone vs Opus planning + local Qwen coding. 16 min vs 42 min, $2.52 vs $0.62](https://www.reddit.com/r/ClaudeAI/comments/1xfgyl1/same_game_built_twice_opus_alone_vs_opus_planning/)** (r/ClaudeAI, 7/10) - A user timed building the same game level using Opus 5.5 for all tasks versus using Opus only for planning and a local Qwen model for writing code. The hybrid setup finished in less than half the time and cost far less, useful for developers who want to trade off speed, price, and data‑privacy.
+
 ## 2026-10-26 19:31
 
 - **[Introducing GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra)** (OpenAI Blog, 9/10) - OpenAI announced GPT‑6.1 Terra, a new large language model that runs faster and handles computer‑use tasks better than prior versions. Developers can use it to build more capable and cost‑effective agents and tool‑using applications.
