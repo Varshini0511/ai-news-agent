@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-26 23:31
+
+- **[Qwen investigation traces release](https://www.reddit.com/r/LocalLLaMA/comments/1xgbm28/qwen_investigation_traces_release/)** (Reddit LocalLLaMA, 6/10) - The Qwen team released investigation traces and prompts to help developers inspect and reproduce specific model reasoning behaviors. This is useful for builders debugging open-source LLM outputs and evaluating prompt prefilling techniques.
+
 ## 2026-10-26 23:01
 
 - **[Greptile takes bug detection beyond code review with GPT-6 Astra](https://openai.com/index/greptile-code-review-codex-astra)** (OpenAI Blog, 9/10) - OpenAI released GPT‑6 Astra, a new large language model that Greptile uses to run simulated user workflows and automatically spot bugs. Developers can integrate it to catch errors before code review, cutting rework and speeding up releases.
