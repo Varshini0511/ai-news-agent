@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-26 13:48
+
+- **[Apple’s 20B model 📱, Kimi K3.1 Pro 🧠, Block Dessa 🗣️, frontier training security 🔐](https://tldr.tech/ai/2026-10-26)** (TLDR AI, 6/10) - Apple announced research on a 20-billion parameter language model optimized for on-device tasks, alongside updates for Moonshot AI's Kimi model. These releases highlight techniques for balancing efficiency and reasoning performance when deploying models locally.
+
 ## 2026-10-26 13:31
 
 - **[Fixing Tool-Call Accuracy in vLLM](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm)** (Hacker News, 7/10) - The vLLM library fixed bugs that caused wrong or missed tool calls when using its function‑calling feature. This makes the open‑source inference engine more reliable for developers building agents that need to call external APIs or services.
