@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-26 23:01
+
+- **[Greptile takes bug detection beyond code review with GPT-6 Astra](https://openai.com/index/greptile-code-review-codex-astra)** (OpenAI Blog, 9/10) - OpenAI released GPT‑6 Astra, a new large language model that Greptile uses to run simulated user workflows and automatically spot bugs. Developers can integrate it to catch errors before code review, cutting rework and speeding up releases.
+
 ## 2026-10-26 22:01
 
 - **[GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases](https://openai.com/index/gpt-6-1-sol-coderabbit-code-security)** (OpenAI Blog, 9/10) - OpenAI released GPT‑6.1 Sol and CodeRabbit integrated it to scan large codebases for security weaknesses. The AI agent points out risky code and suggests fixes, letting developers catch bugs faster.
