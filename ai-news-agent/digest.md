@@ -1,5 +1,12 @@
 # AI Digest
 
+## 2026-10-26 04:01
+
+- **[Phronix: The Capability-Centric Learning Paradigm for Agents](https://arxiv.org/abs/2610.31789)** (arXiv cs.AI, 7/10) - Phronix proposes a new way to train agents that focus on the capabilities they need for a task rather than just copying data. This can make scientific‑computing agents more efficient when you need them to write instrumentation or analysis code.
+- **[Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons](https://arxiv.org/abs/2610.31846)** (arXiv cs.AI, 7/10) - The authors show how an agent can remember its own mistakes across sessions by repairing itself after a failure. This technique helps build more reliable assistants that improve over time without constant re‑prompting.
+- **[TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules](https://arxiv.org/abs/2610.31882)** (arXiv cs.AI, 7/10) - TACS‑RF demonstrates a large‑language‑model agent that drives industry‑standard electronic‑design tools to create RF and mmWave circuit layouts. It gives hardware‑tool developers a blueprint for LLM‑controlled design automation.
+- **[T3 Code Nightly 0.1.3-nightly.20261026.3705 (c3888da8b4fa)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.3-nightly.20261026.3705)** (T3 Code releases, 6/10) - The latest T3 Code nightly build fixes server compaction threading bugs and resolves a stale edit‑saving issue in the web client. Users of this AI‑assisted coding tool will experience fewer crashes and more reliable editing.
+
 ## 2026-10-26 01:27
 
 - **[Nanbeige4.3-33B Quantised GGUF](https://www.reddit.com/r/LocalLLaMA/comments/1xfeho8/nanbeige4333b_quantised_gguf/)** (Reddit LocalLLaMA, 7/10) - Nanbeige released a 33‑billion‑parameter language model in several quantised GGUF files, ranging from 13.7 GB up to 35.2 GB; the 20.3 GB version retains about 92 % of the original BF16 (16‑bit floating‑point) accuracy. It lets developers run a large‑scale model on a single 32 GB GPU, making powerful LLMs accessible on modest hardware.
