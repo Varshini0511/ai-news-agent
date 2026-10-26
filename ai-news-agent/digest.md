@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-26 22:01
+
+- **[GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases](https://openai.com/index/gpt-6-1-sol-coderabbit-code-security)** (OpenAI Blog, 9/10) - OpenAI released GPT‑6.1 Sol and CodeRabbit integrated it to scan large codebases for security weaknesses. The AI agent points out risky code and suggests fixes, letting developers catch bugs faster.
+- **[v2.1.311](https://github.com/anthropics/claude-code/releases/tag/v2.1.311)** (Claude Code releases, 7/10) - Claude Code 2.1.311 adds new flags (--hold-idle-file, --max‑hold‑min) that keep a runner alive while it tracks background processes, and it includes a tip for the explanatory output style. The update also fixes startup freezes, making the coding assistant more reliable for everyday use.
+
 ## 2026-10-26 20:32
 
 - **[Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob)** (Hacker News, 6/10) - Hob is an open-source application designed as a local, on-device alternative to AI chat interfaces like ChatGPT. It helps developers run private conversational workflows locally on their own hardware without relying on cloud APIs.
