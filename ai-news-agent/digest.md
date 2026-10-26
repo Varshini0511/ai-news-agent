@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-26 01:27
+
+- **[Nanbeige4.3-33B Quantised GGUF](https://www.reddit.com/r/LocalLLaMA/comments/1xfeho8/nanbeige4333b_quantised_gguf/)** (Reddit LocalLLaMA, 7/10) - Nanbeige released a 33‑billion‑parameter language model in several quantised GGUF files, ranging from 13.7 GB up to 35.2 GB; the 20.3 GB version retains about 92 % of the original BF16 (16‑bit floating‑point) accuracy. It lets developers run a large‑scale model on a single 32 GB GPU, making powerful LLMs accessible on modest hardware.
+
 ## 2026-10-25 21:31
 
 - **[Lure-TTS and Lure-Turbo: 600M voice models to run 4x faster than real time, with inline (tags), direction, and voice cloning. Trained for under $200.](https://www.reddit.com/r/LocalLLaMA/comments/1xf14j2/luretts_and_lureturbo_600m_voice_models_to_run_4x/)** (Reddit LocalLLaMA, 7/10) - A developer released Lure-TTS, an open-source 600-million parameter text-to-speech (TTS) model that runs four times faster than real time with voice cloning capabilities. It offers developers a lightweight, low-latency option for building responsive local voice assistants and audio applications.
