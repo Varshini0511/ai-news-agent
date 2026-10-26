@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-26 13:01
+
+- **[Tasks as Code: Move Your Tickets into the Repository](https://typemill.net/knowledge-hub/tasks-as-code)** (Hacker News, 6/10) - A guide shows how to store work tickets as code files inside a source repository. This lets developers keep their task list under version control and hook it into automated build and deployment tools.
+
 ## 2026-10-26 12:36
 
 - **[tencent/Hy-SimulMT-30B-A3B · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xfrgt5/tencenthysimulmt30ba3b_hugging_face/)** (Reddit LocalLLaMA, 7/10) - Tencent released Hy‑SimulMT‑30B‑A3B, a 30‑billion‑parameter model that performs real‑time speech‑to‑speech translation between Chinese and English. It lets developers add live, bidirectional translation to apps without building separate speech‑recognition, translation, and speech‑synthesis components.
