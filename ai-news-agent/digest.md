@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-26 19:31
+
+- **[Introducing GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra)** (OpenAI Blog, 9/10) - OpenAI announced GPT‑6.1 Terra, a new large language model that runs faster and handles computer‑use tasks better than prior versions. Developers can use it to build more capable and cost‑effective agents and tool‑using applications.
+- **[How Ultrafast cut incident investigation from hours to minutes at OpenAI](https://openai.com/index/openai-cut-incident-investigation)** (OpenAI Blog, 6/10) - OpenAI engineers used Codex Ultrafast, a fast code‑generation tool, to shrink incident investigations from hours to minutes by automating code search and refactoring. The approach shows how similar tools can speed up debugging and security checks for AI‑related software.
+
 ## 2026-10-26 18:02
 
 - **[Supabase’s Plan for a Billion AI-Built Apps](https://latent.space/p/supabase_s_plan_for_a_billion_ai-built_apps/)** (Latent Space, 7/10) - Supabase announced new backend capabilities aimed at AI‑generated apps, including running long‑lived AI agents next to the database and schema tools that make it easier for agents to understand and modify data structures. Builders can use Supabase to host AI‑driven back‑ends without writing custom infrastructure for agent workloads.
