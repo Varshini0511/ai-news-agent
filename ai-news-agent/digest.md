@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-27 18:31
+
+- **[rust-v0.165.0](https://github.com/openai/codex/releases/tag/rust-v0.165.0)** (OpenAI Codex releases, 6/10) - OpenAI released version 0.165.0 of its Rust client library for the Codex code‑generation model. The update adds new API endpoints and fixes bugs, making it easier for Rust developers to embed Codex’s code‑completion features into their applications.
+
 ## 2026-10-27 18:01
 
 - **[LiquidAI/LFM3-1.7B · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xgy8s3/liquidailfm317b_hugging_face/)** (Reddit LocalLLaMA, 7/10) - LiquidAI released a 1.7 billion‑parameter text model called LFM3 on Hugging Face, aimed at local execution and AI agents. Developers can download and run the model on their own hardware, enabling private or low‑latency agent applications without needing cloud APIs.
