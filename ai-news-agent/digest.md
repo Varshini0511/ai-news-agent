@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-27 20:01
+
+- **[Introducing LFM3: Every Modality for Specialized Intelligence](https://www.liquid.ai/blog/lfm3)** (Hacker News, 9/10) - A new multimodal model called LFM3 was released, handling text, images, audio, and video in a single system. It lets developers add rich, multi‑format understanding to their apps without stitching together separate models.
+- **[PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch](https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/)** (Hacker News, 7/10) - The open‑source library LiteLLM added support for several new large‑language‑model providers and improved cost‑tracking features. This makes it easier for engineers to switch between APIs and keep cloud‑AI expenses under control.
+
 ## 2026-10-27 19:31
 
 - **[Real-time video captioning with LFM3-VL-2B running locally in-browser on WebGPU](https://www.reddit.com/r/LocalLLaMA/comments/1xh0otf/realtime_video_captioning_with_lfm3vl2b_running/)** (Reddit LocalLLaMA, 7/10) - Liquid AI released WebGPU support for its LFM3-VL-2B vision-language model, enabling real-time video captioning directly inside a web browser. This allows developers to run multimodal models locally on client hardware, reducing server costs and protecting user privacy.
