@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-27 06:31
+
+- **[I built an engine that runs Qwen-Flash-Next at nearly 400t/s on cheap(ish) hardware. 3x V100 32GB in an old R740. Originally forked from strata but the engine guts all built for the old Volta generation.](https://www.reddit.com/r/LocalLLaMA/comments/1xg9cr1/i_built_an_engine_that_runs_qwenflashnext_at/)** (Reddit LocalLLaMA, 7/10) - A community developer created an inference engine that runs the Qwen‑Flash‑Next model at about 400 tokens per second on a server with three V100 GPUs. This shows you can get fast generation on relatively cheap, older hardware, which helps when building low‑cost AI services.
+- **[T3 Code v0.1.3](https://github.com/pingdotgg/t3code/releases/tag/v0.1.3)** (T3 Code releases, 6/10) - The T3 Code library was updated to version 0.1.3, adding fixes for sub‑agent transcript handling, dependency pinning, and documentation updates. These changes make the tool more stable and easier to set up for developers who use it to build AI‑driven code assistants.
+
 ## 2026-10-27 05:01
 
 - **[Fast voice agents with ConvFill](https://www.reddit.com/r/LocalLLaMA/comments/1xfzdqu/fast_voice_agents_with_convfill/)** (Reddit LocalLLaMA, 7/10) - ConvFill introduces a voice agent architecture that pairs a lightweight 0.6-billion parameter conversational model with a larger reasoning model to reduce response latency. This offers developers a practical pattern to build real-time voice applications that respond instantly while waiting for background reasoning tasks to finish.
