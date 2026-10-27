@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-10-27 17:31
+
+- **[Build specialized multimodal models with LFM3](https://huggingface.co/blog/LiquidAI/lfm3)** (Hugging Face, 7/10) - Hugging Face introduced LFM3, a toolkit for fine‑tuning multimodal models that process both text and images. It lets engineers build custom, cheaper AI solutions without buying large proprietary models.
+- **[We put DeepSeek in charge of four Qwen3.5-9B models to reverse engineer binaries using smaller open models.](https://www.reddit.com/r/LocalLLaMA/comments/1xgoxvu/we_put_deepseek_in_charge_of_four_qwen359b_models/)** (Reddit LocalLLaMA, 6/10) - A Reddit experiment used DeepSeek to orchestrate four open‑source Qwen3.5‑9B models for binary reverse‑engineering tasks. This shows small local models can collaborate under a larger model, reducing reliance on costly cloud APIs.
+- **[T3 Code Nightly 0.1.4-nightly.20261027.3783 (dc84b0962efa)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.4-nightly.20261027.3783)** (T3 Code releases, 6/10) - T3 Code released Nightly build 0.1.4, adding refactored mobile sub‑agent timers, earlier app‑update checks, and cleaner workspace UI handling. These improvements increase stability and make the .NET AI assistant framework easier to extend.
+
 ## 2026-10-27 17:01
 
 - **[Spark-X2.6-1.7B, almost the same perf as 4b](https://www.reddit.com/r/LocalLLaMA/comments/1xgw2qm/sparkx2617b_almost_the_same_perf_as_4b/)** (Reddit LocalLLaMA, 7/10) - A new open‑source model called Spark‑X2.6‑1.7B was released on Hugging Face; it has only 1.7 billion parameters but matches the performance of a 4 billion‑parameter model on two benchmark tests. Because it is much smaller, it can run faster and cheaper on modest hardware, which helps developers who need an efficient model for edge or low‑cost deployments.
