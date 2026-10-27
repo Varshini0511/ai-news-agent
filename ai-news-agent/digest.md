@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-27 00:31
+
+- **[webframe: evaluated as a scraper and a sandbox](https://simonwillison.net/2026/Oct/26/webframe-evaluation/)** (Simon Willison, 7/10) - webframe is an open‑source tool that loads a web page in a headless browser, runs its JavaScript, and streams console.log output to the terminal. It lets developers scrape dynamic sites or test page behavior without a full browser, useful for building data‑gathering agents.
+
 ## 2026-10-26 23:31
 
 - **[Qwen investigation traces release](https://www.reddit.com/r/LocalLLaMA/comments/1xgbm28/qwen_investigation_traces_release/)** (Reddit LocalLLaMA, 6/10) - The Qwen team released investigation traces and prompts to help developers inspect and reproduce specific model reasoning behaviors. This is useful for builders debugging open-source LLM outputs and evaluating prompt prefilling techniques.
