@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-27 15:29
+
+- **[Claude Code reverse-engineered the Xbox 360 kernel and wrote a native driver so Series X|S controllers work on it](https://www.reddit.com/r/ClaudeAI/comments/1xgtghe/claude_code_reverseengineered_the_xbox_360_kernel/)** (r/ClaudeAI, 7/10) - A developer used Claude Code CLI to reverse-engineer the Xbox 360 kernel and write a custom driver for modern wireless controllers. It demonstrates the capabilities of agentic coding tools in executing complex, low-level system engineering and protocol implementations.
+
 ## 2026-10-27 15:01
 
 - **[Coding From the Himalayas With an Offline AI Agent](https://latent.space/p/offline-coding/)** (Latent Space, 7/10) - This walkthrough demonstrates how to set up an offline AI coding agent using OpenCode combined with Ollama and Qwen open-weights models. It is useful for developers who want to run autonomous coding tools locally without relying on internet connectivity or cloud API subscriptions.
