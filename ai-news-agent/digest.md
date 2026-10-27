@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-10-27 16:31
+
+- **[Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering](https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/)** (TechCrunch AI, 8/10) - Google DeepMind announced Genie 4, a new world simulation model capable of generating interactive environments with matching audio and real-time prompt controls. It is useful for developers exploring embodied AI, real-time spatial simulation, and interactive game environments.
+- **[Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)** (Google DeepMind, 8/10) - Google DeepMind officially announced Genie 4, bringing real-time environment generation with higher visual realism and synchronized audio. This official preview is valuable for AI engineers building physics simulators and synthetic training environments for autonomous agents.
+- **[Google’s next Genie AI model generates more realistic experiences](https://www.theverge.com/tech/1019076/google-genie-4-ai-model)** (The Verge AI, 7/10) - The Verge reported on Google's new Genie 4 world model, emphasizing its ability to alter 3D simulations mid-stream via text prompts. This highlights emerging design patterns for building real-time, user-steerable generative video systems.
+
 ## 2026-10-27 15:29
 
 - **[Claude Code reverse-engineered the Xbox 360 kernel and wrote a native driver so Series X|S controllers work on it](https://www.reddit.com/r/ClaudeAI/comments/1xgtghe/claude_code_reverseengineered_the_xbox_360_kernel/)** (r/ClaudeAI, 7/10) - A developer used Claude Code CLI to reverse-engineer the Xbox 360 kernel and write a custom driver for modern wireless controllers. It demonstrates the capabilities of agentic coding tools in executing complex, low-level system engineering and protocol implementations.
