@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-27 13:01
+
+- **[Opera introduces a new web standard to let users deploy AI locally in their browser](https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/)** (TechCrunch AI, 7/10) - Opera announced WebAI, a new browser standard that lets web pages run AI models locally without contacting a server. Developers can use it to build faster, privacy‑preserving AI features that work directly in the user’s browser.
+
 ## 2026-10-27 12:01
 
 - **[inclusionAI/Ling-3.1-flash-1019 · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xgpo4q/inclusionailing31flash1019_hugging_face/)** (Reddit LocalLLaMA, 6/10) - InclusionAI released Ling-3.1-flash-1019, an open Mixture-of-Experts model featuring 560 billion total parameters, 25 billion active parameters, and a 1-million-token context window. This provides developers with an open-weights option for processing extremely long documents with reduced computational overhead per token.
