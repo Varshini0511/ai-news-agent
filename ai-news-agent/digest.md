@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-27 21:31
+
+- **[Statistically Lossless Qwen3.8 27B GGUFs](https://www.reddit.com/r/LocalLLaMA/comments/1xh17tk/statistically_lossless_qwen38_27b_ggufs/)** (Reddit LocalLLaMA, 7/10) - A community member released Qwen‑3.8 27B model weights in the GGUF format, which is optimized for local inference with lightweight runtimes. This makes it much simpler for developers to run a large, high‑quality language model on their own machines without relying on cloud services.
+
 ## 2026-10-27 20:31
 
 - **[v2.1.312](https://github.com/anthropics/claude-code/releases/tag/v2.1.312)** (Claude Code releases, 6/10) - Claude Code released version 2.1.312, adding support for custom OpenID Connect (OIDC) user identification claims such as Microsoft Entra ID's object identifier. This allows enterprise developers to seamlessly map user identities from existing organization single sign-on systems when deploying Claude applications.
