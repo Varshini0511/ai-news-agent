@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-27 19:31
+
+- **[Real-time video captioning with LFM3-VL-2B running locally in-browser on WebGPU](https://www.reddit.com/r/LocalLLaMA/comments/1xh0otf/realtime_video_captioning_with_lfm3vl2b_running/)** (Reddit LocalLLaMA, 7/10) - Liquid AI released WebGPU support for its LFM3-VL-2B vision-language model, enabling real-time video captioning directly inside a web browser. This allows developers to run multimodal models locally on client hardware, reducing server costs and protecting user privacy.
+
 ## 2026-10-27 19:01
 
 - **[How Anthropic ships Claude with Claude: Separating the Brain from the Hands](https://latent.space/p/opus55/)** (Latent Space, 7/10) - Engineering leaders at Anthropic detailed the infrastructure behind the Claude platform, focusing on how they separate an agent's reasoning from its execution tools. This gives software engineers practical design patterns for building modular and reliable AI agents in production.
