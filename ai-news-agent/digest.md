@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-27 01:31
+
+- **[Release v0.67.0-nightly.20261027.g363a13119](https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0-nightly.20261027.g363a13119)** (Gemini CLI releases, 6/10) - Google updated its Gemini Command Line Interface (CLI) to pass metadata for Model Context Protocol (MCP) servers and tools inside permission requests. This makes it easier for developers building AI agents to inspect and grant granular tool permissions safely.
+
 ## 2026-10-27 00:31
 
 - **[webframe: evaluated as a scraper and a sandbox](https://simonwillison.net/2026/Oct/26/webframe-evaluation/)** (Simon Willison, 7/10) - webframe is an open‑source tool that loads a web page in a headless browser, runs its JavaScript, and streams console.log output to the terminal. It lets developers scrape dynamic sites or test page behavior without a full browser, useful for building data‑gathering agents.
