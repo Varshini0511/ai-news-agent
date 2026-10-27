@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-27 18:01
+
+- **[LiquidAI/LFM3-1.7B · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xgy8s3/liquidailfm317b_hugging_face/)** (Reddit LocalLLaMA, 7/10) - LiquidAI released a 1.7 billion‑parameter text model called LFM3 on Hugging Face, aimed at local execution and AI agents. Developers can download and run the model on their own hardware, enabling private or low‑latency agent applications without needing cloud APIs.
+- **[rust-v0.166.0-alpha.3](https://github.com/openai/codex/releases/tag/rust-v0.166.0-alpha.3)** (OpenAI Codex releases, 7/10) - OpenAI published version 0.166.0‑alpha.3 of its Codex Rust SDK, adding minor bug fixes and updated dependencies. Rust developers can use the updated library to integrate code‑generation features into their applications more reliably.
+
 ## 2026-10-27 17:31
 
 - **[Build specialized multimodal models with LFM3](https://huggingface.co/blog/LiquidAI/lfm3)** (Hugging Face, 7/10) - Hugging Face introduced LFM3, a toolkit for fine‑tuning multimodal models that process both text and images. It lets engineers build custom, cheaper AI solutions without buying large proprietary models.
