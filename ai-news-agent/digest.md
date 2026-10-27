@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-27 23:31
+
+- **[LiquidAI/LFM3-Omni-2B-GGUF](https://www.reddit.com/r/LocalLLaMA/comments/1xh1rwn/liquidailfm3omni2bgguf/)** (Reddit LocalLLaMA, 7/10) - Liquid AI released LFM3-Omni-2B, a compact multimodal model, with immediate GGUF file format support for running in llama.cpp. This enables developers to run lightweight, low-latency audio and text AI locally on standard consumer hardware without relying on cloud APIs.
+
 ## 2026-10-27 23:01
 
 - **[New audio model: LFM3-Audio-2B](https://www.reddit.com/r/LocalLLaMA/comments/1xh50at/new_audio_model_lfm3audio2b/)** (Reddit LocalLLaMA, 8/10) - Liquid AI released LFM3‑Audio‑2B, a 2‑billion‑parameter audio model that can take text or sound as input and reply with text, speech, or both, and it runs on a laptop or other edge device. Developers can now add real‑time voice chat or transcription features to apps without needing a cloud server.
