@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-27 11:31
+
+- **[Nvidia backs Indian startup helping companies run AI models with fewer GPUs](https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/)** (TechCrunch AI, 7/10) - Nvidia invested in Simplismart, an Indian startup that provides technology to run AI models using fewer GPUs, cutting compute costs. This helps developers and companies train and deploy models more cheaply, especially when GPU resources are limited.
+
 ## 2026-10-27 10:01
 
 - **[baidu/Unlimited-OCR-2 · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xgnbtq/baiduunlimitedocr2_hugging_face/)** (Reddit LocalLLaMA, 6/10) - Baidu released Unlimited OCR 2, an open-source optical character recognition (OCR) model designed to parse extremely long document sequences. It uses a new attention mechanism to compress long visual-text interactions, allowing developers to extract text from massive documents without running into memory bottlenecks.
