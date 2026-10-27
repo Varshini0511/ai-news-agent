@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-27 12:01
+
+- **[inclusionAI/Ling-3.1-flash-1019 · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xgpo4q/inclusionailing31flash1019_hugging_face/)** (Reddit LocalLLaMA, 6/10) - InclusionAI released Ling-3.1-flash-1019, an open Mixture-of-Experts model featuring 560 billion total parameters, 25 billion active parameters, and a 1-million-token context window. This provides developers with an open-weights option for processing extremely long documents with reduced computational overhead per token.
+
 ## 2026-10-27 11:31
 
 - **[Nvidia backs Indian startup helping companies run AI models with fewer GPUs](https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/)** (TechCrunch AI, 7/10) - Nvidia invested in Simplismart, an Indian startup that provides technology to run AI models using fewer GPUs, cutting compute costs. This helps developers and companies train and deploy models more cheaply, especially when GPU resources are limited.
