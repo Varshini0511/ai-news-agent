@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-10-27 07:31
+
+- **[Revix AI](https://www.producthunt.com/products/revix-ai-2)** (Product Hunt, 7/10) - Revix AI provides a code‑review bot that learns the style, linting and custom rules of a specific repository and then comments on pull requests. Teams can catch style violations and logical errors automatically, reducing manual review time.
+- **[Paddock](https://www.producthunt.com/products/paddock-2)** (Product Hunt, 7/10) - Paddock offers a hosted sandbox environment where you can spin up isolated compute instances for running AI agents safely. It lets developers test agent behavior, manage resources, and avoid contaminating production systems.
+- **[Off Grid AI](https://www.producthunt.com/products/off-grid-ai)** (Product Hunt, 6/10) - Off Grid AI lets you run large language models locally on a phone or PC without sending data to the cloud. This gives developers privacy and a way to experiment with on‑device inference without paying API fees.
+
 ## 2026-10-27 06:31
 
 - **[I built an engine that runs Qwen-Flash-Next at nearly 400t/s on cheap(ish) hardware. 3x V100 32GB in an old R740. Originally forked from strata but the engine guts all built for the old Volta generation.](https://www.reddit.com/r/LocalLLaMA/comments/1xg9cr1/i_built_an_engine_that_runs_qwenflashnext_at/)** (Reddit LocalLLaMA, 7/10) - A community developer created an inference engine that runs the Qwen‑Flash‑Next model at about 400 tokens per second on a server with three V100 GPUs. This shows you can get fast generation on relatively cheap, older hardware, which helps when building low‑cost AI services.
