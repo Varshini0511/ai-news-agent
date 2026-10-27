@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-27 23:01
+
+- **[New audio model: LFM3-Audio-2B](https://www.reddit.com/r/LocalLLaMA/comments/1xh50at/new_audio_model_lfm3audio2b/)** (Reddit LocalLLaMA, 8/10) - Liquid AI released LFM3‑Audio‑2B, a 2‑billion‑parameter audio model that can take text or sound as input and reply with text, speech, or both, and it runs on a laptop or other edge device. Developers can now add real‑time voice chat or transcription features to apps without needing a cloud server.
+- **[Expanding our partnership with GSA to bring Claude to all levels of government](https://www.anthropic.com/news/expanding-partnership-gsa)** (Anthropic News, 6/10) - Anthropic signed a new deal with the US General Services Administration that gives government agencies a 40 % discount on its Claude Enterprise, Claude for Government, and Claude API services. This makes Claude cheaper for public‑sector projects that need large language‑model capabilities.
+
 ## 2026-10-27 21:31
 
 - **[Statistically Lossless Qwen3.8 27B GGUFs](https://www.reddit.com/r/LocalLLaMA/comments/1xh17tk/statistically_lossless_qwen38_27b_ggufs/)** (Reddit LocalLLaMA, 7/10) - A community member released Qwen‑3.8 27B model weights in the GGUF format, which is optimized for local inference with lightweight runtimes. This makes it much simpler for developers to run a large, high‑quality language model on their own machines without relying on cloud services.
