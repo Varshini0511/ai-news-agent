@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-27 03:01
+
+- **[Interactive neuron steering playground for Qwen3.5-4B that runs locally in the browser on WebGPU](https://www.reddit.com/r/LocalLLaMA/comments/1xgbr9y/interactive_neuron_steering_playground_for/)** (Reddit LocalLLaMA, 7/10) - A web‑based playground lets you steer the behavior of the Qwen‑3.5‑4B model by tweaking just a few internal neurons, and it runs entirely in the browser using WebGPU. This gives AI engineers a fast, zero‑setup way to experiment with fine‑grained model control without sending data to a remote service.
+- **[T3 Code Nightly 0.1.3-nightly.20261027.3748 (323d9611ff49)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.3-nightly.20261027.3748)** (T3 Code releases, 6/10) - The T3 Code nightly build (0.1.3) fixes a slow‑host bug that made settings read‑only, improves mobile thread rendering, and adds recovery for deleted work‑trees on the server. These stability and performance fixes make the .NET‑focused AI coding tool more reliable for developers building AI‑assisted applications.
+
 ## 2026-10-27 01:31
 
 - **[Release v0.67.0-nightly.20261027.g363a13119](https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0-nightly.20261027.g363a13119)** (Gemini CLI releases, 6/10) - Google updated its Gemini Command Line Interface (CLI) to pass metadata for Model Context Protocol (MCP) servers and tools inside permission requests. This makes it easier for developers building AI agents to inspect and grant granular tool permissions safely.
