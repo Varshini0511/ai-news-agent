@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-27 19:01
+
+- **[How Anthropic ships Claude with Claude: Separating the Brain from the Hands](https://latent.space/p/opus55/)** (Latent Space, 7/10) - Engineering leaders at Anthropic detailed the infrastructure behind the Claude platform, focusing on how they separate an agent's reasoning from its execution tools. This gives software engineers practical design patterns for building modular and reliable AI agents in production.
+- **[How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands](https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/)** (Latent Space, 7/10) - Anthropic shared technical insights on scaling the Claude platform and managing agent safety by isolating core model decisions from system actions. Understanding this separation helps developers architect safer and more maintainable AI applications.
+
 ## 2026-10-27 18:31
 
 - **[rust-v0.165.0](https://github.com/openai/codex/releases/tag/rust-v0.165.0)** (OpenAI Codex releases, 6/10) - OpenAI released version 0.165.0 of its Rust client library for the Codex code‑generation model. The update adds new API endpoints and fixes bugs, making it easier for Rust developers to embed Codex’s code‑completion features into their applications.
