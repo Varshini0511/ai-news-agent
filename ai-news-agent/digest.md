@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-27 15:01
+
+- **[Coding From the Himalayas With an Offline AI Agent](https://latent.space/p/offline-coding/)** (Latent Space, 7/10) - This walkthrough demonstrates how to set up an offline AI coding agent using OpenCode combined with Ollama and Qwen open-weights models. It is useful for developers who want to run autonomous coding tools locally without relying on internet connectivity or cloud API subscriptions.
+
 ## 2026-10-27 13:31
 
 - **[Ling-3.1-flash-1019 weights are out, and they released the base model too](https://www.reddit.com/r/LocalLLaMA/comments/1xgrr8n/ling31flash1019_weights_are_out_and_they_released/)** (Reddit LocalLLaMA, 6/10) - The weights for Ling-3.1-flash-1019, an open-source model featuring a 1-million-token context window, are now available on Hugging Face alongside its base model. This provides developers with a large-context open-weights option that uses a Mixture-of-Experts design to keep compute costs lower by activating only a fraction of its total parameters per request.
