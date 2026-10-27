@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-27 17:01
+
+- **[Spark-X2.6-1.7B, almost the same perf as 4b](https://www.reddit.com/r/LocalLLaMA/comments/1xgw2qm/sparkx2617b_almost_the_same_perf_as_4b/)** (Reddit LocalLLaMA, 7/10) - A new open‑source model called Spark‑X2.6‑1.7B was released on Hugging Face; it has only 1.7 billion parameters but matches the performance of a 4 billion‑parameter model on two benchmark tests. Because it is much smaller, it can run faster and cheaper on modest hardware, which helps developers who need an efficient model for edge or low‑cost deployments.
+- **[OpenAI expands partnership with Oracle to bring its apps to ChatGPT](https://openai.com/index/oracle-apps-in-chatgpt)** (OpenAI Blog, 6/10) - OpenAI and Oracle announced an expanded partnership that will embed OpenAI’s AI agents and business apps directly inside the ChatGPT interface and Oracle’s cloud services. This makes it easier for developers to add ready‑made AI assistants and data tools to their own software without building the infrastructure from scratch.
+
 ## 2026-10-27 16:31
 
 - **[Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering](https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/)** (TechCrunch AI, 8/10) - Google DeepMind announced Genie 4, a new world simulation model capable of generating interactive environments with matching audio and real-time prompt controls. It is useful for developers exploring embodied AI, real-time spatial simulation, and interactive game environments.
