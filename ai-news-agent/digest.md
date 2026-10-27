@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-27 20:31
+
+- **[v2.1.312](https://github.com/anthropics/claude-code/releases/tag/v2.1.312)** (Claude Code releases, 6/10) - Claude Code released version 2.1.312, adding support for custom OpenID Connect (OIDC) user identification claims such as Microsoft Entra ID's object identifier. This allows enterprise developers to seamlessly map user identities from existing organization single sign-on systems when deploying Claude applications.
+
 ## 2026-10-27 20:12
 
 - **[Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)** (Hacker News, 6/10) - Survival LLM is a lightweight AI assistant that runs completely on a local computer, requiring no internet connection. It gives developers a way to experiment with language models in offline or edge environments.
