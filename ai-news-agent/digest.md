@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-27 20:12
+
+- **[Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)** (Hacker News, 6/10) - Survival LLM is a lightweight AI assistant that runs completely on a local computer, requiring no internet connection. It gives developers a way to experiment with language models in offline or edge environments.
+
 ## 2026-10-27 20:01
 
 - **[Introducing LFM3: Every Modality for Specialized Intelligence](https://www.liquid.ai/blog/lfm3)** (Hacker News, 9/10) - A new multimodal model called LFM3 was released, handling text, images, audio, and video in a single system. It lets developers add rich, multi‑format understanding to their apps without stitching together separate models.
