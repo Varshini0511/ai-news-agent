@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-27 13:31
+
+- **[Ling-3.1-flash-1019 weights are out, and they released the base model too](https://www.reddit.com/r/LocalLLaMA/comments/1xgrr8n/ling31flash1019_weights_are_out_and_they_released/)** (Reddit LocalLLaMA, 6/10) - The weights for Ling-3.1-flash-1019, an open-source model featuring a 1-million-token context window, are now available on Hugging Face alongside its base model. This provides developers with a large-context open-weights option that uses a Mixture-of-Experts design to keep compute costs lower by activating only a fraction of its total parameters per request.
+
 ## 2026-10-27 13:01
 
 - **[Opera introduces a new web standard to let users deploy AI locally in their browser](https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/)** (TechCrunch AI, 7/10) - Opera announced WebAI, a new browser standard that lets web pages run AI models locally without contacting a server. Developers can use it to build faster, privacy‑preserving AI features that work directly in the user’s browser.
