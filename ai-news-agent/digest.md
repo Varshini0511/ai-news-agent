@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-27 10:01
+
+- **[baidu/Unlimited-OCR-2 · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xgnbtq/baiduunlimitedocr2_hugging_face/)** (Reddit LocalLLaMA, 6/10) - Baidu released Unlimited OCR 2, an open-source optical character recognition (OCR) model designed to parse extremely long document sequences. It uses a new attention mechanism to compress long visual-text interactions, allowing developers to extract text from massive documents without running into memory bottlenecks.
+- **[ContextGem 1.0](https://www.producthunt.com/products/contextgem)** (Product Hunt, 6/10) - ContextGem 1.0 launched, combining decision-making algorithms with large language models to extract structured data from unstructured documents. This provides developers with a specialized tool to increase accuracy and speed when building automated document processing workflows.
+
 ## 2026-10-27 07:31
 
 - **[Revix AI](https://www.producthunt.com/products/revix-ai-2)** (Product Hunt, 7/10) - Revix AI provides a code‑review bot that learns the style, linting and custom rules of a specific repository and then comments on pull requests. Teams can catch style violations and logical errors automatically, reducing manual review time.
