@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-27 05:01
+
+- **[Fast voice agents with ConvFill](https://www.reddit.com/r/LocalLLaMA/comments/1xfzdqu/fast_voice_agents_with_convfill/)** (Reddit LocalLLaMA, 7/10) - ConvFill introduces a voice agent architecture that pairs a lightweight 0.6-billion parameter conversational model with a larger reasoning model to reduce response latency. This offers developers a practical pattern to build real-time voice applications that respond instantly while waiting for background reasoning tasks to finish.
+
 ## 2026-10-27 03:01
 
 - **[Interactive neuron steering playground for Qwen3.5-4B that runs locally in the browser on WebGPU](https://www.reddit.com/r/LocalLLaMA/comments/1xgbr9y/interactive_neuron_steering_playground_for/)** (Reddit LocalLLaMA, 7/10) - A web‑based playground lets you steer the behavior of the Qwen‑3.5‑4B model by tweaking just a few internal neurons, and it runs entirely in the browser using WebGPU. This gives AI engineers a fast, zero‑setup way to experiment with fine‑grained model control without sending data to a remote service.
