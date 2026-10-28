@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-28 22:01
+
+- **[Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning](https://latent.space/p/elorian/)** (Latent Space, 6/10) - A new visual benchmark exposes how decoy objects fool frontier vision-language models during spatial counting tasks. It introduces Glimpse, an approach that allows multimodal models to generate intermediate visual thoughts to improve spatial reasoning.
+
 ## 2026-10-28 21:29
 
 - **[I got Claude Opus 5.5 to render photoreal Blender scenes — it took 3 failed attempts per scene, here’s what actually fixed them](https://www.reddit.com/r/ClaudeAI/comments/1xhi21l/i_got_claude_opus_55_to_render_photoreal_blender/)** (r/ClaudeAI, 7/10) - A developer used Claude Opus 5.5 to write and run Blender Python scripts that generated 4K photorealistic renders, refining the prompts after each failed attempt. This shows how an LLM can be turned into a code‑generating agent for 3‑D graphics pipelines, helping builders automate visual‑content creation without hand‑coding every script.
