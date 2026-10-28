@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-28 18:01
+
+- **[Introducing the Microsoft Copilot harness in Foundry Agent Service](https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/)** (Microsoft AI / Azure, 7/10) - Microsoft has opened public preview of a Copilot harness inside Azure AI Foundry’s Agent Service. It lets developers connect Copilot models to their custom agents without writing low‑level integration code, speeding up agent creation.
+- **[rust-v0.166.0-alpha.5.1](https://github.com/openai/codex/releases/tag/rust-v0.166.0-alpha.5.1)** (OpenAI Codex releases, 6/10) - OpenAI released version 0.166.0‑alpha.5.1 of its Codex library for the Rust programming language. The update adds support for the latest code‑completion endpoints, making it easier for Rust developers to embed AI‑powered coding assistance.
+
 ## 2026-10-28 17:31
 
 - **[As AI agents reshape the web, Google opens Gemini and Search to more apps](https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/)** (TechCrunch AI, 6/10) - Google is opening up developer tools that allow third-party applications to integrate directly into Gemini and Google Search agent workflows. This helps developers make their web services discoverable and actionable by AI agents.
