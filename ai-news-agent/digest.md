@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-28 08:31
+
+- **[DeepSeek-V4.1-Flash-1017 at 41 tok/s on one 3090](https://www.reddit.com/r/LocalLLaMA/comments/1xh9yf7/deepseekv41flash1017_at_41_toks_on_one_3090/)** (Reddit LocalLLaMA, 7/10) - DeepSeek released a version of its V4.1 model called Flash‑1017, packaged in the GGUF format that runs directly on Windows without Linux. It can generate about 41 tokens per second on a single RTX 3090, showing developers they can run a strong model locally without needing a cloud service.
+- **[Dedica](https://www.producthunt.com/products/dedica)** (Product Hunt, 6/10) - Dedica launched a tool that lets an AI agent navigate and interact with a website as if it were a human user. This can help developers test how their site behaves with AI visitors or build agents that perform tasks on web pages without writing custom scraping code.
+
 ## 2026-10-28 08:03
 
 - **[Zest](https://www.producthunt.com/products/zest-6)** (Product Hunt, 6/10) - Zest is a macOS desktop tool that lets developers invoke AI agents via a quick keyboard shortcut to handle routine coding tasks. It is useful for software engineers looking to automate minor development chores like writing boilerplate code or generating tests without breaking focus.
