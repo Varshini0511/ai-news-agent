@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-28 17:01
+
+- **[Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/)** (Google DeepMind, 9/10) - DeepMind announced Gemini 4 Carbon, the next‑generation Gemini model that focuses on higher accuracy, better reasoning and lower energy use. The model will be available via Google Cloud, giving builders a more capable and environmentally friendly option for multimodal AI applications.
+- **[nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xhqy12/nvidianvidianemotron35transcribe30ba4b_hugging/)** (Reddit LocalLLaMA, 7/10) - Nvidia released the Nemotron‑3.5‑Transcribe‑30B model, a 30‑billion‑parameter language model optimized for speech‑to‑text tasks and hosted on Hugging Face. Developers can download it for free and run or fine‑tune it on their own hardware, avoiding third‑party transcription services.
+
 ## 2026-10-28 16:31
 
 - **[Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax)** (Hacker News, 6/10) - A new evaluation dataset named Dayjob: Tax assesses AI agents across 50 complex, professional tax preparation assignments. It provides practical insights into how current Large Language Models (LLMs) perform on strict, rule-based business logic.
