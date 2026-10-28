@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-28 00:31
+
+- **[A 1.3B OCR model just hit 93.68 on real-world document parsing and there's now an AI judge for OCR errors](https://www.reddit.com/r/LocalLLaMA/comments/1xgx26j/a_13b_ocr_model_just_hit_9368_on_realworld/)** (Reddit LocalLLaMA, 7/10) - OpenBMB released MiniCPM-OCR, a 1.3-billion parameter open-source model for Optical Character Recognition (OCR) alongside a companion model that flags text extraction errors. This gives developers a fast, self-hostable option to accurately extract text from messy real-world documents without relying on paid APIs.
+
 ## 2026-10-27 23:31
 
 - **[LiquidAI/LFM3-Omni-2B-GGUF](https://www.reddit.com/r/LocalLLaMA/comments/1xh1rwn/liquidailfm3omni2bgguf/)** (Reddit LocalLLaMA, 7/10) - Liquid AI released LFM3-Omni-2B, a compact multimodal model, with immediate GGUF file format support for running in llama.cpp. This enables developers to run lightweight, low-latency audio and text AI locally on standard consumer hardware without relying on cloud APIs.
