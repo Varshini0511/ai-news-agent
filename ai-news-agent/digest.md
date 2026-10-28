@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-28 13:01
+
+- **[Someone built a 32-bit RISC-V CPU directly inside Qwen's model weights so it can execute instructions internaly!](https://www.reddit.com/r/LocalLLaMA/comments/1xhmo1q/someone_built_a_32bit_riscv_cpu_directly_inside/)** (Reddit LocalLLaMA, 7/10) - A developer embedded a 32-bit RISC-V processor architecture directly inside an open-source Qwen language model's weights. This proof-of-concept shows how models might execute deterministic code internally without depending on external sandbox environments for tool calls.
+
 ## 2026-10-28 10:31
 
 - **[WebAI by Opera](https://www.producthunt.com/products/opera)** (Product Hunt, 7/10) - Opera launched WebAI, an interface that allows web applications to execute AI models directly on a user's local computer hardware. This helps developers build web applications with lower latency and better privacy by running AI inference on client devices instead of paid cloud servers.
