@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-28 10:31
+
+- **[WebAI by Opera](https://www.producthunt.com/products/opera)** (Product Hunt, 7/10) - Opera launched WebAI, an interface that allows web applications to execute AI models directly on a user's local computer hardware. This helps developers build web applications with lower latency and better privacy by running AI inference on client devices instead of paid cloud servers.
+
 ## 2026-10-28 08:31
 
 - **[DeepSeek-V4.1-Flash-1017 at 41 tok/s on one 3090](https://www.reddit.com/r/LocalLLaMA/comments/1xh9yf7/deepseekv41flash1017_at_41_toks_on_one_3090/)** (Reddit LocalLLaMA, 7/10) - DeepSeek released a version of its V4.1 model called Flash‑1017, packaged in the GGUF format that runs directly on Windows without Linux. It can generate about 41 tokens per second on a single RTX 3090, showing developers they can run a strong model locally without needing a cloud service.
