@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-28 16:31
+
+- **[Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax)** (Hacker News, 6/10) - A new evaluation dataset named Dayjob: Tax assesses AI agents across 50 complex, professional tax preparation assignments. It provides practical insights into how current Large Language Models (LLMs) perform on strict, rule-based business logic.
+
 ## 2026-10-28 15:31
 
 - **[Voice AI in vogue: Nvidia releases new open transcription model](https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/)** (TechCrunch AI, 7/10) - Nvidia released an open-weights speech-to-text model capable of transcribing recorded audio in up to 40 languages. It gives developers a free, self-hostable alternative to commercial voice APIs for batch tasks like call and meeting transcriptions.
