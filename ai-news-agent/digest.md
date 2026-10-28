@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-28 21:29
+
+- **[I got Claude Opus 5.5 to render photoreal Blender scenes — it took 3 failed attempts per scene, here’s what actually fixed them](https://www.reddit.com/r/ClaudeAI/comments/1xhi21l/i_got_claude_opus_55_to_render_photoreal_blender/)** (r/ClaudeAI, 7/10) - A developer used Claude Opus 5.5 to write and run Blender Python scripts that generated 4K photorealistic renders, refining the prompts after each failed attempt. This shows how an LLM can be turned into a code‑generating agent for 3‑D graphics pipelines, helping builders automate visual‑content creation without hand‑coding every script.
+
 ## 2026-10-28 20:31
 
 - **[Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity](https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier)** (The Verge AI, 9/10) - Google unveiled Gemini 4 Carbon, a new multimodal model that claims better performance on code generation, autonomous agent tasks, and detecting security threats. Developers can access it via Google Cloud to build smarter assistants, code‑assist tools, or security‑focused applications.
