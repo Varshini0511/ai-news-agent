@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-28 08:03
+
+- **[Zest](https://www.producthunt.com/products/zest-6)** (Product Hunt, 6/10) - Zest is a macOS desktop tool that lets developers invoke AI agents via a quick keyboard shortcut to handle routine coding tasks. It is useful for software engineers looking to automate minor development chores like writing boilerplate code or generating tests without breaking focus.
+
 ## 2026-10-28 07:35
 
 - **[Yardlet](https://www.producthunt.com/products/yardlet-2)** (Product Hunt, 6/10) - Yardlet released a Mac application designed to manage and run command-line AI coding agents within a dedicated desktop interface. It offers a streamlined workspace for developers looking to orchestrate and monitor multiple AI coding assistants locally.
