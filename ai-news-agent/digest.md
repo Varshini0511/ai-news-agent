@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-28 07:06
+
+- **[LFM3 by Liquid AI](https://www.producthunt.com/products/lfm2)** (Product Hunt, 8/10) - Liquid AI released LFM3, a series of six lightweight 2-billion parameter models designed specifically for edge devices like phones, laptops, and robots. This provides AI developers with fast, ultra-compact models for building low-latency, on-device applications.
+- **[Hob](https://www.producthunt.com/products/hob-3)** (Product Hunt, 6/10) - Hob is a new open-source desktop application that lets developers run AI models locally on their own hardware. It gives engineers a private, cost-free alternative to cloud services like ChatGPT for testing local Large Language Models (LLMs).
+
 ## 2026-10-28 06:14
 
 - **[Artificial Analysis Intelligence Index v5.0](https://artificialanalysis.ai/methodology/intelligence-benchmarking)** (Hacker News, 6/10) - Artificial Analysis released version 5.0 of its Intelligence Index, an independent benchmark evaluating top large language models across quality, speed, and cost. This provides developers with objective data to compare model performance and select the right LLM for their applications.
