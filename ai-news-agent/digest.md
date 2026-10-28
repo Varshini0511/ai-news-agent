@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-28 19:31
+
+- **[Anthropic just launched tools to show companies what their AI spending is buying](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/)** (TechCrunch AI, 6/10) - Anthropic introduced new cost-analytics tools for enterprise accounts to track token consumption and API spending. This helps software teams monitor usage patterns and manage the operational costs of running Claude models.
+
 ## 2026-10-28 18:01
 
 - **[Introducing the Microsoft Copilot harness in Foundry Agent Service](https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/)** (Microsoft AI / Azure, 7/10) - Microsoft has opened public preview of a Copilot harness inside Azure AI Foundry’s Agent Service. It lets developers connect Copilot models to their custom agents without writing low‑level integration code, speeding up agent creation.
