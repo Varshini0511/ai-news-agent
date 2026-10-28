@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-28 22:31
+
+- **[rust-v0.166.0-alpha.6](https://github.com/openai/codex/releases/tag/rust-v0.166.0-alpha.6)** (OpenAI Codex releases, 7/10) - OpenAI released version 0.166.0‑alpha.6 of its Codex library for the Rust programming language. The update adds new code‑completion features that can speed up Rust development and help engineers integrate AI‑generated code into their projects.
+
 ## 2026-10-28 22:01
 
 - **[Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning](https://latent.space/p/elorian/)** (Latent Space, 6/10) - A new visual benchmark exposes how decoy objects fool frontier vision-language models during spatial counting tasks. It introduces Glimpse, an approach that allows multimodal models to generate intermediate visual thoughts to improve spatial reasoning.
