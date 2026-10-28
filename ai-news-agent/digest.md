@@ -1,5 +1,12 @@
 # AI Digest
 
+## 2026-10-28 03:01
+
+- **[AOS-Bench: Can LLM Agents Manage Dynamic Workloads?](https://arxiv.org/abs/2610.33178)** (arXiv cs.AI, 7/10) - The paper introduces AOS‑Bench, a test suite that measures how well large‑language‑model agents handle multiple, overlapping tasks on the same machine. It helps developers see if their agents can stay responsive when users give them a stream of jobs like builds, data processing, or bug fixes.
+- **[Scaling Qualitative Analysis with Large Language Models: Development and Validation of the Smart Coder Framework for Human-LLM Collaborative Coding](https://arxiv.org/abs/2610.33205)** (arXiv cs.AI, 7/10) - The authors present the Smart Coder Framework, a set of prompts and workflow steps that let a human guide a large‑language‑model while it writes code, improving consistency and error checking. Builders can use it as a template to create more reliable code‑generation assistants.
+- **[AdaPRA: Process Reward Agents with Adaptive Rubrics for Data Science](https://arxiv.org/abs/2610.33245)** (arXiv cs.AI, 7/10) - AdaPRA describes a way to train process‑reward agents that receive dynamic rubrics for data‑science tasks, allowing the agents to correct mistakes like bad validation or coding bugs. This approach gives engineers a recipe for making autonomous data‑science assistants that learn from fine‑grained feedback.
+- **[rust-v0.166.0-alpha.5](https://github.com/openai/codex/releases/tag/rust-v0.166.0-alpha.5)** (OpenAI Codex releases, 7/10) - OpenAI released version 0.166.0‑alpha.5 of the Codex Rust client, adding updated API endpoints and bug fixes. The update makes it easier for Rust developers to call Codex for code generation in their applications.
+
 ## 2026-10-28 02:31
 
 - **[GEMS-RAG: Graph-grounded Engineering Multimodal Standards Retrieval-Augmented Generation](https://arxiv.org/abs/2610.33277)** (arXiv cs.AI, 6/10) - Researchers introduced GEMS-RAG, a retrieval-augmented generation (RAG) framework that uses knowledge graphs to index complex technical documents containing tables, figures, and cross-references. This offers a practical architectural pattern for developers building AI agents that need to accurately retrieve and reason over highly structured engineering standards.
