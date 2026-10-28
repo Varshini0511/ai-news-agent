@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-28 15:31
+
+- **[Voice AI in vogue: Nvidia releases new open transcription model](https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/)** (TechCrunch AI, 7/10) - Nvidia released an open-weights speech-to-text model capable of transcribing recorded audio in up to 40 languages. It gives developers a free, self-hostable alternative to commercial voice APIs for batch tasks like call and meeting transcriptions.
+- **[Diffuspace/Clover-35B-A3B-Preview · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xhinyj/diffuspaceclover35ba3bpreview_hugging_face/)** (Reddit LocalLLaMA, 6/10) - DiffuSpace released Clover-35B-A3B-Preview, an open-source 35-billion parameter text model that uses a Mixture-of-Experts architecture combined with diffusion. It gives developers an open model to experiment with non-autoregressive, diffusion-based text generation.
+
 ## 2026-10-28 15:01
 
 - **[NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary)** (Hugging Face, 7/10) - Hugging Face released the NVIDIA Nemotron 3.5 Transcribe model together with the Granary v2 dataset, offering a multilingual speech‑to‑text system that can be prompted and adapted. This lets developers add accurate, language‑agnostic transcription to their applications without training a model from scratch, using familiar open‑source tools.
