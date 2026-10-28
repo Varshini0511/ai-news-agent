@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-28 17:31
+
+- **[As AI agents reshape the web, Google opens Gemini and Search to more apps](https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/)** (TechCrunch AI, 6/10) - Google is opening up developer tools that allow third-party applications to integrate directly into Gemini and Google Search agent workflows. This helps developers make their web services discoverable and actionable by AI agents.
+
 ## 2026-10-28 17:01
 
 - **[Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/)** (Google DeepMind, 9/10) - DeepMind announced Gemini 4 Carbon, the next‑generation Gemini model that focuses on higher accuracy, better reasoning and lower energy use. The model will be available via Google Cloud, giving builders a more capable and environmentally friendly option for multimodal AI applications.
