@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-28 14:32
+
+- **[The Agent SDK](https://cursor.com/blog/agent-sdk)** (Hacker News, 7/10) - Developers released the Agent SDK, a specialized software development kit for building and orchestrating autonomous AI agents. It gives engineers standardized patterns to manage agent state, execute tools, and build reliable multi-step workflows.
+
 ## 2026-10-28 13:01
 
 - **[Someone built a 32-bit RISC-V CPU directly inside Qwen's model weights so it can execute instructions internaly!](https://www.reddit.com/r/LocalLLaMA/comments/1xhmo1q/someone_built_a_32bit_riscv_cpu_directly_inside/)** (Reddit LocalLLaMA, 7/10) - A developer embedded a 32-bit RISC-V processor architecture directly inside an open-source Qwen language model's weights. This proof-of-concept shows how models might execute deterministic code internally without depending on external sandbox environments for tool calls.
