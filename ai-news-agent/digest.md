@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-28 06:14
+
+- **[Artificial Analysis Intelligence Index v5.0](https://artificialanalysis.ai/methodology/intelligence-benchmarking)** (Hacker News, 6/10) - Artificial Analysis released version 5.0 of its Intelligence Index, an independent benchmark evaluating top large language models across quality, speed, and cost. This provides developers with objective data to compare model performance and select the right LLM for their applications.
+
 ## 2026-10-28 04:01
 
 - **[The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://arxiv.org/abs/2610.36077)** (arXiv cs.AI, 6/10) - The authors present a framework called “The Trinity” that lets multimodal AI agents improve themselves recursively by focusing on specific capabilities. This could inspire developers building self‑optimizing agents that handle text, images, and other modalities.
