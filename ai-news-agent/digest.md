@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-28 20:01
+
+- **[Why Agents Love Supabase](https://latent.space/p/supabase/)** (Latent Space, 7/10) - Paul Copplestone and Ant Wilson released a guide showing how to use Supabase as the database and auth layer for AI agents. The walkthrough lets developers add persistent storage and user management to agents quickly, avoiding custom backend code.
+
 ## 2026-10-28 19:31
 
 - **[Anthropic just launched tools to show companies what their AI spending is buying](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/)** (TechCrunch AI, 6/10) - Anthropic introduced new cost-analytics tools for enterprise accounts to track token consumption and API spending. This helps software teams monitor usage patterns and manage the operational costs of running Claude models.
