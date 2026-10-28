@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-28 01:31
+
+- **[Release v0.67.0-nightly.20261028.gfa5c17365](https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0-nightly.20261028.gfa5c17365)** (Gemini CLI releases, 7/10) - The Gemini command‑line interface (CLI) was updated to version 0.67.0‑nightly, fixing how it finds system files on Android Termux and normalizing Windows line endings before showing code differences. This makes the tool run more reliably on different platforms and gives developers accurate diff output when testing Gemini prompts from the terminal.
+
 ## 2026-10-28 00:31
 
 - **[A 1.3B OCR model just hit 93.68 on real-world document parsing and there's now an AI judge for OCR errors](https://www.reddit.com/r/LocalLLaMA/comments/1xgx26j/a_13b_ocr_model_just_hit_9368_on_realworld/)** (Reddit LocalLLaMA, 7/10) - OpenBMB released MiniCPM-OCR, a 1.3-billion parameter open-source model for Optical Character Recognition (OCR) alongside a companion model that flags text extraction errors. This gives developers a fast, self-hostable option to accurately extract text from messy real-world documents without relying on paid APIs.
