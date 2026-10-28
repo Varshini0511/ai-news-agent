@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-28 07:35
+
+- **[Yardlet](https://www.producthunt.com/products/yardlet-2)** (Product Hunt, 6/10) - Yardlet released a Mac application designed to manage and run command-line AI coding agents within a dedicated desktop interface. It offers a streamlined workspace for developers looking to orchestrate and monitor multiple AI coding assistants locally.
+
 ## 2026-10-28 07:06
 
 - **[LFM3 by Liquid AI](https://www.producthunt.com/products/lfm2)** (Product Hunt, 8/10) - Liquid AI released LFM3, a series of six lightweight 2-billion parameter models designed specifically for edge devices like phones, laptops, and robots. This provides AI developers with fast, ultra-compact models for building low-latency, on-device applications.
