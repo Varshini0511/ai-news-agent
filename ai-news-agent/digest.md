@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-10-28 04:01
+
+- **[The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://arxiv.org/abs/2610.36077)** (arXiv cs.AI, 6/10) - The authors present a framework called “The Trinity” that lets multimodal AI agents improve themselves recursively by focusing on specific capabilities. This could inspire developers building self‑optimizing agents that handle text, images, and other modalities.
+- **[CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction](https://arxiv.org/abs/2610.36100)** (arXiv cs.AI, 6/10) - CohortFlow is a language‑model‑based agent that lets users adjust clinical study criteria without re‑running the whole pipeline. It demonstrates a steerable agent design useful for building adaptable data‑curation tools.
+- **[Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule](https://arxiv.org/abs/2610.36169)** (arXiv cs.AI, 6/10) - The study shows that when a language model’s internal knowledge conflicts with retrieved documents, using a learned prior is better than a fixed rule. This insight helps improve retrieval‑augmented generation systems that need to resolve contradictions.
+
 ## 2026-10-28 03:01
 
 - **[AOS-Bench: Can LLM Agents Manage Dynamic Workloads?](https://arxiv.org/abs/2610.33178)** (arXiv cs.AI, 7/10) - The paper introduces AOS‑Bench, a test suite that measures how well large‑language‑model agents handle multiple, overlapping tasks on the same machine. It helps developers see if their agents can stay responsive when users give them a stream of jobs like builds, data processing, or bug fixes.
