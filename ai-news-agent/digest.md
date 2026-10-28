@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-28 20:31
+
+- **[Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity](https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier)** (The Verge AI, 9/10) - Google unveiled Gemini 4 Carbon, a new multimodal model that claims better performance on code generation, autonomous agent tasks, and detecting security threats. Developers can access it via Google Cloud to build smarter assistants, code‑assist tools, or security‑focused applications.
+- **[OpenAI and ServiceNow expand partnership across enterprise workflows](https://openai.com/index/openai-servicenow-partnership-expansion)** (OpenAI Blog, 7/10) - OpenAI and ServiceNow announced that ServiceNow will embed OpenAI’s language models and agents directly into its workflow platform. This lets developers add AI‑powered chat, code generation, and automation to enterprise apps without building the models themselves.
+
 ## 2026-10-28 20:01
 
 - **[Why Agents Love Supabase](https://latent.space/p/supabase/)** (Latent Space, 7/10) - Paul Copplestone and Ant Wilson released a guide showing how to use Supabase as the database and auth layer for AI agents. The walkthrough lets developers add persistent storage and user management to agents quickly, avoiding custom backend code.
