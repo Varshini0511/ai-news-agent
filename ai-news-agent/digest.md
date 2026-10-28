@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-28 02:31
+
+- **[GEMS-RAG: Graph-grounded Engineering Multimodal Standards Retrieval-Augmented Generation](https://arxiv.org/abs/2610.33277)** (arXiv cs.AI, 6/10) - Researchers introduced GEMS-RAG, a retrieval-augmented generation (RAG) framework that uses knowledge graphs to index complex technical documents containing tables, figures, and cross-references. This offers a practical architectural pattern for developers building AI agents that need to accurately retrieve and reason over highly structured engineering standards.
+
 ## 2026-10-28 01:31
 
 - **[Release v0.67.0-nightly.20261028.gfa5c17365](https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0-nightly.20261028.gfa5c17365)** (Gemini CLI releases, 7/10) - The Gemini command‑line interface (CLI) was updated to version 0.67.0‑nightly, fixing how it finds system files on Android Termux and normalizing Windows line endings before showing code differences. This makes the tool run more reliably on different platforms and gives developers accurate diff output when testing Gemini prompts from the terminal.
