@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-28 15:01
+
+- **[NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary)** (Hugging Face, 7/10) - Hugging Face released the NVIDIA Nemotron 3.5 Transcribe model together with the Granary v2 dataset, offering a multilingual speech‑to‑text system that can be prompted and adapted. This lets developers add accurate, language‑agnostic transcription to their applications without training a model from scratch, using familiar open‑source tools.
+
 ## 2026-10-28 14:32
 
 - **[The Agent SDK](https://cursor.com/blog/agent-sdk)** (Hacker News, 7/10) - Developers released the Agent SDK, a specialized software development kit for building and orchestrating autonomous AI agents. It gives engineers standardized patterns to manage agent state, execute tools, and build reliable multi-step workflows.
