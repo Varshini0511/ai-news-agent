@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-29 09:01
+
+- **[I took EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MTEB Audio leaderboard (MAEB), beating 9B models by adding a 2.4 MB PCA head with zero training](https://www.reddit.com/r/LocalLLaMA/comments/1xhny7x/i_took_embeddinggemma2_577m_from_rank_26_to_1_on/)** (Reddit LocalLLaMA, 7/10) - An open-source developer boosted Google's small 577-million parameter EmbeddingGemma-2 model to the top of the Massive Audio Embedding Benchmark using a lightweight post-processing technique. This demonstrates how developers can vastly improve compact embedding models for fast audio search without expensive model retraining.
+
 ## 2026-10-29 08:01
 
 - **[MAO](https://www.producthunt.com/products/mao-multi-agentic-orchestration-tool)** (Product Hunt, 6/10) - MAO launched a multi-model canvas interface designed to run Claude Code, OpenAI Codex, and xAI Grok in one workspace. It helps developers orchestrate and compare outputs from different AI coding assistants simultaneously.
