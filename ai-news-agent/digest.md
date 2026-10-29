@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-29 06:01
+
+- **[[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders](https://latent.space/p/ainews-gemini-4-carbon/)** (Latent Space, 8/10) - Google announced Gemini 4 Carbon, a new AI model that tops independent evaluation benchmarks for cybersecurity tasks. It gives security-focused developers a specialized model for automated threat detection and defensive software workflows.
+
 ## 2026-10-29 03:31
 
 - **[Qwen4 1M context window](https://www.reddit.com/r/LocalLLaMA/comments/1xi7390/qwen4_1m_context_window/)** (Reddit LocalLLaMA, 8/10) - Qwen4 models are being announced with a context window that can hold up to one million tokens, meaning they can read and remember much larger pieces of text at once. This makes it easier for developers to build applications that need to work with long documents, codebases, or chat histories without chopping the input into many pieces.
