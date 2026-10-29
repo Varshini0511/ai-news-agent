@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-29 08:01
+
+- **[MAO](https://www.producthunt.com/products/mao-multi-agentic-orchestration-tool)** (Product Hunt, 6/10) - MAO launched a multi-model canvas interface designed to run Claude Code, OpenAI Codex, and xAI Grok in one workspace. It helps developers orchestrate and compare outputs from different AI coding assistants simultaneously.
+
 ## 2026-10-29 07:31
 
 - **[Suno MCP](https://www.producthunt.com/products/suno)** (Product Hunt, 6/10) - Suno MCP introduces a Model Context Protocol (MCP) server that connects Suno's audio generation engine to AI agents. This allows developers to let AI agents trigger and generate custom music programmatically using standardized context protocols.
