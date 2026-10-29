@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-29 16:31
+
+- **[Le Chonk is here](https://www.reddit.com/r/LocalLLaMA/comments/1xilhng/le_chonk_is_here/)** (Reddit LocalLLaMA, 7/10) - Le Chonk, a 1‑trillion‑parameter open‑source language model, was released on Hugging Face. Developers can run a very large model locally, which is useful for privacy‑focused or offline applications without relying on cloud APIs.
+- **[Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](https://news.ycombinator.com/item?id=50291116)** (Hacker News, 6/10) - Simantic, a Y‑Combinator startup, launched a platform that simulates firmware so AI agents can test hardware interactions before real deployment. It lets developers prototype agent‑hardware integrations faster and with fewer physical devices.
+
 ## 2026-10-29 16:01
 
 - **[Keplearn: Extract Equations from Data in Seconds](https://github.com/owls-on-wires/keplearn)** (Hacker News, 7/10) - Keplearn is an open‑source library that takes a dataset and automatically generates the mathematical equation that best fits the data in a few seconds. This lets developers quickly prototype models or understand relationships in their data without manually deriving formulas, saving time when building AI‑augmented analytics or feature‑engineering pipelines.
