@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-29 07:31
+
+- **[Suno MCP](https://www.producthunt.com/products/suno)** (Product Hunt, 6/10) - Suno MCP introduces a Model Context Protocol (MCP) server that connects Suno's audio generation engine to AI agents. This allows developers to let AI agents trigger and generate custom music programmatically using standardized context protocols.
+- **[Voxel51 Multimodal](https://www.producthunt.com/products/voxel51)** (Product Hunt, 6/10) - Voxel51 updated its computer vision platform with expanded multimodal data management features for robotics and spatial AI. It helps software engineers curate, visualize, and clean complex sensor datasets to improve model training.
+
 ## 2026-10-29 07:25
 
 - **[AssemblyAI](https://www.producthunt.com/products/assemblyai)** (Product Hunt, 7/10) - AssemblyAI released a new low-latency text-to-speech API optimized specifically for conversational voice agents. This provides developers with a dedicated streaming audio engine for building real-time, interactive voice applications.
