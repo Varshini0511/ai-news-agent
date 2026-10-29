@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-29 22:01
+
+- **[We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)** (Hacker News, 6/10) - Developers experimented with deploying multi-agent AI swarms to play complex sandbox games like Minecraft and Mindustry. This provides practical insights into orchestrating autonomous agents and managing task planning in dynamic environments.
+
 ## 2026-10-29 21:01
 
 - **[A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)** (Hacker News, 6/10) - A researcher demonstrated a world model that can play simple games on a Raspberry Pi Pico 2 W, a microcontroller with only a few megabytes of RAM. This shows that very small AI models can run on cheap hardware, which helps developers experiment with edge‑AI or embed intelligence in IoT devices.
