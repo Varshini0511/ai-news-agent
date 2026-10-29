@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-29 20:31
+
+- **[New offer: Google AI plans](https://one.google.com/about/google-ai-plans/)** (Google AI plans, 8/10) - Google is offering one year of Google AI Pro for free, with an option to add YouTube Premium for $8.99 per month
+
 ## 2026-10-29 20:01
 
 - **[IgE disruptor for food allergy with Claude-enabled antibody design [pdf]](https://divergencelabs.com/publications/ige-preprint.pdf)** (Hacker News, 7/10) - Researchers used Anthropic's Claude language model to design antibodies that block IgE, a protein that triggers food allergies. This demonstrates a practical way to use large language models for protein‑engineering tasks that AI builders can replicate for other biotech problems.
