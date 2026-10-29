@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-29 20:01
+
+- **[IgE disruptor for food allergy with Claude-enabled antibody design [pdf]](https://divergencelabs.com/publications/ige-preprint.pdf)** (Hacker News, 7/10) - Researchers used Anthropic's Claude language model to design antibodies that block IgE, a protein that triggers food allergies. This demonstrates a practical way to use large language models for protein‑engineering tasks that AI builders can replicate for other biotech problems.
+
 ## 2026-10-29 19:01
 
 - **[Kokoro can now clone any voice with just ~600 MB of extra VRAM!](https://www.reddit.com/r/LocalLLaMA/comments/1xiplj7/kokoro_can_now_clone_any_voice_with_just_600_mb/)** (Reddit LocalLLaMA, 6/10) - Developers have combined the lightweight Kokoro text-to-speech model with OpenVoice's tone converter to enable custom voice cloning using just 600 MB of VRAM. This provides a low-resource pipeline for adding personalized, local voice generation to AI agents without requiring heavy GPU infrastructure.
