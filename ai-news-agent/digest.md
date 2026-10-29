@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-29 23:31
+
+- **[Release: Swift 1.5 Flash Next - Heretic v2 - ReverseEngineer](https://www.reddit.com/r/LocalLLaMA/comments/1xix35p/release_swift_15_flash_next_heretic_v2/)** (Reddit LocalLLaMA, 6/10) - Open-source developers released Heretic v2 quantized weights for the Swift 1.5 Flash Next model. This gives developers running local Large Language Models (LLMs) a compressed version that maintains long output generation and reasoning capabilities.
+
 ## 2026-10-29 23:01
 
 - **[API credits benefit for eligible ChatGPT subscriptions](https://simonwillison.net/2026/Oct/29/api-credits/)** (Simon Willison, 7/10) - Anthropic announced that Max and Team subscribers will receive a monthly allocation of API credits worth $100, $200 or $500 that can be used with Anthropic’s models before they expire. This gives developers free compute each month, lowering the cost of experimenting with and building on Anthropic’s services.
