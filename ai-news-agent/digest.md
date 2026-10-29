@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-29 13:31
+
+- **[Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure](https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/)** (TechCrunch AI, 6/10) - Speech AI provider Deepgram acquired Daily, the company behind the popular open-source Pipecat framework for real-time voice agents. Deepgram committed to keeping Pipecat open source, providing stability for developers building interactive voice applications using the framework.
+- **[T3 Code v0.1.5](https://github.com/pingdotgg/t3code/releases/tag/v0.1.5)** (T3 Code releases, 6/10) - Open-source AI coding tool T3 Code released version 0.1.5 with support for Claude and GPT reasoning models and customizable thread limits. It provides developers using AI code editors with greater control over model selection and session context limits.
+
 ## 2026-10-29 12:31
 
 - **[Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](https://huggingface.co/blog/anydecisionmodel)** (Hugging Face, 7/10) - Hugging Face released two open‑source models – AnySpeechRecognizer for transcribing speech and AnyDecisionModel for making simple decisions – that run on Apple devices without needing a cloud API. They let developers add voice input or on‑device decision logic to iOS/macOS apps without paying for a third‑party service, which can lower latency and cost.
