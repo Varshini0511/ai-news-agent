@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-29 14:31
+
+- **[Le Chonk: Built for Coders, Trusted by Defenders.](https://mistral.ai/news/mistral-large-4-oss/)** (Mistral, 9/10) - Mistral officially released open weights for Mistral Large 4 (Le Chonk), a 1-trillion parameter multimodal model optimized for coding and complex tasks. This gives developers access to a powerful open-weight model that can be self-hosted for production coding agents and advanced automation pipelines.
+- **[Welcome Le Chonk: Mistral Large 4 on Hugging Face](https://huggingface.co/blog/mistral-large4)** (Hugging Face, 7/10) - Hugging Face now hosts Mistral Large 4, code-named Le Chonk, a massive open-weight multimodal model. Developers can now easily download, fine-tune, or serve the model using standard open-source libraries like Transformers and vLLM.
+
 ## 2026-10-29 14:01
 
 - **[Gemini 4 Carbon 🌱, Nemotron Transcribe 📝, benchmarker’s dilemma ❓](https://tldr.tech/ai/2026-10-29)** (TLDR AI, 8/10) - Google announced Gemini 4 Carbon, a version of its Gemini model designed to use less electricity while keeping performance, and Nemotron Transcribe, a new speech‑to‑text model with strong accuracy. Both give developers cheaper, greener options for language‑understanding and transcription services.
