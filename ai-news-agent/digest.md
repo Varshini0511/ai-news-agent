@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-29 09:31
+
+- **[Researchers Discover a Way to Reduce LLM Training Compute by 15% Without Sacrificing Quality](https://www.reddit.com/r/LocalLLaMA/comments/1xid3i8/researchers_discover_a_way_to_reduce_llm_training/)** (Reddit LocalLLaMA, 6/10) - Researchers introduced LIMe, a method that modifies layer interactions in Transformer architectures to reduce Large Language Model (LLM) training compute by 15% without loss of quality. This approach allows developers fine-tuning or training open-source models to lower their hardware costs and iteration times.
+
 ## 2026-10-29 09:01
 
 - **[I took EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MTEB Audio leaderboard (MAEB), beating 9B models by adding a 2.4 MB PCA head with zero training](https://www.reddit.com/r/LocalLLaMA/comments/1xhny7x/i_took_embeddinggemma2_577m_from_rank_26_to_1_on/)** (Reddit LocalLLaMA, 7/10) - An open-source developer boosted Google's small 577-million parameter EmbeddingGemma-2 model to the top of the Massive Audio Embedding Benchmark using a lightweight post-processing technique. This demonstrates how developers can vastly improve compact embedding models for fast audio search without expensive model retraining.
