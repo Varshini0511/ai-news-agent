@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-29 10:01
+
+- **[MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark](https://dmux.github.io/minilake/)** (Hacker News, 6/10) - MiniLake is an open-source local emulator for the Databricks API supporting Spark, SQL, and Delta Lake. It enables software engineers to develop and test data pipelines locally without incurring cloud infrastructure costs during development.
+
 ## 2026-10-29 09:31
 
 - **[Researchers Discover a Way to Reduce LLM Training Compute by 15% Without Sacrificing Quality](https://www.reddit.com/r/LocalLLaMA/comments/1xid3i8/researchers_discover_a_way_to_reduce_llm_training/)** (Reddit LocalLLaMA, 6/10) - Researchers introduced LIMe, a method that modifies layer interactions in Transformer architectures to reduce Large Language Model (LLM) training compute by 15% without loss of quality. This approach allows developers fine-tuning or training open-source models to lower their hardware costs and iteration times.
