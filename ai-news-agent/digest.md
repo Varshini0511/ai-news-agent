@@ -1,5 +1,12 @@
 # AI Digest
 
+## 2026-10-29 07:01
+
+- **[Gemini 4 Carbon](https://www.producthunt.com/products/gemini-4-carbon)** (Product Hunt, 9/10) - Gemini 4 Carbon is Google’s newest multimodal model designed for high performance with a lower carbon footprint. It gives developers stronger reasoning and vision abilities for building next‑generation AI applications.
+- **[Bernstein – open-source governance layer for AI agents](https://bernstein.run)** (Hacker News, 7/10) - Bernstein is an open‑source layer that lets you set policies and track what AI agents do. It helps developers keep agents safe, compliant, and easier to debug.
+- **[Floot in ChatGPT](https://www.producthunt.com/products/floot)** (Product Hunt, 7/10) - Floot in ChatGPT lets you create, test, and publish full applications without leaving the chat interface. It streamlines the entire development cycle, turning AI prompts directly into deployable software.
+- **[Confetti](https://www.producthunt.com/products/confetti-5)** (Product Hunt, 6/10) - Confetti lets you describe a hardware project in plain English and then generates the required designs and code. It lowers the barrier for prototyping physical devices with AI assistance.
+
 ## 2026-10-29 06:01
 
 - **[[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders](https://latent.space/p/ainews-gemini-4-carbon/)** (Latent Space, 8/10) - Google announced Gemini 4 Carbon, a new AI model that tops independent evaluation benchmarks for cybersecurity tasks. It gives security-focused developers a specialized model for automated threat detection and defensive software workflows.
