@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-29 23:01
+
+- **[API credits benefit for eligible ChatGPT subscriptions](https://simonwillison.net/2026/Oct/29/api-credits/)** (Simon Willison, 7/10) - Anthropic announced that Max and Team subscribers will receive a monthly allocation of API credits worth $100, $200 or $500 that can be used with Anthropic’s models before they expire. This gives developers free compute each month, lowering the cost of experimenting with and building on Anthropic’s services.
+
 ## 2026-10-29 22:31
 
 - **[UkisAI Swift GLM5.3 + GSQ-RCO, Swift Ornith 9B / -57.7% Token Usage with <1% accuracy loss on max reasoning](https://www.reddit.com/r/LocalLLaMA/comments/1xisqge/ukisai_swift_glm53_gsqrco_swift_ornith_9b_577/)** (Reddit LocalLLaMA, 6/10) - UkisAI released optimized versions of the GLM-5.3-Flash and Ornith 9B open-source models designed to eliminate redundant reasoning steps. This reduces token consumption by over 57% with less than 1% accuracy loss, making reasoning-heavy workflows faster and significantly cheaper to run.
