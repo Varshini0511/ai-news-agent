@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-29 22:31
+
+- **[UkisAI Swift GLM5.3 + GSQ-RCO, Swift Ornith 9B / -57.7% Token Usage with <1% accuracy loss on max reasoning](https://www.reddit.com/r/LocalLLaMA/comments/1xisqge/ukisai_swift_glm53_gsqrco_swift_ornith_9b_577/)** (Reddit LocalLLaMA, 6/10) - UkisAI released optimized versions of the GLM-5.3-Flash and Ornith 9B open-source models designed to eliminate redundant reasoning steps. This reduces token consumption by over 57% with less than 1% accuracy loss, making reasoning-heavy workflows faster and significantly cheaper to run.
+
 ## 2026-10-29 22:01
 
 - **[We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)** (Hacker News, 6/10) - Developers experimented with deploying multi-agent AI swarms to play complex sandbox games like Minecraft and Mindustry. This provides practical insights into orchestrating autonomous agents and managing task planning in dynamic environments.
