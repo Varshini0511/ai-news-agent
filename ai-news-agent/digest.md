@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-29 21:01
+
+- **[A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)** (Hacker News, 6/10) - A researcher demonstrated a world model that can play simple games on a Raspberry Pi Pico 2 W, a microcontroller with only a few megabytes of RAM. This shows that very small AI models can run on cheap hardware, which helps developers experiment with edge‑AI or embed intelligence in IoT devices.
+
 ## 2026-10-29 20:31
 
 - **[New offer: Google AI plans](https://one.google.com/about/google-ai-plans/)** (Google AI plans, 8/10) - Google is offering one year of Google AI Pro for free, with an option to add YouTube Premium for $8.99 per month
