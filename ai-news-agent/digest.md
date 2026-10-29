@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-29 17:01
+
+- **[How we detect frontier model misalignment](https://openai.com/index/how-we-detect-frontier-model-misalignment)** (OpenAI Blog, 6/10) - OpenAI detailed its multi-layered monitoring framework used to catch model misalignment and unintended actions in AI agents before they escalate. Studying these internal monitoring techniques helps developers design better safety evaluation pipelines and guardrails for their own autonomous agents.
+
 ## 2026-10-29 16:31
 
 - **[Le Chonk is here](https://www.reddit.com/r/LocalLLaMA/comments/1xilhng/le_chonk_is_here/)** (Reddit LocalLLaMA, 7/10) - Le Chonk, a 1‑trillion‑parameter open‑source language model, was released on Hugging Face. Developers can run a very large model locally, which is useful for privacy‑focused or offline applications without relying on cloud APIs.
