@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-29 12:31
+
+- **[Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](https://huggingface.co/blog/anydecisionmodel)** (Hugging Face, 7/10) - Hugging Face released two open‑source models – AnySpeechRecognizer for transcribing speech and AnyDecisionModel for making simple decisions – that run on Apple devices without needing a cloud API. They let developers add voice input or on‑device decision logic to iOS/macOS apps without paying for a third‑party service, which can lower latency and cost.
+
 ## 2026-10-29 10:01
 
 - **[MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark](https://dmux.github.io/minilake/)** (Hacker News, 6/10) - MiniLake is an open-source local emulator for the Databricks API supporting Spark, SQL, and Delta Lake. It enables software engineers to develop and test data pipelines locally without incurring cloud infrastructure costs during development.
