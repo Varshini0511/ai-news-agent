@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-29 16:01
+
+- **[Keplearn: Extract Equations from Data in Seconds](https://github.com/owls-on-wires/keplearn)** (Hacker News, 7/10) - Keplearn is an open‑source library that takes a dataset and automatically generates the mathematical equation that best fits the data in a few seconds. This lets developers quickly prototype models or understand relationships in their data without manually deriving formulas, saving time when building AI‑augmented analytics or feature‑engineering pipelines.
+
 ## 2026-10-29 15:01
 
 - **[mistralai/Mistral-Large-4-1T-A52B · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xil58b/mistralaimistrallarge41ta52b_hugging_face/)** (Reddit LocalLLaMA, 8/10) - Mistral released a 4‑billion‑parameter model called Mistral‑Large‑4‑1T‑A52B, available in GGUF format for easy local inference. Builders can run a powerful language model on consumer hardware without cloud costs.
