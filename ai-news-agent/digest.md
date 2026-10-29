@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-29 07:25
+
+- **[AssemblyAI](https://www.producthunt.com/products/assemblyai)** (Product Hunt, 7/10) - AssemblyAI released a new low-latency text-to-speech API optimized specifically for conversational voice agents. This provides developers with a dedicated streaming audio engine for building real-time, interactive voice applications.
+
 ## 2026-10-29 07:01
 
 - **[Gemini 4 Carbon](https://www.producthunt.com/products/gemini-4-carbon)** (Product Hunt, 9/10) - Gemini 4 Carbon is Google’s newest multimodal model designed for high performance with a lower carbon footprint. It gives developers stronger reasoning and vision abilities for building next‑generation AI applications.
