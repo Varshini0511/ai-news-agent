@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-29 19:01
+
+- **[Kokoro can now clone any voice with just ~600 MB of extra VRAM!](https://www.reddit.com/r/LocalLLaMA/comments/1xiplj7/kokoro_can_now_clone_any_voice_with_just_600_mb/)** (Reddit LocalLLaMA, 6/10) - Developers have combined the lightweight Kokoro text-to-speech model with OpenVoice's tone converter to enable custom voice cloning using just 600 MB of VRAM. This provides a low-resource pipeline for adding personalized, local voice generation to AI agents without requiring heavy GPU infrastructure.
+
 ## 2026-10-29 18:01
 
 - **[rust-v0.166.0](https://github.com/openai/codex/releases/tag/rust-v0.166.0)** (OpenAI Codex releases, 7/10) - OpenAI released version 0.166.0 of its Rust client library for the Codex code‑generation model. The update adds new endpoints and bug fixes, letting Rust developers more easily call Codex to generate or complete code from their programs.
