@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-10-29 15:01
+
+- **[mistralai/Mistral-Large-4-1T-A52B · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xil58b/mistralaimistrallarge41ta52b_hugging_face/)** (Reddit LocalLLaMA, 8/10) - Mistral released a 4‑billion‑parameter model called Mistral‑Large‑4‑1T‑A52B, available in GGUF format for easy local inference. Builders can run a powerful language model on consumer hardware without cloud costs.
+- **[HemmingwayAI/Hemmingway-1.5 (Qwen finetune)](https://www.reddit.com/r/LocalLLaMA/comments/1xif7hy/hemmingwayaihemmingway15_qwen_finetune/)** (Reddit LocalLLaMA, 7/10) - Hemmingway‑1.5, a 27‑billion‑parameter model fine‑tuned from Qwen, was released with open weights for non‑commercial use. It provides a high‑quality text generation option that can be integrated into applications for free.
+- **[Blazor Welcomes Open-Source Contributions from Syncfusion](https://devblogs.microsoft.com/dotnet/blazor-welcomes-syncfusion/)** (.NET Blog, 7/10) - Microsoft and Syncfusion announced new open‑source components and tooling contributions to Blazor, the .NET web UI framework. .NET developers can now use free, community‑maintained UI controls to speed up building web apps.
+
 ## 2026-10-29 14:34
 
 - **[PSA: REA taught Claude how to read binaries. Now let it touch the live process](https://www.reddit.com/r/ClaudeAI/comments/1xi0lyr/psa_rea_taught_claude_how_to_read_binaries_now/)** (r/ClaudeAI, 7/10) - A developer released Exoproc, an open‑source server that lets Claude communicate via the Model Connect Protocol (MCP) over standard input/output, so Claude can inspect a live program’s memory instead of only static code. This makes it easier for engineers to build debugging assistants or agents that can act on real‑time execution data.
