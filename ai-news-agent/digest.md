@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-29 18:01
+
+- **[rust-v0.166.0](https://github.com/openai/codex/releases/tag/rust-v0.166.0)** (OpenAI Codex releases, 7/10) - OpenAI released version 0.166.0 of its Rust client library for the Codex code‑generation model. The update adds new endpoints and bug fixes, letting Rust developers more easily call Codex to generate or complete code from their programs.
+
 ## 2026-10-29 17:31
 
 - **[SafeAgents: an open-source proxy that checks every tool call your coding agent makes before it runs](https://www.reddit.com/r/LocalLLaMA/comments/1xii45s/safeagents_an_opensource_proxy_that_checks_every/)** (Reddit LocalLLaMA, 8/10) - SafeAgents is an open‑source proxy that sits between a coding agent and the model server, checking each tool call and replacing disallowed calls with a short notice. This adds a safety gate for developers who embed code‑generating agents, preventing accidental execution of harmful commands.
