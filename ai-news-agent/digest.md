@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-29 03:31
+
+- **[Qwen4 1M context window](https://www.reddit.com/r/LocalLLaMA/comments/1xi7390/qwen4_1m_context_window/)** (Reddit LocalLLaMA, 8/10) - Qwen4 models are being announced with a context window that can hold up to one million tokens, meaning they can read and remember much larger pieces of text at once. This makes it easier for developers to build applications that need to work with long documents, codebases, or chat histories without chopping the input into many pieces.
+
 ## 2026-10-28 22:31
 
 - **[rust-v0.166.0-alpha.6](https://github.com/openai/codex/releases/tag/rust-v0.166.0-alpha.6)** (OpenAI Codex releases, 7/10) - OpenAI released version 0.166.0‑alpha.6 of its Codex library for the Rust programming language. The update adds new code‑completion features that can speed up Rust development and help engineers integrate AI‑generated code into their projects.
