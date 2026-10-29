@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-10-29 14:01
+
+- **[Gemini 4 Carbon 🌱, Nemotron Transcribe 📝, benchmarker’s dilemma ❓](https://tldr.tech/ai/2026-10-29)** (TLDR AI, 8/10) - Google announced Gemini 4 Carbon, a version of its Gemini model designed to use less electricity while keeping performance, and Nemotron Transcribe, a new speech‑to‑text model with strong accuracy. Both give developers cheaper, greener options for language‑understanding and transcription services.
+- **[Granite Switch 4.1.1 — Update models like you update software](https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1)** (Hugging Face, 7/10) - Hugging Face released Granite Switch 4.1.1, a patched version of its Granite model series with bug fixes and speed gains. Developers can drop the new file into their projects and get better results without retraining their code.
+- **[pruned NVIDIA's new 30B speech LLM from 67.5GB to 10GB with zero retraining, it still transcribes at 5.16% WER (teacher: 4.12%)](https://www.reddit.com/r/LocalLLaMA/comments/1xibujk/pruned_nvidias_new_30b_speech_llm_from_675gb_to/)** (Reddit LocalLLaMA, 6/10) - A Reddit user showed how to prune NVIDIA's new 30‑billion‑parameter speech model from 67.5 GB to 10 GB without any extra training, still delivering a word‑error‑rate of about 5 % (the original was 4 %). This lets engineers run a high‑quality speech recognizer on much cheaper hardware.
+
 ## 2026-10-29 13:31
 
 - **[Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure](https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/)** (TechCrunch AI, 6/10) - Speech AI provider Deepgram acquired Daily, the company behind the popular open-source Pipecat framework for real-time voice agents. Deepgram committed to keeping Pipecat open source, providing stability for developers building interactive voice applications using the framework.
