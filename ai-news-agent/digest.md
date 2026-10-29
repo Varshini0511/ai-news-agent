@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-29 14:34
+
+- **[PSA: REA taught Claude how to read binaries. Now let it touch the live process](https://www.reddit.com/r/ClaudeAI/comments/1xi0lyr/psa_rea_taught_claude_how_to_read_binaries_now/)** (r/ClaudeAI, 7/10) - A developer released Exoproc, an open‑source server that lets Claude communicate via the Model Connect Protocol (MCP) over standard input/output, so Claude can inspect a live program’s memory instead of only static code. This makes it easier for engineers to build debugging assistants or agents that can act on real‑time execution data.
+
 ## 2026-10-29 14:31
 
 - **[Le Chonk: Built for Coders, Trusted by Defenders.](https://mistral.ai/news/mistral-large-4-oss/)** (Mistral, 9/10) - Mistral officially released open weights for Mistral Large 4 (Le Chonk), a 1-trillion parameter multimodal model optimized for coding and complex tasks. This gives developers access to a powerful open-weight model that can be self-hosted for production coding agents and advanced automation pipelines.
