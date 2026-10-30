@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-30 17:31
+
+- **[Show HN: Spinf-serve – inference server for bulk scoring and decisions](https://github.com/spinfinc/spinf-serve)** (Hacker News, 7/10) - Developers released Spinf-serve, an open-source inference server designed specifically for high-throughput batch predictions and decision-making logic. It provides engineers with a lightweight tool to run bulk model evaluation efficiently without the overhead of heavy enterprise serving platforms.
+
 ## 2026-10-30 17:01
 
 - **[A Working Nintendo in ~1GB of Qwen Weights](https://github.com/dbreunig/nesformer)** (Hacker News, 6/10) - A community post showed that the Qwen language model can be quantized to roughly 1 GB of weights and still run a simple Nintendo‑style game. It proves that fairly capable LLMs can be deployed on low‑end hardware, opening possibilities for cheap, on‑device AI agents and offline experimentation.
