@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-30 00:01
+
+- **[Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)** (Hacker News, 6/10) - A developer trained a transformer-based neural network to simulate and render the video game DOOM in real time. This project provides a creative hands-on example of how generative models can act as interactive world simulators rather than just text processors.
+
 ## 2026-10-29 23:31
 
 - **[Release: Swift 1.5 Flash Next - Heretic v2 - ReverseEngineer](https://www.reddit.com/r/LocalLLaMA/comments/1xix35p/release_swift_15_flash_next_heretic_v2/)** (Reddit LocalLLaMA, 6/10) - Open-source developers released Heretic v2 quantized weights for the Swift 1.5 Flash Next model. This gives developers running local Large Language Models (LLMs) a compressed version that maintains long output generation and reasoning capabilities.
