@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-30 08:01
+
+- **[T3 Code Nightly 0.1.6-nightly.20261030.3917 (97e35bcf23e4)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.6-nightly.20261030.3917)** (T3 Code releases, 6/10) - T3 Code released a nightly update that lets developers connect AI provider credentials to secure secret managers and force-stop unresponsive agents. This helps developers handle API keys securely and better control runaway AI agents during development.
+
 ## 2026-10-30 07:31
 
 - **[fastbrowse](https://www.producthunt.com/products/fastbrowse)** (Product Hunt, 6/10) - Fastbrowse is an open-source browser agent designed for high-speed automated web navigation and task execution. It provides developers with a ready-to-use codebase for building web-scraping pipelines and web-interacting AI agents.
