@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-30 13:31
+
+- **[Gemma-4-31B-Humanlike-Chat: 2.0's improved human voice on official Gemma 4 31B](https://www.reddit.com/r/LocalLLaMA/comments/1xjdjy0/gemma431bhumanlikechat_20s_improved_human_voice/)** (Reddit LocalLLaMA, 7/10) - A community‑maintained fine‑tuned version of the Gemma 4 31‑billion‑parameter model, called Gemma‑4‑31B‑Humanlike‑Chat 2.0, was released on the GGUF repository and has already been downloaded over 130 k times. This gives developers a ready‑to‑use, chat‑optimized LLM that runs locally, so they can add human‑like conversational abilities to apps without depending on a cloud API.
+
 ## 2026-10-30 10:01
 
 - **[ServiceNow-AI/Apriel-Voice-27B-preview · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xipftk/servicenowaiaprielvoice27bpreview_hugging_face/)** (Reddit LocalLLaMA, 7/10) - ServiceNow released Apriel Voice 27B, an open-source multimodal model that processes spoken audio, performs reasoning, and triggers tool calls within a unified architecture. It allows developers to build low-latency, voice-interactive agents using open weights rather than relying on proprietary voice APIs.
