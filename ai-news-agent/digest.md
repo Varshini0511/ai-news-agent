@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-30 19:01
+
+- **[PSA: Upgrade Flash Next to DFlash2 if you haven't! +17% on average](https://www.reddit.com/r/LocalLLaMA/comments/1xjlgm4/psa_upgrade_flash_next_to_dflash2_if_you_havent/)** (Reddit LocalLLaMA, 7/10) - The DFlash2 quantized version of the Qwen3.8‑Flash‑Next model is now supported in the llama.cpp library version 0.8.0. This lets developers run the model about 17 % faster on ordinary CPUs or GPUs without using proprietary tools.
+
 ## 2026-10-30 18:01
 
 - **[nemotron-halloween](https://huggingface.co/blog/nvidia/nemotron-halloween)** (Hugging Face, 7/10) - Hugging Face released a new open‑source language model called “nemotron-halloween”. It can be downloaded and run locally, giving developers a free model to experiment with for chat or text‑generation projects.
