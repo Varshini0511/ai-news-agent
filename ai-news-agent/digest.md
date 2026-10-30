@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-30 21:31
+
+- **[Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL](https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py)** (Hacker News, 7/10) - A new tool can generate a FlashAttention kernel from roughly 25 lines of SQL code. This lets developers create high‑speed attention operations without writing low‑level CUDA, speeding up model training and inference.
+- **[Show HN: Ultrafast Rust Based ADE](https://trypalomino.com/)** (Hacker News, 6/10) - An ultrafast Rust library called ADE was released for automatic differentiation. Rust’s speed and safety let the library accelerate gradient‑based training loops for custom models.
+
 ## 2026-10-30 20:01
 
 - **[Sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/)** (Hacker News, 6/10) - Researchers introduced the Sleep framework, a new technique that mimics biological sleep to help Large Language Models (LLMs) retain past knowledge during fine-tuning. This approach helps mitigate catastrophic forgetting, making it easier to continually update custom AI models with new data without expensive full retraining.
