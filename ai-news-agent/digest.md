@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-30 15:01
+
+- **[Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)** (Hacker News, 6/10) - A malicious extension impersonating Anthropic's Claude Code tool was discovered on third-party extension marketplaces like Open VSX used by Cursor. Developers should audit their AI coding environment extensions to prevent credential theft and supply chain attacks.
+
 ## 2026-10-30 14:31
 
 - **[Introducing DeepSeek-V4.1-Flash-1017 Dynamic v3.1 Unsloth GGUFs](https://www.reddit.com/r/LocalLLaMA/comments/1xjfuqh/introducing_deepseekv41flash1017_dynamic_v31/)** (Reddit LocalLLaMA, 7/10) - DeepSeek released a new quantized version of its V4.1 model called Flash‑1017 Dynamic v3.1 in GGUF format, which keeps most of the original accuracy while being far smaller. This lets developers run a strong language model on modest hardware, making experimentation and on‑device apps more affordable.
