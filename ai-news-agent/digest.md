@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-30 14:31
+
+- **[Introducing DeepSeek-V4.1-Flash-1017 Dynamic v3.1 Unsloth GGUFs](https://www.reddit.com/r/LocalLLaMA/comments/1xjfuqh/introducing_deepseekv41flash1017_dynamic_v31/)** (Reddit LocalLLaMA, 7/10) - DeepSeek released a new quantized version of its V4.1 model called Flash‑1017 Dynamic v3.1 in GGUF format, which keeps most of the original accuracy while being far smaller. This lets developers run a strong language model on modest hardware, making experimentation and on‑device apps more affordable.
+
 ## 2026-10-30 13:31
 
 - **[Gemma-4-31B-Humanlike-Chat: 2.0's improved human voice on official Gemma 4 31B](https://www.reddit.com/r/LocalLLaMA/comments/1xjdjy0/gemma431bhumanlikechat_20s_improved_human_voice/)** (Reddit LocalLLaMA, 7/10) - A community‑maintained fine‑tuned version of the Gemma 4 31‑billion‑parameter model, called Gemma‑4‑31B‑Humanlike‑Chat 2.0, was released on the GGUF repository and has already been downloaded over 130 k times. This gives developers a ready‑to‑use, chat‑optimized LLM that runs locally, so they can add human‑like conversational abilities to apps without depending on a cloud API.
