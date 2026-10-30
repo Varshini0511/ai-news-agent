@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-30 19:31
+
+- **[T3 Code Nightly 0.1.6-nightly.20261030.3940 (ae521d1d796c)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.6-nightly.20261030.3940)** (T3 Code releases, 6/10) - T3 Code released a nightly build (v0.1.6) that adds back/forward navigation in the desktop app, a diff pane for reviewing local commits, and the ability to import terminal Pi sessions during setup, plus a fix for displaying the correct tunnel limit. These improvements make the AI‑enhanced development environment easier to use and more reliable for building and testing code.
+
 ## 2026-10-30 19:01
 
 - **[PSA: Upgrade Flash Next to DFlash2 if you haven't! +17% on average](https://www.reddit.com/r/LocalLLaMA/comments/1xjlgm4/psa_upgrade_flash_next_to_dflash2_if_you_havent/)** (Reddit LocalLLaMA, 7/10) - The DFlash2 quantized version of the Qwen3.8‑Flash‑Next model is now supported in the llama.cpp library version 0.8.0. This lets developers run the model about 17 % faster on ordinary CPUs or GPUs without using proprietary tools.
