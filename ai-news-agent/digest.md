@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-30 22:31
+
+- **[dbreunig/nesformer](https://simonwillison.net/2026/Oct/30/nesformer/)** (Simon Willison, 6/10) - Developer Drew Breunig fine-tuned a 4-billion parameter Qwen open-source model to act as a 6502 CPU emulator that runs Nintendo Entertainment System (NES) games directly within its weights. It provides a practical demonstration of how Large Language Models (LLMs) can encode and execute complex deterministic state machines.
+
 ## 2026-10-30 22:01
 
 - **[vLLM now has PLE disk offload support on nightly](https://www.reddit.com/r/LocalLLaMA/comments/1xjpbcg/vllm_now_has_ple_disk_offload_support_on_nightly/)** (Reddit LocalLLaMA, 7/10) - The vLLM inference library added PLE (Paged Large Embedding) disk‑offload support, allowing parts of a model’s memory to be swapped to SSD during runtime. Developers can now run larger language models on machines with limited GPU RAM without needing extra hardware.
