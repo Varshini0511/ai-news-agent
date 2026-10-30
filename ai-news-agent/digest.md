@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-30 22:01
+
+- **[vLLM now has PLE disk offload support on nightly](https://www.reddit.com/r/LocalLLaMA/comments/1xjpbcg/vllm_now_has_ple_disk_offload_support_on_nightly/)** (Reddit LocalLLaMA, 7/10) - The vLLM inference library added PLE (Paged Large Embedding) disk‑offload support, allowing parts of a model’s memory to be swapped to SSD during runtime. Developers can now run larger language models on machines with limited GPU RAM without needing extra hardware.
+- **[rust-v0.167.0-alpha.1](https://github.com/openai/codex/releases/tag/rust-v0.167.0-alpha.1)** (OpenAI Codex releases, 6/10) - OpenAI released rust‑v0.167.0‑alpha.1 of its Codex SDK, bringing new API endpoints and bug fixes for Rust developers. It simplifies adding OpenAI code‑completion features to Rust applications and services.
+
 ## 2026-10-30 21:31
 
 - **[Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL](https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py)** (Hacker News, 7/10) - A new tool can generate a FlashAttention kernel from roughly 25 lines of SQL code. This lets developers create high‑speed attention operations without writing low‑level CUDA, speeding up model training and inference.
