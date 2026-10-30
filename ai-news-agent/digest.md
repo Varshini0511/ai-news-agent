@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-30 20:01
+
+- **[Sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/)** (Hacker News, 6/10) - Researchers introduced the Sleep framework, a new technique that mimics biological sleep to help Large Language Models (LLMs) retain past knowledge during fine-tuning. This approach helps mitigate catastrophic forgetting, making it easier to continually update custom AI models with new data without expensive full retraining.
+
 ## 2026-10-30 19:31
 
 - **[T3 Code Nightly 0.1.6-nightly.20261030.3940 (ae521d1d796c)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.6-nightly.20261030.3940)** (T3 Code releases, 6/10) - T3 Code released a nightly build (v0.1.6) that adds back/forward navigation in the desktop app, a diff pane for reviewing local commits, and the ability to import terminal Pi sessions during setup, plus a fix for displaying the correct tunnel limit. These improvements make the AI‑enhanced development environment easier to use and more reliable for building and testing code.
