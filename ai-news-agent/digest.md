@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-30 16:31
+
+- **[Qwen4!](https://www.reddit.com/r/LocalLLaMA/comments/1xjhwc3/qwen4/)** (Reddit LocalLLaMA, 9/10) - Qwen‑4, a new 120‑billion‑parameter open‑source language model specialized for code, was announced and its code‑focused branch was added to the project repository. Developers can now run a very large, free model locally for code completion, generation, and fine‑tuning, avoiding the need for paid cloud APIs.
+
 ## 2026-10-30 15:01
 
 - **[Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)** (Hacker News, 6/10) - A malicious extension impersonating Anthropic's Claude Code tool was discovered on third-party extension marketplaces like Open VSX used by Cursor. Developers should audit their AI coding environment extensions to prevent credential theft and supply chain attacks.
