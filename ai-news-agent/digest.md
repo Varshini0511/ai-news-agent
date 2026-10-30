@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-30 10:01
+
+- **[ServiceNow-AI/Apriel-Voice-27B-preview · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xipftk/servicenowaiaprielvoice27bpreview_hugging_face/)** (Reddit LocalLLaMA, 7/10) - ServiceNow released Apriel Voice 27B, an open-source multimodal model that processes spoken audio, performs reasoning, and triggers tool calls within a unified architecture. It allows developers to build low-latency, voice-interactive agents using open weights rather than relying on proprietary voice APIs.
+
 ## 2026-10-30 08:01
 
 - **[T3 Code Nightly 0.1.6-nightly.20261030.3917 (97e35bcf23e4)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.6-nightly.20261030.3917)** (T3 Code releases, 6/10) - T3 Code released a nightly update that lets developers connect AI provider credentials to secure secret managers and force-stop unresponsive agents. This helps developers handle API keys securely and better control runaway AI agents during development.
