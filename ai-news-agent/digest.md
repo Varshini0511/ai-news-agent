@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-30 07:31
+
+- **[fastbrowse](https://www.producthunt.com/products/fastbrowse)** (Product Hunt, 6/10) - Fastbrowse is an open-source browser agent designed for high-speed automated web navigation and task execution. It provides developers with a ready-to-use codebase for building web-scraping pipelines and web-interacting AI agents.
+
 ## 2026-10-30 07:01
 
 - **[WebAnything: From the Wild Web to Scalable Agent Environments](https://arxiv.org/abs/2610.37786)** (arXiv cs.AI, 6/10) - WebAnything automatically converts live web pages into scalable, executable, and resettable environments for training web-browsing agents. This helps developers reliably build and evaluate autonomous agents against real-world web interactions without manual site engineering.
