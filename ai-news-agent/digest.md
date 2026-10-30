@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-10-30 18:01
+
+- **[nemotron-halloween](https://huggingface.co/blog/nvidia/nemotron-halloween)** (Hugging Face, 7/10) - Hugging Face released a new open‑source language model called “nemotron-halloween”. It can be downloaded and run locally, giving developers a free model to experiment with for chat or text‑generation projects.
+- **[sensenova/SenseNova-Loop-9B-Preview · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xje5oo/sensenovasensenovaloop9bpreview_hugging_face/)** (Reddit LocalLLaMA, 7/10) - The community‑uploaded model SenseNova‑Loop‑9B‑Preview is a 9‑billion‑parameter multimodal LLM that accepts both text and images and supports long context windows. It is built for agent‑style workflows such as document understanding, code assistance, and tool interaction, so developers can use a single model for many tasks.
+- **[[Paper] Multi-Token Prediction Done Right - Soft-MTP](https://www.reddit.com/r/LocalLLaMA/comments/1xjc8q3/paper_multitoken_prediction_done_right_softmtp/)** (Reddit LocalLLaMA, 6/10) - A new research paper titled “Multi‑Token Prediction Done Right” points out a problem in common multi‑token training and proposes a fix called Soft‑MTP. The improvement can make speculative decoding faster and more reliable for anyone fine‑tuning or deploying large language models.
+
 ## 2026-10-30 17:31
 
 - **[Show HN: Spinf-serve – inference server for bulk scoring and decisions](https://github.com/spinfinc/spinf-serve)** (Hacker News, 7/10) - Developers released Spinf-serve, an open-source inference server designed specifically for high-throughput batch predictions and decision-making logic. It provides engineers with a lightweight tool to run bulk model evaluation efficiently without the overhead of heavy enterprise serving platforms.
