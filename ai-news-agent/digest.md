@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-30 01:31
+
+- **[v2.1.314](https://github.com/anthropics/claude-code/releases/tag/v2.1.314)** (Claude Code releases, 6/10) - Claude Code released version 2.1.314, adding a permission setting that blocks AI file edits outside designated working directories. This gives developers finer security controls to prevent coding agents from accidentally modifying unrelated system files.
+
 ## 2026-10-30 00:01
 
 - **[Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)** (Hacker News, 6/10) - A developer trained a transformer-based neural network to simulate and render the video game DOOM in real time. This project provides a creative hands-on example of how generative models can act as interactive world simulators rather than just text processors.
