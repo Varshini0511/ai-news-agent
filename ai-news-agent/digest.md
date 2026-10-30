@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-30 17:01
+
+- **[A Working Nintendo in ~1GB of Qwen Weights](https://github.com/dbreunig/nesformer)** (Hacker News, 6/10) - A community post showed that the Qwen language model can be quantized to roughly 1 GB of weights and still run a simple Nintendo‑style game. It proves that fairly capable LLMs can be deployed on low‑end hardware, opening possibilities for cheap, on‑device AI agents and offline experimentation.
+
 ## 2026-10-30 16:31
 
 - **[Qwen4!](https://www.reddit.com/r/LocalLLaMA/comments/1xjhwc3/qwen4/)** (Reddit LocalLLaMA, 9/10) - Qwen‑4, a new 120‑billion‑parameter open‑source language model specialized for code, was announced and its code‑focused branch was added to the project repository. Developers can now run a very large, free model locally for code completion, generation, and fine‑tuning, avoiding the need for paid cloud APIs.
