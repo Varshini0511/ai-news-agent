@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-31 08:01
+
+- **[T3 Code Nightly 0.1.6-nightly.20261031.3969 (e5909e53c32a)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.6-nightly.20261031.3969)** (T3 Code releases, 6/10) - T3 Code released a nightly update featuring side-chat capabilities and token count tracking against context limits. This helps developers manage Large Language Model (LLM) context windows more effectively while coding without cluttering main discussion threads.
+- **[Agnos](https://www.producthunt.com/products/agnos)** (Product Hunt, 6/10) - Agnos launched a tool designed to clean raw documents for AI ingestion while visually tracking stripped-out content. This helps developers improve Retrieval-Augmented Generation (RAG) quality by removing document noise before sending text to LLMs.
+
 ## 2026-10-31 07:31
 
 - **[GitHub Copilot Fusion](https://www.producthunt.com/products/github-copilot-fusion)** (Product Hunt, 8/10) - GitHub launched Copilot Fusion, an AI coding agent that dynamically selects and orchestrates multiple underlying models depending on the specific task context. It helps developers achieve better accuracy and speed by automatically pairing complex tasks like planning or debugging with the optimal model.
