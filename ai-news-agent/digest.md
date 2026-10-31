@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-31 23:31
+
+- **[T3 Code Nightly 0.1.7-nightly.20261031.4004 (54c5f2524996)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.7-nightly.20261031.4004)** (T3 Code releases, 7/10) - The T3 Code VS Code extension released a nightly update (0.1.7‑nightly) that fixes a UI glitch where the model picker would jump when its label changed. The fix keeps the picker steady, making it easier to switch models while writing code with AI assistance. This smoother experience speeds up developers’ AI‑augmented coding sessions.
+
 ## 2026-10-31 22:24
 
 - **[I built an app where my AI agents delegate to each other and only ask me when they're stuck](https://www.reddit.com/r/ClaudeAI/comments/1xkgzcu/i_built_an_app_where_my_ai_agents_delegate_to/)** (r/ClaudeAI, 6/10) - A developer created an orchestration app where multiple software agents automatically delegate tasks to each other and only ping the human when blocked. This project illustrates useful design patterns for context management and reducing developer overhead in multi-agent workflows.
