@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-31 16:31
+
+- **[Agents Prompt People: Using Agents for Long-Horizon Financial Work](https://latent.space/p/arca/)** (Latent Space, 7/10) - Arca’s AI team described how they built agents that keep memory across days to automate long‑running financial tasks. The approach shows developers how to add persistent state and custom control logic so agents can handle multi‑step workflows that stretch over weeks, useful for any application needing ongoing automation.
+
 ## 2026-10-31 16:01
 
 - **[Using Agents for Long-Horizon Financial Work — Aman Singh, Arca](https://latent.space/p/using_agents_for_long-horizon_financial_work_aman_singh_arca/)** (Latent Space, 7/10) - Aman Singh from Arca shared how his team built a custom AI agent framework with persistent context for complex financial tasks. This offers real-world design patterns for engineers building AI agents that must manage state and memory over long-running workflows.
