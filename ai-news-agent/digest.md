@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-31 20:31
+
+- **[Is your engine lobotomizing your model? Kinda, and I measured it](https://www.reddit.com/r/LocalLLaMA/comments/1xkbbqi/is_your_engine_lobotomizing_your_model_kinda_and/)** (Reddit LocalLLaMA, 7/10) - A Reddit user measured how some inference engines degrade local LLaMA model quality by applying extra quantization or aggressive speed‑up flags. Knowing this helps developers avoid hidden accuracy losses when running open‑source models on their own hardware.
+
 ## 2026-10-31 20:01
 
 - **[Betelgeuse running Qwen 3.8 Flash Next IQ4_XS at 24 tok/s on 2x8GB DDR4 (14 tok/s on a single 16GB stick) + RTX 3060 12GB — 0 dropped experts, 100% byte-exact](https://www.reddit.com/r/LocalLLaMA/comments/1xkh2ns/betelgeuse_running_qwen_38_flash_next_iq4_xs_at/)** (Reddit LocalLLaMA, 7/10) - A Reddit user reported running the Qwen‑3.8 model with 4‑bit IQ4_XS quantization on a dual‑GPU setup, achieving 24 tokens per second and no loss of model quality. This demonstrates that aggressive quantization can make large models usable on modest hardware, useful for developers testing locally.
