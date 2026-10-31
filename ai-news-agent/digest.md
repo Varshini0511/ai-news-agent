@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-31 13:01
+
+- **[LFM3-Omni-2B running locally in-browser on WebGPU](https://www.reddit.com/r/LocalLLaMA/comments/1xjkh59/lfm3omni2b_running_locally_inbrowser_on_webgpu/)** (Reddit LocalLLaMA, 7/10) - Developers demonstrated running Liquid AI's LFM3-Omni-2B multimodal model entirely inside a web browser using WebGPU for graphics card acceleration. This allows engineers to build zero-latency, privacy-focused web applications that process text, audio, and images locally without relying on backend API servers.
+
 ## 2026-10-31 11:01
 
 - **[T3 Code v0.1.6](https://github.com/pingdotgg/t3code/releases/tag/v0.1.6)** (T3 Code releases, 6/10) - T3 Code released version 0.1.6 of its AI code editor, adding side chats for quick questions and 1Password integration for credential management. These updates help developers handle API keys securely and test prompts without cluttering their main coding context.
