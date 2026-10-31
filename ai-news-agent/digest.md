@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-31 21:02
+
+- **[An LLM inside an LLM - Same guy who put a RISK-V CPU inside Qwen has now made Karpathy's stories260k run on an NPU compiled inside Qwen 3.5-4B's weights](https://www.reddit.com/r/LocalLLaMA/comments/1xkiuut/an_llm_inside_an_llm_same_guy_who_put_a_riskv_cpu/)** (Reddit LocalLLaMA, 7/10) - A GitHub repo adds a tiny CPU emulator inside the weights of the Qwen 3.5‑4B model, letting a second small language model run inside the first. This demonstrates a novel way to nest models, which could help developers experiment with ultra‑compact inference or model composition.
+
 ## 2026-10-31 20:31
 
 - **[Is your engine lobotomizing your model? Kinda, and I measured it](https://www.reddit.com/r/LocalLLaMA/comments/1xkbbqi/is_your_engine_lobotomizing_your_model_kinda_and/)** (Reddit LocalLLaMA, 7/10) - A Reddit user measured how some inference engines degrade local LLaMA model quality by applying extra quantization or aggressive speed‑up flags. Knowing this helps developers avoid hidden accuracy losses when running open‑source models on their own hardware.
