@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-31 14:31
+
+- **[Qwen3.8-Flash-Next on 2x RTX 5090 with 504 tok/s decode: QEngine 1.3.1 decodes ~1.5-1.9x faster than the next-best engine I've tried (numbers, caveats, and what still bites)](https://www.reddit.com/r/LocalLLaMA/comments/1xjx0ez/qwen38flashnext_on_2x_rtx_5090_with_504_toks/)** (Reddit LocalLLaMA, 6/10) - A developer benchmarked QEngine 1.3.1 running the Qwen open-source model on dual RTX 5090 graphics cards, achieving decoding speeds over 500 tokens per second. This provides practical performance data for developers looking to optimize local Large Language Model (LLM) inference speeds on consumer hardware.
+
 ## 2026-10-31 14:01
 
 - **[Betelgeuse: Running Qwen 3.8 Flash Next at 22 tok/s sustained (spiking to 48 tok/s) on an RTX 3060 12GB + 16GB DDR4 RAM 100% bit-exact!](https://www.reddit.com/r/LocalLLaMA/comments/1xk8s6z/betelgeuse_running_qwen_38_flash_next_at_22_toks/)** (Reddit LocalLLaMA, 7/10) - A Reddit user demonstrated that the Qwen 3.8 Flash Next model runs on an RTX 3060 12 GB GPU at about 22 tokens per second continuously, peaking at 48, with exact results. This shows that a multi‑billion‑parameter model can be run locally on consumer hardware, giving developers a concrete performance reference for building on‑device AI or low‑cost inference setups.
