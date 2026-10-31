@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-10-31 19:00
+
+- **[Claude Opus 5.5 can generate images even though it will initially say it can't.](https://www.reddit.com/r/ClaudeAI/comments/1xjxl4s/claude_opus_55_can_generate_images_even_though_it/)** (r/ClaudeAI, 7/10) - Anthropic's Opus 5.5 model now supports generating images, even though it initially reports that it cannot. This adds built‑in visual creation to Claude‑based applications, removing the need for a separate image‑generation service.
+- **[I love dogs, and now Claude Code does too.](https://www.reddit.com/r/ClaudeAI/comments/1xjr0ht/i_love_dogs_and_now_claude_code_does_too/)** (r/ClaudeAI, 7/10) - A pipeline combines a local YOLO detector with Claude Vision to pick the clearest dog photo from a video stream and label each animal. It demonstrates how to fuse edge‑device detection with Claude’s vision for automated pet‑monitoring apps.
+- **[If you’re letting Claude Code clean up your smart TV, do these things first](https://www.reddit.com/r/ClaudeAI/comments/1xk8apo/if_youre_letting_claude_code_clean_up_your_smart/)** (r/ClaudeAI, 6/10) - A detailed guide shows how to use Claude Code to remove unwanted apps from a smart TV while avoiding bricking the device. Developers can follow the safe‑mode steps to automate TV cleanup tasks reliably.
+
 ## 2026-10-31 17:31
 
 - **["Spent a lot on my rig but I can only run Gemma 4"](https://www.reddit.com/r/LocalLLaMA/comments/1xkcyn6/spent_a_lot_on_my_rig_but_i_can_only_run_gemma_4/)** (Reddit LocalLLaMA, 9/10) - Google launched a low‑Earth‑orbit satellite that carries four Tensor Processing Units (TPUs – chips built for AI calculations) and can generate about 1 kW of power to run AI inference in space. This shows a new way to serve AI models from orbit, which could lower latency for global users and open edge‑computing use cases.
