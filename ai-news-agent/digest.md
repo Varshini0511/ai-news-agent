@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-10-31 07:31
+
+- **[GitHub Copilot Fusion](https://www.producthunt.com/products/github-copilot-fusion)** (Product Hunt, 8/10) - GitHub launched Copilot Fusion, an AI coding agent that dynamically selects and orchestrates multiple underlying models depending on the specific task context. It helps developers achieve better accuracy and speed by automatically pairing complex tasks like planning or debugging with the optimal model.
+- **[telemetry.dev](https://www.producthunt.com/products/telemetry-dev)** (Product Hunt, 7/10) - Telemetry.dev is an observability platform built specifically to trace and monitor multi-step Large Language Model (LLM) agent execution chains. It helps developers track agent decision paths, token usage, and latency to debug complex AI workflows.
+- **[Backenly](https://www.producthunt.com/products/backenly-2)** (Product Hunt, 6/10) - Backenly provides automated cloud backend infrastructure designed specifically for AI coding agents to provision sandboxes and databases. It accelerates agentic development by automating server setup and runtime environments for AI-generated code.
+
 ## 2026-10-31 01:31
 
 - **[v2.1.316](https://github.com/anthropics/claude-code/releases/tag/v2.1.316)** (Claude Code releases, 6/10) - Anthropic updated its Claude Code command-line tool with an environment variable to disable the ultrathink extended reasoning feature, along with new shared team budget controls. This allows developers to better manage API token costs and control deep reasoning behavior during CLI coding sessions.
