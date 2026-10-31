@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-31 22:24
+
+- **[I built an app where my AI agents delegate to each other and only ask me when they're stuck](https://www.reddit.com/r/ClaudeAI/comments/1xkgzcu/i_built_an_app_where_my_ai_agents_delegate_to/)** (r/ClaudeAI, 6/10) - A developer created an orchestration app where multiple software agents automatically delegate tasks to each other and only ping the human when blocked. This project illustrates useful design patterns for context management and reducing developer overhead in multi-agent workflows.
+
 ## 2026-10-31 22:01
 
 - **[The Multidimensional Butterfly Effect: What Cohere Didn't Test on Qwen3.8-Flash-Next](https://www.reddit.com/r/LocalLLaMA/comments/1xjx36m/the_multidimensional_butterfly_effect_what_cohere/)** (Reddit LocalLLaMA, 6/10) - An engineering post highlights hidden evaluation discrepancies when testing open-source Large Language Models across different inference runtimes. This helps developers understand why standardized benchmarks can fail to predict a model's actual performance in custom production environments.
