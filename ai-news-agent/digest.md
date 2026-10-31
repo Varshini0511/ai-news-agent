@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-31 13:31
+
+- **[microsoft/Mage-VL-Cowork · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xk6blw/microsoftmagevlcowork_hugging_face/)** (Reddit LocalLLaMA, 7/10) - Mage‑VL‑Cowork is a new 4 billion‑parameter vision‑language model that can understand screenshots and issue commands to control a computer after a five‑stage training curriculum. It provides a lightweight option for developers building visual assistants or automated workstation agents.
+- **[Prospero: A new coding harness for a more civilized age](https://nullprogram.com/blog/2026/10/31/)** (Hacker News, 6/10) - Prospero is an open‑source coding harness that gives a single, simple API for managing prompts, running model calls, and handling results. It lets engineers prototype AI‑assisted coding tools without writing repetitive integration code.
+
 ## 2026-10-31 13:01
 
 - **[LFM3-Omni-2B running locally in-browser on WebGPU](https://www.reddit.com/r/LocalLLaMA/comments/1xjkh59/lfm3omni2b_running_locally_inbrowser_on_webgpu/)** (Reddit LocalLLaMA, 7/10) - Developers demonstrated running Liquid AI's LFM3-Omni-2B multimodal model entirely inside a web browser using WebGPU for graphics card acceleration. This allows engineers to build zero-latency, privacy-focused web applications that process text, audio, and images locally without relying on backend API servers.
