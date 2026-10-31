@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-31 11:01
+
+- **[T3 Code v0.1.6](https://github.com/pingdotgg/t3code/releases/tag/v0.1.6)** (T3 Code releases, 6/10) - T3 Code released version 0.1.6 of its AI code editor, adding side chats for quick questions and 1Password integration for credential management. These updates help developers handle API keys securely and test prompts without cluttering their main coding context.
+
 ## 2026-10-31 08:01
 
 - **[T3 Code Nightly 0.1.6-nightly.20261031.3969 (e5909e53c32a)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.6-nightly.20261031.3969)** (T3 Code releases, 6/10) - T3 Code released a nightly update featuring side-chat capabilities and token count tracking against context limits. This helps developers manage Large Language Model (LLM) context windows more effectively while coding without cluttering main discussion threads.
