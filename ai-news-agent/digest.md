@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-31 16:01
+
+- **[Using Agents for Long-Horizon Financial Work — Aman Singh, Arca](https://latent.space/p/using_agents_for_long-horizon_financial_work_aman_singh_arca/)** (Latent Space, 7/10) - Aman Singh from Arca shared how his team built a custom AI agent framework with persistent context for complex financial tasks. This offers real-world design patterns for engineers building AI agents that must manage state and memory over long-running workflows.
+
 ## 2026-10-31 15:31
 
 - **[Koboldcpp v1.124 released](https://www.reddit.com/r/LocalLLaMA/comments/1xk1vyk/koboldcpp_v1124_released/)** (Reddit LocalLLaMA, 6/10) - Koboldcpp released version 1.124, updating its open-source tool for running Large Language Models (LLMs) locally on consumer hardware. It is useful for developers needing a self-hosted, offline LLM server with an OpenAI-compatible API interface.
