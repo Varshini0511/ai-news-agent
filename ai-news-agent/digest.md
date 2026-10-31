@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-31 22:01
+
+- **[The Multidimensional Butterfly Effect: What Cohere Didn't Test on Qwen3.8-Flash-Next](https://www.reddit.com/r/LocalLLaMA/comments/1xjx36m/the_multidimensional_butterfly_effect_what_cohere/)** (Reddit LocalLLaMA, 6/10) - An engineering post highlights hidden evaluation discrepancies when testing open-source Large Language Models across different inference runtimes. This helps developers understand why standardized benchmarks can fail to predict a model's actual performance in custom production environments.
+
 ## 2026-10-31 21:02
 
 - **[An LLM inside an LLM - Same guy who put a RISK-V CPU inside Qwen has now made Karpathy's stories260k run on an NPU compiled inside Qwen 3.5-4B's weights](https://www.reddit.com/r/LocalLLaMA/comments/1xkiuut/an_llm_inside_an_llm_same_guy_who_put_a_riskv_cpu/)** (Reddit LocalLLaMA, 7/10) - A GitHub repo adds a tiny CPU emulator inside the weights of the Qwen 3.5‑4B model, letting a second small language model run inside the first. This demonstrates a novel way to nest models, which could help developers experiment with ultra‑compact inference or model composition.
