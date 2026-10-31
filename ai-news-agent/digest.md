@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-31 20:01
+
+- **[Betelgeuse running Qwen 3.8 Flash Next IQ4_XS at 24 tok/s on 2x8GB DDR4 (14 tok/s on a single 16GB stick) + RTX 3060 12GB — 0 dropped experts, 100% byte-exact](https://www.reddit.com/r/LocalLLaMA/comments/1xkh2ns/betelgeuse_running_qwen_38_flash_next_iq4_xs_at/)** (Reddit LocalLLaMA, 7/10) - A Reddit user reported running the Qwen‑3.8 model with 4‑bit IQ4_XS quantization on a dual‑GPU setup, achieving 24 tokens per second and no loss of model quality. This demonstrates that aggressive quantization can make large models usable on modest hardware, useful for developers testing locally.
+- **[Made a really good Qwen3.8 27B 16GB setup, no strata/streaming-kv](https://www.reddit.com/r/LocalLLaMA/comments/1xjte7t/made_a_really_good_qwen38_27b_16gb_setup_no/)** (Reddit LocalLLaMA, 7/10) - Another post shares a configuration that runs the 27‑billion‑parameter Qwen‑3.8 model on a single 16 GB GPU, providing a 110 k token context window and about 55 tokens per second. The setup gives practical guidance for running very large models on consumer‑grade GPUs.
+
 ## 2026-10-31 19:00
 
 - **[Claude Opus 5.5 can generate images even though it will initially say it can't.](https://www.reddit.com/r/ClaudeAI/comments/1xjxl4s/claude_opus_55_can_generate_images_even_though_it/)** (r/ClaudeAI, 7/10) - Anthropic's Opus 5.5 model now supports generating images, even though it initially reports that it cannot. This adds built‑in visual creation to Claude‑based applications, removing the need for a separate image‑generation service.
