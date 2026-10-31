@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-10-31 17:31
+
+- **["Spent a lot on my rig but I can only run Gemma 4"](https://www.reddit.com/r/LocalLLaMA/comments/1xkcyn6/spent_a_lot_on_my_rig_but_i_can_only_run_gemma_4/)** (Reddit LocalLLaMA, 9/10) - Google launched a low‑Earth‑orbit satellite that carries four Tensor Processing Units (TPUs – chips built for AI calculations) and can generate about 1 kW of power to run AI inference in space. This shows a new way to serve AI models from orbit, which could lower latency for global users and open edge‑computing use cases.
+- **[Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector](https://github.com/4yk5/Ghostman)** (Hacker News, 6/10) - Ghostman is a fast, keyboard‑driven terminal interface for sending API calls and inspecting webhook responses. It lets developers work entirely from the command line, speeding up debugging and testing of API integrations.
+
 ## 2026-10-31 16:31
 
 - **[Agents Prompt People: Using Agents for Long-Horizon Financial Work](https://latent.space/p/arca/)** (Latent Space, 7/10) - Arca’s AI team described how they built agents that keep memory across days to automate long‑running financial tasks. The approach shows developers how to add persistent state and custom control logic so agents can handle multi‑step workflows that stretch over weeks, useful for any application needing ongoing automation.
