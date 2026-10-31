@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-31 01:31
+
+- **[v2.1.316](https://github.com/anthropics/claude-code/releases/tag/v2.1.316)** (Claude Code releases, 6/10) - Anthropic updated its Claude Code command-line tool with an environment variable to disable the ultrathink extended reasoning feature, along with new shared team budget controls. This allows developers to better manage API token costs and control deep reasoning behavior during CLI coding sessions.
+
 ## 2026-10-30 22:31
 
 - **[dbreunig/nesformer](https://simonwillison.net/2026/Oct/30/nesformer/)** (Simon Willison, 6/10) - Developer Drew Breunig fine-tuned a 4-billion parameter Qwen open-source model to act as a 6502 CPU emulator that runs Nintendo Entertainment System (NES) games directly within its weights. It provides a practical demonstration of how Large Language Models (LLMs) can encode and execute complex deterministic state machines.
