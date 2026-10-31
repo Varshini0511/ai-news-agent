@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-31 15:31
+
+- **[Koboldcpp v1.124 released](https://www.reddit.com/r/LocalLLaMA/comments/1xk1vyk/koboldcpp_v1124_released/)** (Reddit LocalLLaMA, 6/10) - Koboldcpp released version 1.124, updating its open-source tool for running Large Language Models (LLMs) locally on consumer hardware. It is useful for developers needing a self-hosted, offline LLM server with an OpenAI-compatible API interface.
+
 ## 2026-10-31 14:31
 
 - **[Qwen3.8-Flash-Next on 2x RTX 5090 with 504 tok/s decode: QEngine 1.3.1 decodes ~1.5-1.9x faster than the next-best engine I've tried (numbers, caveats, and what still bites)](https://www.reddit.com/r/LocalLLaMA/comments/1xjx0ez/qwen38flashnext_on_2x_rtx_5090_with_504_toks/)** (Reddit LocalLLaMA, 6/10) - A developer benchmarked QEngine 1.3.1 running the Qwen open-source model on dual RTX 5090 graphics cards, achieving decoding speeds over 500 tokens per second. This provides practical performance data for developers looking to optimize local Large Language Model (LLM) inference speeds on consumer hardware.
