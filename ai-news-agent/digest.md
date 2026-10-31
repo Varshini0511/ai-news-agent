@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-10-31 14:01
+
+- **[Betelgeuse: Running Qwen 3.8 Flash Next at 22 tok/s sustained (spiking to 48 tok/s) on an RTX 3060 12GB + 16GB DDR4 RAM 100% bit-exact!](https://www.reddit.com/r/LocalLLaMA/comments/1xk8s6z/betelgeuse_running_qwen_38_flash_next_at_22_toks/)** (Reddit LocalLLaMA, 7/10) - A Reddit user demonstrated that the Qwen 3.8 Flash Next model runs on an RTX 3060 12 GB GPU at about 22 tokens per second continuously, peaking at 48, with exact results. This shows that a multi‑billion‑parameter model can be run locally on consumer hardware, giving developers a concrete performance reference for building on‑device AI or low‑cost inference setups.
+
 ## 2026-10-31 13:31
 
 - **[microsoft/Mage-VL-Cowork · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xk6blw/microsoftmagevlcowork_hugging_face/)** (Reddit LocalLLaMA, 7/10) - Mage‑VL‑Cowork is a new 4 billion‑parameter vision‑language model that can understand screenshots and issue commands to control a computer after a five‑stage training curriculum. It provides a lightweight option for developers building visual assistants or automated workstation agents.
