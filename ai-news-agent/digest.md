@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-01 08:01
+
+- **[agentmash](https://www.producthunt.com/products/agentmash)** (Product Hunt, 6/10) - Agentmash is an open-source platform designed to enable multiplayer collaboration between AI coding agents across developer teams. It helps developers coordinate multiple autonomous agents on shared codebases to prevent conflicting code edits.
+
 ## 2026-11-01 07:31
 
 - **[Precise Edit by Ideogram](https://www.producthunt.com/products/ideogram)** (Product Hunt, 6/10) - Ideogram released Precise Edit, a tool that allows users to select specific regions of an image and modify them using localized prompts. This is useful for developers building generative image workflows that need fine-grained editing without altering the rest of the canvas.
