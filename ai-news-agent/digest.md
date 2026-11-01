@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-01 23:31
+
+- **[Infernix - New Release!](https://www.reddit.com/r/LocalLLaMA/comments/1xl4pf6/infernix_new_release/)** (Reddit LocalLLaMA, 6/10) - A developer released Infernix, an open-source inference engine optimized for running Qwen architecture models on RTX 5090 GPUs across Windows and Linux. It gives developers building with open-source models a high-performance local runner tailored for newer consumer hardware.
+
 ## 2026-11-01 22:56
 
 - **[Meet Ava: In-browser local AI avatar with LFM3-Omni and WebGPU](https://www.reddit.com/r/LocalLLaMA/comments/1xl9577/meet_ava_inbrowser_local_ai_avatar_with_lfm3omni/)** (Reddit LocalLLaMA, 6/10) - Ava is a new open-source web application that runs an interactive AI avatar directly inside the user's browser using WebGPU and the LFM3-Omni model. It serves as a practical reference for developers building real-time, client-side voice and visual agents without paying for server API costs (WebGPU enables web applications to use a device's graphics card).
