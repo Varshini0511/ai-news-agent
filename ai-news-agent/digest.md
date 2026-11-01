@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-01 07:01
+
+- **[Embage](https://www.producthunt.com/products/embage)** (Product Hunt, 6/10) - Embage is a platform for building, running, and analyzing custom AI agents for customer service and internal workflows. It helps developers quickly deploy agentic workflows with built-in telemetry without building orchestration infrastructure from scratch.
+
 ## 2026-11-01 06:01
 
 - **[64GB isn't the dead zone anymore if you run agents](https://www.reddit.com/r/LocalLLaMA/comments/1xksj75/64gb_isnt_the_dead_zone_anymore_if_you_run_agents/)** (Reddit LocalLLaMA, 6/10) - A community analysis highlights that 64GB RAM setups are becoming optimal for running 27-billion parameter models alongside large context windows. This helps builders choose cost-effective local hardware for running multi-step AI agents without expensive graphics cards.
