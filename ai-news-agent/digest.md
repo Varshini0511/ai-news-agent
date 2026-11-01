@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-01 05:31
+
+- **[+1 for Qwen 27Bs character/chat style](https://www.reddit.com/r/LocalLLaMA/comments/1xkngat/1_for_qwen_27bs_characterchat_style/)** (Reddit LocalLLaMA, 7/10) - Qwen 3.8 27B, a 27‑billion‑parameter open‑source chat model, has been released and is praised for its clear, cooperative tone compared with other cloud models. Developers can run it locally or on inexpensive cloud VMs, giving a cost‑effective alternative for building conversational agents and RAG pipelines.
+
 ## 2026-11-01 05:01
 
 - **[NVIDIA Nemotron 3.5 Bolt E4B 4GB (post-trained Gemma 4 E4B)](https://www.reddit.com/r/LocalLLaMA/comments/1xkcdlz/nvidia_nemotron_35_bolt_e4b_4gb_posttrained_gemma/)** (Reddit LocalLLaMA, 7/10) - NVIDIA released Nemotron 3.5 Bolt E4B, a compact 4GB open model based on Google's Gemma optimized for multi-turn conversational agents. It allows developers to run fast, interactive AI agents directly on local graphics processing units (GPUs) and edge devices without cloud latency.
