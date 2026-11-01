@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-01 14:31
+
+- **[DeepSeek: Exploring Super-agent Design: Towards a More Autonomous Agent System](https://www.reddit.com/r/LocalLLaMA/comments/1xl1zn3/deepseek_exploring_superagent_design_towards_a/)** (Reddit LocalLLaMA, 7/10) - DeepSeek shared architectural designs and an open-source prototype for constructing more autonomous AI super-agent systems. This gives developers practical structural patterns and code examples for building multi-step, self-directing agent workflows.
+
 ## 2026-11-01 14:01
 
 - **[Heretic 2.0 released: Model modification for everyone](https://www.reddit.com/r/LocalLLaMA/comments/1xl2tcm/heretic_20_released_model_modification_for/)** (Reddit LocalLLaMA, 6/10) - The Heretic project published version 2.0, an open‑source toolkit that lets developers modify and fine‑tune LLaMA‑style language models without the original training data. This helps engineers quickly adapt large models to specific tasks or clean up unwanted behavior, reducing the need for expensive retraining.
