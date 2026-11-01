@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-01 14:01
+
+- **[Heretic 2.0 released: Model modification for everyone](https://www.reddit.com/r/LocalLLaMA/comments/1xl2tcm/heretic_20_released_model_modification_for/)** (Reddit LocalLLaMA, 6/10) - The Heretic project published version 2.0, an open‑source toolkit that lets developers modify and fine‑tune LLaMA‑style language models without the original training data. This helps engineers quickly adapt large models to specific tasks or clean up unwanted behavior, reducing the need for expensive retraining.
+
 ## 2026-11-01 12:31
 
 - **[new research: A tiny 109M-parameter model outperforms models up to 72B parameters at image-text alignment, using 42× less training data](https://www.reddit.com/r/LocalLLaMA/comments/1xkzony/new_research_a_tiny_109mparameter_model/)** (Reddit LocalLLaMA, 6/10) - Researchers introduced a 109-million parameter vision model that achieves better image-text alignment than 72-billion parameter models using 42 times less training data. This shows developers how targeted training techniques can drastically reduce hardware requirements and inference costs for multimodal image processing.
