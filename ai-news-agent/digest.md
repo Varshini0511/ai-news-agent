@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-01 10:31
+
+- **[FineDNA: the largest dataset to teach any LLM DNA (midtraining, SFT, RL)](https://www.reddit.com/r/LocalLLaMA/comments/1xkwvwg/finedna_the_largest_dataset_to_teach_any_llm_dna/)** (Reddit LocalLLaMA, 6/10) - Researchers released FineDNA, an open-source dataset containing over 300 billion genomic tokens along with fine-tuning datasets and training recipes. It provides developers with a practical blueprint for adapting foundation language models to specialized biological domain data.
+
 ## 2026-11-01 08:01
 
 - **[agentmash](https://www.producthunt.com/products/agentmash)** (Product Hunt, 6/10) - Agentmash is an open-source platform designed to enable multiplayer collaboration between AI coding agents across developer teams. It helps developers coordinate multiple autonomous agents on shared codebases to prevent conflicting code edits.
