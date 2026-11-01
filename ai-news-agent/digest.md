@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-01 22:56
+
+- **[Meet Ava: In-browser local AI avatar with LFM3-Omni and WebGPU](https://www.reddit.com/r/LocalLLaMA/comments/1xl9577/meet_ava_inbrowser_local_ai_avatar_with_lfm3omni/)** (Reddit LocalLLaMA, 6/10) - Ava is a new open-source web application that runs an interactive AI avatar directly inside the user's browser using WebGPU and the LFM3-Omni model. It serves as a practical reference for developers building real-time, client-side voice and visual agents without paying for server API costs (WebGPU enables web applications to use a device's graphics card).
+
 ## 2026-11-01 22:01
 
 - **[T3 Code Nightly 0.1.7-nightly.20261101.4048 (88f611368e01)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.7-nightly.20261101.4048)** (T3 Code releases, 6/10) - The T3 Code developer tool released a nightly build featuring centralized organization policies and pointer locking for browser previews. These updates help software engineers manage team access settings and test mouse-captured 3D or gaming interfaces inside the editor.
