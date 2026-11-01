@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-01 06:01
+
+- **[64GB isn't the dead zone anymore if you run agents](https://www.reddit.com/r/LocalLLaMA/comments/1xksj75/64gb_isnt_the_dead_zone_anymore_if_you_run_agents/)** (Reddit LocalLLaMA, 6/10) - A community analysis highlights that 64GB RAM setups are becoming optimal for running 27-billion parameter models alongside large context windows. This helps builders choose cost-effective local hardware for running multi-step AI agents without expensive graphics cards.
+
 ## 2026-11-01 05:31
 
 - **[+1 for Qwen 27Bs character/chat style](https://www.reddit.com/r/LocalLLaMA/comments/1xkngat/1_for_qwen_27bs_characterchat_style/)** (Reddit LocalLLaMA, 7/10) - Qwen 3.8 27B, a 27‑billion‑parameter open‑source chat model, has been released and is praised for its clear, cooperative tone compared with other cloud models. Developers can run it locally or on inexpensive cloud VMs, giving a cost‑effective alternative for building conversational agents and RAG pipelines.
