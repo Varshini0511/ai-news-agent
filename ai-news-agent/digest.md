@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-01 20:31
+
+- **[llama2.c on a 2006 iPod @ 80 MHz w/ 64 MB ram and no FPU](https://www.reddit.com/r/LocalLLaMA/comments/1xlboqi/llama2c_on_a_2006_ipod_80_mhz_w_64_mb_ram_and_no/)** (Reddit LocalLLaMA, 7/10) - A developer adapted llama2.c to run on a 2006 iPod that has only an 80 MHz ARM7 CPU and no floating‑point unit, converting the math to pure integer operations with lookup tables. It demonstrates that very small LLaMA‑2 models can be deployed on ultra‑low‑power hardware, which is useful for edge‑AI and resource‑constrained projects.
+
 ## 2026-11-01 18:31
 
 - **[LFM3-1.7b seems impressive](https://www.reddit.com/r/LocalLLaMA/comments/1xl64ho/lfm317b_seems_impressive/)** (Reddit LocalLLaMA, 6/10) - A developer benchmarked Liquid AI's small LFM3-1.7B model locally on consumer graphics cards, achieving ultra-fast prompt prefill speeds for text summarization. This demonstrates how low-latency small models can be deployed locally to reduce compute costs for high-throughput text processing.
