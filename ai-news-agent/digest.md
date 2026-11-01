@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-01 22:01
+
+- **[T3 Code Nightly 0.1.7-nightly.20261101.4048 (88f611368e01)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.7-nightly.20261101.4048)** (T3 Code releases, 6/10) - The T3 Code developer tool released a nightly build featuring centralized organization policies and pointer locking for browser previews. These updates help software engineers manage team access settings and test mouse-captured 3D or gaming interfaces inside the editor.
+
 ## 2026-11-01 20:31
 
 - **[llama2.c on a 2006 iPod @ 80 MHz w/ 64 MB ram and no FPU](https://www.reddit.com/r/LocalLLaMA/comments/1xlboqi/llama2c_on_a_2006_ipod_80_mhz_w_64_mb_ram_and_no/)** (Reddit LocalLLaMA, 7/10) - A developer adapted llama2.c to run on a 2006 iPod that has only an 80 MHz ARM7 CPU and no floating‑point unit, converting the math to pure integer operations with lookup tables. It demonstrates that very small LLaMA‑2 models can be deployed on ultra‑low‑power hardware, which is useful for edge‑AI and resource‑constrained projects.
