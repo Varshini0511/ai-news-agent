@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-01 18:31
+
+- **[LFM3-1.7b seems impressive](https://www.reddit.com/r/LocalLLaMA/comments/1xl64ho/lfm317b_seems_impressive/)** (Reddit LocalLLaMA, 6/10) - A developer benchmarked Liquid AI's small LFM3-1.7B model locally on consumer graphics cards, achieving ultra-fast prompt prefill speeds for text summarization. This demonstrates how low-latency small models can be deployed locally to reduce compute costs for high-throughput text processing.
+
 ## 2026-11-01 15:31
 
 - **[T3 Code Nightly 0.1.7-nightly.20261101.4035 (80120b1aa34a)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.7-nightly.20261101.4035)** (T3 Code releases, 6/10) - T3 Code released a nightly update allowing AI agents to directly open dev server previews and approve sub-agent task requests within a single thread. This simplifies managing multi-agent coding workflows when executing and testing code changes.
