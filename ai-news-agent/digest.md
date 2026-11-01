@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-01 12:31
+
+- **[new research: A tiny 109M-parameter model outperforms models up to 72B parameters at image-text alignment, using 42× less training data](https://www.reddit.com/r/LocalLLaMA/comments/1xkzony/new_research_a_tiny_109mparameter_model/)** (Reddit LocalLLaMA, 6/10) - Researchers introduced a 109-million parameter vision model that achieves better image-text alignment than 72-billion parameter models using 42 times less training data. This shows developers how targeted training techniques can drastically reduce hardware requirements and inference costs for multimodal image processing.
+
 ## 2026-11-01 10:31
 
 - **[FineDNA: the largest dataset to teach any LLM DNA (midtraining, SFT, RL)](https://www.reddit.com/r/LocalLLaMA/comments/1xkwvwg/finedna_the_largest_dataset_to_teach_any_llm_dna/)** (Reddit LocalLLaMA, 6/10) - Researchers released FineDNA, an open-source dataset containing over 300 billion genomic tokens along with fine-tuning datasets and training recipes. It provides developers with a practical blueprint for adapting foundation language models to specialized biological domain data.
