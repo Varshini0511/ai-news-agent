@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-01 01:20
+
+- **[I'm Groot?](https://www.reddit.com/r/LocalLLaMA/comments/1xkge1s/im_groot/)** (Reddit LocalLLaMA, 7/10) - The GrootTeam released the Groot‑280B‑A16B model on Hugging Face, a 280‑billion‑parameter language model that claims higher benchmark scores than larger open models like Qwen‑3.6‑35B and Gemma‑4‑26B while providing shorter answers. Developers can download and run this high‑capacity model locally or on cloud VMs, giving a free alternative to paid API services for building custom assistants or running large‑scale inference.
+- **[Please tell me Qwen3.8-Flash-Next can be made to be better than this](https://www.reddit.com/r/LocalLLaMA/comments/1xkjrdl/please_tell_me_qwen38flashnext_can_be_made_to_be/)** (Reddit LocalLLaMA, 6/10) - Google updated the Gemini command‑line interface (CLI) to version v0.67.0‑nightly, introducing bug fixes and new command‑line flags for prompting and output formatting. The CLI lets developers call Gemini models directly from a terminal or scripts, simplifying prototyping and automation of AI tasks without writing full client‑library code.
+
 ## 2026-11-01 00:01
 
 - **[Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)** (Hacker News, 6/10) - Researchers introduced Memdoor, an architecture that uses a team of five open-source Qwen language models to solve complex programming tasks. This demonstrates how orchestrating smaller open-source models into multi-agent teams can outperform larger models on coding benchmarks.
