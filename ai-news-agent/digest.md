@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-01 15:31
+
+- **[T3 Code Nightly 0.1.7-nightly.20261101.4035 (80120b1aa34a)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.7-nightly.20261101.4035)** (T3 Code releases, 6/10) - T3 Code released a nightly update allowing AI agents to directly open dev server previews and approve sub-agent task requests within a single thread. This simplifies managing multi-agent coding workflows when executing and testing code changes.
+
 ## 2026-11-01 14:31
 
 - **[DeepSeek: Exploring Super-agent Design: Towards a More Autonomous Agent System](https://www.reddit.com/r/LocalLLaMA/comments/1xl1zn3/deepseek_exploring_superagent_design_towards_a/)** (Reddit LocalLLaMA, 7/10) - DeepSeek shared architectural designs and an open-source prototype for constructing more autonomous AI super-agent systems. This gives developers practical structural patterns and code examples for building multi-step, self-directing agent workflows.
