@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-01 00:01
+
+- **[Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)** (Hacker News, 6/10) - Researchers introduced Memdoor, an architecture that uses a team of five open-source Qwen language models to solve complex programming tasks. This demonstrates how orchestrating smaller open-source models into multi-agent teams can outperform larger models on coding benchmarks.
+
 ## 2026-10-31 23:31
 
 - **[T3 Code Nightly 0.1.7-nightly.20261031.4004 (54c5f2524996)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.7-nightly.20261031.4004)** (T3 Code releases, 7/10) - The T3 Code VS Code extension released a nightly update (0.1.7‑nightly) that fixes a UI glitch where the model picker would jump when its label changed. The fix keeps the picker steady, making it easier to switch models while writing code with AI assistance. This smoother experience speeds up developers’ AI‑augmented coding sessions.
