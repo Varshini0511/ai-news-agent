@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-01 05:01
+
+- **[NVIDIA Nemotron 3.5 Bolt E4B 4GB (post-trained Gemma 4 E4B)](https://www.reddit.com/r/LocalLLaMA/comments/1xkcdlz/nvidia_nemotron_35_bolt_e4b_4gb_posttrained_gemma/)** (Reddit LocalLLaMA, 7/10) - NVIDIA released Nemotron 3.5 Bolt E4B, a compact 4GB open model based on Google's Gemma optimized for multi-turn conversational agents. It allows developers to run fast, interactive AI agents directly on local graphics processing units (GPUs) and edge devices without cloud latency.
+
 ## 2026-11-01 01:20
 
 - **[I'm Groot?](https://www.reddit.com/r/LocalLLaMA/comments/1xkge1s/im_groot/)** (Reddit LocalLLaMA, 7/10) - The GrootTeam released the Groot‑280B‑A16B model on Hugging Face, a 280‑billion‑parameter language model that claims higher benchmark scores than larger open models like Qwen‑3.6‑35B and Gemma‑4‑26B while providing shorter answers. Developers can download and run this high‑capacity model locally or on cloud VMs, giving a free alternative to paid API services for building custom assistants or running large‑scale inference.
