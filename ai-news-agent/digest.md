@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-01 07:31
+
+- **[Precise Edit by Ideogram](https://www.producthunt.com/products/ideogram)** (Product Hunt, 6/10) - Ideogram released Precise Edit, a tool that allows users to select specific regions of an image and modify them using localized prompts. This is useful for developers building generative image workflows that need fine-grained editing without altering the rest of the canvas.
+- **[Fluent 2](https://www.producthunt.com/products/fluent-ai-writing-assistant-for-macos)** (Product Hunt, 6/10) - Fluent 2 launched as a macOS application that hosts autonomous AI teammates directly on local hardware. It gives developers a privacy-focused environment to build and test local agent workflows without sending data to external cloud APIs (Application Programming Interfaces).
+
 ## 2026-11-01 07:01
 
 - **[Embage](https://www.producthunt.com/products/embage)** (Product Hunt, 6/10) - Embage is a platform for building, running, and analyzing custom AI agents for customer service and internal workflows. It helps developers quickly deploy agentic workflows with built-in telemetry without building orchestration infrastructure from scratch.
