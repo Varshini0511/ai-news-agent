@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-02 18:31
+
+- **[Unsloth vs GSQ-RCO - 512K context DeepSeek-V4.1 GGUF benchmarks Terminal Bench](https://www.reddit.com/r/LocalLLaMA/comments/1xm102d/unsloth_vs_gsqrco_512k_context_deepseekv41_gguf/)** (Reddit LocalLLaMA, 6/10) - Unsloth released updated GGUF (a file format for local AI models) quantizations for DeepSeek supporting up to 512K context windows. This helps developers self-hosting open-source models achieve better performance on long-context coding and terminal automation tasks.
+
 ## 2026-11-02 18:01
 
 - **[LifeVal](https://openai.com/index/lifeval)** (OpenAI Blog, 6/10) - OpenAI released LifeVal, a benchmark that tests how well AI systems can help people with everyday tasks like finding childcare or filing taxes. It gives developers a way to measure practical usefulness of their models beyond standard language tasks.
