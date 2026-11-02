@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-02 16:01
+
+- **[LongCat-2.5: Native Multimodality for Agentic Tasks](https://longcat.ai/blog/longcat-2.5/)** (Hacker News, 7/10) - Researchers introduced LongCat-2.5, a multimodal model architecture optimized for handling long-context text and image inputs in agentic workflows. It is useful for developers building AI agents that need to process complex visual and textual context simultaneously.
+
 ## 2026-11-02 15:31
 
 - **[[Release] ISTA DeepSeek-V4.1-Flash-1017 GSQ-RCO Coder: a 763B model at 1 bit per parameter](https://www.reddit.com/r/LocalLLaMA/comments/1xlys6k/release_ista_deepseekv41flash1017_gsqrco_coder_a/)** (Reddit LocalLLaMA, 8/10) - The community released a coder‑focused version of DeepSeek‑V4.1‑Flash‑1017, a 763‑billion‑parameter sparse mixture‑of‑experts model compressed to about 1 bit per weight after removing half of its routed experts. The smaller, bit‑level model can run inference on cheaper hardware, making large‑scale code‑generation models more accessible to developers.
