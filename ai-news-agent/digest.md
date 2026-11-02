@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-02 17:31
+
+- **[Official Statement: Qwen Models Will Stick to Open Source to the End!](https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/)** (Reddit LocalLLaMA, 8/10) - The Qwen team announced that all future Qwen models will stay open‑source rather than becoming a closed‑API service. Open‑source models can be downloaded and run on your own hardware, giving developers full control and no vendor lock‑in.
+- **[Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](https://momentic.ai/)** (Hacker News, 7/10) - Momentic released an agent framework that runs inside your own app and automatically looks for bugs, then suggests fixes. It lets engineers catch errors early without writing separate tests, saving development time.
+- **[Raising the quality of insights in agentic analytics](https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/)** (MIT Tech Review AI, 6/10) - A MIT Technology Review article outlines practical ways to improve the reliability of AI agents that perform analytics and take actions based on data. Builders can use these guidelines to make their analytics agents more accurate and less likely to cause costly errors.
+
 ## 2026-11-02 16:01
 
 - **[LongCat-2.5: Native Multimodality for Agentic Tasks](https://longcat.ai/blog/longcat-2.5/)** (Hacker News, 7/10) - Researchers introduced LongCat-2.5, a multimodal model architecture optimized for handling long-context text and image inputs in agentic workflows. It is useful for developers building AI agents that need to process complex visual and textual context simultaneously.
