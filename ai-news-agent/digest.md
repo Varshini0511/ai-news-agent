@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-02 23:31
+
+- **[New sparse attention method for ultra-long context](https://www.reddit.com/r/LocalLLaMA/comments/1xmbj0v/new_sparse_attention_method_for_ultralong_context/)** (Reddit LocalLLaMA, 7/10) - A research team released an open‑source method that sparsifies the attention mechanism of the Qwen 3.8‑27B model, allowing it to handle context windows up to 10 million tokens with little loss in accuracy. This lets developers build applications that need to process very long documents—like full books or large codebases—without exhausting GPU memory.
+
 ## 2026-11-02 23:01
 
 - **[Building AI for Lawyers - Jacob Lauritzen, CTO of Legora](https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/)** (Latent Space, 7/10) - Legora Chief Technology Officer Jacob Lauritzen explains how to build and evaluate legal AI agents that operate under strict zero-data-retention constraints without logging user data. This offers practical architectural techniques for engineers who need to design privacy-compliant AI systems and evaluate agent performance without live trace logs.
