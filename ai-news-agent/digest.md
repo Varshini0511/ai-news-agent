@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-02 00:01
+
+- **[[GLB-3D-Coder] A tiny 4B coding model that creates 3D assets for Godot and other game engines](https://www.reddit.com/r/LocalLLaMA/comments/1xlh0zw/glb3dcoder_a_tiny_4b_coding_model_that_creates_3d/)** (Reddit LocalLLaMA, 6/10) - GLB-3D-Coder is an open-source 4B parameter code generation model trained to create Three.js scenes that export to GLB (Graphics Language Transmission Format) 3D files. It allows game developers to programmatically generate 3D assets and environment code using a lightweight model that can run locally.
+
 ## 2026-11-01 23:31
 
 - **[Infernix - New Release!](https://www.reddit.com/r/LocalLLaMA/comments/1xl4pf6/infernix_new_release/)** (Reddit LocalLLaMA, 6/10) - A developer released Infernix, an open-source inference engine optimized for running Qwen architecture models on RTX 5090 GPUs across Windows and Linux. It gives developers building with open-source models a high-performance local runner tailored for newer consumer hardware.
