@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-02 23:01
+
+- **[Building AI for Lawyers - Jacob Lauritzen, CTO of Legora](https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/)** (Latent Space, 7/10) - Legora Chief Technology Officer Jacob Lauritzen explains how to build and evaluate legal AI agents that operate under strict zero-data-retention constraints without logging user data. This offers practical architectural techniques for engineers who need to design privacy-compliant AI systems and evaluate agent performance without live trace logs.
+- **[Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora](https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/)** (Latent Space, 6/10) - This interview breaks down engineering strategies for building autonomous AI agents in environments where customer data cannot be inspected or stored. It helps developers learn how to create reliable evaluation suites and synthetic test pipelines when compliance policies block production tracing.
+
 ## 2026-11-02 21:01
 
 - **[Running UNCENSORED DeepSeek-V4.1-Flash-1017 on a 12 Gb VRAM](https://www.reddit.com/r/LocalLLaMA/comments/1xm0uy0/running_uncensored_deepseekv41flash1017_on_a_12/)** (Reddit LocalLLaMA, 6/10) - Open-source developers published modified versions of the DeepSeek model that remove safety refusals and run on consumer graphics cards with 12 gigabytes of memory. This demonstrates how to run larger open-source reasoning models on budget local hardware by offloading model layers to a solid-state drive.
