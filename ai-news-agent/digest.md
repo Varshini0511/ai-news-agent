@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-02 21:01
+
+- **[Running UNCENSORED DeepSeek-V4.1-Flash-1017 on a 12 Gb VRAM](https://www.reddit.com/r/LocalLLaMA/comments/1xm0uy0/running_uncensored_deepseekv41flash1017_on_a_12/)** (Reddit LocalLLaMA, 6/10) - Open-source developers published modified versions of the DeepSeek model that remove safety refusals and run on consumer graphics cards with 12 gigabytes of memory. This demonstrates how to run larger open-source reasoning models on budget local hardware by offloading model layers to a solid-state drive.
+
 ## 2026-11-02 19:58
 
 - **[T3 Code Nightly 0.1.7-nightly.20261102.4093 (84537c4dd976)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.7-nightly.20261102.4093)** (T3 Code releases, 7/10) - T3 Code released a nightly build (v0.1.7) that adds support for 1Password secret references, so you can store source‑control tokens securely instead of pasting them in code. It also adds a "/compact" command that trims the AI chat history, keeping the coding assistant fast and within token limits.
