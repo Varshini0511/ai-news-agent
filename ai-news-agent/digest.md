@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-02 19:31
+
+- **[Qodo builds context into AI code review with Codex](https://openai.com/index/qodo-codex-plugin)** (OpenAI Blog, 7/10) - OpenAI announced that Qodo has added company‑specific knowledge and coding standards to Codex, letting it flag serious bugs before a pull request is opened. This helps developers catch critical issues early and keeps code quality consistent across many repositories.
+
 ## 2026-11-02 19:01
 
 - **[Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)** (Hacker News, 7/10) - Astra introduced a method that can directly read and edit the weight matrices of the Qwen language model, allowing developers to fine‑tune it without full retraining. This makes it quicker and cheaper to adapt Qwen for specific tasks or improve its performance on niche data.
