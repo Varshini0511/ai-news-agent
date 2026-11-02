@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-02 05:01
+
+- **[Towards Portable Specification of the Agent Harness](https://arxiv.org/abs/2610.40917)** (arXiv cs.AI, 6/10) - A new paper proposes a standard framework for defining the agent harness—the outer software runtime environment that provides state, tools, and constraints to LLMs. Standardizing this harness helps developers write portable agent logic that runs consistently across different execution environments.
+- **[Agentic World Modeling for Agent Test-time Scaling without Environment Replica](https://arxiv.org/abs/2610.40927)** (arXiv cs.AI, 6/10) - Researchers presented a method for test-time scaling—generating and evaluating multiple reasoning trajectories before taking action—without needing a duplicate state simulator. This is practical for developers building autonomous agents that interact with real-world APIs where actions cannot easily be undone.
+
 ## 2026-11-02 00:01
 
 - **[[GLB-3D-Coder] A tiny 4B coding model that creates 3D assets for Godot and other game engines](https://www.reddit.com/r/LocalLLaMA/comments/1xlh0zw/glb3dcoder_a_tiny_4b_coding_model_that_creates_3d/)** (Reddit LocalLLaMA, 6/10) - GLB-3D-Coder is an open-source 4B parameter code generation model trained to create Three.js scenes that export to GLB (Graphics Language Transmission Format) 3D files. It allows game developers to programmatically generate 3D assets and environment code using a lightweight model that can run locally.
