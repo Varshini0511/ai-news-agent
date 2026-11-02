@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-02 08:31
+
+- **[JetBrains/Mellum2.1-12B-A2.5B-Thinking-MTP · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xln8f2/jetbrainsmellum2112ba25bthinkingmtp_hugging_face/)** (Reddit LocalLLaMA, 7/10) - JetBrains released Mellum 2.1, a 12-billion parameter model featuring a Multi-Token Prediction (MTP) head designed for speculative decoding. This enables developers running local models to achieve faster inference speeds for code generation and reasoning tasks.
+- **[8 agents × 250K context, concurrently, on two 3090s (~600+ tok/s total)](https://www.reddit.com/r/LocalLLaMA/comments/1xlk43x/8_agents_250k_context_concurrently_on_two_3090s/)** (Reddit LocalLLaMA, 6/10) - A developer published a practical architecture setup demonstrating eight concurrent long-context agents running on consumer graphics cards. This provides useful techniques for engineers looking to serve multiple local LLM (Large Language Model) agents efficiently on constrained hardware.
+
 ## 2026-11-02 07:01
 
 - **[T3 Code Nightly 0.1.7-nightly.20261102.4066 (30654b3e91a5)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.7-nightly.20261102.4066)** (T3 Code releases, 6/10) - T3 Code published a new nightly build (v0.1.7) that adds a model picker UI, displays effort history, and includes work on Antigravity sub‑agents. This lets developers quickly try different language models and see how model choices affect code suggestions, simplifying AI‑assisted coding experiments.
