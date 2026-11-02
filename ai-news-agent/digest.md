@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-02 14:31
+
+- **[sensenova/SenseNova-Loop-9B-Preview · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xlw9v4/sensenovasensenovaloop9bpreview_hugging_face/)** (Reddit LocalLLaMA, 6/10) - SenseTime released the weights for SenseNova-Loop-9B-Preview, a 9-billion parameter open-source language model, on Hugging Face. It provides developers with a new medium-sized model option to experiment with local execution, fine-tuning, and offline inference.
+
 ## 2026-11-02 14:01
 
 - **[Not another tok/s post: local quants vs Claude on 9 real bugs](https://www.reddit.com/r/LocalLLaMA/comments/1xlwpqv/not_another_toks_post_local_quants_vs_claude_on_9/)** (Reddit LocalLLaMA, 7/10) - A developer benchmarked locally hosted quantized open-source language models against Anthropic's Claude on nine real software bugs. This provides practical empirical data for software engineers evaluating whether local models can replace paid APIs for daily coding tasks.
