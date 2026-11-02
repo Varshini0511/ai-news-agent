@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-02 13:31
+
+- **[T3 Code Nightly 0.1.7-nightly.20261102.4080 (47f2c8d29e98)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.7-nightly.20261102.4080)** (T3 Code releases, 6/10) - T3 Code nightly version 0.1.7 was released, fixing bugs and making the command‑line tool faster – short commands like "t3 --version" no longer start the whole server and completion sounds play without delay. This speeds up everyday development and gives a smoother experience when using T3 for AI projects.
+
 ## 2026-11-02 10:31
 
 - **[Silencio-2: an 18M TTS with emotion and sound tags, ~20x realtime on CPU (open weights)](https://www.reddit.com/r/LocalLLaMA/comments/1xl9yfi/silencio2_an_18m_tts_with_emotion_and_sound_tags/)** (Reddit LocalLLaMA, 7/10) - An independent developer released Silencio-2, an open-source 18-million parameter text-to-speech model that supports inline emotion and sound tags. Its ultra-small size and fast CPU performance make it useful for adding customizable, local voice output to resource-constrained AI applications.
