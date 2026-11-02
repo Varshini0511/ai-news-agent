@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-02 19:58
+
+- **[T3 Code Nightly 0.1.7-nightly.20261102.4093 (84537c4dd976)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.7-nightly.20261102.4093)** (T3 Code releases, 7/10) - T3 Code released a nightly build (v0.1.7) that adds support for 1Password secret references, so you can store source‑control tokens securely instead of pasting them in code. It also adds a "/compact" command that trims the AI chat history, keeping the coding assistant fast and within token limits.
+
 ## 2026-11-02 19:31
 
 - **[Qodo builds context into AI code review with Codex](https://openai.com/index/qodo-codex-plugin)** (OpenAI Blog, 7/10) - OpenAI announced that Qodo has added company‑specific knowledge and coding standards to Codex, letting it flag serious bugs before a pull request is opened. This helps developers catch critical issues early and keeps code quality consistent across many repositories.
