@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-02 18:01
+
+- **[LifeVal](https://openai.com/index/lifeval)** (OpenAI Blog, 6/10) - OpenAI released LifeVal, a benchmark that tests how well AI systems can help people with everyday tasks like finding childcare or filing taxes. It gives developers a way to measure practical usefulness of their models beyond standard language tasks.
+
 ## 2026-11-02 17:31
 
 - **[Official Statement: Qwen Models Will Stick to Open Source to the End!](https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/)** (Reddit LocalLLaMA, 8/10) - The Qwen team announced that all future Qwen models will stay open‑source rather than becoming a closed‑API service. Open‑source models can be downloaded and run on your own hardware, giving developers full control and no vendor lock‑in.
