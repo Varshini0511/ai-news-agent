@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-02 15:31
+
+- **[[Release] ISTA DeepSeek-V4.1-Flash-1017 GSQ-RCO Coder: a 763B model at 1 bit per parameter](https://www.reddit.com/r/LocalLLaMA/comments/1xlys6k/release_ista_deepseekv41flash1017_gsqrco_coder_a/)** (Reddit LocalLLaMA, 8/10) - The community released a coder‑focused version of DeepSeek‑V4.1‑Flash‑1017, a 763‑billion‑parameter sparse mixture‑of‑experts model compressed to about 1 bit per weight after removing half of its routed experts. The smaller, bit‑level model can run inference on cheaper hardware, making large‑scale code‑generation models more accessible to developers.
+
 ## 2026-11-02 14:31
 
 - **[sensenova/SenseNova-Loop-9B-Preview · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xlw9v4/sensenovasensenovaloop9bpreview_hugging_face/)** (Reddit LocalLLaMA, 6/10) - SenseTime released the weights for SenseNova-Loop-9B-Preview, a 9-billion parameter open-source language model, on Hugging Face. It provides developers with a new medium-sized model option to experiment with local execution, fine-tuning, and offline inference.
