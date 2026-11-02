@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-02 07:01
+
+- **[T3 Code Nightly 0.1.7-nightly.20261102.4066 (30654b3e91a5)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.7-nightly.20261102.4066)** (T3 Code releases, 6/10) - T3 Code published a new nightly build (v0.1.7) that adds a model picker UI, displays effort history, and includes work on Antigravity sub‑agents. This lets developers quickly try different language models and see how model choices affect code suggestions, simplifying AI‑assisted coding experiments.
+
 ## 2026-11-02 05:01
 
 - **[Towards Portable Specification of the Agent Harness](https://arxiv.org/abs/2610.40917)** (arXiv cs.AI, 6/10) - A new paper proposes a standard framework for defining the agent harness—the outer software runtime environment that provides state, tools, and constraints to LLMs. Standardizing this harness helps developers write portable agent logic that runs consistently across different execution environments.
