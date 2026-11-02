@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-02 14:01
+
+- **[Not another tok/s post: local quants vs Claude on 9 real bugs](https://www.reddit.com/r/LocalLLaMA/comments/1xlwpqv/not_another_toks_post_local_quants_vs_claude_on_9/)** (Reddit LocalLLaMA, 7/10) - A developer benchmarked locally hosted quantized open-source language models against Anthropic's Claude on nine real software bugs. This provides practical empirical data for software engineers evaluating whether local models can replace paid APIs for daily coding tasks.
+- **[OpenAI is finally merging ChatGPT’s chat and Work tabs](https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/)** (TechCrunch AI, 6/10) - OpenAI announced it is unifying the usage allocation pools for ChatGPT's chat interface and work features. This makes rate limits and usage quotas easier to manage for developers relying on the platform for coding workflows.
+
 ## 2026-11-02 13:31
 
 - **[T3 Code Nightly 0.1.7-nightly.20261102.4080 (47f2c8d29e98)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.7-nightly.20261102.4080)** (T3 Code releases, 6/10) - T3 Code nightly version 0.1.7 was released, fixing bugs and making the command‑line tool faster – short commands like "t3 --version" no longer start the whole server and completion sounds play without delay. This speeds up everyday development and gives a smoother experience when using T3 for AI projects.
