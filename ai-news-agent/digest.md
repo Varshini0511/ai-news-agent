@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-02 19:01
+
+- **[Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)** (Hacker News, 7/10) - Astra introduced a method that can directly read and edit the weight matrices of the Qwen language model, allowing developers to fine‑tune it without full retraining. This makes it quicker and cheaper to adapt Qwen for specific tasks or improve its performance on niche data.
+- **[Agentic Backdoors via Pretraining Poisoning](https://arxiv.org/abs/2610.37741)** (Hacker News, 6/10) - Researchers released a paper showing how malicious actors can embed hidden “agentic backdoors” into a model during the pre‑training phase, causing the model to execute unintended actions later. Knowing this threat helps engineers design safer training pipelines and add checks for unexpected behavior.
+
 ## 2026-11-02 18:31
 
 - **[Unsloth vs GSQ-RCO - 512K context DeepSeek-V4.1 GGUF benchmarks Terminal Bench](https://www.reddit.com/r/LocalLLaMA/comments/1xm102d/unsloth_vs_gsqrco_512k_context_deepseekv41_gguf/)** (Reddit LocalLLaMA, 6/10) - Unsloth released updated GGUF (a file format for local AI models) quantizations for DeepSeek supporting up to 512K context windows. This helps developers self-hosting open-source models achieve better performance on long-context coding and terminal automation tasks.
