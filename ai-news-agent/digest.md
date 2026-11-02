@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-02 10:31
+
+- **[Silencio-2: an 18M TTS with emotion and sound tags, ~20x realtime on CPU (open weights)](https://www.reddit.com/r/LocalLLaMA/comments/1xl9yfi/silencio2_an_18m_tts_with_emotion_and_sound_tags/)** (Reddit LocalLLaMA, 7/10) - An independent developer released Silencio-2, an open-source 18-million parameter text-to-speech model that supports inline emotion and sound tags. Its ultra-small size and fast CPU performance make it useful for adding customizable, local voice output to resource-constrained AI applications.
+
 ## 2026-11-02 08:31
 
 - **[JetBrains/Mellum2.1-12B-A2.5B-Thinking-MTP · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xln8f2/jetbrainsmellum2112ba25bthinkingmtp_hugging_face/)** (Reddit LocalLLaMA, 7/10) - JetBrains released Mellum 2.1, a 12-billion parameter model featuring a Multi-Token Prediction (MTP) head designed for speculative decoding. This enables developers running local models to achieve faster inference speeds for code generation and reasoning tasks.
