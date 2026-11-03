@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-03 21:01
+
+- **[We're Training a Figma-Fluent Editing Model](https://www.figma.com/blog/training-a-figma-fluent-editing-model/)** (Hacker News, 7/10) - A team announced they are training a new model that can edit Figma design files using natural‑language commands. This could let developers create tools that automatically adjust UI layouts or generate design variants without opening Figma manually.
+
 ## 2026-11-03 19:01
 
 - **[Delivering Skills in NuGet packages](https://devblogs.microsoft.com/dotnet/delivering-skills-in-nuget-packages/)** (.NET Blog, 8/10) - Microsoft introduced a method for bundling AI agent skills directly inside NuGet, the standard package manager for .NET applications. This enables .NET developers to ship up-to-date documentation and code skills alongside their libraries so AI assistants can reliably interact with them.
