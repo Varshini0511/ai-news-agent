@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-03 21:31
+
+- **[Apple starts giving Siri AI access to third-party apps](https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps)** (The Verge AI, 8/10) - Apple announced that Siri’s new AI interface can be invoked from any third‑party iOS app and can act using the user’s personal context. This gives developers a ready‑made voice‑assistant API, making it easier to add conversational AI features without building a custom model.
+- **[British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted](https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/)** (Reddit LocalLLaMA, 7/10) - Revolut stopped using Anthropic's Claude and switched to a self‑hosted open‑source language model, reducing its AI‑assisted coding expenses by roughly tenfold. The move demonstrates that teams can cut costs and retain control by running their own models for code generation.
+
 ## 2026-11-03 21:01
 
 - **[We're Training a Figma-Fluent Editing Model](https://www.figma.com/blog/training-a-figma-fluent-editing-model/)** (Hacker News, 7/10) - A team announced they are training a new model that can edit Figma design files using natural‑language commands. This could let developers create tools that automatically adjust UI layouts or generate design variants without opening Figma manually.
