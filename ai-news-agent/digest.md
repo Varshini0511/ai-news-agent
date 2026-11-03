@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-03 17:13
+
+- **[Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/)** (Google DeepMind, 6/10) - Google DeepMind showcased how its Antigravity platform enables AI agents to execute specialized chemistry research tasks. It serves as a practical blueprint for designing domain-specific agentic workflows and tool integrations.
+
 ## 2026-11-03 17:01
 
 - **[Agents SDK v0.24.0-alpha.6](https://github.com/openai/openai-agents-python/releases/tag/v0.24.0-alpha.6)** (OpenAI Agents SDK, 8/10) - OpenAI announced Agents SDK v0.24.0‑alpha.6, which now ships pre‑built wheels that run on standard CPython 3.10‑3.14 without needing a Rust toolchain. This makes it faster to set up and experiment with autonomous AI agents in Python environments.
