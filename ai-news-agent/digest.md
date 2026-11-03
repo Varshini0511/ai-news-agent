@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-03 06:01
+
+- **[[AINews] LLMs can read & write neural network weights: "Weight Space Programming" cuts Autoresearch out of the RSI loop](https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/)** (Latent Space, 6/10) - New research highlights how Large Language Models (LLMs) can directly inspect and edit neural network weight values to modify model behavior. This introduces a potential new strategy for developers looking to fine-tune or steer model outputs beyond standard prompting.
+
 ## 2026-11-03 03:01
 
 - **[Builders got MiniMax M3.1 Flash's open weights from 252.4 GB down to 93 GB in 10 days, and the lab thanked them by name](https://www.reddit.com/r/LocalLLaMA/comments/1xm0b7r/builders_got_minimax_m31_flashs_open_weights_from/)** (Reddit LocalLLaMA, 6/10) - Open-source developers compressed the 428-billion parameter MiniMax M3.1 Flash model, reducing its storage footprint from 252 GB to 93 GB while preserving tool-calling accuracy. This allows engineers to run a capable open-weights agent model locally on high-end desktop hardware rather than relying on enterprise cloud servers.
