@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-03 15:31
+
+- **[Octomind – open-source AI harness that saves your tokens, static rust](https://github.com/Muvon/octomind)** (Hacker News, 7/10) - Octomind is an open‑source Rust library that automatically trims prompts and reuses static parts of text to cut the number of tokens sent to language‑model APIs. This lets developers lower their API bills and get faster responses when building AI‑powered apps.
+
 ## 2026-11-03 15:01
 
 - **[Claude Message Threads 🧵, Astra 6.2 spotted 👀, Anthropic nears RSI 🔄](https://tldr.tech/ai/2026-11-03)** (TLDR AI, 6/10) - Anthropic announced that Claude now supports threaded conversations, letting developers keep separate discussion branches within a single chat session. This makes it easier to build multi‑step agents or customer‑support bots that need to track several topics at once without mixing context.
