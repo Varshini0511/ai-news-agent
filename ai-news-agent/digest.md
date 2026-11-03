@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-03 16:01
+
+- **[Same Model, Different Harness: CUGA, Hermes, and Deep Agents — When to Pick CUGA?](https://huggingface.co/blog/ibm-research/cuga-harness)** (Hugging Face, 7/10) - The article compares three ways (CUGA, Hermes, and Deep Agents) to use the same underlying model for building AI agents. It helps developers choose the right approach based on control, simplicity, and integration needs.
+
 ## 2026-11-03 15:31
 
 - **[Octomind – open-source AI harness that saves your tokens, static rust](https://github.com/Muvon/octomind)** (Hacker News, 7/10) - Octomind is an open‑source Rust library that automatically trims prompts and reuses static parts of text to cut the number of tokens sent to language‑model APIs. This lets developers lower their API bills and get faster responses when building AI‑powered apps.
