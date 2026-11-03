@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-03 22:26
+
+- **[Anthropic added “message threads” to the Messages API (public beta): send the conversation once, then only new messages. Already on by default in Claude Code](https://www.reddit.com/r/ClaudeAI/comments/1xmh012/anthropic_added_message_threads_to_the_messages/)** (r/ClaudeAI, 8/10) - Anthropic introduced a public beta for message threads in the Messages API, allowing developers to send only new messages alongside a previous response ID. This cuts payload sizes and reduces latency for multi-turn chat applications by eliminating the need to resend full conversation histories.
+- **[Official Claude Code Extension Compromise: Security Advisory](https://www.reddit.com/r/ClaudeAI/comments/1xmdwop/official_claude_code_extension_compromise/)** (r/ClaudeAI, 7/10) - A security alert highlighted compromised versions of the Claude Code extension for Visual Studio Code. Software engineers using AI developer tools need to verify their installed extension versions to prevent malicious package execution.
+
 ## 2026-11-03 21:31
 
 - **[Apple starts giving Siri AI access to third-party apps](https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps)** (The Verge AI, 8/10) - Apple announced that Siri’s new AI interface can be invoked from any third‑party iOS app and can act using the user’s personal context. This gives developers a ready‑made voice‑assistant API, making it easier to add conversational AI features without building a custom model.
