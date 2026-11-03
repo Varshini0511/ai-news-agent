@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-03 17:01
+
+- **[Agents SDK v0.24.0-alpha.6](https://github.com/openai/openai-agents-python/releases/tag/v0.24.0-alpha.6)** (OpenAI Agents SDK, 8/10) - OpenAI announced Agents SDK v0.24.0‑alpha.6, which now ships pre‑built wheels that run on standard CPython 3.10‑3.14 without needing a Rust toolchain. This makes it faster to set up and experiment with autonomous AI agents in Python environments.
+- **[Palette: teaching a small model to build decks in your design language](https://huggingface.co/blog/ibm-research/palette-deck-building)** (Hugging Face, 7/10) - Hugging Face released Palette, a small language model that can generate slide decks following a user‑provided design language. It lets developers quickly prototype custom presentation generators without training a large model.
+- **[What Qwen is thinking when it gets stuck saying "Wait"](https://www.reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying/)** (Reddit LocalLLaMA, 6/10) - A Reddit user shared a tiny weight‑diff that fixes a looping‑reasoning bug in the Qwen 3.5‑0.8B model, improving its math success rate from 8% to 48%. The diff can be applied locally, showing a practical way to patch small models for better performance.
+
 ## 2026-11-03 16:01
 
 - **[Same Model, Different Harness: CUGA, Hermes, and Deep Agents — When to Pick CUGA?](https://huggingface.co/blog/ibm-research/cuga-harness)** (Hugging Face, 7/10) - The article compares three ways (CUGA, Hermes, and Deep Agents) to use the same underlying model for building AI agents. It helps developers choose the right approach based on control, simplicity, and integration needs.
