@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-03 07:31
+
+- **[Transformers Model Integration Contracts](https://huggingface.co/blog/transformers-mic)** (Hugging Face, 6/10) - Hugging Face introduced formal Model Integration Contracts to standardize how new model architectures are implemented in the Transformers library. This provides clear guidelines and requirements for developers contributing new open-source models or integrating custom architectures into the library.
+
 ## 2026-11-03 06:01
 
 - **[[AINews] LLMs can read & write neural network weights: "Weight Space Programming" cuts Autoresearch out of the RSI loop](https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/)** (Latent Space, 6/10) - New research highlights how Large Language Models (LLMs) can directly inspect and edit neural network weight values to modify model behavior. This introduces a potential new strategy for developers looking to fine-tune or steer model outputs beyond standard prompting.
