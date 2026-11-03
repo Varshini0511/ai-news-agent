@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-03 19:01
+
+- **[Delivering Skills in NuGet packages](https://devblogs.microsoft.com/dotnet/delivering-skills-in-nuget-packages/)** (.NET Blog, 8/10) - Microsoft introduced a method for bundling AI agent skills directly inside NuGet, the standard package manager for .NET applications. This enables .NET developers to ship up-to-date documentation and code skills alongside their libraries so AI assistants can reliably interact with them.
+
 ## 2026-11-03 17:31
 
 - **[[Paper] Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights](https://www.reddit.com/r/LocalLLaMA/comments/1xmo5xu/paper_sparks_of_weightspace_programming_llms_can/)** (Reddit LocalLLaMA, 6/10) - Researchers released a paper showing that large language models can directly read and write the numeric weights of other neural networks. This could let developers use LLMs to fine‑tune or debug models without writing custom optimization code.
