@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-03 23:01
+
+- **[Anthropic is working on a system to prove AI models’ identity](https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/)** (TechCrunch AI, 6/10) - Anthropic is developing FlashProve, a cryptographic system designed to verify that a response genuinely originated from a specific AI model. This will help developers ensure response authenticity and data provenance when building secure AI pipelines and agentic systems.
+
 ## 2026-11-03 22:26
 
 - **[Anthropic added “message threads” to the Messages API (public beta): send the conversation once, then only new messages. Already on by default in Claude Code](https://www.reddit.com/r/ClaudeAI/comments/1xmh012/anthropic_added_message_threads_to_the_messages/)** (r/ClaudeAI, 8/10) - Anthropic introduced a public beta for message threads in the Messages API, allowing developers to send only new messages alongside a previous response ID. This cuts payload sizes and reduces latency for multi-turn chat applications by eliminating the need to resend full conversation histories.
