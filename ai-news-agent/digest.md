@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-03 15:01
+
+- **[Claude Message Threads 🧵, Astra 6.2 spotted 👀, Anthropic nears RSI 🔄](https://tldr.tech/ai/2026-11-03)** (TLDR AI, 6/10) - Anthropic announced that Claude now supports threaded conversations, letting developers keep separate discussion branches within a single chat session. This makes it easier to build multi‑step agents or customer‑support bots that need to track several topics at once without mixing context.
+
 ## 2026-11-03 14:02
 
 - **[The Platform Behind the Next AI Breakthrough](https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/)** (Microsoft AI / Azure, 8/10) - Microsoft Azure introduced a new platform that lets developers build AI agents capable of handling longer, more strategic work flows. The service provides managed tools and APIs so .NET and Azure developers can create and run agents without managing the underlying infrastructure.
