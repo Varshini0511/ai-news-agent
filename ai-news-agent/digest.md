@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-03 17:31
+
+- **[[Paper] Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights](https://www.reddit.com/r/LocalLLaMA/comments/1xmo5xu/paper_sparks_of_weightspace_programming_llms_can/)** (Reddit LocalLLaMA, 6/10) - Researchers released a paper showing that large language models can directly read and write the numeric weights of other neural networks. This could let developers use LLMs to fine‑tune or debug models without writing custom optimization code.
+
 ## 2026-11-03 17:13
 
 - **[Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/)** (Google DeepMind, 6/10) - Google DeepMind showcased how its Antigravity platform enables AI agents to execute specialized chemistry research tasks. It serves as a practical blueprint for designing domain-specific agentic workflows and tool integrations.
