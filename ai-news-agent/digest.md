@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-03 08:01
+
+- **[Nvidia – open-source auto-ontology](https://github.com/NVIDIA/auto-ontology)** (Hacker News, 7/10) - Nvidia released an open-source tool for automatically generating ontologies, which are structured frameworks that map relationships between concepts. This helps developers build more accurate knowledge graphs to improve retrieval-augmented generation (RAG) systems.
+- **[SUN Web & API](https://www.producthunt.com/products/sun-ai)** (Product Hunt, 6/10) - SUN launched a web tool and API that transforms text prompts and PDF documents into audio formats. This allows developers to easily integrate text-to-speech and document narration capabilities into their applications.
+- **[One Roof](https://www.producthunt.com/products/one-roof)** (Product Hunt, 6/10) - One Roof launched a control center interface designed to coordinate and manage multiple autonomous coding agents simultaneously. It gives developers a unified workspace to monitor code generation outputs across parallel agent tasks.
+
 ## 2026-11-03 07:31
 
 - **[Transformers Model Integration Contracts](https://huggingface.co/blog/transformers-mic)** (Hugging Face, 6/10) - Hugging Face introduced formal Model Integration Contracts to standardize how new model architectures are implemented in the Transformers library. This provides clear guidelines and requirements for developers contributing new open-source models or integrating custom architectures into the library.
