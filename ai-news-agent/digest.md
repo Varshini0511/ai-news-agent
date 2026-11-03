@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-03 01:31
+
+- **[WorkOS reports security breach](https://news.ycombinator.com/item?id=50345712)** (Hacker News, 7/10) - Claude Code v2.1.317 adds a warning when a scheduled task pulls in connectors you didn’t request, prompts before a web or shell tool sends your account email, and introduces an onFailure='block' option for the Agent SDK. These safeguards help developers prevent accidental data leaks and give tighter control over agent failures, making Claude‑based agents safer to run.
+- **[Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens](https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/)** (TechCrunch AI, 6/10) - OpenAI released Rust SDK version 0.167.0-alpha.4 for Codex. The update brings bug fixes and small API improvements, so Rust programmers can embed Codex code‑generation more reliably in their tools.
+- **[v2.1.317](https://github.com/anthropics/claude-code/releases/tag/v2.1.317)** (Claude Code releases, 6/10) - Google’s Gemini CLI nightly build 0.67.0 fixes a bug where interrupted Whisper model downloads were mistakenly marked as installed. This prevents wasted disk space and ensures voice‑to‑text models are correctly set up for developers using the CLI.
+
 ## 2026-11-03 00:31
 
 - **[llm 0.37](https://simonwillison.net/2026/Nov/2/llm/)** (Simon Willison, 7/10) - Simon Willison released version 0.37 of his llm command‑line tool and Python library, adding support for the new OpenAI models gpt‑6.1‑sol and gpt‑6.1‑terra and a simpler command for configuring custom OpenAI endpoints. This lets developers quickly experiment with the latest OpenAI models from the terminal or Python code without writing extra boiler‑plate, speeding up prototyping and integration of cutting‑edge LLMs.
