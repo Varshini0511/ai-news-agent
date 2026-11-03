@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-03 03:01
+
+- **[Builders got MiniMax M3.1 Flash's open weights from 252.4 GB down to 93 GB in 10 days, and the lab thanked them by name](https://www.reddit.com/r/LocalLLaMA/comments/1xm0b7r/builders_got_minimax_m31_flashs_open_weights_from/)** (Reddit LocalLLaMA, 6/10) - Open-source developers compressed the 428-billion parameter MiniMax M3.1 Flash model, reducing its storage footprint from 252 GB to 93 GB while preserving tool-calling accuracy. This allows engineers to run a capable open-weights agent model locally on high-end desktop hardware rather than relying on enterprise cloud servers.
+
 ## 2026-11-03 01:31
 
 - **[WorkOS reports security breach](https://news.ycombinator.com/item?id=50345712)** (Hacker News, 7/10) - Claude Code v2.1.317 adds a warning when a scheduled task pulls in connectors you didn’t request, prompts before a web or shell tool sends your account email, and introduces an onFailure='block' option for the Agent SDK. These safeguards help developers prevent accidental data leaks and give tighter control over agent failures, making Claude‑based agents safer to run.
