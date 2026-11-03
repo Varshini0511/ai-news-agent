@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-03 08:31
+
+- **[Wavefunction](https://www.producthunt.com/products/wavefunction)** (Product Hunt, 7/10) - Wavefunction is a lightweight, open-source AI coding agent built specifically for macOS. It offers a practical reference codebase for developers learning how local file-editing agents execute code.
+- **[Scrawl](https://www.producthunt.com/products/scrawl-2)** (Product Hunt, 6/10) - Scrawl is a tool that captures visual screen frames to feed directly into AI coding agents. This helps agents fix UI bugs and visual layout issues without requiring manual text descriptions.
+- **[asklog](https://www.producthunt.com/products/asklog)** (Product Hunt, 6/10) - Asklog introduces a mobile notification system that lets developers review and approve actions taken by background coding agents. This makes it easier to maintain human-in-the-loop control over autonomous coding tasks on the go.
+
 ## 2026-11-03 08:01
 
 - **[Nvidia – open-source auto-ontology](https://github.com/NVIDIA/auto-ontology)** (Hacker News, 7/10) - Nvidia released an open-source tool for automatically generating ontologies, which are structured frameworks that map relationships between concepts. This helps developers build more accurate knowledge graphs to improve retrieval-augmented generation (RAG) systems.
