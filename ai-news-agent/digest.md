@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-04 19:31
+
+- **[New Qwen3.8-Flash-Next Unsloth Dynamic V3.1 GGUFs](https://www.reddit.com/r/LocalLLaMA/comments/1xnvbxn/new_qwen38flashnext_unsloth_dynamic_v31_ggufs/)** (Reddit LocalLLaMA, 6/10) - Unsloth released updated dynamic GGUF (GPT-Generated Unified Format) quantized files for the Qwen open-source model family. These optimized files boost accuracy on coding benchmarks by up to 15 percent while reducing memory requirements for local execution.
+
 ## 2026-11-04 19:01
 
 - **[Unsloth Qwen3.8-Flash-Next GGUFs V3.1 Update (November 4th 2026)](https://www.reddit.com/r/LocalLLaMA/comments/1xnuva2/unsloth_qwen38flashnext_ggufs_v31_update_november/)** (Reddit LocalLLaMA, 7/10) - Unsloth posted a new version of the Qwen‑3.8‑Flash‑Next GGUF model (v3.1), claiming about 15 % higher accuracy over the previous release. The higher‑accuracy model can be run locally on consumer hardware, giving developers a stronger open‑source LLM for experiments without paying for cloud APIs.
