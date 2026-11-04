@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-04 00:02
+
+- **[gemma4: graph optimizations (massive gains on pp for E2B and E4B) by max-krasnyansky · Pull Request #31356 · ggml-org/llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xn6mm0/gemma4_graph_optimizations_massive_gains_on_pp/)** (Reddit LocalLLaMA, 7/10) - A new pull request to the llama.cpp codebase adds graph‑optimised kernels that dramatically speed up prompt processing for the Gemma models quantised to 2‑bit (E2B) and 4‑bit (E4B). Faster inference on low‑end CPUs makes running local LLMs cheaper and more responsive for developers building on‑device AI tools.
+- **[v2.1.318](https://github.com/anthropics/claude-code/releases/tag/v2.1.318)** (Claude Code releases, 6/10) - Claude Code version 2.1.318 now records each answer in the session log and adds an assume_role capability that lets the tool act on AWS resources in a different account, helping per‑developer cost attribution. The release also introduces an "effort" option so callers can limit the amount of compute Claude spends on a request, giving developers tighter control over latency and expense.
+
 ## 2026-11-03 23:01
 
 - **[Anthropic is working on a system to prove AI models’ identity](https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/)** (TechCrunch AI, 6/10) - Anthropic is developing FlashProve, a cryptographic system designed to verify that a response genuinely originated from a specific AI model. This will help developers ensure response authenticity and data provenance when building secure AI pipelines and agentic systems.
