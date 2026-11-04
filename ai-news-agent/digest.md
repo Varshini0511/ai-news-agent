@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-04 05:01
+
+- **[Four open coding models, prompted to finish an upload URL - analysis](https://www.reddit.com/r/LocalLLaMA/comments/1xmvn4q/four_open_coding_models_prompted_to_finish_an/)** (Reddit LocalLLaMA, 6/10) - A developer benchmarked four open-source code generation models on how accurately they completed a specific code snippet. This evaluation helps developers choose the right open model for inline code completion tasks by revealing subtle hallucination patterns.
+
 ## 2026-11-04 04:01
 
 - **[Basalt 0.2.0: Qwen 3.8 Flash Next NVFP4, 300 t/s prose, 600 t/s struct, 10K t/s prefill on a 5090 + 5060 Ti and 128GB RAM](https://www.reddit.com/r/LocalLLaMA/comments/1xn4qn1/basalt_020_qwen_38_flash_next_nvfp4_300_ts_prose/)** (Reddit LocalLLaMA, 6/10) - Basalt released version 0.2.0, an open-source inference engine designed to run quantized Qwen models on NVIDIA Blackwell GPUs using 4-bit floating-point (NVFP4) precision. This helps developers self-hosting open-source LLMs achieve extremely fast prompt processing and text generation speeds on consumer hardware.
