@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-04 03:31
+
+- **[Agents Sucked At UI (Until Today)](https://www.youtube.com/watch?v=xq0eB8vxeqk)** (Theo (t3.gg) YouTube, 6/10) - Developer Theo demonstrates an automated hill-climbing workflow using Claude 3 Opus to repeatedly evaluate and refine generated UI code until it meets design standards. This provides a practical architectural pattern for building self-correcting AI coding agents that produce frontend interfaces.
+
 ## 2026-11-04 01:01
 
 - **[T3 Code Nightly 0.1.7-nightly.20261104.4151 (322f6544dfad)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.7-nightly.20261104.4151)** (T3 Code releases, 6/10) - T3 Code released a nightly version adding support for 1Password secret providers to manage API usage limits alongside Windows Group Policy configuration. This helps developers configure secure usage constraints and enterprise settings for AI coding assistants.
