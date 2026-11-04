@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-04 05:32
+
+- **[From Logs to Faults: Reference-Free Fault Localization for Retrieval-Augmented Generation Pipelines](https://arxiv.org/abs/2611.03725)** (arXiv cs.AI, 7/10) - Researchers proposed a reference-free fault localization technique for Retrieval-Augmented Generation (RAG) pipelines that analyzes system logs without needing ideal answer ground truth. This helps software engineers quickly pinpoint whether production RAG failures are caused by bad retrieval, ranking, or generation steps.
+- **[MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and Dynamic Adjudication](https://arxiv.org/abs/2611.03662)** (arXiv cs.AI, 6/10) - Researchers created MCPGuard, a dynamic analysis framework that detects conformance and security bugs in official Model Context Protocol (MCP) SDKs. It helps developers building MCP tool integrations identify protocol compliance gaps and message validation flaws in their software.
+
 ## 2026-11-04 05:01
 
 - **[Four open coding models, prompted to finish an upload URL - analysis](https://www.reddit.com/r/LocalLLaMA/comments/1xmvn4q/four_open_coding_models_prompted_to_finish_an/)** (Reddit LocalLLaMA, 6/10) - A developer benchmarked four open-source code generation models on how accurately they completed a specific code snippet. This evaluation helps developers choose the right open model for inline code completion tasks by revealing subtle hallucination patterns.
