@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-04 22:31
+
+- **[A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root)** (OpenAI Blog, 7/10) - OpenAI developed an autonomous agent pipeline that successfully identified, reproduced, and patched 948 privilege-escalation bugs in the Linux kernel. This demonstrates practical architecture patterns for combining code analysis tools with LLMs to automate multi-step software engineering tasks.
+- **[LFM3-Omni-2B running fully offline on my iPhone 18 Pro Max at ~80 tok/s, powered by custom WebGPU kernels in a React Native app.](https://www.reddit.com/r/LocalLLaMA/comments/1xntou1/lfm3omni2b_running_fully_offline_on_my_iphone_18/)** (Reddit LocalLLaMA, 6/10) - A developer demonstrated running a 2-billion parameter multimodal AI model locally on iOS using React Native and custom WebGPU kernels. It provides a practical reference for engineers looking to build fast, offline-capable AI applications on mobile devices.
+
 ## 2026-11-04 21:31
 
 - **[v2.3.0](https://github.com/modelcontextprotocol/servers/releases/tag/v2.3.0)** (MCP servers releases, 7/10) - The Model Context Protocol (MCP) server library was updated to version 2.3.0, publishing new npm packages for filesystem access, memory storage, and sequential‑thinking capabilities. This gives developers ready‑made components to add persistent data and ordered reasoning to AI agents, simplifying the construction of reliable agent pipelines.
