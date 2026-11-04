@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-04 19:01
+
+- **[Unsloth Qwen3.8-Flash-Next GGUFs V3.1 Update (November 4th 2026)](https://www.reddit.com/r/LocalLLaMA/comments/1xnuva2/unsloth_qwen38flashnext_ggufs_v31_update_november/)** (Reddit LocalLLaMA, 7/10) - Unsloth posted a new version of the Qwen‑3.8‑Flash‑Next GGUF model (v3.1), claiming about 15 % higher accuracy over the previous release. The higher‑accuracy model can be run locally on consumer hardware, giving developers a stronger open‑source LLM for experiments without paying for cloud APIs.
+- **[datasette-agent 0.5a0](https://simonwillison.net/2026/Nov/3/datasette-agent/)** (Simon Willison, 6/10) - Simon Willison released datasette-agent 0.5a0, introducing a “panel” that lets the agent chat stay open alongside any Datasette page such as a table or query view. The side‑by‑side chat makes it easier to ask an LLM for help while exploring data, turning the agent into an interactive assistant for data analysis.
+
 ## 2026-11-04 18:01
 
 - **[Dharma Field Extractor: Any Document In, Structured Fields in JSON Out](https://huggingface.co/blog/Dharma-AI/dharma-field-extractor)** (Hugging Face, 6/10) - Hugging Face released the Dharma Field Extractor, a tool that takes any document and outputs its key fields as JSON. This lets developers quickly turn unstructured files into structured data for search, analysis, or feeding other models.
