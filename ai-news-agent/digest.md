@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-04 15:02
+
+- **[Siri AI developer 🍎, Gemini Notebook API 👨‍💻, provable inference ⚡](https://tldr.tech/ai/2026-11-04)** (TLDR AI, 7/10) - TLDR AI highlighted three new developer resources: Apple opened a program for building Siri‑based AI assistants, Google released a Gemini Notebook API that lets you call Gemini models from Jupyter notebooks, and a new library offers provable inference for AI models. These tools give engineers easier ways to prototype voice assistants, experiment with Gemini, and add formal guarantees to their code.
+- **[OpenAI to acquire Pierre Computer Company, Inc.](https://openai.com/index/openai-to-acquire-pierre)** (OpenAI Blog, 6/10) - OpenAI announced it will buy Pierre Computer Company, a firm that builds tools around the Codex code‑understanding model. The acquisition should bring tighter integration and new features for developers who write, review, or debug code with AI.
+
 ## 2026-11-04 14:31
 
 - **[T3 Code Nightly 0.1.8-nightly.20261104.4179 (9e85538535c8)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.8-nightly.20261104.4179)** (T3 Code releases, 7/10) - T3 Code released a nightly build (v0.1.8) that adds a dedicated secret‑request feature, letting AI agents ask users for logins, pairing codes, or tokens instead of sending them in chat. This makes building secure AI assistants easier because the secret exchange stays private and can be audited.
