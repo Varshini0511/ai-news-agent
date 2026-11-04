@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-04 04:01
+
+- **[Basalt 0.2.0: Qwen 3.8 Flash Next NVFP4, 300 t/s prose, 600 t/s struct, 10K t/s prefill on a 5090 + 5060 Ti and 128GB RAM](https://www.reddit.com/r/LocalLLaMA/comments/1xn4qn1/basalt_020_qwen_38_flash_next_nvfp4_300_ts_prose/)** (Reddit LocalLLaMA, 6/10) - Basalt released version 0.2.0, an open-source inference engine designed to run quantized Qwen models on NVIDIA Blackwell GPUs using 4-bit floating-point (NVFP4) precision. This helps developers self-hosting open-source LLMs achieve extremely fast prompt processing and text generation speeds on consumer hardware.
+
 ## 2026-11-04 03:31
 
 - **[Agents Sucked At UI (Until Today)](https://www.youtube.com/watch?v=xq0eB8vxeqk)** (Theo (t3.gg) YouTube, 6/10) - Developer Theo demonstrates an automated hill-climbing workflow using Claude 3 Opus to repeatedly evaluate and refine generated UI code until it meets design standards. This provides a practical architectural pattern for building self-correcting AI coding agents that produce frontend interfaces.
