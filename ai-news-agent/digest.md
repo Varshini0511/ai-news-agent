@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-04 13:01
+
+- **[deep-principle/Hydrogen-1.0 · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xnervh/deepprinciplehydrogen10_hugging_face/)** (Reddit LocalLLaMA, 6/10) - Deep Principle released Hydrogen-1.0, an open-weights language model fine-tuned for scientific research assistance and mathematical derivations. It provides developers building technical or academic AI assistants with a specialized model optimized for complex scientific reasoning tasks.
+
 ## 2026-11-04 12:01
 
 - **[Axion1-0/Axion-1.0-35B · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xnjiu4/axion10axion1035b_hugging_face/)** (Reddit LocalLLaMA, 7/10) - Researchers released Axion 1.0, an open-source 35-billion parameter model trained specifically for agentic workflows using supervised fine-tuning and reinforcement learning. It provides developers with a transparent, open-weight alternative for building AI agents that execute multi-step tasks and tool calls.
