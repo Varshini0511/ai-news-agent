@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-04 20:31
+
+- **[Release v0.67.0](https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0)** (Gemini CLI releases, 8/10) - The Gemini command‑line interface was released as version 0.67.0, adding support for running the IDE companion inside a container. This makes it easier for developers to develop, test, and debug Gemini‑based applications locally without needing a remote cloud environment.
+
 ## 2026-11-04 20:01
 
 - **[Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding](https://www.ricursive.com/ripple)** (Hacker News, 7/10) - A new 65-billion parameter open-weight model called Ripple-65B was previewed for agentic coding tasks. It gives developers a high-performing open-source option to self-host for automated software engineering agents.
