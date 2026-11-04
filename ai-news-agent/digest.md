@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-04 16:01
+
+- **[Letting users trust their own MCP clients, without opening a phishing hole](https://streamvessel.com/blog/mcp-trusted-redirect-uris)** (Hacker News, 7/10) - This post explores security design patterns for authenticating Model Context Protocol (MCP) clients safely without introducing phishing vulnerabilities. It provides actionable architecture advice for developers building agentic systems that connect Large Language Models to local tools.
+
 ## 2026-11-04 15:02
 
 - **[Siri AI developer 🍎, Gemini Notebook API 👨‍💻, provable inference ⚡](https://tldr.tech/ai/2026-11-04)** (TLDR AI, 7/10) - TLDR AI highlighted three new developer resources: Apple opened a program for building Siri‑based AI assistants, Google released a Gemini Notebook API that lets you call Gemini models from Jupyter notebooks, and a new library offers provable inference for AI models. These tools give engineers easier ways to prototype voice assistants, experiment with Gemini, and add formal guarantees to their code.
