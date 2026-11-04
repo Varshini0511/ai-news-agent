@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-04 20:01
+
+- **[Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding](https://www.ricursive.com/ripple)** (Hacker News, 7/10) - A new 65-billion parameter open-weight model called Ripple-65B was previewed for agentic coding tasks. It gives developers a high-performing open-source option to self-host for automated software engineering agents.
+
 ## 2026-11-04 19:31
 
 - **[New Qwen3.8-Flash-Next Unsloth Dynamic V3.1 GGUFs](https://www.reddit.com/r/LocalLLaMA/comments/1xnvbxn/new_qwen38flashnext_unsloth_dynamic_v31_ggufs/)** (Reddit LocalLLaMA, 6/10) - Unsloth released updated dynamic GGUF (GPT-Generated Unified Format) quantized files for the Qwen open-source model family. These optimized files boost accuracy on coding benchmarks by up to 15 percent while reducing memory requirements for local execution.
