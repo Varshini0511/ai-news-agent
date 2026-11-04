@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-04 09:31
+
+- **[Datashake MCP](https://www.producthunt.com/products/datashake-hub)** (Product Hunt, 7/10) - Datashake released MCP, a connector that lets you pull review and social‑media data into your AI assistant with minimal code. It handles data fetching and formatting so your assistant can answer questions using current public opinions without you building the pipeline yourself.
+
 ## 2026-11-04 09:01
 
 - **[Hindsight Models and Inference API](https://www.producthunt.com/products/vectorize)** (Product Hunt, 7/10) - Hindsight released an API featuring small, specialized models focused on text embeddings and search reranking. This provides developers building RAG (Retrieval-Augmented Generation) systems a fast, lightweight option to improve search relevance.
