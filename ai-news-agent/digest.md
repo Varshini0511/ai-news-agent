@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-04 01:01
+
+- **[T3 Code Nightly 0.1.7-nightly.20261104.4151 (322f6544dfad)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.7-nightly.20261104.4151)** (T3 Code releases, 6/10) - T3 Code released a nightly version adding support for 1Password secret providers to manage API usage limits alongside Windows Group Policy configuration. This helps developers configure secure usage constraints and enterprise settings for AI coding assistants.
+
 ## 2026-11-04 00:02
 
 - **[gemma4: graph optimizations (massive gains on pp for E2B and E4B) by max-krasnyansky · Pull Request #31356 · ggml-org/llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xn6mm0/gemma4_graph_optimizations_massive_gains_on_pp/)** (Reddit LocalLLaMA, 7/10) - A new pull request to the llama.cpp codebase adds graph‑optimised kernels that dramatically speed up prompt processing for the Gemma models quantised to 2‑bit (E2B) and 4‑bit (E4B). Faster inference on low‑end CPUs makes running local LLMs cheaper and more responsive for developers building on‑device AI tools.
