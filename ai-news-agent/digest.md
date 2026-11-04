@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-04 21:01
+
+- **[ricursiveAI/Ripple-65B-Preview · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xnx3cs/ricursiveairipple65bpreview_hugging_face/)** (Reddit LocalLLaMA, 9/10) - ricursiveAI released Ripple‑65B‑Preview, a 65‑billion‑parameter open‑source language model hosted on Hugging Face. The model gives developers free access to a very large model they can fine‑tune or experiment with without paying for commercial APIs.
+- **[Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s](https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra)** (Hacker News, 7/10) - Qualcomm announced the Cloud AI 100 Ultra, a 150‑watt accelerator card with 128 GB of memory and 548 GB/s bandwidth. The high performance and large memory make it easier to run large AI models locally or in private clouds.
+- **[T3 Code Nightly 0.1.8-nightly.20261104.4192 (7f6f47b27b44)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.8-nightly.20261104.4192)** (T3 Code releases, 6/10) - The T3 Code library released nightly version 0.1.8‑nightly.20261104.4192, adding bug fixes, updated TypeScript type‑checking, and compatibility with the latest drizzle database driver, which helps developers keep their AI‑related TypeScript projects stable.
+
 ## 2026-11-04 20:31
 
 - **[Release v0.67.0](https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0)** (Gemini CLI releases, 8/10) - The Gemini command‑line interface was released as version 0.67.0, adding support for running the IDE companion inside a container. This makes it easier for developers to develop, test, and debug Gemini‑based applications locally without needing a remote cloud environment.
