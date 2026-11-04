@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-04 08:31
+
+- **[LiveReacting for ChatGPT](https://www.producthunt.com/products/livereacting)** (Product Hunt, 7/10) - LiveReacting introduced a plug‑in that streams ChatGPT responses as live or pre‑recorded video streams. This lets developers create interactive AI‑driven shows or tutorials without writing video‑generation code.
+- **[QualityLayer](https://www.producthunt.com/products/qualitylayer)** (Product Hunt, 7/10) - QualityLayer provides a platform where you can define software tasks and let AI coding agents plan, write and review the code. It helps teams prototype AI‑assisted development workflows quickly.
+- **[Resum](https://www.producthunt.com/products/resum)** (Product Hunt, 6/10) - Resum launched an API and SDK that let developers add real‑time, two‑way voice conversations to their apps. It’s useful because you can embed live AI chat without building the telephony stack yourself.
+
 ## 2026-11-04 07:32
 
 - **[T3 Code Nightly 0.1.8-nightly.20261104.4165 (8b44f42b14c8)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.8-nightly.20261104.4165)** (T3 Code releases, 6/10) - T3 Code released a nightly update featuring dynamic Claude model discovery and visual output rendering for tools using MCP (Model Context Protocol). This enables developers using the tool to preview visual outputs like HTML screenshots directly within their coding workspace.
