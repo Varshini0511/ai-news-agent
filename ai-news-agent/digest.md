@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-04 14:31
+
+- **[T3 Code Nightly 0.1.8-nightly.20261104.4179 (9e85538535c8)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.8-nightly.20261104.4179)** (T3 Code releases, 7/10) - T3 Code released a nightly build (v0.1.8) that adds a dedicated secret‑request feature, letting AI agents ask users for logins, pairing codes, or tokens instead of sending them in chat. This makes building secure AI assistants easier because the secret exchange stays private and can be audited.
+
 ## 2026-11-04 13:01
 
 - **[deep-principle/Hydrogen-1.0 · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xnervh/deepprinciplehydrogen10_hugging_face/)** (Reddit LocalLLaMA, 6/10) - Deep Principle released Hydrogen-1.0, an open-weights language model fine-tuned for scientific research assistance and mathematical derivations. It provides developers building technical or academic AI assistants with a specialized model optimized for complex scientific reasoning tasks.
