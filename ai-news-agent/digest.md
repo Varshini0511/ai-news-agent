@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-04 18:01
+
+- **[Dharma Field Extractor: Any Document In, Structured Fields in JSON Out](https://huggingface.co/blog/Dharma-AI/dharma-field-extractor)** (Hugging Face, 6/10) - Hugging Face released the Dharma Field Extractor, a tool that takes any document and outputs its key fields as JSON. This lets developers quickly turn unstructured files into structured data for search, analysis, or feeding other models.
+- **[ChatGPT will now make you animated GIFs](https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6)** (The Verge AI, 6/10) - OpenAI added the ability for ChatGPT to generate animated GIFs from text prompts or uploaded images, using the new Images 2.6 model. Developers can now embed simple animation creation into chat or app experiences without extra graphics code.
+- **[rust-v0.167.0-alpha.3.1](https://github.com/openai/codex/releases/tag/rust-v0.167.0-alpha.3.1)** (OpenAI Codex releases, 6/10) - OpenAI updated its Rust SDK (codex) to version 0.167.0‑alpha.3.1, fixing bugs and adding new API endpoints. Rust developers can more easily call OpenAI models from their code, speeding up integration work.
+
 ## 2026-11-04 17:01
 
 - **[Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)** (Hacker News, 7/10) - The Kimi K3.1 Pro model weights have been released publicly, so developers can download and run the model on their own hardware. This lets engineers experiment, fine‑tune, or embed a strong language model in applications without using a cloud service.
