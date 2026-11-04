@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-04 07:32
+
+- **[T3 Code Nightly 0.1.8-nightly.20261104.4165 (8b44f42b14c8)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.8-nightly.20261104.4165)** (T3 Code releases, 6/10) - T3 Code released a nightly update featuring dynamic Claude model discovery and visual output rendering for tools using MCP (Model Context Protocol). This enables developers using the tool to preview visual outputs like HTML screenshots directly within their coding workspace.
+
 ## 2026-11-04 05:32
 
 - **[From Logs to Faults: Reference-Free Fault Localization for Retrieval-Augmented Generation Pipelines](https://arxiv.org/abs/2611.03725)** (arXiv cs.AI, 7/10) - Researchers proposed a reference-free fault localization technique for Retrieval-Augmented Generation (RAG) pipelines that analyzes system logs without needing ideal answer ground truth. This helps software engineers quickly pinpoint whether production RAG failures are caused by bad retrieval, ranking, or generation steps.
