@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-04 09:01
+
+- **[Hindsight Models and Inference API](https://www.producthunt.com/products/vectorize)** (Product Hunt, 7/10) - Hindsight released an API featuring small, specialized models focused on text embeddings and search reranking. This provides developers building RAG (Retrieval-Augmented Generation) systems a fast, lightweight option to improve search relevance.
+- **[kosa8](https://www.producthunt.com/products/kosa8)** (Product Hunt, 6/10) - kosa8 launched air-gapped micro Virtual Machine (microVM) sandboxes designed for running enterprise AI agents in isolation. It helps developers safely execute untrusted, agent-generated code without risking access to their host networks.
+
 ## 2026-11-04 08:31
 
 - **[LiveReacting for ChatGPT](https://www.producthunt.com/products/livereacting)** (Product Hunt, 7/10) - LiveReacting introduced a plug‑in that streams ChatGPT responses as live or pre‑recorded video streams. This lets developers create interactive AI‑driven shows or tutorials without writing video‑generation code.
