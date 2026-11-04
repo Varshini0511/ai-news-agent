@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-04 12:01
+
+- **[Axion1-0/Axion-1.0-35B · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xnjiu4/axion10axion1035b_hugging_face/)** (Reddit LocalLLaMA, 7/10) - Researchers released Axion 1.0, an open-source 35-billion parameter model trained specifically for agentic workflows using supervised fine-tuning and reinforcement learning. It provides developers with a transparent, open-weight alternative for building AI agents that execute multi-step tasks and tool calls.
+
 ## 2026-11-04 11:31
 
 - **[British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted](https://www.reddit.com/r/LocalLLaMA/comments/1xnkt87/british_fintech_revolut_slashes_ai_coding_costs/)** (Reddit LocalLLaMA, 6/10) - Financial technology firm Revolut reportedly cut its AI development costs tenfold by switching from Anthropic's Claude API to self-hosted open-source models. It demonstrates how migrating from proprietary Large Language Model (LLM) APIs to self-hosted open-source alternatives can drastically reduce expenses for internal coding tools.
