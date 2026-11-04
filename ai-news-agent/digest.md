@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-04 11:31
+
+- **[British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted](https://www.reddit.com/r/LocalLLaMA/comments/1xnkt87/british_fintech_revolut_slashes_ai_coding_costs/)** (Reddit LocalLLaMA, 6/10) - Financial technology firm Revolut reportedly cut its AI development costs tenfold by switching from Anthropic's Claude API to self-hosted open-source models. It demonstrates how migrating from proprietary Large Language Model (LLM) APIs to self-hosted open-source alternatives can drastically reduce expenses for internal coding tools.
+
 ## 2026-11-04 09:31
 
 - **[Datashake MCP](https://www.producthunt.com/products/datashake-hub)** (Product Hunt, 7/10) - Datashake released MCP, a connector that lets you pull review and social‑media data into your AI assistant with minimal code. It handles data fetching and formatting so your assistant can answer questions using current public opinions without you building the pipeline yourself.
