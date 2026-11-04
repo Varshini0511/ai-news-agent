@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-04 17:01
+
+- **[Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)** (Hacker News, 7/10) - The Kimi K3.1 Pro model weights have been released publicly, so developers can download and run the model on their own hardware. This lets engineers experiment, fine‑tune, or embed a strong language model in applications without using a cloud service.
+
 ## 2026-11-04 16:01
 
 - **[Letting users trust their own MCP clients, without opening a phishing hole](https://streamvessel.com/blog/mcp-trusted-redirect-uris)** (Hacker News, 7/10) - This post explores security design patterns for authenticating Model Context Protocol (MCP) clients safely without introducing phishing vulnerabilities. It provides actionable architecture advice for developers building agentic systems that connect Large Language Models to local tools.
