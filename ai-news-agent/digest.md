@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-04 21:31
+
+- **[v2.3.0](https://github.com/modelcontextprotocol/servers/releases/tag/v2.3.0)** (MCP servers releases, 7/10) - The Model Context Protocol (MCP) server library was updated to version 2.3.0, publishing new npm packages for filesystem access, memory storage, and sequential‑thinking capabilities. This gives developers ready‑made components to add persistent data and ordered reasoning to AI agents, simplifying the construction of reliable agent pipelines.
+
 ## 2026-11-04 21:01
 
 - **[ricursiveAI/Ripple-65B-Preview · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xnx3cs/ricursiveairipple65bpreview_hugging_face/)** (Reddit LocalLLaMA, 9/10) - ricursiveAI released Ripple‑65B‑Preview, a 65‑billion‑parameter open‑source language model hosted on Hugging Face. The model gives developers free access to a very large model they can fine‑tune or experiment with without paying for commercial APIs.
