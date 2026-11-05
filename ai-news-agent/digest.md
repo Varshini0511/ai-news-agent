@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-05 09:31
+
+- **[AI Employees by Easy-Peasy.AI](https://www.producthunt.com/products/easy-peasy-ai)** (Product Hunt, 6/10) - Easy‑Peasy.AI launched “AI Employees”, a service that creates multiple AI agents, splits a task among them, and asks for confirmation before acting. Developers can use it to prototype multi‑agent workflows without writing the orchestration code themselves.
+
 ## 2026-11-05 09:02
 
 - **[Tencent Hy4](https://www.producthunt.com/products/hunyuan-a13b)** (Product Hunt, 6/10) - Tencent announced Hy4, a vision-language model capable of recognizing screen elements and operating computer user interfaces. This gives developers an additional model option for building autonomous computer-use agents.
