@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-05 23:31
+
+- **[Introducing Pangram Image 1.0](https://www.pangram.com/blog/introducing-pangram-image-1-0)** (Hacker News, 6/10) - Pangram Labs introduced Pangram Image 1.0, a new specialized model focused on image generation and detection tasks. It offers developers a targeted tool for generating visuals or identifying AI-generated imagery within their applications.
+
 ## 2026-11-05 22:31
 
 - **[Perplexity launches its own take on AI agents for work](https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work)** (The Verge AI, 6/10) - Perplexity launched "Teammates," a workspace feature that deploys customizable AI agents capable of using shared skills and memory across a team. This provides a practical example of how multi-agent coordination and shared long-term memory are being implemented in enterprise applications.
