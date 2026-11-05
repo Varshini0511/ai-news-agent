@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-05 22:31
+
+- **[Perplexity launches its own take on AI agents for work](https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work)** (The Verge AI, 6/10) - Perplexity launched "Teammates," a workspace feature that deploys customizable AI agents capable of using shared skills and memory across a team. This provides a practical example of how multi-agent coordination and shared long-term memory are being implemented in enterprise applications.
+
 ## 2026-11-05 21:01
 
 - **[Build Live Apps in Cursor](https://cursor.com/changelog/build-live-apps)** (Cursor changelog, 8/10) - Cursor updated its AI code editor to build, host, and deploy web applications directly from the development environment using integrated cloud agents. This reduces setup friction for developers by automating database provision, authentication, and hosting during app prototyping.
