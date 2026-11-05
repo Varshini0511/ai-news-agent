@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-05 10:01
+
+- **[Baidu dropped ERNIE 5.5 Flash Base](https://ernie.baidu.com/release/ernie-5-5-flash-base/)** (Hacker News, 7/10) - Baidu released ERNIE 5.5 Flash Base, a new variant of its large language model that runs faster and uses less compute. Developers can get lower‑latency responses for Chinese‑language tasks without needing expensive hardware.
+- **[ChatNest](https://www.producthunt.com/products/chatnest-2)** (Product Hunt, 6/10) - ChatNest introduced a prompt library with folder organization for AI chat sessions. It lets engineers store, tag, and reuse prompts easily, speeding up prompt engineering and testing across different models.
+
 ## 2026-11-05 09:31
 
 - **[AI Employees by Easy-Peasy.AI](https://www.producthunt.com/products/easy-peasy-ai)** (Product Hunt, 6/10) - Easy‑Peasy.AI launched “AI Employees”, a service that creates multiple AI agents, splits a task among them, and asks for confirmation before acting. Developers can use it to prototype multi‑agent workflows without writing the orchestration code themselves.
