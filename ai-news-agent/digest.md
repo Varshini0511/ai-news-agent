@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-05 17:02
+
+- **[OpenAI says its new cybersecurity model is better at not hacking other companies](https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch)** (The Verge AI, 7/10) - OpenAI announced a specialized cybersecurity model named GPT-6 Cyber that finds software vulnerabilities while reducing unintended hacking attempts during testing. This gives security and software engineers a safer targeted model for automated security auditing and vulnerability detection.
+
 ## 2026-11-05 16:31
 
 - **[Show HN: Stroq – a local audit of what your coding agent did and why](https://github.com/AGGIB/Stroq)** (Hacker News, 7/10) - Stroq is an open‑source local audit tool that logs every prompt, response and file edit a coding AI agent makes, letting you see exactly what the agent did and why. It helps developers debug agent behavior, ensure compliance, and fix unexpected changes.
