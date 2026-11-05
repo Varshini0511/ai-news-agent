@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-05 05:01
+
+- **[Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents](https://arxiv.org/abs/2611.05391)** (arXiv cs.AI, 6/10) - This paper introduces an architecture that feeds real-time tool health and telemetry data directly into an LLM agent's context window. This allows developers to build more resilient agentic systems that dynamically avoid invoking failing APIs or degraded tools.
+- **[A Feasibility Condition for Confidence-Gated Tiered LLM Inference](https://arxiv.org/abs/2611.05394)** (arXiv cs.AI, 6/10) - This paper presents formal feasibility conditions for routing queries dynamically across small local models and large cloud models based on confidence scores. It provides useful theoretical bounds for engineers designing tiered LLM inference architectures to reduce API costs and latency.
+
 ## 2026-11-05 03:31
 
 - **[T3 Code Nightly 0.1.8-nightly.20261105.4205 (935818e422f9)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.8-nightly.20261105.4205)** (T3 Code releases, 7/10) - Anthropic released T3 Code Nightly version 0.1.8, which adds interactive MCP (Model‑Centric Programming) apps inside Claude code threads, organized repository‑cloning folders, and browser tabs for viewing agents. This lets developers test Claude‑based agents locally, keep code organized, and watch agent actions in a browser, making it quicker to build and debug AI‑augmented tools.
