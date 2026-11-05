@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-05 18:01
+
+- **[An open-source project just ranked #1 on EnterpriseRAG-Bench, ahead of the listed systems from OpenAI, Google, Microsoft and Amazon](https://www.reddit.com/r/LocalLLaMA/comments/1xoiaye/an_opensource_project_just_ranked_1_on/)** (Reddit LocalLLaMA, 7/10) - The open‑source PipesHub library achieved the top spot on the EnterpriseRAG‑Bench evaluation, beating proprietary systems from major cloud providers. Builders can use PipesHub as a high‑performing, free RAG (retrieval‑augmented generation) pipeline for their own applications.
+- **[Getting editable layers out of Qwen-Image 2.1, a model that only edits: what works, what still fails (local, open source) Kokon](https://www.reddit.com/r/LocalLLaMA/comments/1xoji3b/getting_editable_layers_out_of_qwenimage_21_a/)** (Reddit LocalLLaMA, 6/10) - Kokon, a local photo‑editing app, now adds a “Layers lab” that can separate objects in any image into their own editable layers using the Qwen‑Image 2.1 model. This lets developers experiment with on‑device image editing without sending data to the cloud.
+- **[Claude can now analyze your spending with its new Personal Finance tool](https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/)** (TechCrunch AI, 6/10) - Anthropic added a Personal Finance feature to Claude that links to bank and card data through the Plaid service, allowing users to ask the chatbot about spending, balances, and budgeting. Developers can now embed a ready‑made financial‑assistant capability into apps without building their own data‑integration layer.
+
 ## 2026-11-05 17:31
 
 - **[Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)** (Google AI Blog, 9/10) - Google announced Gemini Omni 1.2 Flash, a new version of its multimodal model that runs faster, costs less, and can handle longer video clips. This lets developers add cheap, quick video or image processing to their apps.
