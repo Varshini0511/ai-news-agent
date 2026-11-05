@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-05 09:02
+
+- **[Tencent Hy4](https://www.producthunt.com/products/hunyuan-a13b)** (Product Hunt, 6/10) - Tencent announced Hy4, a vision-language model capable of recognizing screen elements and operating computer user interfaces. This gives developers an additional model option for building autonomous computer-use agents.
+- **[Living Brain](https://www.producthunt.com/products/chatandbuild)** (Product Hunt, 6/10) - Living Brain launched a persistent memory layer designed to manage context across multi-agent AI systems. This allows developers to give autonomous agents long-term context retention without manually building custom vector database backends.
+
 ## 2026-11-05 08:31
 
 - **[Nemotron 3.5 Transcribe](https://www.producthunt.com/products/nvidia)** (Product Hunt, 8/10) - Nemotron 3.5 Transcribe is Nvidia's new speech‑large‑language model that converts audio to text with higher accuracy and context awareness. It gives developers a high‑quality transcription option that can be run on Nvidia GPUs or via the API.
