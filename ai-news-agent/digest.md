@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-05 14:31
+
+- **[MCP Explained](https://mcp-explained.com/)** (Hacker News, 7/10) - A developer discussion breaks down the technical details of Anthropic's Model Context Protocol (MCP), an open standard for connecting AI models to data sources and tools. It helps engineers understand how to build standardized, reusable interfaces for AI agents instead of writing custom integrations for every tool.
+- **[Box taps Nvidia’s Nemotron for new agent-first content retrieval system](https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/)** (TechCrunch AI, 6/10) - Enterprise cloud provider Box integrated NVIDIA's open Nemotron model into a new agentic content search system. It provides developers a real-world reference for optimizing retrieval-augmented generation (RAG) to cut latency, token costs, and error rates.
+
 ## 2026-11-05 11:01
 
 - **[A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.](https://huggingface.co/blog/phonon-tts)** (Hugging Face, 7/10) - Hugging Face detailed Phonon TTS, a new open-source model for high-quality text-to-speech (TTS) designed to run directly on local devices. This helps developers integrate fast, private voice features into applications without relying on cloud APIs.
