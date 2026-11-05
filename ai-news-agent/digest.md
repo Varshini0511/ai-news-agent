@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-05 01:01
+
+- **[Bf16 might be freezing your weight updates](https://lacuna.tiptreesystems.com/paper/bf16-might-be-freezing-your-weight-updates/art_487b1ed949e745a6ae0c42815b8d3cba)** (Hacker News, 6/10) - A technical analysis highlights how using Bfloat16 (16-bit brain floating point) precision during model fine-tuning can cause small gradient updates to round to zero, silently freezing weight updates. Developers fine-tuning open-source models can use this insight to adjust learning rates or keep 32-bit master weights to prevent silent training stalls.
+
 ## 2026-11-05 00:31
 
 - **[Introducing Images 2.6](https://openai.com/index/introducing-images-2-6)** (OpenAI Blog, 9/10) - OpenAI released Images 2.6, an updated image generation model featuring faster processing, GIF creation, and finer editing controls. Developers can leverage the updated Application Programming Interface (API) controls to generate and edit dynamic visual content programmatically within their apps.
