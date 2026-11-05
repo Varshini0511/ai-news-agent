@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-05 11:01
+
+- **[A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.](https://huggingface.co/blog/phonon-tts)** (Hugging Face, 7/10) - Hugging Face detailed Phonon TTS, a new open-source model for high-quality text-to-speech (TTS) designed to run directly on local devices. This helps developers integrate fast, private voice features into applications without relying on cloud APIs.
+
 ## 2026-11-05 10:01
 
 - **[Baidu dropped ERNIE 5.5 Flash Base](https://ernie.baidu.com/release/ernie-5-5-flash-base/)** (Hacker News, 7/10) - Baidu released ERNIE 5.5 Flash Base, a new variant of its large language model that runs faster and uses less compute. Developers can get lower‑latency responses for Chinese‑language tasks without needing expensive hardware.
