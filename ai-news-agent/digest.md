@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-05 19:01
+
+- **[GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents](https://openai.com/index/introducing-gpt-6-cyber)** (OpenAI Blog, 9/10) - OpenAI released GPT‑6 Cyber, a new model designed to find software vulnerabilities and suggest fixes while staying within authorized limits. It lets developers add AI‑driven security checks and automated patch ideas directly into their code workflows.
+
 ## 2026-11-05 18:31
 
 - **[[Paper] FireFlash : An Open Recipe for Long-Horizon Agentic RL Achieving the Performance-Cost Pareto Frontier](https://www.reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon/)** (Reddit LocalLLaMA, 7/10) - A new 300‑billion‑parameter model called FireFlash was released for long‑sequence tasks such as terminal commands and code generation. It matches top‑tier accuracy while costing about 30 × less per task, letting developers run sophisticated agents more cheaply.
