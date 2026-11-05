@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-05 16:02
+
+- **[Le Chonk brings the brains. Studio puts it to work.](https://mistral.ai/news/build-with-studio/)** (Mistral, 8/10) - Mistral announced Mistral Studio together with the Le Chonk model, a platform that lets teams build, test and deploy AI agents and workflows while keeping data and model control in‑house. The toolkit provides ready‑made components for agent orchestration, which can shorten the time to ship enterprise AI applications.
+- **[Rust inference engine for Qwen models on a 12 GB GPU, and it runs Qwen3.8-Flash-Next faster than the original Strata](https://www.reddit.com/r/LocalLLaMA/comments/1xnu9iv/rust_inference_engine_for_qwen_models_on_a_12_gb/)** (Reddit LocalLLaMA, 7/10) - A new inference engine called RustingStrata was open‑sourced; it runs Qwen GGUF models using pure Rust, compiling CUDA kernels at start‑up and also supporting Vulkan. Developers can now use a lightweight, GPU‑accelerated runtime without the ggml dependency, making it easier to integrate Qwen models into Rust applications.
+- **[Qwen 3.8 Flash Next GSQ RCO quant as good as BF16](https://www.reddit.com/r/LocalLLaMA/comments/1xnutr6/qwen_38_flash_next_gsq_rco_quant_as_good_as_bf16/)** (Reddit LocalLLaMA, 6/10) - Unsloth released version 3.1 of its quantization method for the Qwen 3.8 Flash model, claiming about 15 % better accuracy than the prior GSQ RCO technique while keeping the file size almost unchanged. This lets developers run the model with nearly the same speed but higher quality, which is valuable when deploying on limited‑capacity GPUs.
+
 ## 2026-11-05 15:32
 
 - **[Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure](https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/)** (TechCrunch AI, 6/10) - Dropbox bought Tigris Data for $350 million and plans to launch DBX Agent Cloud, a storage service aimed at developers building AI models and agents. The managed platform can simplify data handling and scaling for AI applications.
