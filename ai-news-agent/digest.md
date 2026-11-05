@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-05 06:31
+
+- **[[AINews] It's Swapping Season](https://latent.space/p/ainews-it-s-swapping-season/)** (Latent Space, 7/10) - OpenAI published security patches for the Linux kernel and made the weights for its Kimi K3.1 Pro model publicly available, while the startup Ricursive released the 65‑billion‑parameter Ripple model. This gives engineers free access to a strong language model they can fine‑tune for their own apps, and the kernel patches help keep AI‑heavy servers more secure.
+- **[rust-v0.167.0-alpha.3.2](https://github.com/openai/codex/releases/tag/rust-v0.167.0-alpha.3.2)** (OpenAI Codex releases, 6/10) - OpenAI rolled out Codex version rust‑v0.167.0‑alpha.3.2, adding updated Rust code generation and fixing several bugs. Rust developers can now get more accurate AI‑driven suggestions inside their editors, speeding up prototyping and reducing manual coding errors.
+
 ## 2026-11-05 05:01
 
 - **[Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents](https://arxiv.org/abs/2611.05391)** (arXiv cs.AI, 6/10) - This paper introduces an architecture that feeds real-time tool health and telemetry data directly into an LLM agent's context window. This allows developers to build more resilient agentic systems that dynamically avoid invoking failing APIs or degraded tools.
