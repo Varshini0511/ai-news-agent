@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-05 03:31
+
+- **[T3 Code Nightly 0.1.8-nightly.20261105.4205 (935818e422f9)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.8-nightly.20261105.4205)** (T3 Code releases, 7/10) - Anthropic released T3 Code Nightly version 0.1.8, which adds interactive MCP (Model‑Centric Programming) apps inside Claude code threads, organized repository‑cloning folders, and browser tabs for viewing agents. This lets developers test Claude‑based agents locally, keep code organized, and watch agent actions in a browser, making it quicker to build and debug AI‑augmented tools.
+
 ## 2026-11-05 01:01
 
 - **[Bf16 might be freezing your weight updates](https://lacuna.tiptreesystems.com/paper/bf16-might-be-freezing-your-weight-updates/art_487b1ed949e745a6ae0c42815b8d3cba)** (Hacker News, 6/10) - A technical analysis highlights how using Bfloat16 (16-bit brain floating point) precision during model fine-tuning can cause small gradient updates to round to zero, silently freezing weight updates. Developers fine-tuning open-source models can use this insight to adjust learning rates or keep 32-bit master weights to prevent silent training stalls.
