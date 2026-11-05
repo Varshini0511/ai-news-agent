@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-05 08:31
+
+- **[Nemotron 3.5 Transcribe](https://www.producthunt.com/products/nvidia)** (Product Hunt, 8/10) - Nemotron 3.5 Transcribe is Nvidia's new speech‑large‑language model that converts audio to text with higher accuracy and context awareness. It gives developers a high‑quality transcription option that can be run on Nvidia GPUs or via the API.
+- **[ChatGPT Images 2.6](https://www.producthunt.com/products/chatgpt-images-2-6)** (Product Hunt, 7/10) - ChatGPT Images 2.6 adds animated GIF output, reusable reference images, and claims 50% faster generation. Developers can now create richer visual content faster and reuse assets across prompts.
+- **[Seamcult](https://www.producthunt.com/products/seamcult)** (Product Hunt, 6/10) - Seamcult launched a web tool that lets you record and share LLM prompting patterns as reusable "papers". It helps developers capture good prompt designs and reuse them, speeding up LLM‑based product development.
+
 ## 2026-11-05 08:01
 
 - **[CCORE GLB-3D-Coder 4B final model and full weights are out](https://www.reddit.com/r/LocalLLaMA/comments/1xobe4h/ccore_glb3dcoder_4b_final_model_and_full_weights/)** (Reddit LocalLLaMA, 6/10) - CCORE released full open-source weights for GLB-3D-Coder 4B, a fine-tuned model that generates Three.js web code for 3D graphics from text prompts. This allows developers to run a lightweight local model that converts text descriptions into interactive 3D web assets.
