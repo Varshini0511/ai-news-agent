@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-05 21:01
+
+- **[Build Live Apps in Cursor](https://cursor.com/changelog/build-live-apps)** (Cursor changelog, 8/10) - Cursor updated its AI code editor to build, host, and deploy web applications directly from the development environment using integrated cloud agents. This reduces setup friction for developers by automating database provision, authentication, and hosting during app prototyping.
+- **[[GUIDE] Qwen3.8 Flash-Next on a single RTX 5080 + 64GB RAM: >250 tok/s tg and 5700 tok/s prefill in real agent coding sessions (Basalt + new Unsloth UD-IQ3_XXS + Lamina drafter),+ how it compares to llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xomy0i/guide_qwen38_flashnext_on_a_single_rtx_5080_64gb/)** (Reddit LocalLLaMA, 7/10) - A developer guide demonstrates how to achieve over 250 tokens per second local inference by pairing the Basalt engine with optimized model quantizations on a single consumer graphics card. This offers practical techniques to drastically speed up local coding agents without relying on expensive cloud APIs.
+- **[Tencent Launches Hy4, One of the Leading Open-Source AI Models](https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/)** (Hacker News, 6/10) - Tencent released Hunyuan4 (Hy4), a new suite of open-source artificial intelligence foundation models. It offers developers another configurable open-weight option for fine-tuning and hosting models locally.
+
 ## 2026-11-05 20:01
 
 - **[New NVIDIA Cosmos 3 Open Models for Interactive World Simulation](https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation)** (Hugging Face, 7/10) - NVIDIA released Cosmos 3, a collection of open-source models designed for interactive world simulation and digital twin creation. Developers building robotics or physical AI systems can use these models to generate high-fidelity synthetic video and simulate complex environments for training.
