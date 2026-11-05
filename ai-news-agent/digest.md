@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-05 16:31
+
+- **[Show HN: Stroq – a local audit of what your coding agent did and why](https://github.com/AGGIB/Stroq)** (Hacker News, 7/10) - Stroq is an open‑source local audit tool that logs every prompt, response and file edit a coding AI agent makes, letting you see exactly what the agent did and why. It helps developers debug agent behavior, ensure compliance, and fix unexpected changes.
+- **[Building a Multi-Agent System from Scratch: Architecture Patterns](https://kadhar.dev/blog/multi-agent-systems-from-scratch)** (Hacker News, 6/10) - The "Building a Multi‑Agent System from Scratch" post details practical architecture patterns such as task decomposition, message routing, and shared memory for linking several AI agents. It gives engineers a concrete roadmap to build their own multi‑agent apps without a proprietary framework.
+
 ## 2026-11-05 16:02
 
 - **[Le Chonk brings the brains. Studio puts it to work.](https://mistral.ai/news/build-with-studio/)** (Mistral, 8/10) - Mistral announced Mistral Studio together with the Le Chonk model, a platform that lets teams build, test and deploy AI agents and workflows while keeping data and model control in‑house. The toolkit provides ready‑made components for agent orchestration, which can shorten the time to ship enterprise AI applications.
