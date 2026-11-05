@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-05 15:01
+
+- **[GPT-Image-2.6 🖼️, Meta buys Conductor 💻, Cognition SWE-2 Flash ⚡](https://tldr.tech/ai/2026-11-05)** (TLDR AI, 9/10) - OpenAI announced GPT‑Image‑2.6, a new version of its GPT model that can process and generate images as well as text. This gives developers a ready‑to‑use vision‑augmented model for building apps such as visual question answering, image‑based search, or multimodal code assistants.
+- **[Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents](https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/)** (TechCrunch AI, 6/10) - Aina released a smart ring with a tiny screen, joystick, and microphone that lets you speak to AI agents, take phone calls, and dictate notes on a Mac. Developers can use the ring to prototype voice‑first AI assistants and explore new wearable interaction patterns without writing a full app.
+
 ## 2026-11-05 14:31
 
 - **[MCP Explained](https://mcp-explained.com/)** (Hacker News, 7/10) - A developer discussion breaks down the technical details of Anthropic's Model Context Protocol (MCP), an open standard for connecting AI models to data sources and tools. It helps engineers understand how to build standardized, reusable interfaces for AI agents instead of writing custom integrations for every tool.
