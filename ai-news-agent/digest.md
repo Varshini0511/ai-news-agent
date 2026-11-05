@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-05 20:01
+
+- **[New NVIDIA Cosmos 3 Open Models for Interactive World Simulation](https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation)** (Hugging Face, 7/10) - NVIDIA released Cosmos 3, a collection of open-source models designed for interactive world simulation and digital twin creation. Developers building robotics or physical AI systems can use these models to generate high-fidelity synthetic video and simulate complex environments for training.
+
 ## 2026-11-05 19:31
 
 - **[DeepSeek-V4.1-Flash-1017 on one RTX 3090: Big updates to the Delta Inference Engine v0.93. Same 41 tok/s at 192GB/IQ2 at better quality, usable from 64 GB RAM, first token ~40% sooner, new Unsloth quants at full speed, EXL3, basic multi-GPU, public CI and more](https://www.reddit.com/r/LocalLLaMA/comments/1xoq4vq/deepseekv41flash1017_on_one_rtx_3090_big_updates/)** (Reddit LocalLLaMA, 7/10) - DeepSeek‑V4.1‑Flash‑1017 is now runnable on a single RTX 3090, and the Delta Inference Engine was updated to handle 64‑128 GB RAM, start the first token ~40 % faster, and support new quantization formats (Unsloth, EXL3) plus basic multi‑GPU. This lets developers experiment with a strong LLM locally without expensive hardware and gives them a more flexible, faster inference stack.
