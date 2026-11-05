@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-05 08:01
+
+- **[CCORE GLB-3D-Coder 4B final model and full weights are out](https://www.reddit.com/r/LocalLLaMA/comments/1xobe4h/ccore_glb3dcoder_4b_final_model_and_full_weights/)** (Reddit LocalLLaMA, 6/10) - CCORE released full open-source weights for GLB-3D-Coder 4B, a fine-tuned model that generates Three.js web code for 3D graphics from text prompts. This allows developers to run a lightweight local model that converts text descriptions into interactive 3D web assets.
+
 ## 2026-11-05 06:31
 
 - **[[AINews] It's Swapping Season](https://latent.space/p/ainews-it-s-swapping-season/)** (Latent Space, 7/10) - OpenAI published security patches for the Linux kernel and made the weights for its Kimi K3.1 Pro model publicly available, while the startup Ricursive released the 65‑billion‑parameter Ripple model. This gives engineers free access to a strong language model they can fine‑tune for their own apps, and the kernel patches help keep AI‑heavy servers more secure.
