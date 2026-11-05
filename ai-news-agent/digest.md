@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-05 00:31
+
+- **[Introducing Images 2.6](https://openai.com/index/introducing-images-2-6)** (OpenAI Blog, 9/10) - OpenAI released Images 2.6, an updated image generation model featuring faster processing, GIF creation, and finer editing controls. Developers can leverage the updated Application Programming Interface (API) controls to generate and edit dynamic visual content programmatically within their apps.
+- **[Ricursive Intelligence Ripple-65B-Preview: New Dense Model!](https://www.reddit.com/r/LocalLLaMA/comments/1xo2arv/ricursive_intelligence_ripple65bpreview_new_dense/)** (Reddit LocalLLaMA, 6/10) - Ricursive Intelligence released a preview of Ripple-65B, a dense 65-billion parameter open-weights language model with competitive benchmark performance. This provides developers with a new high-performing open-source option to self-host LLMs (Large Language Models) on private infrastructure.
+
 ## 2026-11-04 22:31
 
 - **[A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root)** (OpenAI Blog, 7/10) - OpenAI developed an autonomous agent pipeline that successfully identified, reproduced, and patched 948 privilege-escalation bugs in the Linux kernel. This demonstrates practical architecture patterns for combining code analysis tools with LLMs to automate multi-step software engineering tasks.
