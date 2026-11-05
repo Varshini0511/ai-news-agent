@@ -1,5 +1,12 @@
 # AI Digest
 
+## 2026-11-05 18:31
+
+- **[[Paper] FireFlash : An Open Recipe for Long-Horizon Agentic RL Achieving the Performance-Cost Pareto Frontier](https://www.reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon/)** (Reddit LocalLLaMA, 7/10) - A new 300‑billion‑parameter model called FireFlash was released for long‑sequence tasks such as terminal commands and code generation. It matches top‑tier accuracy while costing about 30 × less per task, letting developers run sophisticated agents more cheaply.
+- **[Modernize your .NET apps for Windows Arm64 with GitHub Copilot](https://devblogs.microsoft.com/dotnet/modernize-dotnet-apps-for-windows-arm64/)** (.NET Blog, 7/10) - GitHub Copilot now includes an upgrade agent that automatically finds and fixes code that blocks moving a .NET app to Windows Arm64. This lets .NET developers modernize their applications with minimal manual changes.
+- **[rust-v0.168.0-alpha.6](https://github.com/openai/codex/releases/tag/rust-v0.168.0-alpha.6)** (OpenAI Codex releases, 7/10) - OpenAI shipped version 0.168.0‑alpha.6 of the Codex Rust plugin, adding support for the newest Rust language features and improving suggestion accuracy. Rust programmers can get more reliable AI‑assisted autocomplete while coding.
+- **[[Paper] SpecOPD: Branch-Parallel On-Policy Distillation for Speculative Decoding - By Qwen](https://www.reddit.com/r/LocalLLaMA/comments/1xoo0pp/paper_specopd_branchparallel_onpolicy/)** (Reddit LocalLLaMA, 6/10) - The SpecOPD paper presents a technique that runs several draft predictions in parallel and then selects the best one to speed up language‑model generation. Faster inference reduces latency for chatbots, coding assistants, and other AI services.
+
 ## 2026-11-05 18:01
 
 - **[An open-source project just ranked #1 on EnterpriseRAG-Bench, ahead of the listed systems from OpenAI, Google, Microsoft and Amazon](https://www.reddit.com/r/LocalLLaMA/comments/1xoiaye/an_opensource_project_just_ranked_1_on/)** (Reddit LocalLLaMA, 7/10) - The open‑source PipesHub library achieved the top spot on the EnterpriseRAG‑Bench evaluation, beating proprietary systems from major cloud providers. Builders can use PipesHub as a high‑performing, free RAG (retrieval‑augmented generation) pipeline for their own applications.
