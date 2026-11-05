@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-05 19:31
+
+- **[DeepSeek-V4.1-Flash-1017 on one RTX 3090: Big updates to the Delta Inference Engine v0.93. Same 41 tok/s at 192GB/IQ2 at better quality, usable from 64 GB RAM, first token ~40% sooner, new Unsloth quants at full speed, EXL3, basic multi-GPU, public CI and more](https://www.reddit.com/r/LocalLLaMA/comments/1xoq4vq/deepseekv41flash1017_on_one_rtx_3090_big_updates/)** (Reddit LocalLLaMA, 7/10) - DeepSeek‑V4.1‑Flash‑1017 is now runnable on a single RTX 3090, and the Delta Inference Engine was updated to handle 64‑128 GB RAM, start the first token ~40 % faster, and support new quantization formats (Unsloth, EXL3) plus basic multi‑GPU. This lets developers experiment with a strong LLM locally without expensive hardware and gives them a more flexible, faster inference stack.
+- **[OpenAI released a new cybersecurity model. Is that enough?](https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/)** (TechCrunch AI, 7/10) - OpenAI launched a new model aimed at cybersecurity tasks such as threat detection, code‑review, and log analysis. Teams can call the model through the existing API to add automated security checks to their pipelines without training their own specialized models.
+- **[Muse has a voice mode now](https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar)** (The Verge AI, 6/10) - Meta added a real‑time voice mode to its Muse AI agent, allowing users to speak and hear responses on the iOS app. Developers building conversational agents can explore how Meta integrated speech‑to‑text and text‑to‑speech within an interactive agent and may reuse similar techniques in their own products.
+
 ## 2026-11-05 19:01
 
 - **[GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents](https://openai.com/index/introducing-gpt-6-cyber)** (OpenAI Blog, 9/10) - OpenAI released GPT‑6 Cyber, a new model designed to find software vulnerabilities and suggest fixes while staying within authorized limits. It lets developers add AI‑driven security checks and automated patch ideas directly into their code workflows.
