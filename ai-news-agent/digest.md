@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-05 15:32
+
+- **[Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure](https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/)** (TechCrunch AI, 6/10) - Dropbox bought Tigris Data for $350 million and plans to launch DBX Agent Cloud, a storage service aimed at developers building AI models and agents. The managed platform can simplify data handling and scaling for AI applications.
+
 ## 2026-11-05 15:01
 
 - **[GPT-Image-2.6 🖼️, Meta buys Conductor 💻, Cognition SWE-2 Flash ⚡](https://tldr.tech/ai/2026-11-05)** (TLDR AI, 9/10) - OpenAI announced GPT‑Image‑2.6, a new version of its GPT model that can process and generate images as well as text. This gives developers a ready‑to‑use vision‑augmented model for building apps such as visual question answering, image‑based search, or multimodal code assistants.
