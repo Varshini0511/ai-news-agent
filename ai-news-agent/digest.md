@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-06 03:31
+
+- **[rust-v0.169.0-alpha.1](https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.1)** (OpenAI Codex releases, 6/10) - OpenAI published version 0.169.0-alpha.1 of its Codex Rust client library. The update adds new features and bug fixes, making it easier for Rust developers to embed Codex code‑generation into their projects.
+
 ## 2026-11-06 01:31
 
 - **[Inkling 2 Small released](https://www.reddit.com/r/LocalLLaMA/comments/1xoz01k/inkling_2_small_released/)** (Reddit LocalLLaMA, 7/10) - Inkling 2 Small, an open‑source 3‑billion‑parameter LLaMA‑based model, was released on Hugging Face. The model is small enough to run on a single GPU, letting developers experiment with fine‑tuning or embedding it in edge applications.
