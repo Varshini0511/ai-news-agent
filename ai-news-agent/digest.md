@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-06 00:03
+
+- **[rust-v0.167.0](https://github.com/openai/codex/releases/tag/rust-v0.167.0)** (OpenAI Codex releases, 6/10) - OpenAI released version 0.167.0 of its Codex library for the Rust programming language. The update adds new endpoints and bug fixes, making it easier for Rust developers to call the Codex model for code generation and automation tasks.
+
 ## 2026-11-05 23:31
 
 - **[Introducing Pangram Image 1.0](https://www.pangram.com/blog/introducing-pangram-image-1-0)** (Hacker News, 6/10) - Pangram Labs introduced Pangram Image 1.0, a new specialized model focused on image generation and detection tasks. It offers developers a targeted tool for generating visuals or identifying AI-generated imagery within their applications.
