@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-06 21:01
+
+- **[NousResearch/Arete-27B · Hugging Face (Qwen finetune)](https://www.reddit.com/r/LocalLLaMA/comments/1xpmj33/nousresearcharete27b_hugging_face_qwen_finetune/)** (Reddit LocalLLaMA, 7/10) - Nous Research released Arete-27B, an open-source model created by post-training Alibaba's Qwen model to adjust its alignment and conversational style. It gives developers a capable 27-billion parameter open-weights model suited for local deployment and specialized fine-tuning.
+- **[Mirage: A 22 MB visual-language model that runs scene descriptions + object detection + OCR + segmentation + spatial relations analysis + extractions + decisions, in a single pass.](https://www.reddit.com/r/LocalLLaMA/comments/1xpm8mw/mirage_a_22_mb_visuallanguage_model_that_runs/)** (Reddit LocalLLaMA, 7/10) - Cactus Compute released Mirage, an ultra-small 22-megabyte vision-language model capable of object detection, text recognition, and spatial analysis in a single pass. It enables developers to run multimodal computer vision tasks locally on resource-constrained edge devices and mobile phones.
+- **[Show HN: Agents infer Lego mechanisms from sources, then animate them](https://github.com/anteloc/ldraw-mecha/tree/v0.5.0)** (Hacker News, 6/10) - An open-source project demonstrates how AI agents can parse source documents to infer physical mechanics and render animated 3D Lego models. It serves as a practical example for developers building agents that convert unstructured input into structured spatial and design outputs.
+
 ## 2026-11-06 20:31
 
 - **[A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)** (Hacker News, 6/10) - A developer demonstrated a model routing strategy where a smaller model handles basic tasks and only calls Claude Opus when stuck. This approach helps engineers cut API costs by up to 75% while maintaining high output quality in multi-step AI workflows.
