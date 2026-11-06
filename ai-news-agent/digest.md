@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-06 17:31
+
+- **[v2.1.319](https://github.com/anthropics/claude-code/releases/tag/v2.1.319)** (Claude Code releases, 6/10) - Anthropic updated the Claude Code command-line tool to version 2.1.319, updating auto-mode permission handling when running behind enterprise Large Language Model (LLM) gateways like AWS Bedrock or Google Vertex AI. This helps developers building with enterprise cloud gateways safely manage automated execution rules without relying on fallback classifiers.
+
 ## 2026-11-06 14:01
 
 - **[ToyBlocks: A controlled world for robot learning and evaluation](https://huggingface.co/blog/allenai/toyblocks)** (Hugging Face, 7/10) - Hugging Face released ToyBlocks, a lightweight simulated environment where robots can be trained and tested safely. It lets developers experiment with reinforcement‑learning algorithms without needing real hardware, speeding up prototyping of robot‑control models.
