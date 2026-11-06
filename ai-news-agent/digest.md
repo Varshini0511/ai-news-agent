@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-06 19:31
+
+- **[AMA: How we trained a SOTA Decision model, got top 3 on OpenRouter & top on 5 ArtificalAnalysis: full playbook - arch, datasets, training, evals, inference](https://www.reddit.com/r/LocalLLaMA/comments/1xphq4u/ama_how_we_trained_a_sota_decision_model_got_top/)** (Reddit LocalLLaMA, 7/10) - Nace AI published a technical report detailing the datasets, architecture, and evaluation methods used to train their open-source Drex decision models. It provides engineers building autonomous systems with practical techniques for training fast, specialized decision-making models.
+- **[Voice Chat with Agents](https://cursor.com/changelog/voice-chat)** (Cursor changelog, 7/10) - The Cursor AI code editor introduced real-time voice chat, allowing developers to speak directly with coding agents across desktop, web, and mobile devices. This enables hands-free interaction and faster prompt iteration when architecting software or debugging code.
+- **[Measuring how AI agents handle everyday wet-lab science](https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science)** (OpenAI Blog, 6/10) - OpenAI released BioBasicsBench, a new benchmark with 100 tasks designed to evaluate how AI agents analyze raw scientific data and complete biology workflows. It gives developers a standardized test suite to measure agent performance on complex reasoning and domain-specific data analysis tasks.
+
 ## 2026-11-06 19:01
 
 - **[Meta introduces Spaces, a new way to collaborate with your Muse agent](https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/)** (TechCrunch AI, 8/10) - Meta added “Spaces” to its Muse AI assistant, letting developers define custom mini‑apps (e.g., shopping hub, music tracker) that run inside the chat interface. This gives creators a fast way to prototype interactive experiences without building a full UI, and the same API can be called from other platforms.
