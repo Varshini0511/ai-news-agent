@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-06 06:31
+
+- **[Introducing Inkling 2 Small](https://www.reddit.com/r/LocalLLaMA/comments/1xp32od/introducing_inkling_2_small/)** (Reddit LocalLLaMA, 7/10) - The team behind Inkling released Inkling 2 Small, a new Mixture‑of‑Experts model that has 594 billion parameters in total but only activates about 17 billion at inference time, and it can process images as well as text. For developers, the smaller active size means faster, cheaper inference while still getting strong performance, and the image capability opens up multimodal apps without needing a separate vision model.
+
 ## 2026-11-06 05:01
 
 - **[BlockLock: Reproducible LLM Inference with Fixed Batch Geometry](https://arxiv.org/abs/2611.06977)** (arXiv cs.AI, 7/10) - BlockLock proposes a way to run large language model (LLM) calls in batches while guaranteeing the same output regardless of other requests. This makes production deployments more stable and easier to test.
