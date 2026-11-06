@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-06 00:31
+
+- **[Airbnb is working on an AI travel agent](https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings)** (The Verge AI, 6/10) - Airbnb said it will roll out an AI travel‑agent in the first half of 2027 to help users plan and book trips. When the agent becomes available, engineers can study how it connects to booking systems and use similar patterns for their own AI‑driven reservation or recommendation services.
+
 ## 2026-11-06 00:03
 
 - **[rust-v0.167.0](https://github.com/openai/codex/releases/tag/rust-v0.167.0)** (OpenAI Codex releases, 6/10) - OpenAI released version 0.167.0 of its Codex library for the Rust programming language. The update adds new endpoints and bug fixes, making it easier for Rust developers to call the Codex model for code generation and automation tasks.
