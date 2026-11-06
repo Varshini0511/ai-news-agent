@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-06 21:31
+
+- **[bartowski/XingChen-AGI_Xing4.0-29B-A4B-GGUF · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xplkdu/bartowskixingchenagi_xing4029ba4bgguf_hugging_face/)** (Reddit LocalLLaMA, 6/10) - China Telecom released GGUF files for Xing4.0-29B-A4B, a 29-billion parameter open-weights Mixture-of-Experts model where only a subset of parameters active per token. This allows developers to download and execute a new open-source model locally on standard consumer hardware.
+
 ## 2026-11-06 21:01
 
 - **[NousResearch/Arete-27B · Hugging Face (Qwen finetune)](https://www.reddit.com/r/LocalLLaMA/comments/1xpmj33/nousresearcharete27b_hugging_face_qwen_finetune/)** (Reddit LocalLLaMA, 7/10) - Nous Research released Arete-27B, an open-source model created by post-training Alibaba's Qwen model to adjust its alignment and conversational style. It gives developers a capable 27-billion parameter open-weights model suited for local deployment and specialized fine-tuning.
