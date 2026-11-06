@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-06 01:31
+
+- **[Inkling 2 Small released](https://www.reddit.com/r/LocalLLaMA/comments/1xoz01k/inkling_2_small_released/)** (Reddit LocalLLaMA, 7/10) - Inkling 2 Small, an open‑source 3‑billion‑parameter LLaMA‑based model, was released on Hugging Face. The model is small enough to run on a single GPU, letting developers experiment with fine‑tuning or embedding it in edge applications.
+
 ## 2026-11-06 01:02
 
 - **[Appreciation post for OrcaCyber-Nano-1.0](https://www.reddit.com/r/LocalLLaMA/comments/1xosw1w/appreciation_post_for_orcacybernano10/)** (Reddit LocalLLaMA, 6/10) - A Reddit user highlighted the OrcaCyber‑Nano‑1.0 fine‑tuned LLaMA model, saying it outperforms many other community models they have tried. It is a small, high‑quality chat model that can run on a laptop, which helps developers prototype and test AI features without needing large cloud resources.
