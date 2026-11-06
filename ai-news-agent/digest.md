@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-06 14:01
+
+- **[ToyBlocks: A controlled world for robot learning and evaluation](https://huggingface.co/blog/allenai/toyblocks)** (Hugging Face, 7/10) - Hugging Face released ToyBlocks, a lightweight simulated environment where robots can be trained and tested safely. It lets developers experiment with reinforcement‑learning algorithms without needing real hardware, speeding up prototyping of robot‑control models.
+
 ## 2026-11-06 13:31
 
 - **[Underdog shows off a 32MB speech model in new demo](https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/)** (TechCrunch AI, 6/10) - AI startup Underdog demonstrated an ultra-compact 32-megabyte model capable of generating both speech and music. This is useful for developers wanting to run low-latency audio generation directly on edge or mobile devices without relying on external cloud APIs.
