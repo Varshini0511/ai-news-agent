@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-06 12:31
+
+- **[crystl](https://www.producthunt.com/products/crystl-multitasking-terminal)** (Product Hunt, 6/10) - Crystl is a native macOS terminal application designed to run and manage multiple AI coding agents simultaneously. It helps developers streamline their workflow when orchestrating parallel autonomous AI agents for software development tasks.
+
 ## 2026-11-06 08:31
 
 - **[Chronos DB](https://www.producthunt.com/products/chronos-db)** (Product Hunt, 6/10) - Chronos DB introduced Postgres database branching and Git-like merge rules specifically tailored for AI agent workflows. This helps developers isolate non-deterministic agent actions, safely test state execution branches, and merge verified database updates.
