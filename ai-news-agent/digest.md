@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-06 19:01
+
+- **[Meta introduces Spaces, a new way to collaborate with your Muse agent](https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/)** (TechCrunch AI, 8/10) - Meta added “Spaces” to its Muse AI assistant, letting developers define custom mini‑apps (e.g., shopping hub, music tracker) that run inside the chat interface. This gives creators a fast way to prototype interactive experiences without building a full UI, and the same API can be called from other platforms.
+- **[Memorilla: Latent Semantic Memory for LLMs](https://arxiv.org/abs/2610.21375)** (Hacker News, 7/10) - Memorilla is a lightweight add‑on that gives large language models a persistent “semantic memory” so they can recall facts across separate prompts. Builders can use it to keep context about a user or project without re‑sending all prior data, which reduces token costs and makes agents feel more continuous.
+
 ## 2026-11-06 18:31
 
 - **[Perplexity launches AI agents for work](https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work)** (Hacker News, 6/10) - Perplexity launched a set of specialized AI agents designed to automate multi-step workplace and research tasks. This gives developers and product teams a reference point for enterprise agent workflows without building custom pipeline logic from scratch.
