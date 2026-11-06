@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-06 22:31
+
+- **[The components of agent memory](https://www.anthropic.com/research/components-of-agent-memory)** (Anthropic Eng, 7/10) - Anthropic published an engineering guide detailing how AI agents structure long-term memory through consolidation techniques like offline processing. This provides practical architectural patterns for developers building agents that need to maintain state and learn from past mistakes across long sessions.
+
 ## 2026-11-06 21:31
 
 - **[bartowski/XingChen-AGI_Xing4.0-29B-A4B-GGUF · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xplkdu/bartowskixingchenagi_xing4029ba4bgguf_hugging_face/)** (Reddit LocalLLaMA, 6/10) - China Telecom released GGUF files for Xing4.0-29B-A4B, a 29-billion parameter open-weights Mixture-of-Experts model where only a subset of parameters active per token. This allows developers to download and execute a new open-source model locally on standard consumer hardware.
