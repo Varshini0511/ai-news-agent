@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-06 23:03
+
+- **[Claude, make me these parts in Solidworks.... 7 minutes later....](https://www.reddit.com/r/ClaudeAI/comments/1xpeg2l/claude_make_me_these_parts_in_solidworks_7/)** (r/ClaudeAI, 7/10) - A developer created a custom Model Context Protocol (MCP) integration that connects Claude directly to local SolidWorks CAD software for automated part creation. This provides a clear real-world example of using MCP to bridge language models with external desktop software APIs.
+
 ## 2026-11-06 22:31
 
 - **[The components of agent memory](https://www.anthropic.com/research/components-of-agent-memory)** (Anthropic Eng, 7/10) - Anthropic published an engineering guide detailing how AI agents structure long-term memory through consolidation techniques like offline processing. This provides practical architectural patterns for developers building agents that need to maintain state and learn from past mistakes across long sessions.
