@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-06 13:01
+
+- **[Qwen 4 is stealth announced](https://www.reddit.com/r/LocalLLaMA/comments/1xpbjku/qwen_4_is_stealth_announced/)** (Reddit LocalLLaMA, 9/10) - Alibaba announced a stealth version of Qwen‑4, the next generation large language model in its Qwen series. Developers can experiment with a fresh, high‑capacity model that may improve chatbot quality and downstream AI applications.
+- **[Qwen - the becoming begins](https://www.reddit.com/r/LocalLLaMA/comments/1xpbjzi/qwen_the_becoming_begins/)** (Reddit LocalLLaMA, 9/10) - A follow‑up post confirmed that the Qwen family is officially launching, marking the start of the new model line. This gives builders a new option to try out a cutting‑edge model for tasks like code generation, text summarization, or retrieval‑augmented generation.
+
 ## 2026-11-06 12:31
 
 - **[crystl](https://www.producthunt.com/products/crystl-multitasking-terminal)** (Product Hunt, 6/10) - Crystl is a native macOS terminal application designed to run and manage multiple AI coding agents simultaneously. It helps developers streamline their workflow when orchestrating parallel autonomous AI agents for software development tasks.
