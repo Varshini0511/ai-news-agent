@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-06 13:31
+
+- **[Underdog shows off a 32MB speech model in new demo](https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/)** (TechCrunch AI, 6/10) - AI startup Underdog demonstrated an ultra-compact 32-megabyte model capable of generating both speech and music. This is useful for developers wanting to run low-latency audio generation directly on edge or mobile devices without relying on external cloud APIs.
+
 ## 2026-11-06 13:01
 
 - **[Qwen 4 is stealth announced](https://www.reddit.com/r/LocalLLaMA/comments/1xpbjku/qwen_4_is_stealth_announced/)** (Reddit LocalLLaMA, 9/10) - Alibaba announced a stealth version of Qwen‑4, the next generation large language model in its Qwen series. Developers can experiment with a fresh, high‑capacity model that may improve chatbot quality and downstream AI applications.
