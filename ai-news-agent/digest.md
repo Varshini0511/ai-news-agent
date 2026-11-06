@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-06 18:31
+
+- **[Perplexity launches AI agents for work](https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work)** (Hacker News, 6/10) - Perplexity launched a set of specialized AI agents designed to automate multi-step workplace and research tasks. This gives developers and product teams a reference point for enterprise agent workflows without building custom pipeline logic from scratch.
+- **[Oc-e-Non-v1: A language model that gets to the f*cking point](https://www.reddit.com/r/LocalLLaMA/comments/1xpfhpm/ocenonv1_a_language_model_that_gets_to_the_fcking/)** (Reddit LocalLLaMA, 6/10) - Oc-e-Non-v1 is an open-source fine-tune of the Qwen 4B language model optimized to give brief, direct answers without unnecessary filler text. It is useful for developers needing low-latency, concise responses for user interfaces or fast agent workflows.
+
 ## 2026-11-06 17:31
 
 - **[v2.1.319](https://github.com/anthropics/claude-code/releases/tag/v2.1.319)** (Claude Code releases, 6/10) - Anthropic updated the Claude Code command-line tool to version 2.1.319, updating auto-mode permission handling when running behind enterprise Large Language Model (LLM) gateways like AWS Bedrock or Google Vertex AI. This helps developers building with enterprise cloud gateways safely manage automated execution rules without relying on fallback classifiers.
