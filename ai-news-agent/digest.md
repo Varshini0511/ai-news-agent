@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-06 20:31
+
+- **[A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)** (Hacker News, 6/10) - A developer demonstrated a model routing strategy where a smaller model handles basic tasks and only calls Claude Opus when stuck. This approach helps engineers cut API costs by up to 75% while maintaining high output quality in multi-step AI workflows.
+- **[Lamplight - Lessons Learned from Building a Local-First Harness](https://www.reddit.com/r/LocalLLaMA/comments/1xpkqo2/lamplight_lessons_learned_from_building_a/)** (Reddit LocalLLaMA, 6/10) - A developer published key architectural patterns and lessons learned from building a local-first harness to run AI models over two years. It provides practical guidance for engineers designing offline-capable AI workflows, state management, and local model execution.
+- **[moe-cache : LRFU/MQ-like hybrid cache, ClassLRU by sanmai · Pull Request #31233 · ggml-org/llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xpfvfz/moecache_lrfumqlike_hybrid_cache_classlru_by/)** (Reddit LocalLLaMA, 6/10) - A pull request to the llama.cpp engine introduces a hybrid caching mechanism that keeps heavily used neural network paths active in Mixture-of-Experts (MoE) models. This improves local model text generation speed by up to 7% while reducing memory transfer overhead.
+
 ## 2026-11-06 20:01
 
 - **[Harness Adapters: LoRA adapter for your model per task per harness](https://www.reddit.com/r/LocalLLaMA/comments/1xpeee1/harness_adapters_lora_adapter_for_your_model_per/)** (Reddit LocalLLaMA, 7/10) - Hugging Face released "Harness Adapters," which let you train LoRA (low‑rank adaptation) adapters for a specific model and harness (e.g., Hermes, Pi, OpenCode) for a particular task. This lets you specialize large language models quickly without full fine‑tuning, saving compute time and cost for developers.
