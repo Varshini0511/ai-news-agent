@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-06 20:01
+
+- **[Harness Adapters: LoRA adapter for your model per task per harness](https://www.reddit.com/r/LocalLLaMA/comments/1xpeee1/harness_adapters_lora_adapter_for_your_model_per/)** (Reddit LocalLLaMA, 7/10) - Hugging Face released "Harness Adapters," which let you train LoRA (low‑rank adaptation) adapters for a specific model and harness (e.g., Hermes, Pi, OpenCode) for a particular task. This lets you specialize large language models quickly without full fine‑tuning, saving compute time and cost for developers.
+
 ## 2026-11-06 19:31
 
 - **[AMA: How we trained a SOTA Decision model, got top 3 on OpenRouter & top on 5 ArtificalAnalysis: full playbook - arch, datasets, training, evals, inference](https://www.reddit.com/r/LocalLLaMA/comments/1xphq4u/ama_how_we_trained_a_sota_decision_model_got_top/)** (Reddit LocalLLaMA, 7/10) - Nace AI published a technical report detailing the datasets, architecture, and evaluation methods used to train their open-source Drex decision models. It provides engineers building autonomous systems with practical techniques for training fast, specialized decision-making models.
