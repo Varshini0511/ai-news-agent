@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-06 04:01
+
+- **[Strata for all Qwen models from little to big](https://www.reddit.com/r/LocalLLaMA/comments/1xottw2/strata_for_all_qwen_models_from_little_to_big/)** (Reddit LocalLLaMA, 6/10) - A developer benchmarked local inference speeds across multiple Qwen model sizes using RustingStrata and llama.cpp on a consumer GPU (Graphics Processing Unit). The results offer practical performance and memory usage guidance for developers deploying GGUF (GPT-Generated Unified Format) quantized models locally.
+
 ## 2026-11-06 03:31
 
 - **[rust-v0.169.0-alpha.1](https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.1)** (OpenAI Codex releases, 6/10) - OpenAI published version 0.169.0-alpha.1 of its Codex Rust client library. The update adds new features and bug fixes, making it easier for Rust developers to embed Codex code‑generation into their projects.
