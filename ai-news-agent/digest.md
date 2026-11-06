@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-06 08:01
+
+- **[Alysis Code](https://www.producthunt.com/products/alysis-code)** (Product Hunt, 6/10) - Alysis Code released an open-source AI agent built to execute multi-step software engineering tasks within repository codebases. It gives developers an inspectable, self-hosted option for customizing autonomous coding workflows.
+- **[AgentTM](https://www.producthunt.com/products/agenttm)** (Product Hunt, 6/10) - AgentTM launched a step-by-step debugging platform built specifically for autonomous AI coding agents. It helps developers step backward through an agent's execution history to diagnose tool-use and reasoning failures.
+
 ## 2026-11-06 07:01
 
 - **[CCORE GLB-3D-Coder dataset is here: 3,918 rendered and tested examples across 40 domains](https://www.reddit.com/r/LocalLLaMA/comments/1xozbe6/ccore_glb3dcoder_dataset_is_here_3918_rendered/)** (Reddit LocalLLaMA, 7/10) - A dataset of 3,918 rendered 3‑D examples covering 40 domains has been released for training the CCORE GLB‑3D‑Coder model, a 4‑billion‑parameter model that creates Three.js‑compatible GLB assets. Having this ready‑made, high‑quality data lets developers train or fine‑tune their own 3‑D generation models without spending time gathering examples, speeding up prototype building for web‑based graphics applications.
