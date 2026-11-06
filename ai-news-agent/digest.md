@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-06 08:31
+
+- **[Chronos DB](https://www.producthunt.com/products/chronos-db)** (Product Hunt, 6/10) - Chronos DB introduced Postgres database branching and Git-like merge rules specifically tailored for AI agent workflows. This helps developers isolate non-deterministic agent actions, safely test state execution branches, and merge verified database updates.
+
 ## 2026-11-06 08:12
 
 - **[The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting.](https://www.reddit.com/r/LocalLLaMA/comments/1xor5nr/the_ultimate_moe_training_handbook_training/)** (Reddit LocalLLaMA, 7/10) - A comprehensive guide was published detailing how to configure and train Mixture-of-Experts (MoE) machine learning models using the Megatron-LM framework. It gives practical step-by-step instructions for engineers looking to scale up from standard dense models to distributed MoE architectures.
