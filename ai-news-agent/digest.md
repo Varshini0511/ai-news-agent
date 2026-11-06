@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-06 05:01
+
+- **[BlockLock: Reproducible LLM Inference with Fixed Batch Geometry](https://arxiv.org/abs/2611.06977)** (arXiv cs.AI, 7/10) - BlockLock proposes a way to run large language model (LLM) calls in batches while guaranteeing the same output regardless of other requests. This makes production deployments more stable and easier to test.
+- **[Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism](https://arxiv.org/abs/2611.06984)** (arXiv cs.AI, 7/10) - The paper introduces Elastic Expert Parallelism, a technique that speeds up reinforcement‑learning fine‑tuning of mixture‑of‑experts models by letting workers finish at different times. It reduces cloud costs for teams that want to improve LLM capabilities after training.
+- **[PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems](https://arxiv.org/abs/2611.07123)** (arXiv cs.AI, 7/10) - PromptOps is a framework for repeatedly tweaking prompts to improve the performance of LLMs used as judges in evaluations. Developers can apply it to get more reliable automated testing of their own chatbots.
+
 ## 2026-11-06 04:01
 
 - **[Strata for all Qwen models from little to big](https://www.reddit.com/r/LocalLLaMA/comments/1xottw2/strata_for_all_qwen_models_from_little_to_big/)** (Reddit LocalLLaMA, 6/10) - A developer benchmarked local inference speeds across multiple Qwen model sizes using RustingStrata and llama.cpp on a consumer GPU (Graphics Processing Unit). The results offer practical performance and memory usage guidance for developers deploying GGUF (GPT-Generated Unified Format) quantized models locally.
