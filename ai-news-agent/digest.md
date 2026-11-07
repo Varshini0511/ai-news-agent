@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-07 19:01
+
+- **[Effects of KV Cache Quantization on Qwen3.8 27B](https://www.reddit.com/r/LocalLLaMA/comments/1xqbesv/effects_of_kv_cache_quantization_on_qwen38_27b/)** (Reddit LocalLLaMA, 7/10) - A developer published empirical benchmarks evaluating how Key-Value (KV) cache quantization—reducing the numerical precision of stored context data—affects the output quality of a 27B open-source model. This data helps developers optimize RAM usage during long-context local inference while understanding the precise trade-offs in model accuracy.
+
 ## 2026-11-07 18:01
 
 - **[llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/)** (Reddit LocalLLaMA, 6/10) - A new update to the open-source llama.cpp project adds caching to run offloaded Mixture-of-Experts (MoE) model layers on the CPU. This provides a significant inference speedup when running large local models on hardware with limited Video RAM (VRAM).
