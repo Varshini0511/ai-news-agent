@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-07 21:01
+
+- **[Betelgeuse running DeepSeek V4.1 Flash Q8_XL (1017) at 19 tok/s decode & 62 tok/s prefill on an RTX 3060 12GB + 16GB RAM: How we finally fixed the prefill bottleneck on out-of-core MoEs](https://www.reddit.com/r/LocalLLaMA/comments/1xqfekg/betelgeuse_running_deepseek_v41_flash_q8_xl_1017/)** (Reddit LocalLLaMA, 7/10) - A Reddit user showed that the DeepSeek V4.1 Flash Q8_XL model (about 1 trillion parameters) can run on an RTX 3060 by fixing the pre‑fill bottleneck in out‑of‑core mixture‑of‑experts (MoE) streaming. This enables developers to experiment with very large MoE models on cheap, local hardware, reducing reliance on expensive cloud resources.
+
 ## 2026-11-07 20:01
 
 - **[Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!)](https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/)** (Reddit LocalLLaMA, 6/10) - A developer created Observer, an open-source mobile app that runs vision models locally on smartphones to monitor camera feeds and trigger custom alerts. It offers a practical reference implementation for running light AI models directly on mobile edge devices without cloud dependencies.
