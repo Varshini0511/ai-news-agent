@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-07 04:01
+
+- **[[AINews] Anthropic IPO: Whither Now?](https://latent.space/p/ainews-anthropic-ipo-whither-now/)** (Latent Space, 7/10) - Anthropic released Inkling 2 Small, a compact version of its latest large language model, through the ARC Prize testing program. The smaller model runs cheaper and with lower latency, so developers can add high‑quality text generation to apps without needing large GPU resources.
+- **[T3 Code Nightly 0.1.8-nightly.20261107.4301 (4cb6945dc60e)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.8-nightly.20261107.4301)** (T3 Code releases, 6/10) - T3 Code Nightly 0.1.8 was published, adding background fetching of Android APKs during release, fixing macOS notarization blocks, and delivering 12 bug fixes and performance improvements. These updates speed up the build pipeline for mobile and .NET developers and make the tool more reliable on macOS.
+
 ## 2026-11-07 02:31
 
 - **[Building the next generation of multimodal AI experiences with fal in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032)** (Microsoft AI / Azure, 7/10) - Microsoft has partnered with fal to bring fast media generation models directly into Azure AI Foundry. This allows developers to easily integrate state-of-the-art image and video generation into their enterprise applications on Azure.
