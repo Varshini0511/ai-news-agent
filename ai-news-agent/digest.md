@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-07 20:01
+
+- **[Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!)](https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/)** (Reddit LocalLLaMA, 6/10) - A developer created Observer, an open-source mobile app that runs vision models locally on smartphones to monitor camera feeds and trigger custom alerts. It offers a practical reference implementation for running light AI models directly on mobile edge devices without cloud dependencies.
+
 ## 2026-11-07 19:31
 
 - **[Scylla's Band v4, open source TTS with code to run everywhere](https://www.reddit.com/r/LocalLLaMA/comments/1xpq3l0/scyllas_band_v4_open_source_tts_with_code_to_run/)** (Reddit LocalLLaMA, 6/10) - An open-source developer released Scylla's Band v4, a lightweight text-to-speech (TTS) model designed to run locally on mobile devices. It provides developers with a fast, private voice synthesis tool that eliminates cloud API costs and latency.
