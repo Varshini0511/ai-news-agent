@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-07 16:31
+
+- **[Obsessive-1.7B: a 1.1 GB web-search subagent](https://www.reddit.com/r/LocalLLaMA/comments/1xq4yju/obsessive17b_a_11_gb_websearch_subagent/)** (Reddit LocalLLaMA, 6/10) - A developer released Obsessive-1.7B, a compact 1.1 GB open-source model fine-tuned specifically to perform web search retrieval and output exact quotes with URLs. This provides builders with a fast, lightweight subagent to handle external web lookups without burning API tokens on larger foundation models.
+
 ## 2026-11-07 08:31
 
 - **[Google Omni 1.2 Flash](https://www.producthunt.com/products/google-omni-1-2-flash)** (Product Hunt, 6/10) - Gemini Omni 1.2 Flash details a pricing structure for generating 15-second AI videos at $0.07 per second. This gives developers a concrete cost baseline for integrating short-form video generation into multimodal applications.
