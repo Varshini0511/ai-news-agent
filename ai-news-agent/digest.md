@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-07 08:31
+
+- **[Google Omni 1.2 Flash](https://www.producthunt.com/products/google-omni-1-2-flash)** (Product Hunt, 6/10) - Gemini Omni 1.2 Flash details a pricing structure for generating 15-second AI videos at $0.07 per second. This gives developers a concrete cost baseline for integrating short-form video generation into multimodal applications.
+
 ## 2026-11-07 04:01
 
 - **[[AINews] Anthropic IPO: Whither Now?](https://latent.space/p/ainews-anthropic-ipo-whither-now/)** (Latent Space, 7/10) - Anthropic released Inkling 2 Small, a compact version of its latest large language model, through the ARC Prize testing program. The smaller model runs cheaper and with lower latency, so developers can add high‑quality text generation to apps without needing large GPU resources.
