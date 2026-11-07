@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-07 02:31
+
+- **[Building the next generation of multimodal AI experiences with fal in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032)** (Microsoft AI / Azure, 7/10) - Microsoft has partnered with fal to bring fast media generation models directly into Azure AI Foundry. This allows developers to easily integrate state-of-the-art image and video generation into their enterprise applications on Azure.
+
 ## 2026-11-07 01:01
 
 - **[Outbound SIP calling is now available to all organizations](https://developers.openai.com/api/docs/guides/voice-sip)** (Hacker News, 6/10) - Outbound Session Initiation Protocol (SIP) calling capability is now generally available for telephony integrations. This allows developers building AI voice agents to programmatically initiate outbound phone calls over traditional telecommunication networks.
