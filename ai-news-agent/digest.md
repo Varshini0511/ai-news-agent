@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-07 19:31
+
+- **[Scylla's Band v4, open source TTS with code to run everywhere](https://www.reddit.com/r/LocalLLaMA/comments/1xpq3l0/scyllas_band_v4_open_source_tts_with_code_to_run/)** (Reddit LocalLLaMA, 6/10) - An open-source developer released Scylla's Band v4, a lightweight text-to-speech (TTS) model designed to run locally on mobile devices. It provides developers with a fast, private voice synthesis tool that eliminates cloud API costs and latency.
+
 ## 2026-11-07 19:01
 
 - **[Effects of KV Cache Quantization on Qwen3.8 27B](https://www.reddit.com/r/LocalLLaMA/comments/1xqbesv/effects_of_kv_cache_quantization_on_qwen38_27b/)** (Reddit LocalLLaMA, 7/10) - A developer published empirical benchmarks evaluating how Key-Value (KV) cache quantization—reducing the numerical precision of stored context data—affects the output quality of a 27B open-source model. This data helps developers optimize RAM usage during long-context local inference while understanding the precise trade-offs in model accuracy.
