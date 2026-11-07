@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-07 22:01
+
+- **[[Paper] D3D: Decoupled Diffusion Drafting for Asynchronous Speculative Decoding](https://www.reddit.com/r/LocalLLaMA/comments/1xq1y0y/paper_d3d_decoupled_diffusion_drafting_for/)** (Reddit LocalLLaMA, 8/10) - The D3D paper introduces Decoupled Diffusion Drafting, a technique where a secondary model drafts possible next tokens in parallel while the main model updates its hidden states, cutting the latency between drafting and verification. This speeds up token generation for any transformer model, which is useful for developers building fast chat or code‑completion tools.
+- **[Valet: use local LLMs to manage your homelab (open source)](https://www.reddit.com/r/LocalLLaMA/comments/1xq7qi4/valet_use_local_llms_to_manage_your_homelab_open/)** (Reddit LocalLLaMA, 7/10) - Valet is an open‑source dashboard that lets a local large language model act as a chat‑based assistant for managing services in your home lab. Because it runs on your own GPU, all data stays private and you avoid cloud API costs.
+
 ## 2026-11-07 21:01
 
 - **[Betelgeuse running DeepSeek V4.1 Flash Q8_XL (1017) at 19 tok/s decode & 62 tok/s prefill on an RTX 3060 12GB + 16GB RAM: How we finally fixed the prefill bottleneck on out-of-core MoEs](https://www.reddit.com/r/LocalLLaMA/comments/1xqfekg/betelgeuse_running_deepseek_v41_flash_q8_xl_1017/)** (Reddit LocalLLaMA, 7/10) - A Reddit user showed that the DeepSeek V4.1 Flash Q8_XL model (about 1 trillion parameters) can run on an RTX 3060 by fixing the pre‑fill bottleneck in out‑of‑core mixture‑of‑experts (MoE) streaming. This enables developers to experiment with very large MoE models on cheap, local hardware, reducing reliance on expensive cloud resources.
