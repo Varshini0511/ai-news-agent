@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-07 01:01
+
+- **[Outbound SIP calling is now available to all organizations](https://developers.openai.com/api/docs/guides/voice-sip)** (Hacker News, 6/10) - Outbound Session Initiation Protocol (SIP) calling capability is now generally available for telephony integrations. This allows developers building AI voice agents to programmatically initiate outbound phone calls over traditional telecommunication networks.
+
 ## 2026-11-06 23:03
 
 - **[Claude, make me these parts in Solidworks.... 7 minutes later....](https://www.reddit.com/r/ClaudeAI/comments/1xpeg2l/claude_make_me_these_parts_in_solidworks_7/)** (r/ClaudeAI, 7/10) - A developer created a custom Model Context Protocol (MCP) integration that connects Claude directly to local SolidWorks CAD software for automated part creation. This provides a clear real-world example of using MCP to bridge language models with external desktop software APIs.
