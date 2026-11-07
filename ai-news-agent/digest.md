@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-07 18:01
+
+- **[llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/)** (Reddit LocalLLaMA, 6/10) - A new update to the open-source llama.cpp project adds caching to run offloaded Mixture-of-Experts (MoE) model layers on the CPU. This provides a significant inference speedup when running large local models on hardware with limited Video RAM (VRAM).
+
 ## 2026-11-07 16:31
 
 - **[Obsessive-1.7B: a 1.1 GB web-search subagent](https://www.reddit.com/r/LocalLLaMA/comments/1xq4yju/obsessive17b_a_11_gb_websearch_subagent/)** (Reddit LocalLLaMA, 6/10) - A developer released Obsessive-1.7B, a compact 1.1 GB open-source model fine-tuned specifically to perform web search retrieval and output exact quotes with URLs. This provides builders with a fast, lightweight subagent to handle external web lookups without burning API tokens on larger foundation models.
