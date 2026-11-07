@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-07 22:31
+
+- **[[Paper] DSpine - Draft in Parallel, Condition Through Depth: Adjacent Causal Injection for Speculative Decoding - tencent](https://www.reddit.com/r/LocalLLaMA/comments/1xq9hf6/paper_dspine_draft_in_parallel_condition_through/)** (Reddit LocalLLaMA, 7/10) - A new paper called DSpine introduces a method for speculative decoding that lets a language model generate several possible continuations in a single pass, while keeping the generated text consistent. This can speed up generation for developers building chat or completion tools without sacrificing output quality.
+- **[Qwen Flash Next on Strata is unreal.](https://www.reddit.com/r/LocalLLaMA/comments/1xpqa3e/qwen_flash_next_on_strata_is_unreal/)** (Reddit LocalLLaMA, 7/10) - The Qwen Flash Next model was released and can run on consumer‑grade hardware like an M1‑Max MacBook, offering strong performance despite its small size. Builders can now run a capable, locally hosted LLM for everyday coding or content tasks without needing a cloud subscription.
+
 ## 2026-11-07 22:01
 
 - **[[Paper] D3D: Decoupled Diffusion Drafting for Asynchronous Speculative Decoding](https://www.reddit.com/r/LocalLLaMA/comments/1xq1y0y/paper_d3d_decoupled_diffusion_drafting_for/)** (Reddit LocalLLaMA, 8/10) - The D3D paper introduces Decoupled Diffusion Drafting, a technique where a secondary model drafts possible next tokens in parallel while the main model updates its hidden states, cutting the latency between drafting and verification. This speeds up token generation for any transformer model, which is useful for developers building fast chat or code‑completion tools.
