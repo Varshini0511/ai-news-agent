@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-08 20:06
+
+- **[I built an MCP with Claude Code that lets Claude play PC games in the background. Here it is driving, flying a heli and walking in GTA on its own](https://www.reddit.com/r/ClaudeAI/comments/1xr3gbs/i_built_an_mcp_with_claude_code_that_lets_claude/)** (r/ClaudeAI, 6/10) - A developer created a Model Context Protocol (MCP) server that grants AI agents virtual inputs and screen-capture capabilities inside isolated background applications. This provides a practical reference for building MCP tools that automate desktop application interfaces without interfering with the user's active screen.
+
 ## 2026-11-08 17:31
 
 - **[tencent/Qwen3.8-27B-DSpine-b16 · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xr2aaa/tencentqwen3827bdspineb16_hugging_face/)** (Reddit LocalLLaMA, 7/10) - Tencent released a 27‑billion‑parameter model (Qwen3.8‑27B‑DSpine‑b16) that uses speculative decoding to generate text about three times faster than normal. The speed gain lets developers run large models with lower latency and cheaper compute, making it easier to add powerful language features to apps.
