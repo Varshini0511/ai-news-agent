@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-08 08:31
+
+- **[Inkling 2 Small](https://www.producthunt.com/products/tinker-2)** (Product Hunt, 6/10) - Inkling 2 Small is a lightweight visual AI model capable of rendering UI output and visually inspecting its work to make iterative code corrections. It provides AI engineers with a compact model tailored for building self-correcting design and front-end coding agents.
+
 ## 2026-11-08 07:31
 
 - **[Agents SDK v0.24.0-alpha.7](https://github.com/openai/openai-agents-python/releases/tag/v0.24.0-alpha.7)** (OpenAI Agents SDK, 6/10) - OpenAI released version 0.24.0-alpha.7 of their Agents SDK (Software Development Kit), adding support for running classic workflows alongside the native execution engine. This update allows developers to incrementally migrate existing agentic applications without breaking legacy runtime workflows.
