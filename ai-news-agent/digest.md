@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-08 11:04
+
+- **[The components of agent memory: how “dreaming” helps Claude organize what it’s learned, correct its mistakes, and find what it needs more easily the next time](https://www.reddit.com/r/ClaudeAI/comments/1xq4fxp/the_components_of_agent_memory_how_dreaming_helps/)** (r/ClaudeAI, 6/10) - A technical post breaks down agent memory architectures, specifically how off-cycle processing or dreaming helps consolidate context. Understanding memory consolidation helps developers build LLM agents that retain long-term state across sessions.
+
 ## 2026-11-08 08:31
 
 - **[Inkling 2 Small](https://www.producthunt.com/products/tinker-2)** (Product Hunt, 6/10) - Inkling 2 Small is a lightweight visual AI model capable of rendering UI output and visually inspecting its work to make iterative code corrections. It provides AI engineers with a compact model tailored for building self-correcting design and front-end coding agents.
