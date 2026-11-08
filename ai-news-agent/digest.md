@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-08 15:01
+
+- **[Released an open-source EOU detection model covering English + 8 Indic languages voice agents stop cutting callers off mid-sentence](https://www.reddit.com/r/LocalLLaMA/comments/1xq9yjf/released_an_opensource_eou_detection_model/)** (Reddit LocalLLaMA, 7/10) - An open-source end-of-turn detection model was released for English and eight Indic languages to accurately detect when a speaker has finished their thought. This is useful for developers building conversational voice agents, as semantic turn detection prevents bots from interrupting users during natural pauses where traditional voice activity detection (VAD) fails.
+
 ## 2026-11-08 12:05
 
 - **[Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)** (Hacker News, 7/10) - Llama-modchip is a tool designed to run the 284-billion parameter DeepSeek model using 64GB of system RAM without requiring a GPU. It enables developers to test and run extremely large open-source language models locally on budget hardware.
