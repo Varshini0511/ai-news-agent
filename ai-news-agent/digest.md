@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-08 07:31
+
+- **[Agents SDK v0.24.0-alpha.7](https://github.com/openai/openai-agents-python/releases/tag/v0.24.0-alpha.7)** (OpenAI Agents SDK, 6/10) - OpenAI released version 0.24.0-alpha.7 of their Agents SDK (Software Development Kit), adding support for running classic workflows alongside the native execution engine. This update allows developers to incrementally migrate existing agentic applications without breaking legacy runtime workflows.
+
 ## 2026-11-08 04:31
 
 - **[Qwen3.8-Flash-Next Gyro S on a Valve Steam Machine (8 GB AMD GPU, 32 GB RAM): about 18 t/s decode, about 235 t/s prefill, stock SteamOS](https://www.reddit.com/r/LocalLLaMA/comments/1xq8s2n/qwen38flashnext_gyro_s_on_a_valve_steam_machine_8/)** (Reddit LocalLLaMA, 7/10) - A user reported running the Qwen 3.8 Flash Next language model on an 8 GB AMD GPU inside a Steam Machine, achieving about 18 tokens per second for generation and 235 tokens per second for prompt processing. The result shows that even modest consumer hardware can run a modern 3‑billion‑parameter model, useful for developers testing low‑cost deployments.
