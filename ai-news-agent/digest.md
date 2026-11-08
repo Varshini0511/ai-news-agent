@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-08 23:01
+
+- **[New offer: GitHub Education pack](https://education.github.com/pack)** (GitHub Education pack, 8/10) - Verified students receive one month of Codédex Club, a premium membership, for free. This offer is available to verified students starting November 1, with no stated deadline.
+- **[parse_number() as a SQLite extension: C vs Rust](https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/)** (Simon Willison, 6/10) - Simon Willison published a comparison of writing a SQLite extension that adds a parse_number() function, showing implementations in both C and Rust. The guide helps developers add a custom function to convert strings such as '-$1,234.56' or '12.5%' into numbers, making data cleaning before AI processing easier.
+
 ## 2026-11-08 21:31
 
 - **[[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco](https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/)** (Latent Space, 6/10) - Stanford’s CS146S class showed students how to use a coding agent to finish a typical homework assignment and then work with an unfamiliar open‑source repository to propose a change. This demo teaches engineers concrete ways to incorporate AI code‑generation tools into real development tasks.
