@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-08 15:31
+
+- **["Does censorship exist in [country]?", according to various LLMs](https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/)** (Reddit LocalLLaMA, 6/10) - A developer created an open-source tool that prompts language models about country-specific topics and maps their responses onto visual world maps. It gives developers a practical reference for probing, evaluating, and visualizing geopolitical bias across different AI models.
+
 ## 2026-11-08 15:01
 
 - **[Released an open-source EOU detection model covering English + 8 Indic languages voice agents stop cutting callers off mid-sentence](https://www.reddit.com/r/LocalLLaMA/comments/1xq9yjf/released_an_opensource_eou_detection_model/)** (Reddit LocalLLaMA, 7/10) - An open-source end-of-turn detection model was released for English and eight Indic languages to accurately detect when a speaker has finished their thought. This is useful for developers building conversational voice agents, as semantic turn detection prevents bots from interrupting users during natural pauses where traditional voice activity detection (VAD) fails.
