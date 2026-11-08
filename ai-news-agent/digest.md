@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-08 04:31
+
+- **[Qwen3.8-Flash-Next Gyro S on a Valve Steam Machine (8 GB AMD GPU, 32 GB RAM): about 18 t/s decode, about 235 t/s prefill, stock SteamOS](https://www.reddit.com/r/LocalLLaMA/comments/1xq8s2n/qwen38flashnext_gyro_s_on_a_valve_steam_machine_8/)** (Reddit LocalLLaMA, 7/10) - A user reported running the Qwen 3.8 Flash Next language model on an 8 GB AMD GPU inside a Steam Machine, achieving about 18 tokens per second for generation and 235 tokens per second for prompt processing. The result shows that even modest consumer hardware can run a modern 3‑billion‑parameter model, useful for developers testing low‑cost deployments.
+
 ## 2026-11-07 22:31
 
 - **[[Paper] DSpine - Draft in Parallel, Condition Through Depth: Adjacent Causal Injection for Speculative Decoding - tencent](https://www.reddit.com/r/LocalLLaMA/comments/1xq9hf6/paper_dspine_draft_in_parallel_condition_through/)** (Reddit LocalLLaMA, 7/10) - A new paper called DSpine introduces a method for speculative decoding that lets a language model generate several possible continuations in a single pass, while keeping the generated text consistent. This can speed up generation for developers building chat or completion tools without sacrificing output quality.
