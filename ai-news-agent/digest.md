@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-08 12:05
+
+- **[Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)** (Hacker News, 7/10) - Llama-modchip is a tool designed to run the 284-billion parameter DeepSeek model using 64GB of system RAM without requiring a GPU. It enables developers to test and run extremely large open-source language models locally on budget hardware.
+
 ## 2026-11-08 11:04
 
 - **[The components of agent memory: how “dreaming” helps Claude organize what it’s learned, correct its mistakes, and find what it needs more easily the next time](https://www.reddit.com/r/ClaudeAI/comments/1xq4fxp/the_components_of_agent_memory_how_dreaming_helps/)** (r/ClaudeAI, 6/10) - A technical post breaks down agent memory architectures, specifically how off-cycle processing or dreaming helps consolidate context. Understanding memory consolidation helps developers build LLM agents that retain long-term state across sessions.
