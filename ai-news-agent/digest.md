@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-08 16:31
+
+- **[I fine-tuned Qwen3.5-0.8B to turn plain English into bash. What I learnt](https://www.reddit.com/r/LocalLLaMA/comments/1xr0ykk/i_finetuned_qwen3508b_to_turn_plain_english_into/)** (Reddit LocalLLaMA, 7/10) - A developer fine-tuned a lightweight Qwen model to translate natural language into command-line interface (CLI) commands paired with a safety checker. It demonstrates a practical pattern for building fast, offline AI tools using small models with safety guardrails.
+
 ## 2026-11-08 15:31
 
 - **["Does censorship exist in [country]?", according to various LLMs](https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/)** (Reddit LocalLLaMA, 6/10) - A developer created an open-source tool that prompts language models about country-specific topics and maps their responses onto visual world maps. It gives developers a practical reference for probing, evaluating, and visualizing geopolitical bias across different AI models.
