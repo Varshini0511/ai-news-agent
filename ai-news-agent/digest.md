@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-08 21:31
+
+- **[[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco](https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/)** (Latent Space, 6/10) - Stanford’s CS146S class showed students how to use a coding agent to finish a typical homework assignment and then work with an unfamiliar open‑source repository to propose a change. This demo teaches engineers concrete ways to incorporate AI code‑generation tools into real development tasks.
+
 ## 2026-11-08 20:06
 
 - **[I built an MCP with Claude Code that lets Claude play PC games in the background. Here it is driving, flying a heli and walking in GTA on its own](https://www.reddit.com/r/ClaudeAI/comments/1xr3gbs/i_built_an_mcp_with_claude_code_that_lets_claude/)** (r/ClaudeAI, 6/10) - A developer created a Model Context Protocol (MCP) server that grants AI agents virtual inputs and screen-capture capabilities inside isolated background applications. This provides a practical reference for building MCP tools that automate desktop application interfaces without interfering with the user's active screen.
