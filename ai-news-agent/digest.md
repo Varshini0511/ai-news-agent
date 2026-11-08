@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-08 17:31
+
+- **[tencent/Qwen3.8-27B-DSpine-b16 · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xr2aaa/tencentqwen3827bdspineb16_hugging_face/)** (Reddit LocalLLaMA, 7/10) - Tencent released a 27‑billion‑parameter model (Qwen3.8‑27B‑DSpine‑b16) that uses speculative decoding to generate text about three times faster than normal. The speed gain lets developers run large models with lower latency and cheaper compute, making it easier to add powerful language features to apps.
+- **[Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier.](https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/)** (Reddit LocalLLaMA, 7/10) - The Drex team announced Drex Max v1.1, a decision‑making model that now reaches state‑of‑the‑art accuracy while staying smaller and more efficient. Engineers can pull the open weights from Hugging Face and use them for low‑cost ranking or recommendation workloads.
+
 ## 2026-11-08 16:31
 
 - **[I fine-tuned Qwen3.5-0.8B to turn plain English into bash. What I learnt](https://www.reddit.com/r/LocalLLaMA/comments/1xr0ykk/i_finetuned_qwen3508b_to_turn_plain_english_into/)** (Reddit LocalLLaMA, 7/10) - A developer fine-tuned a lightweight Qwen model to translate natural language into command-line interface (CLI) commands paired with a safety checker. It demonstrates a practical pattern for building fast, offline AI tools using small models with safety guardrails.
