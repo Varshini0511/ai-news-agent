@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-09 04:01
+
+- **[T3 Code Nightly 0.1.8-nightly.20261109.4399 (357fb754fa9d)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.8-nightly.20261109.4399)** (T3 Code releases, 6/10) - The T3 Code developer tool added a feature where Large Language Models (LLMs) like Claude automatically suggest your next prompt after each interaction. This speeds up AI-assisted coding by helping developers maintain momentum without manually typing routine follow-up requests.
+
 ## 2026-11-08 23:01
 
 - **[New offer: GitHub Education pack](https://education.github.com/pack)** (GitHub Education pack, 8/10) - Verified students receive one month of Codédex Club, a premium membership, for free. This offer is available to verified students starting November 1, with no stated deadline.
