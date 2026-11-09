@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-09 13:01
+
+- **[Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here](https://github.com/samir-sarwar/samir-vllm)** (Hacker News, 8/10) - A developer shared detailed notes covering Large Language Model (LLM) inference mechanics, including KV caching, memory bandwidth, and batching strategies. It provides a structured learning resource for engineers looking to optimize latency and compute costs when serving AI models.
+- **[Your Experts Have Partners. There's HOPE for Keeping Them Together](https://huggingface.co/blog/amazon/higher-order-pruning-experts)** (Hugging Face, 6/10) - Hugging Face published an overview of HOPE, a new approach for optimizing Mixture of Experts (MoE) model architectures by keeping paired expert subnetworks together. This helps developers understand advanced model routing techniques to improve the efficiency of MoE neural networks.
+
 ## 2026-11-09 11:31
 
 - **[ChatGPT Desktop forwards your SSH agent to remote machines](https://news.ycombinator.com/item?id=50422628)** (Hacker News, 6/10) - The ChatGPT Desktop application has been reported to automatically forward local Secure Shell (SSH) keys to remote execution environments. Developers using the desktop app should be aware of this potential security risk when running code that touches remote servers.
