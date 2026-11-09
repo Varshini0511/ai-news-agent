@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-09 17:02
+
+- **[Drummer's Orion 26B A4B v1 and v1.1! ... Plus a new project from yours truly.](https://www.reddit.com/r/LocalLLaMA/comments/1xruzry/drummers_orion_26b_a4b_v1_and_v11_plus_a_new/)** (Reddit LocalLLaMA, 6/10) - Developer TheDrummer released Orion 26B A4B v1.1, an open-source model fine-tuned from Google's Gemma architecture. It is useful for developers running local models who need strong conversational reasoning and creative text generation.
+
 ## 2026-11-09 16:31
 
 - **[Anyone else feeling like Qwen4's release happens in slow-motion?](https://www.reddit.com/r/LocalLLaMA/comments/1xrv2ae/anyone_else_feeling_like_qwen4s_release_happens/)** (Reddit LocalLLaMA, 8/10) - Alibaba released the Qwen‑4 family, including max, flash, plus, and a 27‑billion‑parameter version, with higher token limits and better multilingual performance. Developers can try a new, powerful language model for chat, summarization, or code‑related tasks.
