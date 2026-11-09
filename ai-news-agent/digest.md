@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-09 18:01
+
+- **[Meta releases Muse Ember, a new lightweight model for agent execution](https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/)** (TechCrunch AI, 8/10) - Meta announced Muse Ember, a lightweight model designed specifically for running AI agents, and priced it at $0.10 per million input tokens. The low cost and smaller footprint make it practical for building multi‑step agent applications that stay within a tight budget.
+- **[ConceptCountry/qwen-concept-27b · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xrxwg1/conceptcountryqwenconcept27b_hugging_face/)** (Reddit LocalLLaMA, 7/10) - A new 27‑billion‑parameter language model called qwen‑concept‑27b was added to Hugging Face’s model hub. Because it is open‑source and can run on a local GPU, developers can experiment with a large model without paying for cloud API usage.
+- **[rust-v0.169.0-alpha.6](https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.6)** (OpenAI Codex releases, 7/10) - OpenAI released version 0.169.0‑alpha.6 of its Codex library for the Rust programming language, adding new helpers and fixing bugs. Rust developers can now get more reliable AI‑generated code suggestions directly in their familiar tooling.
+
 ## 2026-11-09 17:31
 
 - **[Anyone tried this yet?](https://www.reddit.com/r/LocalLLaMA/comments/1xr4ue4/anyone_tried_this_yet/)** (Reddit LocalLLaMA, 7/10) - Terminal‑RSI‑27B is a 27‑billion‑parameter model built on Qwen‑3.8 and released as a command‑line agent for repository inspection, code editing, dependency fixing, and scientific workflow reconstruction. It lets developers run multi‑step AI tasks directly from the terminal, cutting down the need to switch between IDEs, consoles, and separate AI services.
