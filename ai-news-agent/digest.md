@@ -1,5 +1,12 @@
 # AI Digest
 
+## 2026-11-09 19:01
+
+- **[Anthropic launches new Claude Fable and Mythos 5.2 models](https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2)** (The Verge AI, 9/10) - Anthropic introduced two new API models, Claude Fable 5.2 and Claude Mythos 5.2, featuring improved vision, reasoning, and coding speed. Developers gain access to higher-performance endpoints tailored for technical workflows and complex AI agents.
+- **[Our Smallest, Most Efficient Model: Muse Ember](https://research.meta.ai/blog/muse-ember)** (Hacker News, 6/10) - Developers released Muse Ember, a compact AI model optimized for low-resource environments. It enables builders to deploy lightweight inference locally or on edge hardware with lower compute overhead.
+- **[Weight-space programming: editing Qwen3.5 into a top decision model](https://www.reddit.com/r/LocalLLaMA/comments/1xruwlf/weightspace_programming_editing_qwen35_into_a_top/)** (Reddit LocalLLaMA, 6/10) - A practitioner published a weight-space programming guide showing how to edit Qwen weights to optimize it for decision-making tasks. This gives developers a practical technique to customize open-source LLMs (Large Language Models) without expensive full-model retraining.
+- **[T3 Code Nightly 0.1.8-nightly.20261109.4429 (dc7270581800)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.8-nightly.20261109.4429)** (T3 Code releases, 6/10) - T3 Code released a nightly update introducing speed-based service tiers and direct text generation APIs. This allows engineers using the tool to control latency trade-offs and automate common git tasks like pull request and commit message generation.
+
 ## 2026-11-09 18:01
 
 - **[Meta releases Muse Ember, a new lightweight model for agent execution](https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/)** (TechCrunch AI, 8/10) - Meta announced Muse Ember, a lightweight model designed specifically for running AI agents, and priced it at $0.10 per million input tokens. The low cost and smaller footprint make it practical for building multi‑step agent applications that stay within a tight budget.
