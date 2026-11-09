@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-09 05:02
+
+- **[Decision Context: Persistent Behavioral Learning for AI Agents](https://arxiv.org/abs/2611.08644)** (arXiv cs.AI, 6/10) - A paper introduced Decision Context, a framework giving AI agents persistent behavioral memory to retain user corrections across different sessions. This helps agent builders prevent models from repeating past mistakes without needing to re-prompt or fine-tune them.
+- **[Cancellation Is Not Enough: What Retries Leave Behind in an Overloaded LLM Engine](https://arxiv.org/abs/2611.08684)** (arXiv cs.AI, 6/10) - A study analyzed how client retries and timeouts cause lingering server overload in Large Language Model inference engines even after traffic drops. It provides actionable design insights for backend engineers building robust API gateways, request cancellation logic, and load balancers.
+- **[Jacobian-Causal Memory Control for Persistent Memory in Language Model Systems](https://arxiv.org/abs/2611.08779)** (arXiv cs.AI, 6/10) - The paper proposes Jacobian‑Causal Memory Control, a technique that lets a language model evaluate which pieces of its stored memory should influence the current response by tracing causal gradients. This gives developers a way to build agents that can selectively recall or forget past interactions, improving consistency and reducing unwanted drift.
+
 ## 2026-11-09 04:09
 
 - **[If you ever clicked “Yes, and don’t ask again” in Claude Code, check one file before your next push](https://www.reddit.com/r/ClaudeAI/comments/1xqxx5b/if_you_ever_clicked_yes_and_dont_ask_again_in/)** (r/ClaudeAI, 6/10) - Approving terminal commands in Claude Code with the auto-remember option saves the exact command text into a local JSON configuration file. Developers using the Claude Code command-line tool should check this file before committing code to prevent accidentally leaking hardcoded API keys or passwords.
