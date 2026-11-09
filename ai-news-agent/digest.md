@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-09 23:01
+
+- **[M4 Pro vs M5 Pro (24GB): Qwen 3.8 Flash Next IQ3 with MoEShift at 374 tok/s prefill, 14.7 tok/s decode, 8.5GB peak memory](https://www.reddit.com/r/LocalLLaMA/comments/1xrq2fv/m4_pro_vs_m5_pro_24gb_qwen_38_flash_next_iq3_with/)** (Reddit LocalLLaMA, 7/10) - A benchmark compared the Qwen 3.8 Flash Next 125‑billion‑parameter model on Apple M4 Pro and M5 Pro Macs using the MoEShift backend, reporting token‑per‑second speeds for short and long prompts. Knowing how fast such a large model runs on consumer hardware helps engineers decide if they can run inference locally instead of using a cloud service.
+- **[rust-v0.167.0-alpha.4.1](https://github.com/openai/codex/releases/tag/rust-v0.167.0-alpha.4.1)** (OpenAI Codex releases, 7/10) - OpenAI released rust‑v0.167.0‑alpha.4.1, a Rust crate that wraps the Codex code‑generation API. This makes it straightforward for Rust developers to embed AI‑powered code suggestions or completions directly into their own tools or IDE extensions.
+- **[T3 Code v0.1.8](https://github.com/pingdotgg/t3code/releases/tag/v0.1.8)** (T3 Code releases, 6/10) - T3 Code version 0.1.8 was released with UI refactors such as moving all headers through a unified AppBar and improving mobile sidebar toggles. The updates simplify integration of a code‑editing component into apps, which is helpful for building custom AI‑assisted development interfaces.
+
 ## 2026-11-09 22:01
 
 - **[CodeRabbit scales agentic software development and ships 20x more](https://openai.com/index/coderabbit-codex-daybreak)** (OpenAI Blog, 7/10) - OpenAI introduced CodeRabbit, a framework that uses its language models to automatically write, test, and approve code, allowing a team to ship about twenty times more features. Builders can adopt the same approach to speed up their own code generation pipelines while keeping quality checks in place.
