@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-09 17:31
+
+- **[Anyone tried this yet?](https://www.reddit.com/r/LocalLLaMA/comments/1xr4ue4/anyone_tried_this_yet/)** (Reddit LocalLLaMA, 7/10) - Terminal‑RSI‑27B is a 27‑billion‑parameter model built on Qwen‑3.8 and released as a command‑line agent for repository inspection, code editing, dependency fixing, and scientific workflow reconstruction. It lets developers run multi‑step AI tasks directly from the terminal, cutting down the need to switch between IDEs, consoles, and separate AI services.
+- **[How much code do AI models and harnesses add? I made an open-source benchmark to measure code complexity.](https://www.reddit.com/r/LocalLLaMA/comments/1xrathc/how_much_code_do_ai_models_and_harnesses_add_i/)** (Reddit LocalLLaMA, 6/10) - An open‑source benchmark called Parsimony measures the amount of extra code AI‑generated patches introduce by counting statements, calls and identifiers, rather than just success rate or token cost. This helps engineers compare code‑generation tools on simplicity and maintainability, encouraging outputs that add less technical debt.
+
 ## 2026-11-09 17:02
 
 - **[Drummer's Orion 26B A4B v1 and v1.1! ... Plus a new project from yours truly.](https://www.reddit.com/r/LocalLLaMA/comments/1xruzry/drummers_orion_26b_a4b_v1_and_v11_plus_a_new/)** (Reddit LocalLLaMA, 6/10) - Developer TheDrummer released Orion 26B A4B v1.1, an open-source model fine-tuned from Google's Gemma architecture. It is useful for developers running local models who need strong conversational reasoning and creative text generation.
