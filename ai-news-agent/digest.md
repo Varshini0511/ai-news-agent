@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-09 11:31
+
+- **[ChatGPT Desktop forwards your SSH agent to remote machines](https://news.ycombinator.com/item?id=50422628)** (Hacker News, 6/10) - The ChatGPT Desktop application has been reported to automatically forward local Secure Shell (SSH) keys to remote execution environments. Developers using the desktop app should be aware of this potential security risk when running code that touches remote servers.
+
 ## 2026-11-09 08:31
 
 - **[Arcjet AI security models](https://www.producthunt.com/products/arcjet)** (Product Hunt, 7/10) - Arcjet released specialized security models designed to detect prompt injection and malicious code execution risks in AI coding agents. This allows developers to build safer autonomous coding tools by enforcing security guardrails directly around agent actions.
