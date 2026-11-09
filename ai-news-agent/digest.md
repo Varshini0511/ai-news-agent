@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-09 06:01
+
+- **[Nous Research Arete-27B GGUF quants](https://www.reddit.com/r/LocalLLaMA/comments/1xrarta/nous_research_arete27b_gguf_quants/)** (Reddit LocalLLaMA, 6/10) - Quantized GGUF files for Nous Research's Arete-27B open-weight model are now available for local execution. This allows developers to run and test the 27-billion parameter language model on standard workstation hardware using significantly less memory.
+
 ## 2026-11-09 05:02
 
 - **[Decision Context: Persistent Behavioral Learning for AI Agents](https://arxiv.org/abs/2611.08644)** (arXiv cs.AI, 6/10) - A paper introduced Decision Context, a framework giving AI agents persistent behavioral memory to retain user corrections across different sessions. This helps agent builders prevent models from repeating past mistakes without needing to re-prompt or fine-tune them.
