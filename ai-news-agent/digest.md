@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-09 20:01
+
+- **[E-means: 10x faster k-means at equal loss](https://e-means.github.io/)** (Hacker News, 6/10) - Researchers released E-means, a version of the k‑means clustering algorithm that runs roughly ten times faster while achieving the same loss as the standard method. This speed improvement can reduce compute costs and make clustering viable in real‑time pipelines for AI‑enabled applications.
+
 ## 2026-11-09 19:31
 
 - **[I fine-tuned a 2B decision model to play Doom on my Mac in 43 minutes (open source, MLX)](https://www.reddit.com/r/LocalLLaMA/comments/1xryvbg/i_finetuned_a_2b_decision_model_to_play_doom_on/)** (Reddit LocalLLaMA, 7/10) - An open-source developer updated the `mlx-decision` library to support vision LoRA (Low-Rank Adaptation) fine-tuning on Apple Silicon. This gives developers a fast, practical template for fine-tuning small multimodal decision models on local Mac hardware.
