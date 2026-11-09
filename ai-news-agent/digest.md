@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-09 08:31
+
+- **[Arcjet AI security models](https://www.producthunt.com/products/arcjet)** (Product Hunt, 7/10) - Arcjet released specialized security models designed to detect prompt injection and malicious code execution risks in AI coding agents. This allows developers to build safer autonomous coding tools by enforcing security guardrails directly around agent actions.
+- **[MCP1](https://www.producthunt.com/products/appwrite)** (Product Hunt, 6/10) - MCP1 acts as a centralized directory and single endpoint provider for Model Context Protocol (MCP) servers. This simplifies how developers connect external data sources and APIs to their AI agents without managing separate connections for each server.
+
 ## 2026-11-09 08:01
 
 - **[Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)** (Hacker News, 6/10) - Researchers introduced Next-Concept Modeling, a text generation approach that predicts high-level ideas before filling in words in parallel. It is useful for developers interested in modern inference optimizations that make Large Language Models (LLMs) generate text faster.
