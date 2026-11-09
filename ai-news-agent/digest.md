@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-09 15:31
+
+- **[meituan-longcat/LongCat-2.5 · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xrsptp/meituanlongcatlongcat25_hugging_face/)** (Reddit LocalLLaMA, 6/10) - Meituan released LongCat-2.5, a large multimodal model now available on Hugging Face. Developers can test and integrate these open model weights into vision and language applications.
+
 ## 2026-11-09 14:32
 
 - **[Github Repo: Torchlens - Inspect, visualize and intervene on any operation in any neural network.](https://www.reddit.com/r/LocalLLaMA/comments/1xrh5iz/github_repo_torchlens_inspect_visualize_and/)** (Reddit LocalLLaMA, 6/10) - Torchlens released an open-source Python library that extracts, visualizes, and modifies internal operations inside PyTorch neural networks. This makes it easier for developers to inspect model hidden layers and debug network behaviors without rewriting underlying model code.
