@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-09 16:31
+
+- **[Anyone else feeling like Qwen4's release happens in slow-motion?](https://www.reddit.com/r/LocalLLaMA/comments/1xrv2ae/anyone_else_feeling_like_qwen4s_release_happens/)** (Reddit LocalLLaMA, 8/10) - Alibaba released the Qwen‑4 family, including max, flash, plus, and a 27‑billion‑parameter version, with higher token limits and better multilingual performance. Developers can try a new, powerful language model for chat, summarization, or code‑related tasks.
+
 ## 2026-11-09 15:31
 
 - **[meituan-longcat/LongCat-2.5 · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xrsptp/meituanlongcatlongcat25_hugging_face/)** (Reddit LocalLLaMA, 6/10) - Meituan released LongCat-2.5, a large multimodal model now available on Hugging Face. Developers can test and integrate these open model weights into vision and language applications.
