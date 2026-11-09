@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-09 19:31
+
+- **[I fine-tuned a 2B decision model to play Doom on my Mac in 43 minutes (open source, MLX)](https://www.reddit.com/r/LocalLLaMA/comments/1xryvbg/i_finetuned_a_2b_decision_model_to_play_doom_on/)** (Reddit LocalLLaMA, 7/10) - An open-source developer updated the `mlx-decision` library to support vision LoRA (Low-Rank Adaptation) fine-tuning on Apple Silicon. This gives developers a fast, practical template for fine-tuning small multimodal decision models on local Mac hardware.
+- **[Resurrecting 2013 E-Waste: Native CUDA Mamba-1 & PyTorch 2.7.1 on Windows (Kepler–Turing, SM 3.5–7.5)](https://www.reddit.com/r/LocalLLaMA/comments/1xr97iz/resurrecting_2013_ewaste_native_cuda_mamba1/)** (Reddit LocalLLaMA, 6/10) - A developer ported PyTorch and CUDA (Compute Unified Device Architecture) Mamba-1 support to run on legacy NVIDIA GPUs on Windows. This allows builders with older hardware to experiment with state-space model architectures locally without purchasing new hardware.
+- **[v2.1.321](https://github.com/anthropics/claude-code/releases/tag/v2.1.321)** (Claude Code releases, 6/10) - The Claude Code CLI (Command Line Interface) was updated to version 2.1.321, adding support for custom session settings files. This enables developers to automatically apply standardized configurations across remote or automated agent coding sessions.
+
 ## 2026-11-09 19:01
 
 - **[Anthropic launches new Claude Fable and Mythos 5.2 models](https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2)** (The Verge AI, 9/10) - Anthropic introduced two new API models, Claude Fable 5.2 and Claude Mythos 5.2, featuring improved vision, reasoning, and coding speed. Developers gain access to higher-performance endpoints tailored for technical workflows and complex AI agents.
