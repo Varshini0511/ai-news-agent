@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-09 22:01
+
+- **[CodeRabbit scales agentic software development and ships 20x more](https://openai.com/index/coderabbit-codex-daybreak)** (OpenAI Blog, 7/10) - OpenAI introduced CodeRabbit, a framework that uses its language models to automatically write, test, and approve code, allowing a team to ship about twenty times more features. Builders can adopt the same approach to speed up their own code generation pipelines while keeping quality checks in place.
+- **[Introducing Control Room: Human control over AI workloads](https://openai.com/index/introducing-control-room)** (OpenAI Blog, 6/10) - OpenAI announced Control Room, a dashboard that lets engineers watch and pause AI model jobs across its research clusters. It helps developers who use OpenAI APIs to see when a model is misbehaving and quickly stop it, reducing risk in production systems.
+
 ## 2026-11-09 20:01
 
 - **[E-means: 10x faster k-means at equal loss](https://e-means.github.io/)** (Hacker News, 6/10) - Researchers released E-means, a version of the k‑means clustering algorithm that runs roughly ten times faster while achieving the same loss as the standard method. This speed improvement can reduce compute costs and make clustering viable in real‑time pipelines for AI‑enabled applications.
