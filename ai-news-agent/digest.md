@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-10 09:31
+
+- **[Multiverse Computing's Comet 60B (A12B) GGUFs with the MTP head](https://www.reddit.com/r/LocalLLaMA/comments/1xsbc2r/multiverse_computings_comet_60b_a12b_ggufs_with/)** (Reddit LocalLLaMA, 6/10) - Quantized GGUF files for the Comet 60B model were released for llama.cpp, maintaining support for the Multi-Token Prediction (MTP) head. This enables developers to run a heavily compressed version of Nemotron locally on consumer hardware while using draft tokens to speed up text generation.
+- **[T3 Code Nightly 0.1.9-nightly.20261110.4465 (7171fdd7716b)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.9-nightly.20261110.4465)** (T3 Code releases, 6/10) - The T3 Code editor nightly build introduced session-wide permissions for Claude and improved output streaming speeds. This reduces friction for developers using AI coding assistants by eliminating repetitive authorization prompts during active coding sessions.
+
 ## 2026-11-10 09:02
 
 - **[LoRazor: Trimming Adapter Execution for Efficient Multi-LoRA Serving](https://arxiv.org/abs/2611.10049)** (arXiv cs.AI, 6/10) - Researchers introduced LoRazor, a serving system that speeds up running multiple Low-Rank Adaptation (LoRA) fine-tuned adapters on a single shared base model. This allows developers to serve custom fine-tuned models to concurrent users on shared GPUs with lower latency.
