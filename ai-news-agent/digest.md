@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-10 00:31
+
+- **[llm-anthropic 0.31](https://simonwillison.net/2026/Nov/9/llm-anthropic/)** (Simon Willison, 9/10) - Anthropic added two new models, Fable 5.2 and Mythos 5.2, and updated the llm‑anthropic command‑line tool so they can be used with a simple install command. This lets developers try the latest Anthropic models quickly without writing code, which is handy for prototyping and testing new prompts.
+- **[Locating the source of a mysterious beep with Claude](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)** (Simon Willison, 6/10) - A blog post shows how to use Claude, Anthropic’s chatbot, to help locate a mysterious beeping sound in a house by asking it step‑by‑step questions. It demonstrates a practical way to turn an LLM into a reasoning assistant for real‑world troubleshooting tasks.
+- **[How to mess around with neurons... a short guide](https://www.reddit.com/r/LocalLLaMA/comments/1xs81f3/how_to_mess_around_with_neurons_a_short_guide/)** (Reddit LocalLLaMA, 6/10) - A short guide explains how to explore and modify individual neurons inside the LocalLLaMA open‑source model, based on a previous neuron‑steering project. Builders can use these techniques to understand model behavior better or to experiment with fine‑grained control over outputs.
+
 ## 2026-11-09 23:01
 
 - **[M4 Pro vs M5 Pro (24GB): Qwen 3.8 Flash Next IQ3 with MoEShift at 374 tok/s prefill, 14.7 tok/s decode, 8.5GB peak memory](https://www.reddit.com/r/LocalLLaMA/comments/1xrq2fv/m4_pro_vs_m5_pro_24gb_qwen_38_flash_next_iq3_with/)** (Reddit LocalLLaMA, 7/10) - A benchmark compared the Qwen 3.8 Flash Next 125‑billion‑parameter model on Apple M4 Pro and M5 Pro Macs using the MoEShift backend, reporting token‑per‑second speeds for short and long prompts. Knowing how fast such a large model runs on consumer hardware helps engineers decide if they can run inference locally instead of using a cloud service.
