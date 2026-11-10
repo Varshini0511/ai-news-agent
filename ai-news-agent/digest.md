@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-10 21:01
+
+- **[llm-gemini 0.36](https://simonwillison.net/2026/Nov/10/llm-gemini/)** (Simon Willison, 9/10) - Google released Gemini 4 Carbon to the public, pricing it at $2 per million input tokens and $10 per million output tokens. The low cost and strong performance let developers prototype and run applications at scale without large budgets.
+- **[An Open Field Guide to Inference Engineering](https://docs.modelplane.ai/guides/inference-guide)** (Hacker News, 6/10) - An online "Open Field Guide to Inference Engineering" was published, detailing practical steps for serving large language models efficiently. Builders can use the guide to lower latency and cloud expenses when deploying AI services.
+- **[The Surprising Effectiveness of Deleting Weights in LLM Post-Training](https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights/)** (Reddit LocalLLaMA, 6/10) - Researchers found that zeroing fewer than 0.05% of a model's weights achieves the same results as full fine‑tuning across several adaptation methods. This technique lets engineers customize big models with far less compute and data, speeding up development cycles.
+
 ## 2026-11-10 20:32
 
 - **[I made a Claude Code mod that draws a live map of what the agent is doing](https://www.reddit.com/r/ClaudeAI/comments/1xst2qe/i_made_a_claude_code_mod_that_draws_a_live_map_of/)** (r/ClaudeAI, 6/10) - A developer created a real-time visualization tool for Claude Code that displays agent actions across memory, shell commands, and subagents in an interactive panel. This helps engineers debug complex autonomous coding sessions visually instead of reading long text logs.
