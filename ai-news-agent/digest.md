@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-10 19:01
+
+- **[NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?](https://latent.space/p/naiveai/)** (Latent Space, 7/10) - NaiveAI released a new language model that can generate roughly 2,100 tokens per second and was tested for writing code. The high speed and coding quality comparable to other fast models means developers can get quicker code suggestions and use it as a practical alternative for coding assistants.
+- **[Introducing Businesses in ChatGPT](https://openai.com/index/introducing-businesses-chatgpt)** (OpenAI Blog, 6/10) - OpenAI added a "Businesses" section inside ChatGPT where owners can upload company details, see how the business appears in search, and set up actions like contact forms. This lets developers embed up‑to‑date business information directly in ChatGPT, making it easier to build chat experiences that surface company data.
+- **[Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance)** (Hacker News, 6/10) - A community post demonstrates how to move a coding‑assistant built with old 2019 JavaScript libraries to modern web primitives such as ES modules and the fetch API. Updating to current standards reduces maintenance work and lets the agent run reliably in today’s browsers and cloud functions.
+
 ## 2026-11-10 18:31
 
 - **[rust-v0.167.1](https://github.com/openai/codex/releases/tag/rust-v0.167.1)** (OpenAI Codex releases, 6/10) - OpenAI released version 0.167.1 of the Rust client library for Codex, its code‑completion model. This update makes it easier for Rust developers to integrate AI‑powered coding assistance into their own tools and editors.
