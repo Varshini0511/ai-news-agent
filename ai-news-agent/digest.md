@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-10 12:31
+
+- **[Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](https://deepmind.google/blog/introducing-alphaproof-code/)** (Google DeepMind, 8/10) - Google DeepMind introduced AlphaProof Code, an AI agent system that generated three million lines of formal mathematical proofs to verify the Signal encryption app's codebase. It showcases how specialized AI agents can automate deep formal verification to guarantee the security of critical software.
+- **[Decision model to edit LLM weight directly - No training](https://www.reddit.com/r/LocalLLaMA/comments/1xski9d/decision_model_to_edit_llm_weight_directly_no/)** (Reddit LocalLLaMA, 6/10) - An open-source developer released a project demonstrating how to directly edit Large Language Model (LLM) weights using a decision model without traditional retraining. This technique could help builders quickly patch specific model knowledge or behaviors while skipping costly fine-tuning runs.
+
 ## 2026-11-10 11:32
 
 - **[LotusQ](https://www.producthunt.com/products/lotusq)** (Product Hunt, 6/10) - LotusQ was launched on Product Hunt as a tool that lets users speak instead of type in any application, adding voice input across the desktop. This can be useful for developers building AI‑enhanced productivity features or adding hands‑free interfaces to .NET/Azure apps.
