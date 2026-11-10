@@ -1,5 +1,12 @@
 # AI Digest
 
+## 2026-11-10 15:01
+
+- **[Gemini Robotics 2.5 accelerates real-world general dexterity](https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/)** (Google DeepMind, 9/10) - DeepMind released Gemini Robotics 2.5, a vision‑language‑action model that improves robot grasping and manipulation in real‑world settings. The model can be accessed via the Gemini API, giving developers a ready‑to‑use component for building embodied AI agents.
+- **[Claude Fable 5.2 ✨, Meta Ember 🤖, Google’s new TPUs ⚡](https://tldr.tech/ai/2026-11-10)** (TLDR AI, 8/10) - TLDR AI highlighted three releases: Claude Fable 5.2 (a new Claude model), Meta Ember (Meta’s latest language model), and Google’s next‑generation TPUs (Tensor Processing Units) that double inference speed. These upgrades give developers faster, more capable models and hardware for building and scaling AI services.
+- **[MiniMax H3-Image Released, an Open-Weight Image Model built on H3](https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image/)** (Reddit LocalLLaMA, 7/10) - The MiniMax H3‑Image model was released as an open‑weight image generation model built on the H3 architecture. Developers can download and run it for free, giving a lightweight option for image creation tasks.
+- **[Decision Models in Hugging Face](https://huggingface.co/blog/decision)** (Hugging Face, 6/10) - Hugging Face added a "Decision Models" section that lets you upload and run rule‑based or tree‑based models alongside its usual deep‑learning models. This makes it easier to combine classic decision logic with modern AI in a single hosted service.
+
 ## 2026-11-10 14:02
 
 - **[Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM](https://neuracryption.com/research)** (Hacker News, 7/10) - A new utility compresses large language models to roughly one‑third of their original size with near‑lossless quality while using under 50 MB of RAM. This lets developers run sophisticated models on low‑cost hardware or edge devices, cutting storage and compute expenses.
