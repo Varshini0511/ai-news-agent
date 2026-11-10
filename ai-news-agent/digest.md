@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-10 20:31
+
+- **[Designing for Agents — Zeno Rocha, Resend](https://latent.space/p/resend/)** (Latent Space, 7/10) - Email API provider Resend detailed how they structured their documentation and tooling to optimize usage by AI coding agents like Claude Code. This is useful for developers who want to design APIs and documentation that autonomous AI agents can easily discover and execute.
+- **[We tested Qwen3.6 27B, Qwen3.8 27B and GLM-5.3 Flash on real tasks in Elixir, OCaml, Haskell and 10 other less common languages](https://www.reddit.com/r/LocalLLaMA/comments/1xsorsx/we_tested_qwen36_27b_qwen38_27b_and_glm53_flash/)** (Reddit LocalLLaMA, 6/10) - A developer team published a benchmark testing open-source models like Qwen and GLM on 202 real GitHub tasks across 13 niche programming languages like Elixir and OCaml. This gives engineers real-world accuracy data when selecting local models for coding outside standard Python and JavaScript benchmarks.
+
 ## 2026-11-10 20:01
 
 - **[Claude Whiteboards, Claude Sheets, and Claude Data](https://claude.com/resources/articles/sheets-whiteboards-data)** (Hacker News, 6/10) - Hacker News users are discussing new Claude interface capabilities that support interactive whiteboards, spreadsheets, and dedicated data visualization views. These rich artifacts help developers see how modern language models can interact with structured data and visual workspaces beyond plain text chat.
