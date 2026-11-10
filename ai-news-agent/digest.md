@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-10 06:01
+
+- **[Quoting Prompting Claude Fable 5.2](https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/)** (Simon Willison, 7/10) - Anthropic ran tests with its Claude Fable 5.2 model on small coding problems and saw that when a prompt omitted any ownership information, the model treated the existing code as belonging to the user and extended it. Knowing this helps developers craft prompts that clearly state code ownership, preventing unexpected licensing or attribution issues when using AI‑generated code.
+
 ## 2026-11-10 02:31
 
 - **[v2.1.322](https://github.com/anthropics/claude-code/releases/tag/v2.1.322)** (Claude Code releases, 6/10) - Anthropic updated Claude Code to version 2.1.322, adding a fast inference mode on Google Vertex AI in the global, US, and EU regions with automatic fallback to the normal speed if fast mode is unavailable. This lets developers using Claude Code through Vertex get quicker coding suggestions while keeping the service reliable, speeding up development cycles.
