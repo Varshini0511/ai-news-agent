@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-10 11:32
+
+- **[LotusQ](https://www.producthunt.com/products/lotusq)** (Product Hunt, 6/10) - LotusQ was launched on Product Hunt as a tool that lets users speak instead of type in any application, adding voice input across the desktop. This can be useful for developers building AI‑enhanced productivity features or adding hands‑free interfaces to .NET/Azure apps.
+
 ## 2026-11-10 09:31
 
 - **[Multiverse Computing's Comet 60B (A12B) GGUFs with the MTP head](https://www.reddit.com/r/LocalLLaMA/comments/1xsbc2r/multiverse_computings_comet_60b_a12b_ggufs_with/)** (Reddit LocalLLaMA, 6/10) - Quantized GGUF files for the Comet 60B model were released for llama.cpp, maintaining support for the Multi-Token Prediction (MTP) head. This enables developers to run a heavily compressed version of Nemotron locally on consumer hardware while using draft tokens to speed up text generation.
