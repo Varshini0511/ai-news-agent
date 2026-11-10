@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-10 08:02
+
+- **[MuJoCo 4](https://www.producthunt.com/products/google)** (Product Hunt, 7/10) - Google DeepMind released MuJoCo 4, a major update to its open-source physics engine for robotics that includes a native interactive studio. It provides AI engineers with an accurate, high-speed simulation environment to train reinforcement learning and spatial AI models.
+- **[AppuBot](https://www.producthunt.com/products/appubot)** (Product Hunt, 6/10) - AppuBot provides AI agents capable of controlling desktop and web applications directly on macOS or cloud instances. It is useful for developers building computer-use automation workflows across legacy software without APIs.
+- **[OpenVibe](https://www.producthunt.com/products/openvibe-2)** (Product Hunt, 6/10) - OpenVibe is a visual canvas designed to run, monitor, and manage multiple terminal-based AI coding agents simultaneously. It helps developers coordinate parallel AI coding tasks and inspect active agent sessions in real time.
+
 ## 2026-11-10 07:31
 
 - **[Introducing Our Smallest, Most Efficient Model: Muse Ember](https://simonwillison.net/2026/Nov/10/muse-ember/)** (Simon Willison, 8/10) - Meta AI released Muse Ember, a very small and fast model aimed at doing complex reasoning tasks. It lets developers build cheaper, lower‑latency agents that still understand and plan like larger models.
