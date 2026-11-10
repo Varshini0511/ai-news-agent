@@ -1,5 +1,12 @@
 # AI Digest
 
+## 2026-11-10 18:01
+
+- **[Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks](https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/)** (TechCrunch AI, 9/10) - Anthropic launched Claude Meetings, an AI that listens to live workplace conversations and automatically produces notes, action items, timelines, and can fetch data from linked work apps. Developers can embed this into collaboration tools to automate meeting documentation and cut manual follow‑up effort.
+- **[ChatGPT is getting verified AI ‘Business Agents’](https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub)** (The Verge AI, 8/10) - OpenAI added ‘Business Agents’ to ChatGPT, allowing verified companies to run branded AI assistants that answer product questions and help with comparison shopping. Developers can use the same API to build custom, brand‑specific bots for e‑commerce or support, speeding up trusted assistant deployment.
+- **[Anthropic has its own AI-powered office suite now](https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now)** (The Verge AI, 8/10) - Anthropic released an AI‑powered office suite that includes a coding assistant and document‑generation tools built on its Claude model. Software teams can adopt these tools to automate code reviews, generate documentation, or prototype internal apps without leaving their existing workflow.
+- **[xiangjuntang/JoVox-64 · Hugging Face - Image-to-3D](https://www.reddit.com/r/LocalLLaMA/comments/1xskr0m/xiangjuntangjovox64_hugging_face_imageto3d/)** (Reddit LocalLLaMA, 7/10) - JoVox‑64, a new model on Hugging Face, creates 64³ voxel 3D structures from a single image using a lightweight flow‑matching approach. It lets developers add fast, low‑cost 3D asset generation to games or simulations without training their own model.
+
 ## 2026-11-10 17:31
 
 - **[Pay for Hugging Face Hub with your Google Cloud Account](https://huggingface.co/blog/hub-gcp-marketplace)** (Hugging Face, 7/10) - Hugging Face now lets you pay for Hub usage using a Google Cloud billing account. This makes it easier for developers already on Google Cloud to keep all AI‑related costs in one place.
