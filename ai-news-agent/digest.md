@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-10 09:02
+
+- **[LoRazor: Trimming Adapter Execution for Efficient Multi-LoRA Serving](https://arxiv.org/abs/2611.10049)** (arXiv cs.AI, 6/10) - Researchers introduced LoRazor, a serving system that speeds up running multiple Low-Rank Adaptation (LoRA) fine-tuned adapters on a single shared base model. This allows developers to serve custom fine-tuned models to concurrent users on shared GPUs with lower latency.
+- **[DeepResearch RewardBench: Evaluating Reward Models for Deep Research Report](https://arxiv.org/abs/2611.10156)** (arXiv cs.AI, 6/10) - DeepResearch RewardBench introduces a benchmark designed to evaluate reward models on complex multi-step web research reports. This provides developers building automated deep-research agents a standard way to score synthesized reports and prevent hallucinations.
+- **[AutoEMatic: Runtime-Adaptive Mixed-Precision LLM Inference via Automatic Exponent-Mantissa Refinement](https://arxiv.org/abs/2611.10165)** (arXiv cs.AI, 6/10) - AutoEMatic presents a runtime-adaptive quantization approach that dynamically adjusts bit precision layer-by-layer during model inference based on prompt complexity. This allows system engineers to reduce GPU memory usage and inference latency for Large Language Models (LLMs) while maintaining response quality.
+
 ## 2026-11-10 08:31
 
 - **[openring](https://www.producthunt.com/products/openring)** (Product Hunt, 7/10) - Openring launched an open-source platform for building and self-hosting real-time voice AI agents without platform middleware fees. It provides developers with a cost-effective framework to add voice capabilities to their applications while keeping full control over their code.
