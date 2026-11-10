@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-10 21:31
+
+- **[I made a 400M model for NPC judgement calls in games (Apache-2.0, ~0.1s on a 3060 Ti)](https://www.reddit.com/r/LocalLLaMA/comments/1xs9nux/i_made_a_400m_model_for_npc_judgement_calls_in/)** (Reddit LocalLLaMA, 7/10) - A developer released Ettin-400M, an open-source 400-million parameter model optimized for evaluation calls like judging NPC decisions in games. It is useful for developers who need lightweight, low-latency decision-making models that can run locally on consumer GPUs.
+- **[Release v0.69.0-preview.0](https://github.com/google-gemini/gemini-cli/releases/tag/v0.69.0-preview.0)** (Gemini CLI releases, 6/10) - Google updated the Gemini CLI tool to preview version 0.69.0, adding a feature to view daily token usage in a visual heatmap. This helps developers monitor their Gemini API token consumption and costs directly from the command line.
+
 ## 2026-11-10 21:01
 
 - **[llm-gemini 0.36](https://simonwillison.net/2026/Nov/10/llm-gemini/)** (Simon Willison, 9/10) - Google released Gemini 4 Carbon to the public, pricing it at $2 per million input tokens and $10 per million output tokens. The low cost and strong performance let developers prototype and run applications at scale without large budgets.
