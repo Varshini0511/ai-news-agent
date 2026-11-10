@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-10 20:01
+
+- **[Claude Whiteboards, Claude Sheets, and Claude Data](https://claude.com/resources/articles/sheets-whiteboards-data)** (Hacker News, 6/10) - Hacker News users are discussing new Claude interface capabilities that support interactive whiteboards, spreadsheets, and dedicated data visualization views. These rich artifacts help developers see how modern language models can interact with structured data and visual workspaces beyond plain text chat.
+
 ## 2026-11-10 19:31
 
 - **[Gemini Intelligence: New features, on more devices](https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/)** (Google AI Blog, 8/10) - Google announced that Gemini Intelligence now works on more devices and includes new capabilities such as on‑device translation and reasoning across text and images. This lets developers add a strong language model to mobile apps without relying on cloud calls.
