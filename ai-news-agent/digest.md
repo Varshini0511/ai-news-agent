@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-10 08:31
+
+- **[openring](https://www.producthunt.com/products/openring)** (Product Hunt, 7/10) - Openring launched an open-source platform for building and self-hosting real-time voice AI agents without platform middleware fees. It provides developers with a cost-effective framework to add voice capabilities to their applications while keeping full control over their code.
+
 ## 2026-11-10 08:02
 
 - **[MuJoCo 4](https://www.producthunt.com/products/google)** (Product Hunt, 7/10) - Google DeepMind released MuJoCo 4, a major update to its open-source physics engine for robotics that includes a native interactive studio. It provides AI engineers with an accurate, high-speed simulation environment to train reinforcement learning and spatial AI models.
