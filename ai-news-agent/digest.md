@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-10 17:31
+
+- **[Pay for Hugging Face Hub with your Google Cloud Account](https://huggingface.co/blog/hub-gcp-marketplace)** (Hugging Face, 7/10) - Hugging Face now lets you pay for Hub usage using a Google Cloud billing account. This makes it easier for developers already on Google Cloud to keep all AI‑related costs in one place.
+
 ## 2026-11-10 17:02
 
 - **[MiniMaxAI/MiniMax-H3-Image · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xsp3xt/minimaxaiminimaxh3image_hugging_face/)** (Reddit LocalLLaMA, 6/10) - MiniMax AI has made the model weights for MiniMax-H3-Image available on Hugging Face. This provides developers with an open-weights image generation model that can be hosted locally or integrated into visual AI workflows.
