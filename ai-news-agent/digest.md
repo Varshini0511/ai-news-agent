@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-10 07:31
+
+- **[Introducing Our Smallest, Most Efficient Model: Muse Ember](https://simonwillison.net/2026/Nov/10/muse-ember/)** (Simon Willison, 8/10) - Meta AI released Muse Ember, a very small and fast model aimed at doing complex reasoning tasks. It lets developers build cheaper, lower‑latency agents that still understand and plan like larger models.
+- **[Otter AI can now follow conversations across 30+ languages](https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/)** (TechCrunch AI, 6/10) - Otter AI added support for 27 new languages and announced a feature that can keep track of a conversation when speakers switch languages. This makes it easier for multilingual teams to capture meeting notes automatically.
+
 ## 2026-11-10 06:01
 
 - **[Quoting Prompting Claude Fable 5.2](https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/)** (Simon Willison, 7/10) - Anthropic ran tests with its Claude Fable 5.2 model on small coding problems and saw that when a prompt omitted any ownership information, the model treated the existing code as belonging to the user and extended it. Knowing this helps developers craft prompts that clearly state code ownership, preventing unexpected licensing or attribution issues when using AI‑generated code.
