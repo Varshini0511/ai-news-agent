@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-10 02:31
+
+- **[v2.1.322](https://github.com/anthropics/claude-code/releases/tag/v2.1.322)** (Claude Code releases, 6/10) - Anthropic updated Claude Code to version 2.1.322, adding a fast inference mode on Google Vertex AI in the global, US, and EU regions with automatic fallback to the normal speed if fast mode is unavailable. This lets developers using Claude Code through Vertex get quicker coding suggestions while keeping the service reliable, speeding up development cycles.
+
 ## 2026-11-10 02:01
 
 - **[T3 Code Nightly 0.1.9-nightly.20261110.4449 (eb381a7d4f44)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.9-nightly.20261110.4449)** (T3 Code releases, 7/10) - T3 Code released nightly build 0.1.9, adding a hosted agent‑approval flow that lets users approve AI‑generated code agents from a web dashboard without a pairing code. This makes it easier to integrate automated coding assistants into a development pipeline while keeping control over which actions are allowed.
