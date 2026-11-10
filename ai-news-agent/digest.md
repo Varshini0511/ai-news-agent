@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-10 14:02
+
+- **[Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM](https://neuracryption.com/research)** (Hacker News, 7/10) - A new utility compresses large language models to roughly one‑third of their original size with near‑lossless quality while using under 50 MB of RAM. This lets developers run sophisticated models on low‑cost hardware or edge devices, cutting storage and compute expenses.
+
 ## 2026-11-10 13:12
 
 - **[Google Cloud launches Gemini for healthcare.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/)** (Google AI Blog, 6/10) - Google Cloud launched specialized Gemini model capabilities tailored for processing clinical medical data and streamlining healthcare workflows. This is useful for developers building enterprise health software who need pre-built connectors and models tuned for structured and unstructured medical records.
