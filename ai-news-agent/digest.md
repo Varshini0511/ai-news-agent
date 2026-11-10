@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-10 16:31
+
+- **[Google releases Gemini 4 Carbon with agent ‘swarm’ feature](https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout)** (The Verge AI, 9/10) - Google officially released Gemini 4 Carbon to the public, featuring a built-in agent swarm capability that lets multiple sub-agents coordinate on complex tasks. It provides developers with a top-tier foundation model specifically tailored for cybersecurity and multi-agent systems.
+- **[Gemini 4 Carbon is now available](https://deepmind.google/blog/gemini-4-carbon-is-now-available/)** (Google DeepMind, 9/10) - Google DeepMind announced the general availability of Gemini 4 Carbon across its developer APIs. Software engineers can now integrate DeepMind's latest frontier model into production workloads and agent frameworks.
+- **[Gemini 4 Carbon is now available](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/)** (Hacker News, 8/10) - Hacker News is discussing the launch of Google's new Gemini 4 Carbon AI model. Developers can read early community feedback regarding its real-world performance, coding capabilities, and agent orchestration features.
+
 ## 2026-11-10 16:01
 
 - **[Announcing .NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/)** (.NET Blog, 7/10) - Microsoft announced .NET 11, introducing C# 15 alongside runtime improvements and updated libraries for building AI applications. It provides .NET developers with faster performance and native tooling when integrating AI capabilities into their apps.
