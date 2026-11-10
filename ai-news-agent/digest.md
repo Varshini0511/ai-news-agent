@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-10 16:01
+
+- **[Announcing .NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/)** (.NET Blog, 7/10) - Microsoft announced .NET 11, introducing C# 15 alongside runtime improvements and updated libraries for building AI applications. It provides .NET developers with faster performance and native tooling when integrating AI capabilities into their apps.
+- **[Google broadens its AI hardware portfolio with two new specialized chips](https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/)** (TechCrunch AI, 6/10) - Google introduced two new specialized Tensor Processing Unit (TPU) hardware chips designed for confidential model training and higher memory capacity. This allows developers to train models securely on sensitive data while managing larger workloads on cloud infrastructure.
+
 ## 2026-11-10 15:01
 
 - **[Gemini Robotics 2.5 accelerates real-world general dexterity](https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/)** (Google DeepMind, 9/10) - DeepMind released Gemini Robotics 2.5, a vision‑language‑action model that improves robot grasping and manipulation in real‑world settings. The model can be accessed via the Gemini API, giving developers a ready‑to‑use component for building embodied AI agents.
