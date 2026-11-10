@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-10 02:01
+
+- **[T3 Code Nightly 0.1.9-nightly.20261110.4449 (eb381a7d4f44)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.9-nightly.20261110.4449)** (T3 Code releases, 7/10) - T3 Code released nightly build 0.1.9, adding a hosted agent‑approval flow that lets users approve AI‑generated code agents from a web dashboard without a pairing code. This makes it easier to integrate automated coding assistants into a development pipeline while keeping control over which actions are allowed.
+- **[mobile-android-preview-build/9fd8656574d836abb66594826ddf766639eff49c](https://github.com/pingdotgg/t3code/releases/tag/mobile-android-preview-build%2F9fd8656574d836abb66594826ddf766639eff49c)** (T3 Code releases, 6/10) - T3 Code published a preview Android build via Expo, enabling the tool to run on mobile devices for testing and development. Mobile access lets engineers experiment with AI‑assisted coding on the go and evaluate how the tool behaves in a constrained environment.
+
 ## 2026-11-10 00:31
 
 - **[llm-anthropic 0.31](https://simonwillison.net/2026/Nov/9/llm-anthropic/)** (Simon Willison, 9/10) - Anthropic added two new models, Fable 5.2 and Mythos 5.2, and updated the llm‑anthropic command‑line tool so they can be used with a simple install command. This lets developers try the latest Anthropic models quickly without writing code, which is handy for prototyping and testing new prompts.
