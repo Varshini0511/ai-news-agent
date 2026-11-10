@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-10 19:31
+
+- **[Gemini Intelligence: New features, on more devices](https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/)** (Google AI Blog, 8/10) - Google announced that Gemini Intelligence now works on more devices and includes new capabilities such as on‑device translation and reasoning across text and images. This lets developers add a strong language model to mobile apps without relying on cloud calls.
+- **[Strata after heavy optimizations](https://www.reddit.com/r/LocalLLaMA/comments/1xsl8w7/strata_after_heavy_optimizations/)** (Reddit LocalLLaMA, 6/10) - The open‑source Strata project was re‑optimized, making LLaMA‑style models run up to three times faster on consumer GPUs using the latest Opus and Fable toolchains. Builders can now experiment with large language models on cheaper hardware, reducing development costs.
+
 ## 2026-11-10 19:01
 
 - **[NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?](https://latent.space/p/naiveai/)** (Latent Space, 7/10) - NaiveAI released a new language model that can generate roughly 2,100 tokens per second and was tested for writing code. The high speed and coding quality comparable to other fast models means developers can get quicker code suggestions and use it as a practical alternative for coding assistants.
