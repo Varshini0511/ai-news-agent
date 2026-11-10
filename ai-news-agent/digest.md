@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-10 13:12
+
+- **[Google Cloud launches Gemini for healthcare.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/)** (Google AI Blog, 6/10) - Google Cloud launched specialized Gemini model capabilities tailored for processing clinical medical data and streamlining healthcare workflows. This is useful for developers building enterprise health software who need pre-built connectors and models tuned for structured and unstructured medical records.
+
 ## 2026-11-10 12:31
 
 - **[Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](https://deepmind.google/blog/introducing-alphaproof-code/)** (Google DeepMind, 8/10) - Google DeepMind introduced AlphaProof Code, an AI agent system that generated three million lines of formal mathematical proofs to verify the Signal encryption app's codebase. It showcases how specialized AI agents can automate deep formal verification to guarantee the security of critical software.
