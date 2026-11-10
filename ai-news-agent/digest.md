@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-10 22:31
+
+- **[rust-v0.169.0-alpha.10](https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.10)** (OpenAI Codex releases, 8/10) - OpenAI released Codex rust v0.169.0‑alpha.10, an updated Rust client library for the Codex code‑generation model. The new version adds performance fixes and better error handling, helping Rust developers integrate AI‑assisted coding more reliably.
+- **[Apple has new Mac app coming to make running local AI models easy](https://www.reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running/)** (Reddit LocalLLaMA, 7/10) - Apple is releasing a new macOS app that makes it easy to run local large language models on a Mac. This lets developers experiment with private inference without needing cloud resources.
+- **[T3 Code Nightly 0.1.9-nightly.20261110.4491 (1a2a4a5e9684)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.9-nightly.20261110.4491)** (T3 Code releases, 6/10) - T3 Code shipped a nightly build (0.1.9‑nightly) that adds synchronized OpenCode goals, checklist views, and drag‑and‑drop composition features. These improvements make it easier for teams to coordinate AI‑generated code suggestions within their IDE.
+
 ## 2026-11-10 21:31
 
 - **[I made a 400M model for NPC judgement calls in games (Apache-2.0, ~0.1s on a 3060 Ti)](https://www.reddit.com/r/LocalLLaMA/comments/1xs9nux/i_made_a_400m_model_for_npc_judgement_calls_in/)** (Reddit LocalLLaMA, 7/10) - A developer released Ettin-400M, an open-source 400-million parameter model optimized for evaluation calls like judging NPC decisions in games. It is useful for developers who need lightweight, low-latency decision-making models that can run locally on consumer GPUs.
