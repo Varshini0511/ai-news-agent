@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-10 18:31
+
+- **[rust-v0.167.1](https://github.com/openai/codex/releases/tag/rust-v0.167.1)** (OpenAI Codex releases, 6/10) - OpenAI released version 0.167.1 of the Rust client library for Codex, its code‑completion model. This update makes it easier for Rust developers to integrate AI‑powered coding assistance into their own tools and editors.
+
 ## 2026-11-10 18:01
 
 - **[Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks](https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/)** (TechCrunch AI, 9/10) - Anthropic launched Claude Meetings, an AI that listens to live workplace conversations and automatically produces notes, action items, timelines, and can fetch data from linked work apps. Developers can embed this into collaboration tools to automate meeting documentation and cut manual follow‑up effort.
