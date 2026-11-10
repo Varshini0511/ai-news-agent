@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-10 17:02
+
+- **[MiniMaxAI/MiniMax-H3-Image · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xsp3xt/minimaxaiminimaxh3image_hugging_face/)** (Reddit LocalLLaMA, 6/10) - MiniMax AI has made the model weights for MiniMax-H3-Image available on Hugging Face. This provides developers with an open-weights image generation model that can be hosted locally or integrated into visual AI workflows.
+
 ## 2026-11-10 16:31
 
 - **[Google releases Gemini 4 Carbon with agent ‘swarm’ feature](https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout)** (The Verge AI, 9/10) - Google officially released Gemini 4 Carbon to the public, featuring a built-in agent swarm capability that lets multiple sub-agents coordinate on complex tasks. It provides developers with a top-tier foundation model specifically tailored for cybersecurity and multi-agent systems.
