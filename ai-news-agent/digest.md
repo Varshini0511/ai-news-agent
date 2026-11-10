@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-10 20:32
+
+- **[I made a Claude Code mod that draws a live map of what the agent is doing](https://www.reddit.com/r/ClaudeAI/comments/1xst2qe/i_made_a_claude_code_mod_that_draws_a_live_map_of/)** (r/ClaudeAI, 6/10) - A developer created a real-time visualization tool for Claude Code that displays agent actions across memory, shell commands, and subagents in an interactive panel. This helps engineers debug complex autonomous coding sessions visually instead of reading long text logs.
+
 ## 2026-11-10 20:31
 
 - **[Designing for Agents — Zeno Rocha, Resend](https://latent.space/p/resend/)** (Latent Space, 7/10) - Email API provider Resend detailed how they structured their documentation and tooling to optimize usage by AI coding agents like Claude Code. This is useful for developers who want to design APIs and documentation that autonomous AI agents can easily discover and execute.
