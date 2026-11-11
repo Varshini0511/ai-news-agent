@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-11 12:01
+
+- **[T3 Code v0.1.9](https://github.com/pingdotgg/t3code/releases/tag/v0.1.9)** (T3 Code releases, 7/10) - T3 Code version 0.1.9 adds new features for agent workflows, including a built‑in sign‑in flow that lets agents approve their own connections without needing a manual pairing code, and the ability to attach files while data is still uploading. These improvements make it easier and faster for developers to set up and manage AI agents, especially when using the MCP (Microsoft Copilot) integration or Claude‑based sessions.
+
 ## 2026-11-11 10:01
 
 - **[Qwen4-Max Preview is out on API access. No word on weights release yet](https://www.reddit.com/r/LocalLLaMA/comments/1xtcrgm/qwen4max_preview_is_out_on_api_access_no_word_on/)** (Reddit LocalLLaMA, 6/10) - Alibaba has made a preview version of its Qwen4-Max model accessible to developers through an API (Application Programming Interface). Accessing this preview allows developers to benchmark a new frontier LLM (Large Language Model) against existing options for their application workflows.
