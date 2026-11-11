@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-11 09:02
+
+- **[MiniMax H3-Image](https://www.producthunt.com/products/minimax)** (Product Hunt, 6/10) - MiniMax released H3-Image, a text-to-image model capable of generating high-resolution 4K images in approximately 10 seconds. This is useful for developers needing fast, high-quality media generation integrated into their applications.
+- **[Mitra MCP](https://www.producthunt.com/products/mitra-5)** (Product Hunt, 6/10) - Mitra MCP provides a Model Context Protocol server that connects AI agents directly to a personal phone line for calling and texting. This allows developers building with the Model Context Protocol (MCP) framework to easily give their agents voice and SMS capabilities.
+
 ## 2026-11-11 08:31
 
 - **[Earlybird](https://www.producthunt.com/products/earlybird-5)** (Product Hunt, 7/10) - Earlybird is an ultra-lightweight 29-million parameter speech-to-text model designed for streaming transcription before audio inputs complete. This is useful for developers building real-time voice agents or low-latency applications that must run on edge hardware with minimal memory usage.
