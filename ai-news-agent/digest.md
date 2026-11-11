@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-11 19:01
+
+- **[JioStar’s chief architect on AI discovery at 500M-user scale](https://openai.com/index/jiostar-vijay-seshadri)** (OpenAI Blog, 6/10) - JioStar’s chief architect published engineering lessons on building AI discovery systems for 500 million users, focusing on evaluation metrics and guardrails. It provides practical guidelines for engineers designing reliable, large-scale Artificial Intelligence (AI) workflows in production.
+- **[llm 0.37.2](https://simonwillison.net/2026/Nov/11/llm/)** (Simon Willison, 6/10) - Simon Willison released version 0.37.2 of the `llm` command-line tool to patch security vulnerabilities in OpenAI-compatible endpoint configurations. This update ensures developers using custom Large Language Model (LLM) providers can safely manage their API endpoints.
+
 ## 2026-11-11 18:31
 
 - **[Gemini Decisions API: Fast, calibrated multimodal decisions](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)** (Google AI Blog, 8/10) - Google released the Gemini Decisions API, a new model endpoint specialized for making fast, calibrated choices from multimodal data like images and text. Developers can use it to get consistent, highly reliable classification and structured outputs from complex inputs without heavy prompt engineering.
