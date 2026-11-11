@@ -1,5 +1,12 @@
 # AI Digest
 
+## 2026-11-11 05:01
+
+- **[BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](https://huggingface.co/blog/qvac/botpsy)** (Hugging Face, 7/10) - Hugging Face released BotPsy, an on‑device personal‑assistant model with fewer than one billion parameters. Because it runs locally, developers can add a privacy‑preserving assistant to phones or edge devices without needing a cloud API.
+- **[Agent Architecture Cost-Success Trade-offs: A Controlled Evaluation across Enterprise-Style SOPs](https://arxiv.org/abs/2611.12953)** (arXiv cs.AI, 7/10) - The study evaluates different agent architectures on enterprise standard‑operating‑procedure workflows, measuring cost versus success rates. Builders can use the findings to pick an agent design that balances runtime expense with reliability for business automation.
+- **[Auditable Human-Agent Teams for Autonomous X-ray Experimentation](https://arxiv.org/abs/2611.12933)** (arXiv cs.AI, 6/10) - Researchers released a system that lets an autonomous agent run X‑ray experiments while a human oversees the process, reducing the effort to set up closed‑loop labs. The framework can be adapted by builders who want to create AI‑driven scientific instruments with safety checks.
+- **[EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery](https://arxiv.org/abs/2611.12934)** (arXiv cs.AI, 6/10) - The EarthRecord project uses multimodal agents to analyze four decades of satellite images and detect land‑change events. Its methods help developers build large‑scale Earth‑observation pipelines that combine visual and textual reasoning.
+
 ## 2026-11-11 04:01
 
 - **[TTS bench - 91 open TTS models and 28 paid TTS APIs on the same prompts](https://www.reddit.com/r/LocalLLaMA/comments/1xsqv86/tts_bench_91_open_tts_models_and_28_paid_tts_apis/)** (Reddit LocalLLaMA, 6/10) - A community‑maintained benchmark called tts‑bench now evaluates 91 open‑source text‑to‑speech models and 28 commercial APIs using the same prompts. It lets developers quickly compare quality and latency to pick the right speech engine for their apps.
