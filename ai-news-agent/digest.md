@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-11 03:31
+
+- **[T3 Code Nightly 0.1.9-nightly.20261111.4501 (c90b67859a6d)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.9-nightly.20261111.4501)** (T3 Code releases, 6/10) - T3 Code released a nightly update that lets users reuse local speech-to-text models and manage Claude API quota resets separately. This helps developers using T3 Code manage their model usage limits more efficiently and speed up local voice tool setup.
+
 ## 2026-11-11 03:01
 
 - **[Qwen4 Is Coming — Preview Now Live on Alibaba Token Plan](https://www.reddit.com/r/LocalLLaMA/comments/1xt5q27/qwen4_is_coming_preview_now_live_on_alibaba_token/)** (Reddit LocalLLaMA, 8/10) - Alibaba released an early access preview of its Qwen4-Max model, featuring upgraded coding and AI agent capabilities. Developers can now test the new model through Alibaba's API platform with a temporary price discount of up to 90%.
