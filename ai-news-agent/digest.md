@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-11 06:01
+
+- **[Cogent and OpenAI build cyber defense factories for enterprises](https://openai.com/index/cogent-security)** (OpenAI Blog, 7/10) - OpenAI announced a partnership with Cogent to launch a cyber‑defense platform that uses its language models together with company‑specific data to automatically find and fix security flaws. Builders can reuse the same agent framework to add automated security checks into their own applications without writing custom code.
+- **[[GLB-3D-Coder] I tried making a 1.7B version for Godot](https://www.reddit.com/r/LocalLLaMA/comments/1xt6rc7/glb3dcoder_i_tried_making_a_17b_version_for_godot/)** (Reddit LocalLLaMA, 7/10) - A community member released a 1.7‑billion‑parameter version of the GLB‑3D‑Coder model, fine‑tuned on Qwen‑3 and packaged as a GGUF file that runs on a CPU with limited memory. Developers can now run 3‑D code generation locally for Godot projects without needing a GPU, making prototyping faster and cheaper.
+
 ## 2026-11-11 05:01
 
 - **[BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](https://huggingface.co/blog/qvac/botpsy)** (Hugging Face, 7/10) - Hugging Face released BotPsy, an on‑device personal‑assistant model with fewer than one billion parameters. Because it runs locally, developers can add a privacy‑preserving assistant to phones or edge devices without needing a cloud API.
