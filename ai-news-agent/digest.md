@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-11 04:01
+
+- **[TTS bench - 91 open TTS models and 28 paid TTS APIs on the same prompts](https://www.reddit.com/r/LocalLLaMA/comments/1xsqv86/tts_bench_91_open_tts_models_and_28_paid_tts_apis/)** (Reddit LocalLLaMA, 6/10) - A community‑maintained benchmark called tts‑bench now evaluates 91 open‑source text‑to‑speech models and 28 commercial APIs using the same prompts. It lets developers quickly compare quality and latency to pick the right speech engine for their apps.
+
 ## 2026-11-11 03:31
 
 - **[T3 Code Nightly 0.1.9-nightly.20261111.4501 (c90b67859a6d)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.9-nightly.20261111.4501)** (T3 Code releases, 6/10) - T3 Code released a nightly update that lets users reuse local speech-to-text models and manage Claude API quota resets separately. This helps developers using T3 Code manage their model usage limits more efficiently and speed up local voice tool setup.
