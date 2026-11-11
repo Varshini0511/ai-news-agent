@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-11 13:02
+
+- **[Zyphra/ZONOS3-Mini · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xtb9gw/zyphrazonos3mini_hugging_face/)** (Reddit LocalLLaMA, 7/10) - Zyphra released Zonos-3 Mini, an open-source 100-million parameter text-to-speech model capable of fast voice cloning. Because it runs directly on local devices and inside web browsers, developers can build low-latency, private voice features without relying on external API calls.
+- **[Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya)** (Hacker News, 6/10) - A software engineer deployed a team of 48 AI agents to process complex NASA Lidar sensor data, discovering a hidden Maya pyramid within 72 hours. This provides a clear real-world demonstration of scaling multi-agent workflows to automate massive data analysis tasks.
+
 ## 2026-11-11 12:01
 
 - **[T3 Code v0.1.9](https://github.com/pingdotgg/t3code/releases/tag/v0.1.9)** (T3 Code releases, 7/10) - T3 Code version 0.1.9 adds new features for agent workflows, including a built‑in sign‑in flow that lets agents approve their own connections without needing a manual pairing code, and the ability to attach files while data is still uploading. These improvements make it easier and faster for developers to set up and manage AI agents, especially when using the MCP (Microsoft Copilot) integration or Claude‑based sessions.
