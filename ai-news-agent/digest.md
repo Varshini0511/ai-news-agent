@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-11 15:01
+
+- **[Token Pooling-Aware Training for Multi-Vector Embedding Models](https://huggingface.co/blog/token-pooling)** (Hugging Face, 7/10) - Hugging Face shared a training technique for multi-vector embedding models that explicitly accounts for token pooling. This helps developers train more accurate search and Retrieval-Augmented Generation (RAG) models while maintaining computational efficiency.
+- **[Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)** (Hacker News, 6/10) - Atuin introduced Threads, a tool that syncs and persists terminal-based AI agent sessions across multiple machines. This is useful for software engineers debugging or managing command-line AI agents across different development environments.
+
 ## 2026-11-11 14:01
 
 - **[You can now train your own LLMs with less memory, on your gaming GPUs](https://www.reddit.com/r/LocalLLaMA/comments/1xtgnh9/you_can_now_train_your_own_llms_with_less_memory/)** (Reddit LocalLLaMA, 8/10) - A Reddit thread explains how to fine‑tune a 27‑billion‑parameter language model on a single RTX 3090 GPU with 24 GB of memory. The guide shows developers they can experiment with large models on affordable hardware, lowering the cost of custom LLM development.
