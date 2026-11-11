@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-11 19:31
+
+- **[I'm releasing a Local World Model Ive been building that turns images into interactive videos you control in real time. It works on RTX 3060, 4060 and anything above, linking huggingface](https://www.reddit.com/r/LocalLLaMA/comments/1xtpc2v/im_releasing_a_local_world_model_ive_been/)** (Reddit LocalLLaMA, 7/10) - A developer published a new world‑model on Hugging Face that converts any image into an interactive video that can be controlled in real time, and it runs on consumer‑grade RTX 3060/4060 GPUs. This gives AI builders a lightweight way to experiment with real‑time video generation and interactive simulations without needing massive GPU resources, useful for games, AR, or visual RAG projects.
+
 ## 2026-11-11 19:01
 
 - **[JioStar’s chief architect on AI discovery at 500M-user scale](https://openai.com/index/jiostar-vijay-seshadri)** (OpenAI Blog, 6/10) - JioStar’s chief architect published engineering lessons on building AI discovery systems for 500 million users, focusing on evaluation metrics and guardrails. It provides practical guidelines for engineers designing reliable, large-scale Artificial Intelligence (AI) workflows in production.
