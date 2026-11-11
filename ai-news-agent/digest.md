@@ -1,5 +1,12 @@
 # AI Digest
 
+## 2026-11-11 17:31
+
+- **[Open source self driving is here!](https://www.reddit.com/r/LocalLLaMA/comments/1xtmeif/open_source_self_driving_is_here/)** (Reddit LocalLLaMA, 8/10) - Nvidia announced Alpamayo 2 Edge, a self‑driving model optimized for edge hardware like the Jetson AGX Thor, running over ten times faster than a standard PyTorch version. This gives developers a high‑performance perception model they can embed in robots or vehicles with limited compute.
+- **[Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents](https://news.ycombinator.com/item?id=50455811)** (Hacker News, 7/10) - Pomerado is a service that wraps any website behind an API, turning the site into a modular control plane (MCP) that agents can call. Builders can use it to give AI agents structured access to web content without writing custom scrapers.
+- **[Show HN: Klad, a paint app your coding agent can drive (source-available)](https://github.com/klad-app/klad)** (Hacker News, 6/10) - Klad is a paint app that can be controlled by code, letting an AI coding agent create or edit images automatically. This shows a simple way to connect an AI agent to a graphical interface for creative automation.
+- **[Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt)** (Hacker News, 6/10) - Yogurt is a free, private, open‑source language model intended as an alternative to the commercial Granola service. Developers can run it locally to avoid API costs and keep their data private.
+
 ## 2026-11-11 16:31
 
 - **[New Qwen3.8-27B Unsloth Dynamic V3.1 GGUFs](https://www.reddit.com/r/LocalLLaMA/comments/1xtlyhe/new_qwen3827b_unsloth_dynamic_v31_ggufs/)** (Reddit LocalLLaMA, 6/10) - Unsloth released updated Dynamic V3.1 GGUF quantizations for the Qwen 27B open-weights model family. These optimized GGUF (GPT-Generated Unified Format) files improve accuracy by 5-10% on coding and terminal benchmarks when running open LLMs (Large Language Models) locally.
