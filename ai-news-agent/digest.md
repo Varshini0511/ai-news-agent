@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-11 09:31
+
+- **[rust-v0.169.0-alpha.11](https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.11)** (OpenAI Codex releases, 7/10) - OpenAI released Codex version rust‑v0.169.0‑alpha.11, adding updated Rust language support and a few bug fixes. Rust developers can now generate and edit code more reliably using the Codex API.
+- **[T3 Code Nightly 0.1.9-nightly.20261111.4515 (24e77473ecf4)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.9-nightly.20261111.4515)** (T3 Code releases, 6/10) - T3 Code published a nightly build (0.1.9‑nightly) that adds GitLab merge‑request reversal, range‑commenting, and screen‑reader output for its AI‑assistant. It lets developers review code and interact with the assistant directly inside GitLab, speeding up pull‑request workflows.
+
 ## 2026-11-11 09:02
 
 - **[MiniMax H3-Image](https://www.producthunt.com/products/minimax)** (Product Hunt, 6/10) - MiniMax released H3-Image, a text-to-image model capable of generating high-resolution 4K images in approximately 10 seconds. This is useful for developers needing fast, high-quality media generation integrated into their applications.
