@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-11 16:31
+
+- **[New Qwen3.8-27B Unsloth Dynamic V3.1 GGUFs](https://www.reddit.com/r/LocalLLaMA/comments/1xtlyhe/new_qwen3827b_unsloth_dynamic_v31_ggufs/)** (Reddit LocalLLaMA, 6/10) - Unsloth released updated Dynamic V3.1 GGUF quantizations for the Qwen 27B open-weights model family. These optimized GGUF (GPT-Generated Unified Format) files improve accuracy by 5-10% on coding and terminal benchmarks when running open LLMs (Large Language Models) locally.
+
 ## 2026-11-11 15:01
 
 - **[Token Pooling-Aware Training for Multi-Vector Embedding Models](https://huggingface.co/blog/token-pooling)** (Hugging Face, 7/10) - Hugging Face shared a training technique for multi-vector embedding models that explicitly accounts for token pooling. This helps developers train more accurate search and Retrieval-Augmented Generation (RAG) models while maintaining computational efficiency.
