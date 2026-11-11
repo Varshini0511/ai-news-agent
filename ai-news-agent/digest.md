@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-11 18:31
+
+- **[Gemini Decisions API: Fast, calibrated multimodal decisions](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)** (Google AI Blog, 8/10) - Google released the Gemini Decisions API, a new model endpoint specialized for making fast, calibrated choices from multimodal data like images and text. Developers can use it to get consistent, highly reliable classification and structured outputs from complex inputs without heavy prompt engineering.
+- **[Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents](https://pomerado.ai/)** (Hacker News, 7/10) - Pomerado launched a tool that converts any website into a server using the Model Context Protocol (MCP), an open standard for connecting AI models to external tools. It simplifies agent development by allowing AI assistants to browse and extract web data without writing custom web scrapers.
+
 ## 2026-11-11 18:01
 
 - **[Faster Retrieval for Better, More Efficient RAG](https://machinelearning.apple.com/research/faster-retrieval)** (Hacker News, 7/10) - This article details methods for optimizing vector search speed and resource efficiency in Retrieval-Augmented Generation, or RAG. Learning these techniques helps developers build lower-latency AI search systems while reducing vector database overhead.
