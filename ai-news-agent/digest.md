@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-11 06:31
+
+- **[Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)** (Hacker News, 6/10) - Apple released a new macOS application that simplifies installing and running open‑source AI models on a local machine. This lets developers experiment with large language models without cloud costs or data‑privacy concerns, making it easier to prototype and test AI features directly on their laptops.
+
 ## 2026-11-11 06:01
 
 - **[Cogent and OpenAI build cyber defense factories for enterprises](https://openai.com/index/cogent-security)** (OpenAI Blog, 7/10) - OpenAI announced a partnership with Cogent to launch a cyber‑defense platform that uses its language models together with company‑specific data to automatically find and fix security flaws. Builders can reuse the same agent framework to add automated security checks into their own applications without writing custom code.
