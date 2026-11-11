@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-11 14:01
+
+- **[You can now train your own LLMs with less memory, on your gaming GPUs](https://www.reddit.com/r/LocalLLaMA/comments/1xtgnh9/you_can_now_train_your_own_llms_with_less_memory/)** (Reddit LocalLLaMA, 8/10) - A Reddit thread explains how to fine‑tune a 27‑billion‑parameter language model on a single RTX 3090 GPU with 24 GB of memory. The guide shows developers they can experiment with large models on affordable hardware, lowering the cost of custom LLM development.
+- **[Adobe’s AI experiments let you walk around in photos and interview your characters](https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai)** (The Verge AI, 7/10) - Adobe demonstrated experimental AI features that turn a flat photo into a navigable 3‑D scene and allow users to converse with AI‑generated characters. These tools illustrate new ways to add immersive visual experiences to apps, which could be integrated via Adobe’s upcoming APIs.
+- **[Physically Controllable Relighting of Photographs](https://yaksoy.github.io/PhysicalRelighting/)** (Hacker News, 6/10) - Researchers released a method that lets you change the lighting direction in a photograph using a physically based model. This can be added to image‑editing apps to give developers more realistic relighting features without needing extra training data.
+
 ## 2026-11-11 13:02
 
 - **[Zyphra/ZONOS3-Mini · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xtb9gw/zyphrazonos3mini_hugging_face/)** (Reddit LocalLLaMA, 7/10) - Zyphra released Zonos-3 Mini, an open-source 100-million parameter text-to-speech model capable of fast voice cloning. Because it runs directly on local devices and inside web browsers, developers can build low-latency, private voice features without relying on external API calls.
