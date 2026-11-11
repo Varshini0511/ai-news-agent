@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-11 22:26
+
+- **[Gemini Decisions API](https://simonwillison.net/2026/Nov/11/gemini-decisions-api/)** (Simon Willison, 7/10) - Google introduced the Gemini Decisions API, an endpoint built specifically for structured classification, multiple-choice questions, and rubric evaluations. It gives developers a low-latency, deterministic way to make discrete decision calls without requiring complex prompt formatting or output parsing.
+- **[T3 Code Nightly 0.1.10-nightly.20261111.4544 (1264c206aee0)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.10-nightly.20261111.4544)** (T3 Code releases, 6/10) - The open-source T3 Code editor released a nightly update with conversation rewinding for projects outside of Git repositories and an image browser for agent outputs. It makes it easier for software developers to inspect AI agent context and roll back unintended code modifications.
+
 ## 2026-11-11 21:01
 
 - **[Huawei releases MACaQ, its internal quantizer for local inference](https://github.com/huawei-csl/MACaQ)** (Hacker News, 7/10) - Huawei released MACaQ, an internal quantizer that compresses large language models for faster local inference while keeping accuracy high. This lets developers run powerful models on edge devices without needing cloud resources.
