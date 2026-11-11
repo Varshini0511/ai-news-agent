@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-11 21:01
+
+- **[Huawei releases MACaQ, its internal quantizer for local inference](https://github.com/huawei-csl/MACaQ)** (Hacker News, 7/10) - Huawei released MACaQ, an internal quantizer that compresses large language models for faster local inference while keeping accuracy high. This lets developers run powerful models on edge devices without needing cloud resources.
+- **[Open-source method (MACaQ) beats Unsloth GGUFs!](https://www.reddit.com/r/LocalLLaMA/comments/1xto0fa/opensource_method_macaq_beats_unsloth_ggufs/)** (Reddit LocalLLaMA, 6/10) - A Reddit benchmark shows MACaQ‑quantized models have lower KL divergence and smaller file size than Unsloth’s GGUF quantization for Qwen3‑4B, meaning better quality for the same storage. Builders can use MACaQ to get more accurate local models.
+- **[rust-v0.167.2](https://github.com/openai/codex/releases/tag/rust-v0.167.2)** (OpenAI Codex releases, 6/10) - OpenAI updated its Codex Rust client to version 0.167.2, fixing bugs and adding new API endpoint support. Rust programmers can now more easily call OpenAI’s code‑generation models from their applications.
+
 ## 2026-11-11 19:31
 
 - **[I'm releasing a Local World Model Ive been building that turns images into interactive videos you control in real time. It works on RTX 3060, 4060 and anything above, linking huggingface](https://www.reddit.com/r/LocalLLaMA/comments/1xtpc2v/im_releasing_a_local_world_model_ive_been/)** (Reddit LocalLLaMA, 7/10) - A developer published a new world‑model on Hugging Face that converts any image into an interactive video that can be controlled in real time, and it runs on consumer‑grade RTX 3060/4060 GPUs. This gives AI builders a lightweight way to experiment with real‑time video generation and interactive simulations without needing massive GPU resources, useful for games, AR, or visual RAG projects.
