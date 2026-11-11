@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-11 10:01
+
+- **[Qwen4-Max Preview is out on API access. No word on weights release yet](https://www.reddit.com/r/LocalLLaMA/comments/1xtcrgm/qwen4max_preview_is_out_on_api_access_no_word_on/)** (Reddit LocalLLaMA, 6/10) - Alibaba has made a preview version of its Qwen4-Max model accessible to developers through an API (Application Programming Interface). Accessing this preview allows developers to benchmark a new frontier LLM (Large Language Model) against existing options for their application workflows.
+
 ## 2026-11-11 09:31
 
 - **[rust-v0.169.0-alpha.11](https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.11)** (OpenAI Codex releases, 7/10) - OpenAI released Codex version rust‑v0.169.0‑alpha.11, adding updated Rust language support and a few bug fixes. Rust developers can now generate and edit code more reliably using the Codex API.
