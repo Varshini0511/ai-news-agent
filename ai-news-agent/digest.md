@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-11 18:01
+
+- **[Faster Retrieval for Better, More Efficient RAG](https://machinelearning.apple.com/research/faster-retrieval)** (Hacker News, 7/10) - This article details methods for optimizing vector search speed and resource efficiency in Retrieval-Augmented Generation, or RAG. Learning these techniques helps developers build lower-latency AI search systems while reducing vector database overhead.
+
 ## 2026-11-11 17:31
 
 - **[Open source self driving is here!](https://www.reddit.com/r/LocalLLaMA/comments/1xtmeif/open_source_self_driving_is_here/)** (Reddit LocalLLaMA, 8/10) - Nvidia announced Alpamayo 2 Edge, a self‑driving model optimized for edge hardware like the Jetson AGX Thor, running over ten times faster than a standard PyTorch version. This gives developers a high‑performance perception model they can embed in robots or vehicles with limited compute.
