@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-11 07:31
+
+- **[llama.cpp: Add FP8 KV-cache](https://www.reddit.com/r/LocalLLaMA/comments/1xt9o3t/llamacpp_add_fp8_kvcache/)** (Reddit LocalLLaMA, 7/10) - The llama.cpp inference engine added support for 8-bit floating point (FP8) quantization to its Key-Value (KV) cache. This reduces VRAM memory usage during local model inference, allowing developers to run longer context windows on consumer hardware with minimal precision loss.
+- **[v2.4.0](https://github.com/modelcontextprotocol/servers/releases/tag/v2.4.0)** (MCP servers releases, 6/10) - The Model Context Protocol (MCP) project released updates for several official reference servers, including the filesystem and memory modules. Developers building agentic applications can update these packages to get the latest fixes and performance improvements for LLM tool integration.
+
 ## 2026-11-11 06:31
 
 - **[Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)** (Hacker News, 6/10) - Apple released a new macOS application that simplifies installing and running open‑source AI models on a local machine. This lets developers experiment with large language models without cloud costs or data‑privacy concerns, making it easier to prototype and test AI features directly on their laptops.
