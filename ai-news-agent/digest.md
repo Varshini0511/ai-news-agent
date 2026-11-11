@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-11 03:01
+
+- **[Qwen4 Is Coming — Preview Now Live on Alibaba Token Plan](https://www.reddit.com/r/LocalLLaMA/comments/1xt5q27/qwen4_is_coming_preview_now_live_on_alibaba_token/)** (Reddit LocalLLaMA, 8/10) - Alibaba released an early access preview of its Qwen4-Max model, featuring upgraded coding and AI agent capabilities. Developers can now test the new model through Alibaba's API platform with a temporary price discount of up to 90%.
+- **[feat: external PLE file loading by pwilkin · Pull Request #31185 · ggml-org/llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xsgpby/feat_external_ple_file_loading_by_pwilkin_pull/)** (Reddit LocalLLaMA, 6/10) - A new feature added to llama.cpp allows users to load model components, such as positional embeddings, from separate external files using a new command-line argument. This gives developers running local open-source models more flexibility when managing and loading large model files.
+
 ## 2026-11-11 01:31
 
 - **[speakleash/Bielik-11B-v3.1-Instruct · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xsrg0l/speakleashbielik11bv31instruct_hugging_face/)** (Reddit LocalLLaMA, 7/10) - The Bielik team published a new 11‑billion‑parameter instruction‑tuned model called Bielik‑11B‑v3.1‑Instruct on Hugging Face. It lets developers run a fairly large, open‑source chat‑style model on their own hardware, which is handy for building agents, RAG pipelines, or any app that needs a locally hosted, cost‑free LLM.
