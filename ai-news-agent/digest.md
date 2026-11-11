@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-11 01:31
+
+- **[speakleash/Bielik-11B-v3.1-Instruct · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xsrg0l/speakleashbielik11bv31instruct_hugging_face/)** (Reddit LocalLLaMA, 7/10) - The Bielik team published a new 11‑billion‑parameter instruction‑tuned model called Bielik‑11B‑v3.1‑Instruct on Hugging Face. It lets developers run a fairly large, open‑source chat‑style model on their own hardware, which is handy for building agents, RAG pipelines, or any app that needs a locally hosted, cost‑free LLM.
+
 ## 2026-11-10 22:31
 
 - **[rust-v0.169.0-alpha.10](https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.10)** (OpenAI Codex releases, 8/10) - OpenAI released Codex rust v0.169.0‑alpha.10, an updated Rust client library for the Codex code‑generation model. The new version adds performance fixes and better error handling, helping Rust developers integrate AI‑assisted coding more reliably.
