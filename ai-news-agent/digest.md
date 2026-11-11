@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-11 08:31
+
+- **[Earlybird](https://www.producthunt.com/products/earlybird-5)** (Product Hunt, 7/10) - Earlybird is an ultra-lightweight 29-million parameter speech-to-text model designed for streaming transcription before audio inputs complete. This is useful for developers building real-time voice agents or low-latency applications that must run on edge hardware with minimal memory usage.
+- **[Nod by n8n](https://www.producthunt.com/products/n8n-io)** (Product Hunt, 7/10) - Workflow automation platform n8n released Nod, an open-source personal AI agent capable of operating within its own isolated computer environment. This provides developers with a self-hosted reference implementation for building autonomous agents that execute code and interact with system environments safely.
+- **[Scribe v3 by ElevenLabs](https://www.producthunt.com/products/elevenlabs)** (Product Hunt, 7/10) - ElevenLabs released Scribe v3, an updated speech-to-text API offering significantly lower word error rates across 90 supported languages. This is useful for software engineers building voice pipelines, automatic captioning tools, or multi-lingual audio transcription services into their apps.
+
 ## 2026-11-11 07:31
 
 - **[llama.cpp: Add FP8 KV-cache](https://www.reddit.com/r/LocalLLaMA/comments/1xt9o3t/llamacpp_add_fp8_kvcache/)** (Reddit LocalLLaMA, 7/10) - The llama.cpp inference engine added support for 8-bit floating point (FP8) quantization to its Key-Value (KV) cache. This reduces VRAM memory usage during local model inference, allowing developers to run longer context windows on consumer hardware with minimal precision loss.
