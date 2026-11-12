@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-12 07:01
+
+- **[Jane Street: Socratic Tutor](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md)** (Hacker News, 6/10) - Jane Street announced Socratic Tutor, an AI‑powered tool that answers technical questions step‑by‑step like a tutor. It can help software engineers learn new concepts or debug code without leaving their development environment.
+
 ## 2026-11-12 00:31
 
 - **[rust-v0.170.0-alpha.2](https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.2)** (OpenAI Codex releases, 6/10) - OpenAI released Codex version rust‑v0.170.0‑alpha.2, an early‑stage build of the Codex model for Rust code generation. It lets developers try the newest Rust auto‑completion features and provide feedback before a stable release.
