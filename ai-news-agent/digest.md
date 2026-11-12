@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-12 19:03
+
+- **[Show HN: AgentRun – open-source, Self-improving Managed Agents](https://github.com/Parcha-ai/agentrun/blob/main/README.md)** (Hacker News, 7/10) - The open‑source project AgentRun was released, providing a framework for self‑improving, managed AI agents that can update their own prompts and tools. It lets developers experiment with autonomous agents without building the orchestration layer from scratch, speeding up prototype development.
+
 ## 2026-11-12 18:31
 
 - **[Show HN: Kapso – Iterative learning from enterprise data](https://news.ycombinator.com/item?id=50471281)** (Hacker News, 6/10) - Kapso launched a system designed for iterative AI model learning using internal enterprise data sources. It helps developers continually refine and align AI systems on proprietary organizational data.
