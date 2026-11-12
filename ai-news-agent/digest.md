@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-12 19:26
+
+- **[LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)** (Hugging Face, 7/10) - IBM integrated LLMON, a Large Language Model Native Markup Language, into its Granite 4.1 3B and 8B open-source models. This gives developers a standardized markup format to reliably extract structured data outputs from small open models.
+
 ## 2026-11-12 19:03
 
 - **[Show HN: AgentRun – open-source, Self-improving Managed Agents](https://github.com/Parcha-ai/agentrun/blob/main/README.md)** (Hacker News, 7/10) - The open‑source project AgentRun was released, providing a framework for self‑improving, managed AI agents that can update their own prompts and tools. It lets developers experiment with autonomous agents without building the orchestration layer from scratch, speeding up prototype development.
