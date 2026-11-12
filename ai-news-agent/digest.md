@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-12 14:31
+
+- **[The Definitive Fine-Tuning Guide for 3D Generation Models](https://huggingface.co/blog/3d-lora-finetuning)** (Hugging Face, 6/10) - Hugging Face published a step‑by‑step guide on how to fine‑tune models that generate 3‑D content such as meshes or point clouds. It helps developers quickly adapt existing 3‑D generation models to their own data without starting from scratch, saving time and compute cost.
+
 ## 2026-11-12 12:01
 
 - **[KQuant - new quantization technique, 3.7× better quants for Qwen Flash Next 180B, Qwen 27B, 35B, 9B (measured in KL-divergence reduction) (MLX)](https://www.reddit.com/r/LocalLLaMA/comments/1xu9onk/kquant_new_quantization_technique_37_better/)** (Reddit LocalLLaMA, 7/10) - A new quantization method called KQuant reduces the approximation error of large language models like Qwen Flash Next 180B by about 3.7 times, measured using KL‑divergence (a way to compare probability distributions). This makes the models run faster and use less memory, which helps developers embed powerful AI into apps without needing expensive hardware.
