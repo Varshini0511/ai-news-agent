@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-12 22:32
+
+- **[v2.1.323](https://github.com/anthropics/claude-code/releases/tag/v2.1.323)** (Claude Code releases, 8/10) - Anthropic released Claude version 2.1.323 with ‘Code Mode’, an optional setting where Claude generates JavaScript to invoke its own tools. This lets developers embed AI‑driven tool calls directly in code, simplifying the creation of autonomous agents.
+- **[Muse can now place calls to U.S. businesses — if you pay](https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/)** (TechCrunch AI, 6/10) - Muse has added a feature that lets its AI dial outbound calls to U.S. businesses, but the service is paid. Developers can now integrate phone‑based outreach into AI workflows, though they must budget for the cost.
+
 ## 2026-11-12 22:01
 
 - **[Google’s new Gemini model is better at understanding complicated questions](https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen)** (The Verge AI, 9/10) - Google announced Gemini 4 Hydrogen, a new Gemini model that better understands multi‑part questions, corrects typos, and provides detailed answers. This upgrade helps builders create more reliable conversational agents and improves retrieval‑augmented generation pipelines.
