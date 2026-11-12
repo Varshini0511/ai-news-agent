@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-12 21:32
+
+- **[rust-v0.168.0](https://github.com/openai/codex/releases/tag/rust-v0.168.0)** (OpenAI Codex releases, 7/10) - OpenAI released version 0.168.0 of its Codex library for the Rust programming language. Rust developers can now use the model to generate or complete code, speeding up AI‑assisted coding in a language that is popular for performance‑critical projects.
+
 ## 2026-11-12 20:01
 
 - **[rust-v0.170.0-alpha.4](https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.4)** (OpenAI Codex releases, 7/10) - OpenAI published Codex rust‑v0.170.0‑alpha.4, a preview of its code‑generation model tuned for the Rust language. The new version improves type inference and library awareness, making it easier for Rust developers to get accurate code suggestions.
