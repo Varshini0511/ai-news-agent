@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-12 10:01
+
+- **[Gemma4-31b latent space discovery: Caring and Contempt for user controlled by the same 3 neurons! Plus, how to find your own steering recipes and export to GGUF steering vector for llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xu4n7b/gemma431b_latent_space_discovery_caring_and/)** (Reddit LocalLLaMA, 6/10) - A researcher mapped the specific neurons controlling model sentiment in Gemma open-source models and demonstrated how to export steering vectors for llama.cpp. This technique allows developers to precisely tune a local model's tone and behavior at runtime without needing to fine-tune weights.
+
 ## 2026-11-12 08:32
 
 - **[Yogurt](https://www.producthunt.com/products/yogurt)** (Product Hunt, 8/10) - Yogurt is an open‑source, self‑hosted platform positioned as a free, privacy‑focused alternative to Granola for serving large language models. It enables developers to run LLMs locally and keep data out of third‑party APIs.
