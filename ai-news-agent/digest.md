@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-12 07:31
+
+- **[I released Inflect v3: lightweight local TTS in 34M parameters (Apache 2.0)](https://www.reddit.com/r/LocalLLaMA/comments/1xtzwxf/i_released_inflect_v3_lightweight_local_tts_in/)** (Reddit LocalLLaMA, 7/10) - Inflect v3 is a set of small text‑to‑speech models with about 34 million parameters, released under the Apache 2.0 licence. Because they run on a regular CPU or on Nvidia CUDA, developers can add speech synthesis to apps without using an external API.
+
 ## 2026-11-12 07:01
 
 - **[Jane Street: Socratic Tutor](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md)** (Hacker News, 6/10) - Jane Street announced Socratic Tutor, an AI‑powered tool that answers technical questions step‑by‑step like a tutor. It can help software engineers learn new concepts or debug code without leaving their development environment.
