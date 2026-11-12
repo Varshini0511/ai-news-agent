@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-12 18:01
+
+- **[Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/)** (Google DeepMind, 9/10) - Google DeepMind announced Gemini 4 Hydrogen, a new release in their family of large language models (LLMs). This provides software engineers with access to Google's latest AI model capabilities for building intelligent applications.
+
 ## 2026-11-12 16:31
 
 - **[I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)** (Hacker News, 6/10) - A developer shared techniques for optimizing and executing Large Language Models (LLMs) on low-spec, older hardware. This is useful for engineers designing edge AI applications that need to run locally without relying on expensive cloud GPUs (Graphics Processing Units).
