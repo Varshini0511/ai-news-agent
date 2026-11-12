@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-12 15:01
+
+- **[Grok Bot 1.0 🤖, AlphaGenome 2 🧬, Gemini Decisions 🧠](https://tldr.tech/ai/2026-11-12)** (TLDR AI, 6/10) - A developer newsletter highlighted recent model announcements, including xAI's Grok Bot 1.0 and new Google Gemini decision-making features. It helps AI builders stay updated on fresh model options and specialized APIs across different providers.
+
 ## 2026-11-12 14:31
 
 - **[The Definitive Fine-Tuning Guide for 3D Generation Models](https://huggingface.co/blog/3d-lora-finetuning)** (Hugging Face, 6/10) - Hugging Face published a step‑by‑step guide on how to fine‑tune models that generate 3‑D content such as meshes or point clouds. It helps developers quickly adapt existing 3‑D generation models to their own data without starting from scratch, saving time and compute cost.
