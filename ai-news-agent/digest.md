@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-12 12:01
+
+- **[KQuant - new quantization technique, 3.7× better quants for Qwen Flash Next 180B, Qwen 27B, 35B, 9B (measured in KL-divergence reduction) (MLX)](https://www.reddit.com/r/LocalLLaMA/comments/1xu9onk/kquant_new_quantization_technique_37_better/)** (Reddit LocalLLaMA, 7/10) - A new quantization method called KQuant reduces the approximation error of large language models like Qwen Flash Next 180B by about 3.7 times, measured using KL‑divergence (a way to compare probability distributions). This makes the models run faster and use less memory, which helps developers embed powerful AI into apps without needing expensive hardware.
+
 ## 2026-11-12 11:01
 
 - **[Gnista](https://www.producthunt.com/products/gnista)** (Product Hunt, 6/10) - Gnista launched a tool designed to run and orchestrate multiple AI coding agents in the background. It is useful for developers looking to scale automated coding workflows without having to constantly monitor individual agent runs.
