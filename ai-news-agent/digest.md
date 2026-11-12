@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-12 00:31
+
+- **[rust-v0.170.0-alpha.2](https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.2)** (OpenAI Codex releases, 6/10) - OpenAI released Codex version rust‑v0.170.0‑alpha.2, an early‑stage build of the Codex model for Rust code generation. It lets developers try the newest Rust auto‑completion features and provide feedback before a stable release.
+
 ## 2026-11-11 22:26
 
 - **[Gemini Decisions API](https://simonwillison.net/2026/Nov/11/gemini-decisions-api/)** (Simon Willison, 7/10) - Google introduced the Gemini Decisions API, an endpoint built specifically for structured classification, multiple-choice questions, and rubric evaluations. It gives developers a low-latency, deterministic way to make discrete decision calls without requiring complex prompt formatting or output parsing.
