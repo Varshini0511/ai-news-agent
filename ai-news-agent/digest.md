@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-12 08:01
+
+- **[Foxpit](https://www.producthunt.com/products/foxpit)** (Product Hunt, 7/10) - Foxpit lets you run three code‑generation models – Claude Code, Codex, and OpenCode – together as a single AI coding assistant. You can compare suggestions side‑by‑side and choose the best answer, which saves time when writing or reviewing code.
+- **[three.dev](https://www.producthunt.com/products/three-dev)** (Product Hunt, 7/10) - three.dev is a testing tool that runs simulated user interactions against your AI agent and reports where it fails. By catching errors early, developers can improve reliability before customers encounter problems.
+- **[mang.sh](https://www.producthunt.com/products/mang-sh)** (Product Hunt, 7/10) - mang.sh translates plain‑English commands into terminal commands, acting as a natural‑language interface for the shell. It helps engineers who are new to the command line execute tasks without memorising syntax.
+
 ## 2026-11-12 07:31
 
 - **[I released Inflect v3: lightweight local TTS in 34M parameters (Apache 2.0)](https://www.reddit.com/r/LocalLLaMA/comments/1xtzwxf/i_released_inflect_v3_lightweight_local_tts_in/)** (Reddit LocalLLaMA, 7/10) - Inflect v3 is a set of small text‑to‑speech models with about 34 million parameters, released under the Apache 2.0 licence. Because they run on a regular CPU or on Nvidia CUDA, developers can add speech synthesis to apps without using an external API.
