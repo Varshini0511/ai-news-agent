@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-12 08:32
+
+- **[Yogurt](https://www.producthunt.com/products/yogurt)** (Product Hunt, 8/10) - Yogurt is an open‑source, self‑hosted platform positioned as a free, privacy‑focused alternative to Granola for serving large language models. It enables developers to run LLMs locally and keep data out of third‑party APIs.
+- **[Harness Memory](https://www.producthunt.com/products/epsilla)** (Product Hunt, 8/10) - Harness Memory adds persistent, searchable long‑term memory to AI agents, letting them recall prior interactions across sessions. This improves coherence in multi‑turn conversations and supports more complex agent workflows.
+- **[Insight7 Voice AI Agents](https://www.producthunt.com/products/insight7)** (Product Hunt, 7/10) - Insight7 released Voice AI Agents that can call customers, understand spoken replies, and respond with synthetic speech. This lets teams automate phone outreach and build voice‑first AI experiences without a call‑center.
+
 ## 2026-11-12 08:01
 
 - **[Foxpit](https://www.producthunt.com/products/foxpit)** (Product Hunt, 7/10) - Foxpit lets you run three code‑generation models – Claude Code, Codex, and OpenCode – together as a single AI coding assistant. You can compare suggestions side‑by‑side and choose the best answer, which saves time when writing or reviewing code.
