@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-12 23:32
+
+- **[rust-v0.171.0-alpha.1](https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.1)** (OpenAI Codex releases, 6/10) - OpenAI released version 0.171.0‑alpha.1 of the Codex library for the Rust programming language, with bug fixes and new API calls. Rust developers can now embed Codex’s code‑generation features more easily into their applications.
+
 ## 2026-11-12 22:32
 
 - **[v2.1.323](https://github.com/anthropics/claude-code/releases/tag/v2.1.323)** (Claude Code releases, 8/10) - Anthropic released Claude version 2.1.323 with ‘Code Mode’, an optional setting where Claude generates JavaScript to invoke its own tools. This lets developers embed AI‑driven tool calls directly in code, simplifying the creation of autonomous agents.
