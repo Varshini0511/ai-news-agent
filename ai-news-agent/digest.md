@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-12 20:01
+
+- **[rust-v0.170.0-alpha.4](https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.4)** (OpenAI Codex releases, 7/10) - OpenAI published Codex rust‑v0.170.0‑alpha.4, a preview of its code‑generation model tuned for the Rust language. The new version improves type inference and library awareness, making it easier for Rust developers to get accurate code suggestions.
+
 ## 2026-11-12 19:26
 
 - **[LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)** (Hugging Face, 7/10) - IBM integrated LLMON, a Large Language Model Native Markup Language, into its Granite 4.1 3B and 8B open-source models. This gives developers a standardized markup format to reliably extract structured data outputs from small open models.
