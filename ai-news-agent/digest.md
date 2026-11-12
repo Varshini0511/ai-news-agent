@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-12 16:31
+
+- **[I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)** (Hacker News, 6/10) - A developer shared techniques for optimizing and executing Large Language Models (LLMs) on low-spec, older hardware. This is useful for engineers designing edge AI applications that need to run locally without relying on expensive cloud GPUs (Graphics Processing Units).
+
 ## 2026-11-12 15:01
 
 - **[Grok Bot 1.0 🤖, AlphaGenome 2 🧬, Gemini Decisions 🧠](https://tldr.tech/ai/2026-11-12)** (TLDR AI, 6/10) - A developer newsletter highlighted recent model announcements, including xAI's Grok Bot 1.0 and new Google Gemini decision-making features. It helps AI builders stay updated on fresh model options and specialized APIs across different providers.
