@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-12 11:01
+
+- **[Gnista](https://www.producthunt.com/products/gnista)** (Product Hunt, 6/10) - Gnista launched a tool designed to run and orchestrate multiple AI coding agents in the background. It is useful for developers looking to scale automated coding workflows without having to constantly monitor individual agent runs.
+
 ## 2026-11-12 10:32
 
 - **[KRAFTON/Raon-1-nano · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xtmbkn/kraftonraon1nano_hugging_face/)** (Reddit LocalLLaMA, 6/10) - KRAFTON released Raon-1-nano, an open-source 1.5-billion parameter language model optimized for instruction following and tool calling in English and Korean. It provides a compact open-weight option for developers building lightweight local agents that need bilingual function calling.
