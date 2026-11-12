@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-12 22:01
+
+- **[Google’s new Gemini model is better at understanding complicated questions](https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen)** (The Verge AI, 9/10) - Google announced Gemini 4 Hydrogen, a new Gemini model that better understands multi‑part questions, corrects typos, and provides detailed answers. This upgrade helps builders create more reliable conversational agents and improves retrieval‑augmented generation pipelines.
+- **[New Model "Ernie 5.5 Flash Preview" hits strongly at a low parameter count (280B, 14B Active)](https://www.reddit.com/r/LocalLLaMA/comments/1xune1i/new_model_ernie_55_flash_preview_hits_strongly_at/)** (Reddit LocalLLaMA, 7/10) - Baidu released a preview of Ernie 5.5 Flash, a 280‑billion‑parameter model that runs with only 14 billion active weights and scores highly on coding benchmarks. Developers get a powerful, lower‑cost model they can try now for code‑generation tasks.
+- **[Foundation Models Framework (macOS)](https://developer.apple.com/foundation-models-framework/)** (Hacker News, 6/10) - A new open‑source Foundation Models Framework for macOS lets developers run large language models locally on their laptops. It removes the need for cloud calls, making it easier to prototype and test AI features during development.
+
 ## 2026-11-12 21:32
 
 - **[rust-v0.168.0](https://github.com/openai/codex/releases/tag/rust-v0.168.0)** (OpenAI Codex releases, 7/10) - OpenAI released version 0.168.0 of its Codex library for the Rust programming language. Rust developers can now use the model to generate or complete code, speeding up AI‑assisted coding in a language that is popular for performance‑critical projects.
