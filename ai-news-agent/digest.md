@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-12 10:32
+
+- **[KRAFTON/Raon-1-nano · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xtmbkn/kraftonraon1nano_hugging_face/)** (Reddit LocalLLaMA, 6/10) - KRAFTON released Raon-1-nano, an open-source 1.5-billion parameter language model optimized for instruction following and tool calling in English and Korean. It provides a compact open-weight option for developers building lightweight local agents that need bilingual function calling.
+
 ## 2026-11-12 10:01
 
 - **[Gemma4-31b latent space discovery: Caring and Contempt for user controlled by the same 3 neurons! Plus, how to find your own steering recipes and export to GGUF steering vector for llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xu4n7b/gemma431b_latent_space_discovery_caring_and/)** (Reddit LocalLLaMA, 6/10) - A researcher mapped the specific neurons controlling model sentiment in Gemma open-source models and demonstrated how to export steering vectors for llama.cpp. This technique allows developers to precisely tune a local model's tone and behavior at runtime without needing to fine-tune weights.
