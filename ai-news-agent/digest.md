@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-12 18:31
+
+- **[Show HN: Kapso – Iterative learning from enterprise data](https://news.ycombinator.com/item?id=50471281)** (Hacker News, 6/10) - Kapso launched a system designed for iterative AI model learning using internal enterprise data sources. It helps developers continually refine and align AI systems on proprietary organizational data.
+- **[CMP170hx now fully unlockabke and more, full 120 SMs —> Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM — hack carefully blows onboard fuses to unlock entire VRAM and shader modules](https://www.reddit.com/r/LocalLLaMA/comments/1xuijih/cmp170hx_now_fully_unlockabke_and_more_full_120/)** (Reddit LocalLLaMA, 6/10) - A hardware modification unlocked an 8GB Nvidia cryptomining GPU into an 80GB Video RAM (VRAM) card suitable for AI workloads. This helps local AI developers run large open-source models on budget hardware.
+
 ## 2026-11-12 18:01
 
 - **[Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/)** (Google DeepMind, 9/10) - Google DeepMind announced Gemini 4 Hydrogen, a new release in their family of large language models (LLMs). This provides software engineers with access to Google's latest AI model capabilities for building intelligent applications.
