@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-13 18:01
+
+- **[Build a Robot Pick-and-Place Simulation with SimReady Assets](https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place)** (Hugging Face, 6/10) - Hugging Face published a practical guide on building 3D pick-and-place robotics simulations using standardized SimReady assets. It shows developers how to train and validate embodied AI agents in realistic virtual environments before deploying them to physical hardware.
+
 ## 2026-11-13 17:31
 
 - **[XYBench: Helping with the problem behind the question](https://huggingface.co/blog/allenai/xybench)** (Hugging Face, 6/10) - Hugging Face introduced XYBench, a new benchmark designed to evaluate how well language models identify and address the implicit problem behind a user's query. This helps developers test and select models that better handle ambiguous human requests in real-world conversational applications and agentic workflows.
