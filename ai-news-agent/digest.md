@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-13 02:31
+
+- **[thinkingmachines/Inkling-2-Small is released!](https://www.reddit.com/r/LocalLLaMA/comments/1xuqplg/thinkingmachinesinkling2small_is_released/)** (Reddit LocalLLaMA, 6/10) - Thinking Machines has released Inkling-2-Small, a new compact open-source Large Language Model (LLM). It provides developers with a lightweight option for running text generation locally on low-resource hardware.
+
 ## 2026-11-13 01:01
 
 - **[Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)** (Hacker News, 8/10) - Edge0 released a 145‑billion‑parameter language model that can be run on a typical desktop computer. This gives developers access to a very large model without paying for cloud compute or dealing with network latency.
