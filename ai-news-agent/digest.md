@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-13 23:31
+
+- **[e-means: 10x faster k-means at equal loss](https://www.reddit.com/r/LocalLLaMA/comments/1xvbith/emeans_10x_faster_kmeans_at_equal_loss/)** (Reddit LocalLLaMA, 6/10) - Developers introduced e-means, an optimized implementation of the k-means clustering algorithm that runs up to 10 times faster without sacrificing accuracy. This is useful for AI engineers working on vector quantization, dataset pre-processing, or clustering embeddings for retrieval systems where standard k-means creates a performance bottleneck.
+
 ## 2026-11-13 23:01
 
 - **[Perplexity releases Decider v1.3 (26B) and Decider Flash v1.3 (5B): open-weight (Apache 2.0) classification/decision models](https://www.reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider/)** (Reddit LocalLLaMA, 8/10) - Perplexity AI released two open‑weight decision models, Decider v1.3 (26 B parameters) and Decider Flash v1.3 (5 B parameters), under the Apache 2.0 license. These models accept text and return probability scores for multiple‑choice answers, giving builders a ready‑to‑use, on‑premise classifier without training a separate model.
