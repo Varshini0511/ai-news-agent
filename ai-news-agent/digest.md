@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-13 09:01
+
+- **[Edge0-145B: Open-Source On-Device AI with 145B Parameters](https://www.reddit.com/r/LocalLLaMA/comments/1xuuq0b/edge0145b_opensource_ondevice_ai_with_145b/)** (Reddit LocalLLaMA, 6/10) - Developers released Edge0-145B, an open-source 145-billion parameter large language model intended for local deployment. It gives engineers building self-hosted AI systems another large open-weights option for complex reasoning and generation tasks.
+
 ## 2026-11-13 08:32
 
 - **[Trainn MCP](https://www.producthunt.com/products/trainn)** (Product Hunt, 6/10) - Trainn released an integration using the Model Context Protocol (MCP), which lets developers create product videos directly from AI chat tools like Claude. It serves as a practical implementation example of using MCP to connect chat models to media generation tools.
