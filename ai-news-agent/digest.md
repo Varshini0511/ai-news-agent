@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-13 18:31
+
+- **[Building strong safety evaluations](https://www.anthropic.com/research/building-strong-safety-evaluations)** (Anthropic Eng, 6/10) - Anthropic published engineering guidance detailing their internal methodology for designing, running, and reporting model safety and evaluation benchmarks. This gives developers practical strategies for systematically testing LLM (large language model) reliability and preventing unwanted behavior in production applications.
+
 ## 2026-11-13 18:01
 
 - **[Build a Robot Pick-and-Place Simulation with SimReady Assets](https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place)** (Hugging Face, 6/10) - Hugging Face published a practical guide on building 3D pick-and-place robotics simulations using standardized SimReady assets. It shows developers how to train and validate embodied AI agents in realistic virtual environments before deploying them to physical hardware.
