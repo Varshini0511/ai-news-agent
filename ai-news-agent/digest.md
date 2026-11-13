@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-13 16:02
+
+- **[Introducing ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet)** (OpenAI Blog, 7/10) - OpenAI announced ChatGPT Wallet, a secure system that allows AI agents to make online purchases with user authorization. This introduces a practical pattern for developers building agentic workflows that require real-world financial transactions.
+- **[ChatGPT’s new Wallet lets AI agents shop and check out for you](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/)** (TechCrunch AI, 6/10) - TechCrunch reported on ChatGPT Wallet, which is rolling out to US Pro subscribers so AI agents can complete online checkouts. It highlights how major AI platforms are tackling authorization and payment execution for autonomous web agents.
+
 ## 2026-11-13 15:03
 
 - **[Gemini 4 Hydrogen 🚀, self-hosted Claude agents 🔒, Replit agent commerce 🛒](https://tldr.tech/ai/2026-11-13)** (TLDR AI, 8/10) - Google announced Gemini 4 “Hydrogen,” a slimmer, faster variant of its Gemini 4 model that can run on ordinary GPUs. Anthropic released self‑hosted Claude agents, allowing teams to run powerful chat agents behind their own firewalls, and Replit opened an agent marketplace where developers can buy and sell AI agents. These moves give builders more affordable, private, and commercial options for deploying AI agents.
