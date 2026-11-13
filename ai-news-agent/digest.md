@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-13 14:31
+
+- **[llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)** (Hugging Face, 8/10) - llama.cpp has officially released version 1.0.0, establishing a stable core C++ library for running open-source AI models on local hardware. This gives developers a reliable foundation for embedding local Large Language Models (LLMs) into applications without cloud API dependencies.
+- **[llama.cpp v1.0 is here 🦙](https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/)** (Reddit LocalLLaMA, 7/10) - The maintainers announced the v1.0 release of llama.cpp on Reddit, emphasizing long-term stabilization and cross-platform model support. It provides builders with a consistent API for integrating edge-based model inference into downstream software.
+
 ## 2026-11-13 12:01
 
 - **[llama.cpp : bump version to 1.0.0 by ggerganov · Pull Request #32190 · ggml-org/llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xv3cyt/llamacpp_bump_version_to_100_by_ggerganov_pull/)** (Reddit LocalLLaMA, 7/10) - The popular open-source tool llama.cpp has officially reached its version 1.0.0 release milestone. This gives developers a stabilized foundation for running local Large Language Models (LLMs) efficiently on minimal hardware.
