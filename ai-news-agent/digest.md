@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-13 00:39
+
+- **[llm-gemini 0.37](https://simonwillison.net/2026/Nov/12/llm-gemini/)** (Simon Willison, 6/10) - Simon Willison released version 0.37 of the llm-gemini command-line tool plugin for querying Google's Gemini models. This tool allows developers to quickly prototype, script, and test prompts against Gemini APIs directly from their terminal.
+
 ## 2026-11-12 23:32
 
 - **[rust-v0.171.0-alpha.1](https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.1)** (OpenAI Codex releases, 6/10) - OpenAI released version 0.171.0‑alpha.1 of the Codex library for the Rust programming language, with bug fixes and new API calls. Rust developers can now embed Codex’s code‑generation features more easily into their applications.
