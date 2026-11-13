@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-13 20:01
+
+- **[Perplexity Decider v1.3: Training, eval, and use cases](https://www.perplexity.ai/hub/blog/perplexity-decider)** (Hacker News, 6/10) - Perplexity released a technical overview of Decider v1.3, detailing the training and evaluation methods used for their query-routing system. This provides developers with practical insights into building intelligent router components for multi-model or agentic workflows.
+
 ## 2026-11-13 19:01
 
 - **[6-11X speedup running Qwen3.6 on my RTX 4090, full repo.](https://github.com/me-farza/lightreason/tree/main)** (Hacker News, 7/10) - A public repository shows a method to run the Qwen 3.6 language model on an RTX 4090 GPU 6‑11× faster than before. This lets developers prototype with the model locally at much lower cost and with quicker feedback cycles.
