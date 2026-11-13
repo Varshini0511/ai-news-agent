@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-13 17:31
+
+- **[XYBench: Helping with the problem behind the question](https://huggingface.co/blog/allenai/xybench)** (Hugging Face, 6/10) - Hugging Face introduced XYBench, a new benchmark designed to evaluate how well language models identify and address the implicit problem behind a user's query. This helps developers test and select models that better handle ambiguous human requests in real-world conversational applications and agentic workflows.
+
 ## 2026-11-13 16:02
 
 - **[Introducing ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet)** (OpenAI Blog, 7/10) - OpenAI announced ChatGPT Wallet, a secure system that allows AI agents to make online purchases with user authorization. This introduces a practical pattern for developers building agentic workflows that require real-world financial transactions.
