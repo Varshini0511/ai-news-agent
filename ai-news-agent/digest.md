@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-13 08:32
+
+- **[Trainn MCP](https://www.producthunt.com/products/trainn)** (Product Hunt, 6/10) - Trainn released an integration using the Model Context Protocol (MCP), which lets developers create product videos directly from AI chat tools like Claude. It serves as a practical implementation example of using MCP to connect chat models to media generation tools.
+- **[Expo Simulators](https://www.producthunt.com/products/expo)** (Product Hunt, 6/10) - Expo released cloud-hosted mobile app simulators designed specifically for autonomous AI agents to control and test. This provides developers building mobile computer-use agents with an isolated cloud environment to execute and evaluate app actions.
+
 ## 2026-11-13 08:03
 
 - **[Together Compiler: Continual Compilation for AI Inference](https://arxiv.org/abs/2611.14681)** (arXiv cs.AI, 7/10) - Together AI released the "Together Compiler," a system that continuously re‑optimizes AI model code as new models and traffic patterns appear. It lets engineers keep inference fast and cost‑effective without manually retuning each model version.
