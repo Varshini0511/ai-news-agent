@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-13 15:03
+
+- **[Gemini 4 Hydrogen 🚀, self-hosted Claude agents 🔒, Replit agent commerce 🛒](https://tldr.tech/ai/2026-11-13)** (TLDR AI, 8/10) - Google announced Gemini 4 “Hydrogen,” a slimmer, faster variant of its Gemini 4 model that can run on ordinary GPUs. Anthropic released self‑hosted Claude agents, allowing teams to run powerful chat agents behind their own firewalls, and Replit opened an agent marketplace where developers can buy and sell AI agents. These moves give builders more affordable, private, and commercial options for deploying AI agents.
+- **[qwen3.8-flash shows us a glimpse of whats possible for smaller hardware](https://www.reddit.com/r/LocalLLaMA/comments/1xugw1p/qwen38flash_shows_us_a_glimpse_of_whats_possible/)** (Reddit LocalLLaMA, 7/10) - The Qwen 3.8‑flash 4B‑parameter language model was demonstrated running on modest GPU hardware with decent instruction‑following behavior. This lets developers prototype small‑scale agents locally without paying for large cloud instances.
+- **[T3 Code Nightly 0.1.10-nightly.20261113.4643 (9a35ab0afeae)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.10-nightly.20261113.4643)** (T3 Code releases, 6/10) - T3 Code’s nightly 0.1.10 update adds instant reconnection to remote servers and lets the built‑in Copilot assistant send the next suggestion while previous commands are still running. It speeds up AI‑assisted coding in remote or cloud‑based development setups.
+
 ## 2026-11-13 14:31
 
 - **[llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)** (Hugging Face, 8/10) - llama.cpp has officially released version 1.0.0, establishing a stable core C++ library for running open-source AI models on local hardware. This gives developers a reliable foundation for embedding local Large Language Models (LLMs) into applications without cloud API dependencies.
