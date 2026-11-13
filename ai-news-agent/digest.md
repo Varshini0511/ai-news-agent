@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-13 05:01
+
+- **[rust-v0.171.0-alpha.3](https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.3)** (OpenAI Codex releases, 6/10) - OpenAI released version 0.171.0-alpha.3 of its Rust client library for accessing OpenAI services. The update adds new endpoints and bug fixes, making it easier for Rust developers to integrate chat and code models into their applications.
+
 ## 2026-11-13 02:31
 
 - **[thinkingmachines/Inkling-2-Small is released!](https://www.reddit.com/r/LocalLLaMA/comments/1xuqplg/thinkingmachinesinkling2small_is_released/)** (Reddit LocalLLaMA, 6/10) - Thinking Machines has released Inkling-2-Small, a new compact open-source Large Language Model (LLM). It provides developers with a lightweight option for running text generation locally on low-resource hardware.
