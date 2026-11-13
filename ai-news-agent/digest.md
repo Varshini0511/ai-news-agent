@@ -1,5 +1,12 @@
 # AI Digest
 
+## 2026-11-13 08:03
+
+- **[Together Compiler: Continual Compilation for AI Inference](https://arxiv.org/abs/2611.14681)** (arXiv cs.AI, 7/10) - Together AI released the "Together Compiler," a system that continuously re‑optimizes AI model code as new models and traffic patterns appear. It lets engineers keep inference fast and cost‑effective without manually retuning each model version.
+- **[MuEdit: An efficient multi-task editing method towards inter-domain knowledge conflicts](https://arxiv.org/abs/2611.14910)** (arXiv cs.AI, 7/10) - Researchers released MuEdit, a method for editing large language models on many tasks without causing knowledge conflicts between domains. It lets developers update model facts quickly without retraining, which can keep deployed assistants up‑to‑date.
+- **[Cleaning an Agent's History Hurts When the World Still Holds the Error](https://arxiv.org/abs/2611.14654)** (arXiv cs.AI, 6/10) - A new paper describes techniques for cleaning up the memory of tool‑using language‑model agents, while keeping the effects of their past actions in the environment. This helps developers build agents that stay aware of earlier mistakes without confusing their internal logs.
+- **[Claude Meetings](https://www.producthunt.com/products/claude)** (Product Hunt, 6/10) - Claude Meetings launched as an add‑on that lets users bring Anthropic’s Claude model into a voice call and generate notes or code while they talk. It provides a hands‑free way to capture AI‑generated output during meetings, useful for engineers who want live assistance.
+
 ## 2026-11-13 05:31
 
 - **[Brave Search API now accepts agentic payments via the x402 protocol](https://brave.com/blog/search-api-agentic-payments/)** (Hacker News, 6/10) - Brave announced that its Search API now supports payments using the x402 protocol, which lets developers pay per query with a lightweight, machine‑friendly method. This makes it easier to integrate search into autonomous agents without handling complex billing or manual invoicing.
