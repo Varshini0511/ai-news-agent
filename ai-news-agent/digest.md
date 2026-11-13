@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-13 12:01
+
+- **[llama.cpp : bump version to 1.0.0 by ggerganov · Pull Request #32190 · ggml-org/llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xv3cyt/llamacpp_bump_version_to_100_by_ggerganov_pull/)** (Reddit LocalLLaMA, 7/10) - The popular open-source tool llama.cpp has officially reached its version 1.0.0 release milestone. This gives developers a stabilized foundation for running local Large Language Models (LLMs) efficiently on minimal hardware.
+
 ## 2026-11-13 09:01
 
 - **[Edge0-145B: Open-Source On-Device AI with 145B Parameters](https://www.reddit.com/r/LocalLLaMA/comments/1xuuq0b/edge0145b_opensource_ondevice_ai_with_145b/)** (Reddit LocalLLaMA, 6/10) - Developers released Edge0-145B, an open-source 145-billion parameter large language model intended for local deployment. It gives engineers building self-hosted AI systems another large open-weights option for complex reasoning and generation tasks.
