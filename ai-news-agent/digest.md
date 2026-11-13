@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-13 23:01
+
+- **[Perplexity releases Decider v1.3 (26B) and Decider Flash v1.3 (5B): open-weight (Apache 2.0) classification/decision models](https://www.reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider/)** (Reddit LocalLLaMA, 8/10) - Perplexity AI released two open‑weight decision models, Decider v1.3 (26 B parameters) and Decider Flash v1.3 (5 B parameters), under the Apache 2.0 license. These models accept text and return probability scores for multiple‑choice answers, giving builders a ready‑to‑use, on‑premise classifier without training a separate model.
+- **[Claude Meetings](https://claude.com/resources/articles/claude-meetings)** (Hacker News, 6/10) - Anthropic launched Claude Meetings, a new capability that lets the Claude assistant listen to a live meeting and output a short summary with key action items. Developers can embed this into collaboration apps to automate note‑taking and reduce manual transcription work.
+
 ## 2026-11-13 21:01
 
 - **[Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Flash Next [GGUF]](https://www.reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace/)** (Reddit LocalLLaMA, 7/10) - Nace AI released open-source Qwen model weights in GGUF file format optimized through weight space programming to retain higher output accuracy. This enables developers to run larger, more capable models locally on consumer hardware with reduced memory usage.
