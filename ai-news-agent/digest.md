@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-13 21:01
+
+- **[Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Flash Next [GGUF]](https://www.reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace/)** (Reddit LocalLLaMA, 7/10) - Nace AI released open-source Qwen model weights in GGUF file format optimized through weight space programming to retain higher output accuracy. This enables developers to run larger, more capable models locally on consumer hardware with reduced memory usage.
+- **[ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you](https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet)** (The Verge AI, 7/10) - OpenAI introduced ChatGPT Wallet, enabling AI agents to execute financial transactions on behalf of US subscribers. This provides developers building agentic workflows insight into how payment features are being natively integrated into autonomous systems.
+- **[v2.1.325](https://github.com/anthropics/claude-code/releases/tag/v2.1.325)** (Claude Code releases, 6/10) - Anthropic released version 2.1.325 of Claude Code, resolving a security issue in data decoding and adding interactive terminal tips. Software engineers using the command-line AI coding tool get a safer experience and improved guidance when modifying Jupyter notebooks.
+
 ## 2026-11-13 20:01
 
 - **[Perplexity Decider v1.3: Training, eval, and use cases](https://www.perplexity.ai/hub/blog/perplexity-decider)** (Hacker News, 6/10) - Perplexity released a technical overview of Decider v1.3, detailing the training and evaluation methods used for their query-routing system. This provides developers with practical insights into building intelligent router components for multi-model or agentic workflows.
