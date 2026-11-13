@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-13 01:01
+
+- **[Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)** (Hacker News, 8/10) - Edge0 released a 145‑billion‑parameter language model that can be run on a typical desktop computer. This gives developers access to a very large model without paying for cloud compute or dealing with network latency.
+
 ## 2026-11-13 00:39
 
 - **[llm-gemini 0.37](https://simonwillison.net/2026/Nov/12/llm-gemini/)** (Simon Willison, 6/10) - Simon Willison released version 0.37 of the llm-gemini command-line tool plugin for querying Google's Gemini models. This tool allows developers to quickly prototype, script, and test prompts against Gemini APIs directly from their terminal.
