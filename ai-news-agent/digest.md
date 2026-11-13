@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-13 19:01
+
+- **[6-11X speedup running Qwen3.6 on my RTX 4090, full repo.](https://github.com/me-farza/lightreason/tree/main)** (Hacker News, 7/10) - A public repository shows a method to run the Qwen 3.6 language model on an RTX 4090 GPU 6‑11× faster than before. This lets developers prototype with the model locally at much lower cost and with quicker feedback cycles.
+- **[Gnomon. Git for Postgres data, built for agents](https://github.com/bitsinfra/gnomon)** (Hacker News, 7/10) - Gnomon is an open‑source system that adds Git‑style version control to PostgreSQL tables, allowing commits, branches, and merges of database state. AI agents that read or write structured data can now manage and roll back their knowledge bases safely and reproducibly.
+
 ## 2026-11-13 18:31
 
 - **[Building strong safety evaluations](https://www.anthropic.com/research/building-strong-safety-evaluations)** (Anthropic Eng, 6/10) - Anthropic published engineering guidance detailing their internal methodology for designing, running, and reporting model safety and evaluation benchmarks. This gives developers practical strategies for systematically testing LLM (large language model) reliability and preventing unwanted behavior in production applications.
