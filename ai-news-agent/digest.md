@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-13 05:31
+
+- **[Brave Search API now accepts agentic payments via the x402 protocol](https://brave.com/blog/search-api-agentic-payments/)** (Hacker News, 6/10) - Brave announced that its Search API now supports payments using the x402 protocol, which lets developers pay per query with a lightweight, machine‑friendly method. This makes it easier to integrate search into autonomous agents without handling complex billing or manual invoicing.
+
 ## 2026-11-13 05:01
 
 - **[rust-v0.171.0-alpha.3](https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.3)** (OpenAI Codex releases, 6/10) - OpenAI released version 0.171.0-alpha.3 of its Rust client library for accessing OpenAI services. The update adds new endpoints and bug fixes, making it easier for Rust developers to integrate chat and code models into their applications.
