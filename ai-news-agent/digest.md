@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-14 16:02
+
+- **[IBM trains two small open models to ignore orders hidden in documents](https://www.reddit.com/r/LocalLLaMA/comments/1xw09tu/ibm_trains_two_small_open_models_to_ignore_orders/)** (Reddit LocalLLaMA, 7/10) - IBM released two small open-source models fine-tuned to resist indirect prompt injection attacks hidden inside retrieved documents. This allows developers to build more secure retrieval-augmented generation (RAG) applications and AI agents using lightweight, local models.
+
 ## 2026-11-14 15:01
 
 - **[sensenova/SenseNova-Loop-9B-Preview · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xvysss/sensenovasensenovaloop9bpreview_hugging_face/)** (Reddit LocalLLaMA, 7/10) - The SenseNova‑Loop‑9B model was released on Hugging Face; it is a 9‑billion‑parameter language model that claims quality comparable to much larger 27‑billion‑parameter models. Its smaller size means it can be run faster and cheaper on common hardware, offering developers an efficient alternative for building text‑generation features.
