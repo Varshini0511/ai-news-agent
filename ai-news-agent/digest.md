@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-14 15:01
+
+- **[sensenova/SenseNova-Loop-9B-Preview · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xvysss/sensenovasensenovaloop9bpreview_hugging_face/)** (Reddit LocalLLaMA, 7/10) - The SenseNova‑Loop‑9B model was released on Hugging Face; it is a 9‑billion‑parameter language model that claims quality comparable to much larger 27‑billion‑parameter models. Its smaller size means it can be run faster and cheaper on common hardware, offering developers an efficient alternative for building text‑generation features.
+- **[Show HN: Agweb – a browser for agents that stays out of your way](https://github.com/paul-nameless/agweb)** (Hacker News, 6/10) - A new open‑source project called Agweb provides a lightweight web browser built to host AI agents while staying out of the user's way. It gives developers a simple UI for running, testing, and debugging agents without having to build a custom front‑end.
+
 ## 2026-11-14 14:31
 
 - **[Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM](https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/)** (Hacker News, 7/10) - Engineers demonstrated how to serve the GLM open-source model at over 600 tokens per second using vLLM, an open-source model serving engine, across two multi-GPU hardware stations. This is useful for developers looking to optimize high-throughput inference for self-hosted models.
