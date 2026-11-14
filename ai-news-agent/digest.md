@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-14 14:31
+
+- **[Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM](https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/)** (Hacker News, 7/10) - Engineers demonstrated how to serve the GLM open-source model at over 600 tokens per second using vLLM, an open-source model serving engine, across two multi-GPU hardware stations. This is useful for developers looking to optimize high-throughput inference for self-hosted models.
+
 ## 2026-11-14 08:34
 
 - **[Tabletop by Google Labs](https://www.producthunt.com/products/google-labs)** (Product Hunt, 7/10) - Google Labs introduced Tabletop, a web‑based platform that lets multiple people create and run interactive AI‑driven group activities. Builders can use it as a quick way to prototype collaborative AI experiences without writing backend code.
