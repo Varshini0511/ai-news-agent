@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-14 00:01
+
+- **[Qwen3.5-9B running on a PS4’s GPU, offline, using its own MTP head for speculative decoding](https://www.reddit.com/r/LocalLLaMA/comments/1xvbn2m/qwen359b_running_on_a_ps4s_gpu_offline_using_its/)** (Reddit LocalLLaMA, 7/10) - A developer created an open-source project running a 9-billion parameter Qwen model offline on a PlayStation 4 GPU using Multi-Token Prediction (MTP) for speculative decoding. This serves as a practical blueprint for optimizing local model inference speeds on constrained consumer hardware.
+
 ## 2026-11-13 23:31
 
 - **[e-means: 10x faster k-means at equal loss](https://www.reddit.com/r/LocalLLaMA/comments/1xvbith/emeans_10x_faster_kmeans_at_equal_loss/)** (Reddit LocalLLaMA, 6/10) - Developers introduced e-means, an optimized implementation of the k-means clustering algorithm that runs up to 10 times faster without sacrificing accuracy. This is useful for AI engineers working on vector quantization, dataset pre-processing, or clustering embeddings for retrieval systems where standard k-means creates a performance bottleneck.
