@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-14 03:31
+
+- **[Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)** (Hacker News, 7/10) - GGML, the foundational C/C++ machine learning library that powers local AI engines like llama.cpp, has officially released version 1.0.0. This gives developers building on-device AI applications a stable API and baseline performance improvements for running quantized models locally.
+- **[I built speedy Strix Halo kernels for the top-51 LLMs with AMD Loom (and you can too)](https://www.reddit.com/r/LocalLLaMA/comments/1xvcmm0/i_built_speedy_strix_halo_kernels_for_the_top51/)** (Reddit LocalLLaMA, 6/10) - AMD introduced Loom, an experimental compiler and runtime tool stack designed to build optimized execution kernels for open-source Large Language Models (LLMs). This helps developers serving models on AMD hardware achieve faster inference speeds and better resource utilization.
+
 ## 2026-11-14 01:31
 
 - **[Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free](https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free)** (Hacker News, 7/10) - Anthropic added a feature to Claude Code Projects that lets multiple AI workers run in parallel without manual setup. This lets developers build more complex, faster‑running assistants using Claude without writing extra orchestration code.
