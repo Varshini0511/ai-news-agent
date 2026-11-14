@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-14 04:03
+
+- **[Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8)** (Hacker News, 7/10) - Unsloth released version 3.1, which lets developers dynamically quantize (shrink and speed up) the Qwen 3.8‑27B language model so it runs on a typical GPU with less memory. This makes a very large model usable on cheaper hardware for prototyping and small‑scale apps.
+- **[T3 Code Nightly 0.1.10-nightly.20261114.4669 (db2cc2026427)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.10-nightly.20261114.4669)** (T3 Code releases, 6/10) - T3 Code published a nightly 0.1.10 build that adds custom UI themes, an agent that can adjust colors and layout, and a device‑approval step for T3 Connect connections, plus Azure DevOps build checks. These updates give developers more control over the editor’s look and improve safety when integrating with Azure pipelines.
+
 ## 2026-11-14 03:31
 
 - **[Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)** (Hacker News, 7/10) - GGML, the foundational C/C++ machine learning library that powers local AI engines like llama.cpp, has officially released version 1.0.0. This gives developers building on-device AI applications a stable API and baseline performance improvements for running quantized models locally.
