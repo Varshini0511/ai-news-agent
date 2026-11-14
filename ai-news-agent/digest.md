@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-14 21:31
+
+- **[tiny-voca: a fully open 4.5M-parameter TTS (code, weights, dataset). Runs 70x real time on a CPU](https://www.reddit.com/r/LocalLLaMA/comments/1xw7zrg/tinyvoca_a_fully_open_45mparameter_tts_code/)** (Reddit LocalLLaMA, 7/10) - A developer released tiny-voca, an open-source 4.5-million-parameter text-to-speech model that runs entirely inside a browser or on a standard CPU. It is useful for builders who need ultra-lightweight, low-latency audio generation without relying on external cloud APIs or GPUs.
+
 ## 2026-11-14 17:31
 
 - **[Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax)** (Hacker News, 6/10) - A developer published a minimal 200-line implementation of the DeepSeek V3 model architecture using JAX, a Python library for high-performance machine learning. This provides a concise reference for software engineers wanting to learn how modern Mixture-of-Experts model architectures are structured under the hood.
