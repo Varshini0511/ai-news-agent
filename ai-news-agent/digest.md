@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-14 08:03
+
+- **[Gemini Robotics 2.5](https://www.producthunt.com/products/gemini-robotics-2-5)** (Product Hunt, 8/10) - Google released Gemini Robotics 2.5, a model trained for robot perception and control, delivering higher accuracy on vision‑based manipulation tasks. It gives robotics developers a ready‑to‑use model that speeds up prototyping of autonomous hardware.
+- **[CodeMesh](https://www.producthunt.com/products/codemesh-2)** (Product Hunt, 7/10) - CodeMesh is a service that intercepts AI code‑generation calls, automatically picks cheaper models or batches prompts, and claims up to 90% cost reduction. Teams that rely on AI coding assistants can lower their cloud bill while keeping performance.
+- **[Thunder](https://www.producthunt.com/products/thunder-3)** (Product Hunt, 7/10) - Thunder is a new key‑value database built for AI workloads, offering ultra‑fast reads/writes and native vector‑search for embedding data. It helps developers store and retrieve large numbers of embeddings efficiently for retrieval‑augmented generation and similar tasks.
+
 ## 2026-11-14 06:31
 
 - **[salesforce-sovereign-intelligence/SOV-Transcribe-1 · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xvst4u/salesforcesovereignintelligencesovtranscribe1/)** (Reddit LocalLLaMA, 7/10) - Salesforce released SOV-Transcribe-1, an open-weight model designed for non-streaming automatic speech recognition (ASR). It allows developers to build self-hosted transcription features that accept natural language prompts to control text formatting and output.
