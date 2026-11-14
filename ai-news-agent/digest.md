@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-14 17:31
+
+- **[Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax)** (Hacker News, 6/10) - A developer published a minimal 200-line implementation of the DeepSeek V3 model architecture using JAX, a Python library for high-performance machine learning. This provides a concise reference for software engineers wanting to learn how modern Mixture-of-Experts model architectures are structured under the hood.
+
 ## 2026-11-14 17:02
 
 - **[Tontaube V1.1: open-weights TTS with voice cloning for long-form generation. 4-bit version runs about real time on a desktop CPU](https://www.reddit.com/r/LocalLLaMA/comments/1xvdmzb/tontaube_v11_openweights_tts_with_voice_cloning/)** (Reddit LocalLLaMA, 7/10) - Tontaube V1.1, an open-weights text-to-speech model supporting voice cloning, was released with 4-bit quantization that runs in real time on desktop CPUs. This gives developers an accessible tool to build local voice agents and long-form audio generation without expensive Graphics Processing Units (GPUs).
