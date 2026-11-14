@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-14 06:31
+
+- **[salesforce-sovereign-intelligence/SOV-Transcribe-1 · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xvst4u/salesforcesovereignintelligencesovtranscribe1/)** (Reddit LocalLLaMA, 7/10) - Salesforce released SOV-Transcribe-1, an open-weight model designed for non-streaming automatic speech recognition (ASR). It allows developers to build self-hosted transcription features that accept natural language prompts to control text formatting and output.
+- **[ERNIE 5.5 Flash Base · ERNIE](https://www.reddit.com/r/LocalLLaMA/comments/1xvuclv/ernie_55_flash_base_ernie/)** (Reddit LocalLLaMA, 6/10) - Baidu released the open weights for ERNIE 5.5 Flash Base, a lightweight foundation model. It gives developers a low-latency base model option for custom fine-tuning and lightweight text generation tasks.
+
 ## 2026-11-14 04:31
 
 - **[I ran the same Halloween animation prompt through five coding agents on one local Qwen model](https://www.reddit.com/r/LocalLLaMA/comments/1xv5dsb/i_ran_the_same_halloween_animation_prompt_through/)** (Reddit LocalLLaMA, 6/10) - A developer benchmarked five coding agents, including Claude Code and GitHub Copilot Desktop, using a single local Qwen model to build a pixel-art animation. It provides practical insight into how different AI agent harnesses compare when running against self-hosted open-source models.
