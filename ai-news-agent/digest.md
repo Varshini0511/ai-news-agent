@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-14 23:31
+
+- **[T3 Code Nightly 0.1.10-nightly.20261114.4709 (dfd2187ccb0f)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.10-nightly.20261114.4709)** (T3 Code releases, 6/10) - The open-source T3 Code AI editor released a nightly update with fuzzy project search, thread renaming commands, and faster git pulls. These performance and UI tweaks make navigating local code repositories easier for developers using the tool.
+
 ## 2026-11-14 21:31
 
 - **[tiny-voca: a fully open 4.5M-parameter TTS (code, weights, dataset). Runs 70x real time on a CPU](https://www.reddit.com/r/LocalLLaMA/comments/1xw7zrg/tinyvoca_a_fully_open_45mparameter_tts_code/)** (Reddit LocalLLaMA, 7/10) - A developer released tiny-voca, an open-source 4.5-million-parameter text-to-speech model that runs entirely inside a browser or on a standard CPU. It is useful for builders who need ultra-lightweight, low-latency audio generation without relying on external cloud APIs or GPUs.
