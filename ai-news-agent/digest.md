@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-14 00:31
+
+- **[Shield helps technicians hand off legacy portal work with OpenAI](https://openai.com/business/customer-stories/shield)** (OpenAI Blog, 7/10) - OpenAI released Shield, a tool that uses its Forge agents to automate navigation of old internal portals. It lets IT staff hand off routine portal work so they can focus on decisions that require human judgment.
+- **[DeepSeek flash max is the first model to reach >1% on challenging SWE-sweep bug finding benchmark](https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/)** (Reddit LocalLLaMA, 6/10) - A Reddit post reported that DeepSeek v4.1 flash (max) achieved over 1% success on the SWE‑sweep benchmark, a tough test for AI models that locate bugs in code bases. This shows the model’s potential for automated code review and debugging assistance.
+
 ## 2026-11-14 00:01
 
 - **[Qwen3.5-9B running on a PS4’s GPU, offline, using its own MTP head for speculative decoding](https://www.reddit.com/r/LocalLLaMA/comments/1xvbn2m/qwen359b_running_on_a_ps4s_gpu_offline_using_its/)** (Reddit LocalLLaMA, 7/10) - A developer created an open-source project running a 9-billion parameter Qwen model offline on a PlayStation 4 GPU using Multi-Token Prediction (MTP) for speculative decoding. This serves as a practical blueprint for optimizing local model inference speeds on constrained consumer hardware.
