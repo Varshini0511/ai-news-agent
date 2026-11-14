@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-14 08:34
+
+- **[Tabletop by Google Labs](https://www.producthunt.com/products/google-labs)** (Product Hunt, 7/10) - Google Labs introduced Tabletop, a web‑based platform that lets multiple people create and run interactive AI‑driven group activities. Builders can use it as a quick way to prototype collaborative AI experiences without writing backend code.
+
 ## 2026-11-14 08:03
 
 - **[Gemini Robotics 2.5](https://www.producthunt.com/products/gemini-robotics-2-5)** (Product Hunt, 8/10) - Google released Gemini Robotics 2.5, a model trained for robot perception and control, delivering higher accuracy on vision‑based manipulation tasks. It gives robotics developers a ready‑to‑use model that speeds up prototyping of autonomous hardware.
