@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-14 01:31
+
+- **[Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free](https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free)** (Hacker News, 7/10) - Anthropic added a feature to Claude Code Projects that lets multiple AI workers run in parallel without manual setup. This lets developers build more complex, faster‑running assistants using Claude without writing extra orchestration code.
+- **[I noticed the 2 Hessian Refinement of MACaQ can be applied to any GGUF without any patches ... and tried it. 13% better quants](https://www.reddit.com/r/LocalLLaMA/comments/1xvbqqa/i_noticed_the_2_hessian_refinement_of_macaq_can/)** (Reddit LocalLLaMA, 6/10) - A new Hessian‑based refinement method was shared that improves the quantization (size‑reduction) of GGUF model files, showing a 13 % drop in KL divergence for the Qwen‑3.8‑27B model. Developers can use this tweak to get smaller, more accurate models that run on limited hardware.
+
 ## 2026-11-14 00:31
 
 - **[Shield helps technicians hand off legacy portal work with OpenAI](https://openai.com/business/customer-stories/shield)** (OpenAI Blog, 7/10) - OpenAI released Shield, a tool that uses its Forge agents to automate navigation of old internal portals. It lets IT staff hand off routine portal work so they can focus on decisions that require human judgment.
