@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-14 17:02
+
+- **[Tontaube V1.1: open-weights TTS with voice cloning for long-form generation. 4-bit version runs about real time on a desktop CPU](https://www.reddit.com/r/LocalLLaMA/comments/1xvdmzb/tontaube_v11_openweights_tts_with_voice_cloning/)** (Reddit LocalLLaMA, 7/10) - Tontaube V1.1, an open-weights text-to-speech model supporting voice cloning, was released with 4-bit quantization that runs in real time on desktop CPUs. This gives developers an accessible tool to build local voice agents and long-form audio generation without expensive Graphics Processing Units (GPUs).
+- **[T3 Code Nightly 0.1.10-nightly.20261114.4695 (5a15495de4c1)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.10-nightly.20261114.4695)** (T3 Code releases, 6/10) - The T3 Code AI editor released a nightly build featuring faster background updates and support for agents reading shared document attachments. This helps developers using collaborative AI coding tools provide context files directly to coding agents.
+
 ## 2026-11-14 16:31
 
 - **[KittenML/kitten-tts-2-mini · Hugging Face - Text-to-Speech](https://www.reddit.com/r/LocalLLaMA/comments/1xvw34k/kittenmlkittentts2mini_hugging_face_texttospeech/)** (Reddit LocalLLaMA, 7/10) - KittenML released Kitten TTS 2, a lightweight text-to-speech model packaged in Open Neural Network Exchange (ONNX) format for CPU execution. Developers can use these tiny 82MB models to add fast, offline voice output to local software without needing specialized graphics hardware.
