@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-14 04:31
+
+- **[I ran the same Halloween animation prompt through five coding agents on one local Qwen model](https://www.reddit.com/r/LocalLLaMA/comments/1xv5dsb/i_ran_the_same_halloween_animation_prompt_through/)** (Reddit LocalLLaMA, 6/10) - A developer benchmarked five coding agents, including Claude Code and GitHub Copilot Desktop, using a single local Qwen model to build a pixel-art animation. It provides practical insight into how different AI agent harnesses compare when running against self-hosted open-source models.
+
 ## 2026-11-14 04:03
 
 - **[Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8)** (Hacker News, 7/10) - Unsloth released version 3.1, which lets developers dynamically quantize (shrink and speed up) the Qwen 3.8‑27B language model so it runs on a typical GPU with less memory. This makes a very large model usable on cheaper hardware for prototyping and small‑scale apps.
