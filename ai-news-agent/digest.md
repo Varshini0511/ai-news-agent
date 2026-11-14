@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-14 16:31
+
+- **[KittenML/kitten-tts-2-mini · Hugging Face - Text-to-Speech](https://www.reddit.com/r/LocalLLaMA/comments/1xvw34k/kittenmlkittentts2mini_hugging_face_texttospeech/)** (Reddit LocalLLaMA, 7/10) - KittenML released Kitten TTS 2, a lightweight text-to-speech model packaged in Open Neural Network Exchange (ONNX) format for CPU execution. Developers can use these tiny 82MB models to add fast, offline voice output to local software without needing specialized graphics hardware.
+
 ## 2026-11-14 16:02
 
 - **[IBM trains two small open models to ignore orders hidden in documents](https://www.reddit.com/r/LocalLLaMA/comments/1xw09tu/ibm_trains_two_small_open_models_to_ignore_orders/)** (Reddit LocalLLaMA, 7/10) - IBM released two small open-source models fine-tuned to resist indirect prompt injection attacks hidden inside retrieved documents. This allows developers to build more secure retrieval-augmented generation (RAG) applications and AI agents using lightweight, local models.
