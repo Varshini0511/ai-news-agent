@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-15 09:31
+
+- **[nex-agi/Nex-N2.6 · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xw9mpa/nexaginexn26_hugging_face/)** (Reddit LocalLLaMA, 6/10) - Nex-AGI released the FP8 (8-bit floating-point format) quantized weights for Nex-N2.6, a 321-billion parameter multimodal model optimized for coding and computer interface control. Developers building autonomous agents can use these open-source weights to run desktop automation and long-horizon tool-use tasks locally.
+
 ## 2026-11-15 08:01
 
 - **[Talyn](https://www.producthunt.com/products/talyn)** (Product Hunt, 6/10) - Talyn launched a developer platform that runs coding agents like Claude Code in isolated, parallel cloud sandboxes. This enables engineers to safely execute complex multi-file code modifications across several agents concurrently without corrupting local repositories.
