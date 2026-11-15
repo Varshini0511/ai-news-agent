@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-15 05:01
+
+- **[Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)** (Hacker News, 7/10) - Turbo-Browser-MCP is a server for Anthropic's Model Context Protocol that optimizes browser automation using form batching and webpage change tracking. It helps developers build web-browsing AI agents that consume fewer API tokens and fit better within context window limits.
+
 ## 2026-11-15 04:01
 
 - **[LFM2.5-24B-A2B + Hermes is awesome!](https://www.reddit.com/r/LocalLLaMA/comments/1xwgiow/lfm2524ba2b_hermes_is_awesome/)** (Reddit LocalLLaMA, 7/10) - LiquidAI posted the LFM2.5-24B-A2B model on Hugging Face in the GGUF format, which runs efficiently on ordinary desktop GPUs. It lets developers experiment with a 24‑billion‑parameter language model locally, avoiding cloud fees and latency.
