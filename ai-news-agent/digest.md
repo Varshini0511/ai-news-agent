@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-15 01:01
+
+- **[datasette-llm 0.1a11](https://simonwillison.net/2026/Nov/14/datasette-llm/)** (Simon Willison, 6/10) - Simon Willison released version 0.1a11 of the datasette-llm plugin, adding support for custom OpenAI-compatible API endpoints. This allows developers to connect Datasette data exploration tools to local or alternative Large Language Model (LLM) providers like Ollama instead of relying solely on OpenAI.
+
 ## 2026-11-14 23:31
 
 - **[T3 Code Nightly 0.1.10-nightly.20261114.4709 (dfd2187ccb0f)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.10-nightly.20261114.4709)** (T3 Code releases, 6/10) - The open-source T3 Code AI editor released a nightly update with fuzzy project search, thread renaming commands, and faster git pulls. These performance and UI tweaks make navigating local code repositories easier for developers using the tool.
