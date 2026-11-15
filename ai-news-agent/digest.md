@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-15 21:31
+
+- **[Your Agent Will Pick the Hackable One](https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/)** (Hacker News, 6/10) - A security post explores how autonomous AI agents tend to select software dependencies with lower security barriers or known vulnerabilities. Developers building AI agents should implement guardrails to prevent agents from inadvertently selecting insecure code or services.
+- **[meituan-longcat/LongCat-Video-Avatar-1.6 · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xwvrri/meituanlongcatlongcatvideoavatar16_hugging_face/)** (Reddit LocalLLaMA, 6/10) - Meituan released LongCat-Video-Avatar 1.6, an open-source model that generates realistic human video driven by audio inputs. Developers can use this framework to build applications requiring digital avatars with realistic lip-syncing and facial movement.
+
 ## 2026-11-15 18:31
 
 - **[Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090](https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/)** (Reddit LocalLLaMA, 6/10) - Basalt released version 0.4.0, adding support for multiple models, video inputs, and high-speed local model running on consumer graphics cards. This tool helps developers run and test open-source large language models locally without relying on paid cloud APIs.
