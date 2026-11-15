@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-15 07:31
+
+- **[Update: tandem.cpp — DeepSeek-V4.1 on a 64 GB PC with a 16 GB card, and AMD (ROCm) support](https://www.reddit.com/r/LocalLLaMA/comments/1xwan2j/update_tandemcpp_deepseekv41_on_a_64_gb_pc_with_a/)** (Reddit LocalLLaMA, 6/10) - An open-source project called tandem.cpp updated its llama.cpp patch to add AMD graphics card support and optimize how large Mixture-of-Experts (MoE) models split workloads between GPU VRAM and CPU system RAM. This allows developers to run massive open-source AI models like DeepSeek locally on consumer desktop hardware with standard memory setups.
+
 ## 2026-11-15 06:01
 
 - **[T3 Code Nightly 0.1.10-nightly.20261115.4723 (11c425b4b6b3)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.10-nightly.20261115.4723)** (T3 Code releases, 7/10) - The T3 Code nightly build (v0.1.10) adds a feature to resume a stopped "Cursor" operation from its latest checkpoint, and lets users manually compact conversation history. This helps developers who use AI‑driven code assistants keep their sessions efficient and avoid re‑sending large prompts.
