@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-15 06:01
+
+- **[T3 Code Nightly 0.1.10-nightly.20261115.4723 (11c425b4b6b3)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.10-nightly.20261115.4723)** (T3 Code releases, 7/10) - The T3 Code nightly build (v0.1.10) adds a feature to resume a stopped "Cursor" operation from its latest checkpoint, and lets users manually compact conversation history. This helps developers who use AI‑driven code assistants keep their sessions efficient and avoid re‑sending large prompts.
+- **[mobile-android-preview-build/4d8f7b0a47340c0caa8ab2ff11ffeea71183938b](https://github.com/pingdotgg/t3code/releases/tag/mobile-android-preview-build%2F4d8f7b0a47340c0caa8ab2ff11ffeea71183938b)** (T3 Code releases, 6/10) - A preview Android build of T3 Code is now available, letting you test the AI coding tool on mobile devices. It lets .NET and Azure developers experiment with AI‑assisted coding while on the go, expanding the environments where the assistant can be used.
+
 ## 2026-11-15 05:01
 
 - **[Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)** (Hacker News, 7/10) - Turbo-Browser-MCP is a server for Anthropic's Model Context Protocol that optimizes browser automation using form batching and webpage change tracking. It helps developers build web-browsing AI agents that consume fewer API tokens and fit better within context window limits.
