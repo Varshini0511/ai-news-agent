@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-15 22:01
+
+- **[[audio.cpp] SoulX-FlashHead + LFM3-Audio + OWSM v4 = Real-Time Local Avatar Chat](https://www.reddit.com/r/LocalLLaMA/comments/1xx2vi0/audiocpp_soulxflashhead_lfm3audio_owsm_v4/)** (Reddit LocalLLaMA, 7/10) - Version 0.9.5 of audio.cpp introduced a local, real-time avatar chat pipeline that combines talking-head generation, speech recognition, and audio LLMs. It gives developers an open-source reference implementation for building low-latency, fully offline voice and video conversational agents.
+
 ## 2026-11-15 21:31
 
 - **[Your Agent Will Pick the Hackable One](https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/)** (Hacker News, 6/10) - A security post explores how autonomous AI agents tend to select software dependencies with lower security barriers or known vulnerabilities. Developers building AI agents should implement guardrails to prevent agents from inadvertently selecting insecure code or services.
