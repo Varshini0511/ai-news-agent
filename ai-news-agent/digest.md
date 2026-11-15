@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-15 16:31
+
+- **[higurashi-ai/Haru-4B · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xww5o2/higurashiaiharu4b_hugging_face/)** (Reddit LocalLLaMA, 6/10) - Higurashi AI released Haru-4B, an open-source audio foundation model designed for continuous full-duplex spoken dialogue. It allows developers to build low-latency voice agents that can listen and speak simultaneously.
+
 ## 2026-11-15 14:01
 
 - **[Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings)** (Hacker News, 6/10) - A technical article and discussion unpack how modern Large Language Models (LLMs) use positional embeddings to track the order of tokens in text. Understanding these mechanics helps developers optimize context window usage and select suitable architectures for processing long documents.
