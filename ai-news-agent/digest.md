@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-15 04:01
+
+- **[LFM2.5-24B-A2B + Hermes is awesome!](https://www.reddit.com/r/LocalLLaMA/comments/1xwgiow/lfm2524ba2b_hermes_is_awesome/)** (Reddit LocalLLaMA, 7/10) - LiquidAI posted the LFM2.5-24B-A2B model on Hugging Face in the GGUF format, which runs efficiently on ordinary desktop GPUs. It lets developers experiment with a 24‑billion‑parameter language model locally, avoiding cloud fees and latency.
+
 ## 2026-11-15 01:01
 
 - **[datasette-llm 0.1a11](https://simonwillison.net/2026/Nov/14/datasette-llm/)** (Simon Willison, 6/10) - Simon Willison released version 0.1a11 of the datasette-llm plugin, adding support for custom OpenAI-compatible API endpoints. This allows developers to connect Datasette data exploration tools to local or alternative Large Language Model (LLM) providers like Ollama instead of relying solely on OpenAI.
