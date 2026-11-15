@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-15 08:01
+
+- **[Talyn](https://www.producthunt.com/products/talyn)** (Product Hunt, 6/10) - Talyn launched a developer platform that runs coding agents like Claude Code in isolated, parallel cloud sandboxes. This enables engineers to safely execute complex multi-file code modifications across several agents concurrently without corrupting local repositories.
+
 ## 2026-11-15 07:31
 
 - **[Update: tandem.cpp — DeepSeek-V4.1 on a 64 GB PC with a 16 GB card, and AMD (ROCm) support](https://www.reddit.com/r/LocalLLaMA/comments/1xwan2j/update_tandemcpp_deepseekv41_on_a_64_gb_pc_with_a/)** (Reddit LocalLLaMA, 6/10) - An open-source project called tandem.cpp updated its llama.cpp patch to add AMD graphics card support and optimize how large Mixture-of-Experts (MoE) models split workloads between GPU VRAM and CPU system RAM. This allows developers to run massive open-source AI models like DeepSeek locally on consumer desktop hardware with standard memory setups.
