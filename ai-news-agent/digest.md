@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-15 18:31
+
+- **[Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090](https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/)** (Reddit LocalLLaMA, 6/10) - Basalt released version 0.4.0, adding support for multiple models, video inputs, and high-speed local model running on consumer graphics cards. This tool helps developers run and test open-source large language models locally without relying on paid cloud APIs.
+
 ## 2026-11-15 16:31
 
 - **[higurashi-ai/Haru-4B · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xww5o2/higurashiaiharu4b_hugging_face/)** (Reddit LocalLLaMA, 6/10) - Higurashi AI released Haru-4B, an open-source audio foundation model designed for continuous full-duplex spoken dialogue. It allows developers to build low-latency voice agents that can listen and speak simultaneously.
