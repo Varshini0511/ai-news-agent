@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-15 14:01
+
+- **[Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings)** (Hacker News, 6/10) - A technical article and discussion unpack how modern Large Language Models (LLMs) use positional embeddings to track the order of tokens in text. Understanding these mechanics helps developers optimize context window usage and select suitable architectures for processing long documents.
+
 ## 2026-11-15 09:31
 
 - **[nex-agi/Nex-N2.6 · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xw9mpa/nexaginexn26_hugging_face/)** (Reddit LocalLLaMA, 6/10) - Nex-AGI released the FP8 (8-bit floating-point format) quantized weights for Nex-N2.6, a 321-billion parameter multimodal model optimized for coding and computer interface control. Developers building autonomous agents can use these open-source weights to run desktop automation and long-horizon tool-use tasks locally.
