@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-16 17:31
+
+- **[Broadening access to AI for scientists](https://openai.com/index/expanding-chatgpt-for-academic-researchers)** (OpenAI Blog, 7/10) - OpenAI is extending its ChatGPT for Academic Researchers program to give 200,000 scientists free access to its latest models. This lets developers experiment with cutting‑edge AI without paying for API usage, which can speed up prototyping and research.
+- **[Hugging Face and OpenRouter join forces to make open-weight models easy to run](https://huggingface.co/blog/openrouter)** (Hugging Face, 6/10) - The integration adds a plug‑and‑play layer that routes requests to any supported model hosted on OpenRouter. This reduces the engineering effort needed to benchmark or deploy open‑source models in production.
+
 ## 2026-11-16 17:01
 
 - **[OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM](https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/)** (TechCrunch AI, 7/10) - OpenAI added a new image‑classification model that can automatically flag illegal child sexual‑abuse imagery. Builders can call the API to scan user‑uploaded pictures and stay compliant with safety rules.
