@@ -1,5 +1,12 @@
 # AI Digest
 
+## 2026-11-16 05:01
+
+- **[Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs](https://arxiv.org/abs/2611.17339)** (arXiv cs.AI, 8/10) - Researchers tested hallucination‑detection methods on small, quantized language models that run on phones or embedded devices. The results tell you which detectors work on low‑resource models, so you can avoid false answers in edge apps.
+- **[When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors](https://arxiv.org/abs/2611.17338)** (arXiv cs.AI, 7/10) - The paper shows that automatically deleting facts a model thinks are old can accidentally erase information needed to answer a new question. Knowing this helps you design memory systems for agents that keep the right facts and stay accurate.
+- **[LoRAWeaver: Directional Adapter Routing in LoRA Representation Space](https://arxiv.org/abs/2611.17340)** (arXiv cs.AI, 7/10) - LoRAWeaver introduces a way to route many task‑specific LoRA adapters (lightweight fine‑tuning modules) through a shared representation space. This makes it cheaper to add new capabilities without exploding model size.
+- **[Agents SDK v0.24.0-alpha.8](https://github.com/openai/openai-agents-python/releases/tag/v0.24.0-alpha.8)** (OpenAI Agents SDK, 7/10) - OpenAI released version 0.24.0‑alpha.8 of its Agents SDK, adding the ability to review and approve a model’s calls to external Python tools before they run. This gives developers more control and safety when building autonomous agents.
+
 ## 2026-11-16 03:01
 
 - **[Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)** (Hacker News, 8/10) - Alibaba released Qwen4‑Max, a new large language model that can handle up to 128,000 tokens and is offered under an open‑source licence. Developers can run it locally for long‑context applications such as document summarisation or chat assistants without paying for commercial API calls.
