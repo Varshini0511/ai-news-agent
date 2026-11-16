@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-16 01:31
+
+- **[Why download abliterated Flash Next models when LoRA exists?](https://www.reddit.com/r/LocalLLaMA/comments/1xxawbh/why_download_abliterated_flash_next_models_when/)** (Reddit LocalLLaMA, 6/10) - A developer guide demonstrates how refusal removal in open-source models can be packaged as a lightweight Low-Rank Adaptation (LoRA) adapter rather than re-downloading entire model files. This allows developers to customize local open-source LLMs while saving hundreds of gigabytes of storage and bandwidth.
+
 ## 2026-11-16 01:02
 
 - **[datasette-agent 0.6a0](https://simonwillison.net/2026/Nov/15/datasette-agent/)** (Simon Willison, 6/10) - Datasette Agent version 0.6a0 was released, adding an AI prompt box to the homepage and support for hash-tagging database tables. It serves as a practical, open-source reference for building AI agents that query SQL databases using natural language.
