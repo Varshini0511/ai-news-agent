@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-16 15:31
+
+- **[Show HN: Coral – Open-source gateway where agents write their own tools](https://github.com/withcoral/coral)** (Hacker News, 7/10) - Coral is an open‑source gateway that lets AI agents create and call their own tools at runtime. This makes it easier to build flexible agent systems without hard‑coding each tool, saving development time.
+- **[rust-v0.171.0-alpha.8](https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.8)** (OpenAI Codex releases, 7/10) - OpenAI released version 0.171.0‑alpha.8 of its Rust client library, adding new endpoint support and bug fixes. Rust developers can now call the OpenAI API more easily, which helps integrate AI features into Rust applications.
+- **[[Paper & Models] MMFlash: Faster Speculative Decoding for Vision-Language Models](https://www.reddit.com/r/LocalLLaMA/comments/1xxmd3w/paper_models_mmflash_faster_speculative_decoding/)** (Reddit LocalLLaMA, 6/10) - MMFlash is a research method that speeds up generation for models that handle both images and text by using a lightweight draft step. If you work with vision‑language models, the technique can cut latency and lower compute cost.
+
 ## 2026-11-16 14:01
 
 - **[X3Guard: A 150M parameter prompt guard](https://www.reddit.com/r/LocalLLaMA/comments/1xwyp7w/x3guard_a_150m_parameter_prompt_guard/)** (Reddit LocalLLaMA, 7/10) - Axiomic Labs released X3Guard-150M, an open-source safety model that detects both harmful and prompt-injection adversarial inputs in a single pass. It offers developers a fast, low-latency guardrail to filter user prompts locally before sending them to larger LLMs (Large Language Models), saving costs and improving safety.
