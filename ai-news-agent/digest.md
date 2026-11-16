@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-16 01:02
+
+- **[datasette-agent 0.6a0](https://simonwillison.net/2026/Nov/15/datasette-agent/)** (Simon Willison, 6/10) - Datasette Agent version 0.6a0 was released, adding an AI prompt box to the homepage and support for hash-tagging database tables. It serves as a practical, open-source reference for building AI agents that query SQL databases using natural language.
+
 ## 2026-11-16 00:31
 
 - **[BigMoeOnEdge outperforms Strata and colibri on 8-16 GB cards and Mac and you can run any model](https://www.reddit.com/r/LocalLLaMA/comments/1xx5fng/bigmoeonedge_outperforms_strata_and_colibri_on/)** (Reddit LocalLLaMA, 6/10) - BigMoeOnEdge is a new optimization workflow for running Mixture-of-Experts (MoE) LLMs via llama.cpp on consumer devices with limited VRAM. It helps developers run large open-source MoE models locally on standard laptop GPUs or Macs without special model conversions.
