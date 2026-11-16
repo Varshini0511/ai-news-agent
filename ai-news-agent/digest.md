@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-16 09:31
+
+- **[StateWeave](https://www.producthunt.com/products/stateweave)** (Product Hunt, 7/10) - StateWeave launched a testing platform that provides sandboxed application clones for evaluating AI agents. This helps developers safely test agentic workflows and tool execution without risking production data or exhausting third-party API quotas.
+
 ## 2026-11-16 08:31
 
 - **[Puffin](https://www.producthunt.com/products/puffin-2)** (Product Hunt, 6/10) - Puffin introduced an infrastructure service that gives artificial intelligence agents dedicated email addresses, inboxes, and digital identities. This helps developers build autonomous software agents that can reliably send, receive, and process emails within standard human workflows.
