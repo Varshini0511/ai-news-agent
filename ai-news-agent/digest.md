@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-16 18:01
+
+- **[rust-v0.171.0-alpha.9](https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.9)** (OpenAI Codex releases, 7/10) - OpenAI published version 0.171.0-alpha.9 of its Codex library for the Rust programming language. The update adds newer code‑completion models and bug fixes, letting Rust developers get AI‑generated suggestions straight in their tooling.
+
 ## 2026-11-16 17:31
 
 - **[Broadening access to AI for scientists](https://openai.com/index/expanding-chatgpt-for-academic-researchers)** (OpenAI Blog, 7/10) - OpenAI is extending its ChatGPT for Academic Researchers program to give 200,000 scientists free access to its latest models. This lets developers experiment with cutting‑edge AI without paying for API usage, which can speed up prototyping and research.
