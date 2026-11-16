@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-16 19:01
+
+- **[Open weight models account for 30% usage at enterprises to save money](https://www.reddit.com/r/LocalLLaMA/comments/1xxxbt9/open_weight_models_account_for_30_usage_at/)** (Reddit LocalLLaMA, 7/10) - A Reddit thread reported that enterprises now run open‑weight large language models for roughly 30 % of their AI workloads, mainly to lower the cost of high‑volume batch jobs and coding assistance. This shows that using open‑source models can be a cost‑effective alternative to commercial APIs for developers building large‑scale or budget‑constrained applications.
+
 ## 2026-11-16 18:01
 
 - **[rust-v0.171.0-alpha.9](https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.9)** (OpenAI Codex releases, 7/10) - OpenAI published version 0.171.0-alpha.9 of its Codex library for the Rust programming language. The update adds newer code‑completion models and bug fixes, letting Rust developers get AI‑generated suggestions straight in their tooling.
