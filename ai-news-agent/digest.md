@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-16 23:01
+
+- **[miHoYo Gamer: A Generalist Game Agent](https://www.reddit.com/r/LocalLLaMA/comments/1xxy7eb/mihoyo_gamer_a_generalist_game_agent/)** (Reddit LocalLLaMA, 6/10) - Researchers introduced miHoYo Gamer, a generalist autonomous AI agent designed to perceive screen pixels and play complex video games. It offers practical insights into building computer-using agents that can interpret complex graphical interfaces and take real-time actions.
+
 ## 2026-11-16 22:31
 
 - **[v2.1.326](https://github.com/anthropics/claude-code/releases/tag/v2.1.326)** (Claude Code releases, 6/10) - Anthropic updated Claude Code to version 2.1.326, enabling Code Mode alongside agent teams and adding validation warnings for tool flags. This helps software engineers run multi-agent coding sessions with stricter, safer tool configuration controls.
