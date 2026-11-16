@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-16 03:01
+
+- **[Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)** (Hacker News, 8/10) - Alibaba released Qwen4‑Max, a new large language model that can handle up to 128,000 tokens and is offered under an open‑source licence. Developers can run it locally for long‑context applications such as document summarisation or chat assistants without paying for commercial API calls.
+
 ## 2026-11-16 01:31
 
 - **[Why download abliterated Flash Next models when LoRA exists?](https://www.reddit.com/r/LocalLLaMA/comments/1xxawbh/why_download_abliterated_flash_next_models_when/)** (Reddit LocalLLaMA, 6/10) - A developer guide demonstrates how refusal removal in open-source models can be packaged as a lightweight Low-Rank Adaptation (LoRA) adapter rather than re-downloading entire model files. This allows developers to customize local open-source LLMs while saving hundreds of gigabytes of storage and bandwidth.
