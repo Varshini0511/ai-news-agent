@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-16 00:31
+
+- **[BigMoeOnEdge outperforms Strata and colibri on 8-16 GB cards and Mac and you can run any model](https://www.reddit.com/r/LocalLLaMA/comments/1xx5fng/bigmoeonedge_outperforms_strata_and_colibri_on/)** (Reddit LocalLLaMA, 6/10) - BigMoeOnEdge is a new optimization workflow for running Mixture-of-Experts (MoE) LLMs via llama.cpp on consumer devices with limited VRAM. It helps developers run large open-source MoE models locally on standard laptop GPUs or Macs without special model conversions.
+
 ## 2026-11-15 23:31
 
 - **[I have created a tool to observe what happens inside an LLM. Also allows for the comparison of two quantizations of the same model to see at what point they diverge, token by token](https://www.reddit.com/r/LocalLLaMA/comments/1xx7qbf/i_have_created_a_tool_to_observe_what_happens/)** (Reddit LocalLLaMA, 6/10) - A developer created `inside-llm`, an open-source tool that visualizes internal model states and compares token outputs between different quantizations of the same model. This helps developers visually evaluate precision loss and output quality when choosing compressed model files to run locally.
