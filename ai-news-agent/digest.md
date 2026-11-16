@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-16 21:31
+
+- **[Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs](https://latent.space/p/bfl/)** (Latent Space, 7/10) - Black Forest Labs published a paper arguing that training AI on raw pixels, video, and sound can speed up general‑intelligence research, and they demonstrate a system that learns from those multimodal streams. For builders, the work suggests that combining visual and audio data can give models a deeper understanding of real‑world situations.
+- **[Why FLUX 3 Trains on Images, Video and Sound — Andreas Blattmann & Dustin Podell, Black Forest Labs](https://latent.space/p/why_flux_3_trains_on_images_video_and_sound_andreas_blattmann_dustin_podell_black_forest_labs/)** (Latent Space, 7/10) - The researchers explain why their FLUX 3 model is trained on images, video, and audio together, showing that a single model can learn concepts that span motion and sound. Developers can apply this approach to create AI tools that work with synchronized video‑audio content, making their applications more versatile.
+- **[At Holiday Extras, dots get to work before anyone asks](https://openai.com/business/customer-stories/holiday-extras-dots)** (OpenAI Blog, 6/10) - OpenAI’s blog describes how Holiday Extras uses “dots”, an internal AI assistant that automatically creates launch reports, flags possible problems, and briefs users on upcoming meetings without being asked. This shows developers how to build proactive AI helpers that handle routine tasks without explicit prompts.
+
 ## 2026-11-16 20:31
 
 - **[Small Gemma 4 tokenizers were recently updated by Google - fix for an issue that caused nonsense output when encountering certain tokens](https://www.reddit.com/r/LocalLLaMA/comments/1xxxs0a/small_gemma_4_tokenizers_were_recently_updated_by/)** (Reddit LocalLLaMA, 7/10) - Google released an updated tokenizer for the Small Gemma‑4 model that fixes a bug causing garbled output on some tokens, and the same fix was applied to the 2‑billion and 12‑billion parameter variants. This makes Gemma‑based applications more reliable and lets developers safely use the corrected tokenizers with community‑distributed GGUF model files.
