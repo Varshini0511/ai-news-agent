@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-16 20:31
+
+- **[Small Gemma 4 tokenizers were recently updated by Google - fix for an issue that caused nonsense output when encountering certain tokens](https://www.reddit.com/r/LocalLLaMA/comments/1xxxs0a/small_gemma_4_tokenizers_were_recently_updated_by/)** (Reddit LocalLLaMA, 7/10) - Google released an updated tokenizer for the Small Gemma‑4 model that fixes a bug causing garbled output on some tokens, and the same fix was applied to the 2‑billion and 12‑billion parameter variants. This makes Gemma‑based applications more reliable and lets developers safely use the corrected tokenizers with community‑distributed GGUF model files.
+
 ## 2026-11-16 19:01
 
 - **[Open weight models account for 30% usage at enterprises to save money](https://www.reddit.com/r/LocalLLaMA/comments/1xxxbt9/open_weight_models_account_for_30_usage_at/)** (Reddit LocalLLaMA, 7/10) - A Reddit thread reported that enterprises now run open‑weight large language models for roughly 30 % of their AI workloads, mainly to lower the cost of high‑volume batch jobs and coding assistance. This shows that using open‑source models can be a cost‑effective alternative to commercial APIs for developers building large‑scale or budget‑constrained applications.
