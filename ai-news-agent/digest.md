@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-16 08:31
+
+- **[Puffin](https://www.producthunt.com/products/puffin-2)** (Product Hunt, 6/10) - Puffin introduced an infrastructure service that gives artificial intelligence agents dedicated email addresses, inboxes, and digital identities. This helps developers build autonomous software agents that can reliably send, receive, and process emails within standard human workflows.
+- **[UI SDK](https://www.producthunt.com/products/ui-sdk)** (Product Hunt, 6/10) - UI SDK launched a library that enables artificial intelligence agents to construct and render dynamic user interface components on the fly. This is useful for software engineers building interactive agent applications that require structured visual components instead of raw text outputs.
+
 ## 2026-11-16 08:02
 
 - **[Pine Drama Studio](https://www.producthunt.com/products/pine-drama-studio)** (Product Hunt, 6/10) - Pine Drama Studio launched an open-source media editing platform designed specifically for generative AI video production. It provides developers with an open codebase for building and customizing multimodal AI video workflows.
