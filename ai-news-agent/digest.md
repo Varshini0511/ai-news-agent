@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-16 22:07
+
+- **[[Paper & Models] Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent](https://www.reddit.com/r/LocalLLaMA/comments/1xxmj9o/paper_models_gamer_a_generalist/)** (Reddit LocalLLaMA, 7/10) - Researchers released Gamer, a new foundation model that combines vision, language, and action to operate as an agent in real‑time video games. It lets developers build long‑horizon game agents with a single model, simplifying the pipeline for interactive AI applications.
+
 ## 2026-11-16 21:31
 
 - **[Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs](https://latent.space/p/bfl/)** (Latent Space, 7/10) - Black Forest Labs published a paper arguing that training AI on raw pixels, video, and sound can speed up general‑intelligence research, and they demonstrate a system that learns from those multimodal streams. For builders, the work suggests that combining visual and audio data can give models a deeper understanding of real‑world situations.
