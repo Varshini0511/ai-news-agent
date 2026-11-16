@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-16 08:02
+
+- **[Pine Drama Studio](https://www.producthunt.com/products/pine-drama-studio)** (Product Hunt, 6/10) - Pine Drama Studio launched an open-source media editing platform designed specifically for generative AI video production. It provides developers with an open codebase for building and customizing multimodal AI video workflows.
+
 ## 2026-11-16 05:01
 
 - **[Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs](https://arxiv.org/abs/2611.17339)** (arXiv cs.AI, 8/10) - Researchers tested hallucination‑detection methods on small, quantized language models that run on phones or embedded devices. The results tell you which detectors work on low‑resource models, so you can avoid false answers in edge apps.
