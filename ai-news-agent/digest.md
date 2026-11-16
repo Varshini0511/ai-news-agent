@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-16 16:01
+
+- **[Audible turns to AI to help users discover audiobooks](https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/)** (TechCrunch AI, 6/10) - Audible launched AI‑generated audio previews that briefly summarize a book’s themes and highlight what listeners liked. Developers can learn from this example to add automatic summarisation or recommendation audio to their own services.
+
 ## 2026-11-16 15:31
 
 - **[Show HN: Coral – Open-source gateway where agents write their own tools](https://github.com/withcoral/coral)** (Hacker News, 7/10) - Coral is an open‑source gateway that lets AI agents create and call their own tools at runtime. This makes it easier to build flexible agent systems without hard‑coding each tool, saving development time.
