@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-16 11:02
+
+- **[Introducing Hy4 flash](https://www.reddit.com/r/LocalLLaMA/comments/1xxlgpb/introducing_hy4_flash/)** (Reddit LocalLLaMA, 7/10) - A new multimodal model called Hy4 Flash was announced, featuring 224 billion total parameters while activating only 12 billion parameters per token alongside a 1-million-token context window. Its low active parameter count makes it a cost-effective open option for processing long text and media inputs.
+
 ## 2026-11-16 09:31
 
 - **[StateWeave](https://www.producthunt.com/products/stateweave)** (Product Hunt, 7/10) - StateWeave launched a testing platform that provides sandboxed application clones for evaluating AI agents. This helps developers safely test agentic workflows and tool execution without risking production data or exhausting third-party API quotas.
