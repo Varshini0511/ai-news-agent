@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-16 22:31
+
+- **[v2.1.326](https://github.com/anthropics/claude-code/releases/tag/v2.1.326)** (Claude Code releases, 6/10) - Anthropic updated Claude Code to version 2.1.326, enabling Code Mode alongside agent teams and adding validation warnings for tool flags. This helps software engineers run multi-agent coding sessions with stricter, safer tool configuration controls.
+
 ## 2026-11-16 22:07
 
 - **[[Paper & Models] Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent](https://www.reddit.com/r/LocalLLaMA/comments/1xxmj9o/paper_models_gamer_a_generalist/)** (Reddit LocalLLaMA, 7/10) - Researchers released Gamer, a new foundation model that combines vision, language, and action to operate as an agent in real‑time video games. It lets developers build long‑horizon game agents with a single model, simplifying the pipeline for interactive AI applications.
