@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-16 14:01
+
+- **[X3Guard: A 150M parameter prompt guard](https://www.reddit.com/r/LocalLLaMA/comments/1xwyp7w/x3guard_a_150m_parameter_prompt_guard/)** (Reddit LocalLLaMA, 7/10) - Axiomic Labs released X3Guard-150M, an open-source safety model that detects both harmful and prompt-injection adversarial inputs in a single pass. It offers developers a fast, low-latency guardrail to filter user prompts locally before sending them to larger LLMs (Large Language Models), saving costs and improving safety.
+- **[internlm/Sage-S2.1-Flash · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xxn631/internlmsages21flash_hugging_face/)** (Reddit LocalLLaMA, 6/10) - Shanghai Artificial Intelligence Laboratory released Sage-S2.1-Flash, an open-source multimodal model designed for complex scientific data analysis, code generation, and retrieval tasks. It provides developers building domain-specific research or data processing tools with a lightweight model tailored for multi-step reasoning and verification.
+
 ## 2026-11-16 11:02
 
 - **[Introducing Hy4 flash](https://www.reddit.com/r/LocalLLaMA/comments/1xxlgpb/introducing_hy4_flash/)** (Reddit LocalLLaMA, 7/10) - A new multimodal model called Hy4 Flash was announced, featuring 224 billion total parameters while activating only 12 billion parameters per token alongside a 1-million-token context window. Its low active parameter count makes it a cost-effective open option for processing long text and media inputs.
