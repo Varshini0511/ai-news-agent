@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-17 11:01
+
+- **[Clover 2: dense 27.8B base + 7 LoRA experts routed per token, not a static merge, weights public](https://www.reddit.com/r/LocalLLaMA/comments/1xyb7jw/clover_2_dense_278b_base_7_lora_experts_routed/)** (Reddit LocalLLaMA, 8/10) - Clover 2 ships a 27.8 billion‑parameter base model plus seven LoRA adapters that are chosen token‑by‑token for tasks such as math, security or long‑document handling. This lets developers add specialized skills without retraining the full model, saving compute and simplifying customization.
+- **[[NEW RELEASE] - Supra2.5-65M Base and Instruct - our next generation state-of-the art small model family - first model!](https://www.reddit.com/r/LocalLLaMA/comments/1xxw9ik/new_release_supra2565m_base_and_instruct_our_next/)** (Reddit LocalLLaMA, 7/10) - Supra Labs released Supra2.5‑65M, a 65‑million‑parameter model available in both base and instruction‑tuned versions. Its tiny footprint lets engineers run a modern language model locally on a laptop, avoiding cloud latency and cost.
+
 ## 2026-11-17 10:01
 
 - **[nvidia/Nemotron-Labs-Sigma 8B/3B](https://www.reddit.com/r/LocalLLaMA/comments/1xxwg6w/nvidianemotronlabssigma_8b3b/)** (Reddit LocalLLaMA, 7/10) - Nemotron Labs released Sigma‑8B‑instruct, an 8 billion‑parameter language model that generates text by denoising a low‑dimensional continuous embedding space instead of predicting one token at a time. This approach can produce faster inference and smoother text generation, giving developers a new open‑source model to experiment with for building chatbots, assistants, or any app that needs compact, high‑quality language generation.
