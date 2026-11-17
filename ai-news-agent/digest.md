@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-17 13:32
+
+- **[Rotate K/V read order for better L2 cache hit rates by gaugarg-nv · Pull Request #32407 · ggml-org/llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xyi6hj/rotate_kv_read_order_for_better_l2_cache_hit/)** (Reddit LocalLLaMA, 7/10) - A pull request to llama.cpp optimizes Key-Value memory cache read orders to boost hardware cache hit rates. This gives developers running local Large Language Models (LLMs) up to a 40 percent prompt processing speedup on long contexts.
+
 ## 2026-11-17 12:01
 
 - **[Hugging Face switched its language model inference routing to OpenRouter](https://www.reddit.com/r/LocalLLaMA/comments/1xy9o6j/hugging_face_switched_its_language_model/)** (Reddit LocalLLaMA, 7/10) - Hugging Face announced that starting November 16 2026 all calls to language models through its Inference Providers will be routed through OpenRouter instead of its own router. This matters to developers because OpenRouter automatically chooses the cheapest and fastest provider for each request and will retry with another provider if one fails, potentially lowering costs and improving reliability for applications that use Hugging Face’s hosted models.
