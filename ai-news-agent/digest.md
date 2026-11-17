@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-17 18:01
+
+- **[Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop](https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/)** (TechCrunch AI, 8/10) - Proton launched Lumo, a desktop application that runs a privacy‑oriented chatbot on Windows, macOS and Linux. It lets developers experiment with AI assistants while keeping data on the local machine, useful for building secure tools.
+- **[Elephant-Goldfish Model](https://egm.dev/)** (Hacker News, 7/10) - The Elephant‑Goldfish model was released as an open‑source transformer that handles both text and image inputs. Developers can run it locally to add multimodal capabilities to apps without paying for cloud APIs.
+
 ## 2026-11-17 17:32
 
 - **[Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](https://github.com/RunanywhereAI/trnrt)** (Hacker News, 7/10) - Developers released TrnRT, an open-source inference engine optimized for running Large Language Models (LLMs) on AWS Trainium hardware. It provides engineers with a dedicated tool to lower cloud hosting costs by utilizing AWS custom chips instead of standard Nvidia GPUs.
