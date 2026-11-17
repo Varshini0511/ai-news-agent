@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-17 15:31
+
+- **[[Harness Adapters] Fine tune Qwen3.8-27B for Pi Agents](https://www.reddit.com/r/LocalLLaMA/comments/1xykw4l/harness_adapters_fine_tune_qwen3827b_for_pi_agents/)** (Reddit LocalLLaMA, 7/10) - Hugging Face released a LoRA (low‑rank adaptation) adapter for the Qwen 3.8‑27B model to improve its performance in Pi‑style agents. This lets developers add specialized capabilities to a large language model without retraining the whole model, saving time and compute.
+
 ## 2026-11-17 15:01
 
 - **[Cloudflare Joins the Jevolution and Labels Itself a Neolab](https://latent.space/p/cloudflare/)** (Latent Space, 7/10) - Cloudflare announced its own family of AI models called System One, designed to make decisions and fetch data in a few milliseconds. This gives developers a fast, low‑latency inference option that can be run close to web traffic, which is handy for building real‑time AI‑powered services.
