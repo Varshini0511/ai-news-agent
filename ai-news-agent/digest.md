@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-17 18:31
+
+- **[Introducing GPT-6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol)** (OpenAI Blog, 9/10) - OpenAI launched GPT‑6.2 Astra and Sol, two new model variants that claim better professional‑grade output, coding help, and computer‑use abilities while costing less. Developers can call these models through the existing ChatGPT Work, Codex, and API endpoints to get higher quality results without raising their cloud spend.
+- **[Astra for Law leads in legal intelligence](https://openai.com/index/astra-law-6-2)** (OpenAI Blog, 7/10) - OpenAI announced that its Astra for Law feature topped an evaluation covering 24 areas of law and is now open to any ChatGPT Enterprise customer who asks for it. This gives engineers building legal‑tech applications a ready‑made, domain‑tuned assistant that can answer legal questions more accurately than a generic model.
+- **[As decision model use skyrockets, is customization is the next frontier?](https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/)** (TechCrunch AI, 6/10) - Sqwish Labs introduced a decision‑model service that lets you train the model with your own data to customize its recommendations. The tool lets developers add tailored decision‑making logic to apps without building a full machine‑learning pipeline from scratch.
+
 ## 2026-11-17 18:01
 
 - **[Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop](https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/)** (TechCrunch AI, 8/10) - Proton launched Lumo, a desktop application that runs a privacy‑oriented chatbot on Windows, macOS and Linux. It lets developers experiment with AI assistants while keeping data on the local machine, useful for building secure tools.
