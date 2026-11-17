@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-17 21:01
+
+- **[Introducing staged publishing on NuGet.org](https://devblogs.microsoft.com/dotnet/nuget-staged-publishing/)** (.NET Blog, 7/10) - NuGet.org now offers staged publishing, allowing you to upload a .NET package and keep it hidden while you run tests or get approvals before making it public. This prevents accidental releases and gives teams a safe checkpoint before users can install the package.
+- **[T3 Code Nightly 0.1.11-nightly.20261117.4851 (b387e3a179d7)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.11-nightly.20261117.4851)** (T3 Code releases, 6/10) - T3 Code nightly build 0.1.11 adds the ability to edit earlier messages, switch AI providers during a session, and queue a new request while a Claude response is still generating. These tools let developers experiment with different models and keep a smoother workflow when building AI‑augmented coding assistants.
+
 ## 2026-11-17 19:31
 
 - **[Google expands access to Gemini Tasks, which can help with calls, purchases](https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/)** (TechCrunch AI, 9/10) - Google opened Gemini’s new “Tasks” mode, enabling the model to make phone calls, log into websites, and complete purchases on a user’s behalf. This gives developers a ready‑made way to add real‑world automation to applications without writing their own tool‑calling infrastructure.
