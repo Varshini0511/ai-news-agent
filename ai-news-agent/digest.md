@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-17 09:31
+
+- **[[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026](https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/)** (Latent Space, 7/10) - Perplexity AI introduced a Monitor API that provides real‑time metrics like request counts, latency, and error rates for apps using its language models. Developers can use these metrics to debug issues faster and manage usage costs when integrating Perplexity’s models into their products.
+
 ## 2026-11-17 09:01
 
 - **[Ballet](https://www.producthunt.com/products/ballet)** (Product Hunt, 7/10) - Ballet provides a framework for deterministic AI workflow automation aimed at operations teams. It helps developers create reliable, repeatable pipelines for model training and deployment.
