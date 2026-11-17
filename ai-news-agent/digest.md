@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-17 16:32
+
+- **[SenseNova-Loop-9B vs its own Preview: AutomationBench 14.33 to 36.67, GAIA 37.86 to 69.90 (9B Looped Transformer)](https://www.reddit.com/r/LocalLLaMA/comments/1xymz9z/sensenovaloop9b_vs_its_own_preview/)** (Reddit LocalLLaMA, 7/10) - SenseTime released SenseNova-Loop-9B, an open-source model under the Apache 2.0 license that re-runs internal transformer layers to boost performance on complex tasks. This gives developers a lightweight 9-billion parameter model capable of running advanced reasoning tasks locally with low memory overhead.
+
 ## 2026-11-17 15:31
 
 - **[[Harness Adapters] Fine tune Qwen3.8-27B for Pi Agents](https://www.reddit.com/r/LocalLLaMA/comments/1xykw4l/harness_adapters_fine_tune_qwen3827b_for_pi_agents/)** (Reddit LocalLLaMA, 7/10) - Hugging Face released a LoRA (low‑rank adaptation) adapter for the Qwen 3.8‑27B model to improve its performance in Pi‑style agents. This lets developers add specialized capabilities to a large language model without retraining the whole model, saving time and compute.
