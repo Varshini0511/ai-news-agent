@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-17 02:01
+
+- **[Running coding agents without handing them my credentials](https://blog.antonio.cx/running-agents-with-lend)** (Hacker News, 6/10) - A technical post explores techniques for running AI coding agents inside isolated sandboxes without exposing master API keys or developer credentials. This helps builders design secure agentic workflows that safely execute shell commands and code updates.
+
 ## 2026-11-17 01:31
 
 - **[Show HN: Sutra-OS – A self-hosted ontology platform](https://github.com/0nelight/sutra-os)** (Hacker News, 6/10) - Sutra-OS is an open-source, self-hosted platform for creating and managing data ontologies and knowledge graphs. It is useful for software engineers building graph-based Retrieval-Augmented Generation (GraphRAG) systems to supply structured context to Large Language Models.
