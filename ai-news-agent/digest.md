@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-17 01:31
+
+- **[Show HN: Sutra-OS – A self-hosted ontology platform](https://github.com/0nelight/sutra-os)** (Hacker News, 6/10) - Sutra-OS is an open-source, self-hosted platform for creating and managing data ontologies and knowledge graphs. It is useful for software engineers building graph-based Retrieval-Augmented Generation (GraphRAG) systems to supply structured context to Large Language Models.
+
 ## 2026-11-16 23:01
 
 - **[miHoYo Gamer: A Generalist Game Agent](https://www.reddit.com/r/LocalLLaMA/comments/1xxy7eb/mihoyo_gamer_a_generalist_game_agent/)** (Reddit LocalLLaMA, 6/10) - Researchers introduced miHoYo Gamer, a generalist autonomous AI agent designed to perceive screen pixels and play complex video games. It offers practical insights into building computer-using agents that can interpret complex graphical interfaces and take real-time actions.
