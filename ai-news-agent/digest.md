@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-17 23:31
+
+- **[v2.1.327](https://github.com/anthropics/claude-code/releases/tag/v2.1.327)** (Claude Code releases, 7/10) - Claude Code version 2.1.327 adds a confirmation step before installing a GitHub app, a new command to read JSON from stdin, and a log line for resumed sessions. These tweaks improve security and make it easier to automate the coding assistant without exposing secrets.
+
 ## 2026-11-17 23:01
 
 - **[Introducing ChatGPT for Sales](https://openai.com/index/introducing-chatgpt-for-sales)** (OpenAI Blog, 7/10) - OpenAI added a Sales plugin to ChatGPT and expanded the partner plugin library to more than 30 tools that can look up prospects, draft pitches, and write updates to a CRM. For developers, the plugin gives a ready‑made way to add sales‑automation features to apps that use the ChatGPT API without building the integrations yourself.
