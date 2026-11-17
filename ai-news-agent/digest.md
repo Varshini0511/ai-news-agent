@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-17 19:31
+
+- **[Google expands access to Gemini Tasks, which can help with calls, purchases](https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/)** (TechCrunch AI, 9/10) - Google opened Gemini’s new “Tasks” mode, enabling the model to make phone calls, log into websites, and complete purchases on a user’s behalf. This gives developers a ready‑made way to add real‑world automation to applications without writing their own tool‑calling infrastructure.
+- **[Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos](https://starsling.dev)** (Hacker News, 7/10) - StarSling launched a continuous‑integration (CI) system that automatically tests and updates large numbers of AI agents stored in code repositories. It lets developers keep many agent versions running correctly without manual work, which speeds up scaling and maintenance of agent fleets.
+- **[Advancing computer-use agents for healthcare teams](https://openai.com/index/advancing-computer-use-for-healthcare-teams/)** (Hacker News, 6/10) - Researchers released a set of computer‑use agents that help healthcare teams interact with electronic record systems and schedule tasks. Builders can copy the design and code to create similar agents for other regulated fields, reducing the effort needed to add safe, domain‑specific automation.
+
 ## 2026-11-17 19:01
 
 - **[MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)** (Hacker News, 9/10) - Mistral AI launched Code 2 and Code 2 Flash, two new large language models built for writing software code. Developers can call them through Mistral’s API to get quicker and more accurate code completions in their IDEs or CI pipelines.
