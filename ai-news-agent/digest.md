@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-17 12:01
+
+- **[Hugging Face switched its language model inference routing to OpenRouter](https://www.reddit.com/r/LocalLLaMA/comments/1xy9o6j/hugging_face_switched_its_language_model/)** (Reddit LocalLLaMA, 7/10) - Hugging Face announced that starting November 16 2026 all calls to language models through its Inference Providers will be routed through OpenRouter instead of its own router. This matters to developers because OpenRouter automatically chooses the cheapest and fastest provider for each request and will retry with another provider if one fails, potentially lowering costs and improving reliability for applications that use Hugging Face’s hosted models.
+
 ## 2026-11-17 11:31
 
 - **[OVH announces Olala mini 7A1B](https://www.reddit.com/r/LocalLLaMA/comments/1xygtj4/ovh_announces_olala_mini_7a1b/)** (Reddit LocalLLaMA, 7/10) - OVH introduced Olala mini, a 7‑billion‑parameter language model that activates only about one‑billion parameters per request using a mixture‑of‑experts design and hybrid attention. This makes the model cheaper and faster to run, which is handy for developers who need an efficient LLM without paying for large‑scale compute.
