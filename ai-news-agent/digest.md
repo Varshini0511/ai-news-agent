@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-17 17:32
+
+- **[Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](https://github.com/RunanywhereAI/trnrt)** (Hacker News, 7/10) - Developers released TrnRT, an open-source inference engine optimized for running Large Language Models (LLMs) on AWS Trainium hardware. It provides engineers with a dedicated tool to lower cloud hosting costs by utilizing AWS custom chips instead of standard Nvidia GPUs.
+
 ## 2026-11-17 16:32
 
 - **[SenseNova-Loop-9B vs its own Preview: AutomationBench 14.33 to 36.67, GAIA 37.86 to 69.90 (9B Looped Transformer)](https://www.reddit.com/r/LocalLLaMA/comments/1xymz9z/sensenovaloop9b_vs_its_own_preview/)** (Reddit LocalLLaMA, 7/10) - SenseTime released SenseNova-Loop-9B, an open-source model under the Apache 2.0 license that re-runs internal transformer layers to boost performance on complex tasks. This gives developers a lightweight 9-billion parameter model capable of running advanced reasoning tasks locally with low memory overhead.
