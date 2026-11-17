@@ -1,5 +1,14 @@
 # AI Digest
 
+## 2026-11-17 08:31
+
+- **[Pinecall](https://www.producthunt.com/products/pinecall)** (Product Hunt, 8/10) - Pinecall is an open‑source framework for building voice‑enabled AI agents that can speak and listen. Its codebase lets developers add conversational voice features to their own applications without starting from scratch.
+- **[Agents Cannot Hand Over What They Have Not Yet Understood](https://arxiv.org/abs/2611.18642)** (arXiv cs.AI, 7/10) - Researchers released a paper studying how autonomous agents can hand off work to a successor when they exceed their memory window. Understanding these hand‑off limits helps you design multi‑step or team‑based AI agents that don’t lose context.
+- **[SPLICE: Structured Prompt Local Iterative Combinatorial Evolution](https://arxiv.org/abs/2611.18883)** (arXiv cs.AI, 7/10) - SPLICE proposes an iterative prompt‑engineering loop where a language model critiques and rewrites its own system prompts, tool instructions, and examples. This technique can automate prompt refinement for better agent performance.
+- **[SpecRelay: Amortize or Avoid the Round Trip in Edge-Cloud Speculative Decoding](https://arxiv.org/abs/2611.18963)** (arXiv cs.AI, 7/10) - SpecRelay describes a technique where a small edge device drafts tokens while a larger cloud model verifies them, reducing round‑trip latency. Developers can use this to speed up inference for interactive AI services.
+- **[RankSpot](https://www.producthunt.com/products/rankspot)** (Product Hunt, 7/10) - RankSpot offers a pay‑as‑you‑go service that provides SEO data and AI‑driven search results for agents. Developers can integrate it to give their agents up‑to‑date web information without building a search stack themselves.
+- **[Agents API by Recall.ai](https://www.producthunt.com/products/recall-ai)** (Product Hunt, 6/10) - Recall.ai released an Agents API that lets developers send an AI agent to attend and summarize meetings. This makes it easier to add real‑time meeting assistance to custom applications.
+
 ## 2026-11-17 08:01
 
 - **[polyroom](https://www.producthunt.com/products/polyroom)** (Product Hunt, 6/10) - Polyroom is a platform where multiple AI agents can be linked together to work on a shared task, and team members can guide their actions. It provides a ready‑made environment for experimenting with multi‑agent workflows.
