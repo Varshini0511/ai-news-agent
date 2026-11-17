@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-17 15:01
+
+- **[Cloudflare Joins the Jevolution and Labels Itself a Neolab](https://latent.space/p/cloudflare/)** (Latent Space, 7/10) - Cloudflare announced its own family of AI models called System One, designed to make decisions and fetch data in a few milliseconds. This gives developers a fast, low‑latency inference option that can be run close to web traffic, which is handy for building real‑time AI‑powered services.
+- **[Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags](https://github.com/plabayo/venndb)** (Hacker News, 6/10) - VennDB is an open‑source, in‑memory database written in Rust that stores rows as bit‑flags and supports fast append‑only writes. It can be used as a lightweight vector‑store for embedding‑based retrieval, letting developers prototype retrieval‑augmented generation without a heavyweight external database.
+
 ## 2026-11-17 13:32
 
 - **[Rotate K/V read order for better L2 cache hit rates by gaugarg-nv · Pull Request #32407 · ggml-org/llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xyi6hj/rotate_kv_read_order_for_better_l2_cache_hit/)** (Reddit LocalLLaMA, 7/10) - A pull request to llama.cpp optimizes Key-Value memory cache read orders to boost hardware cache hit rates. This gives developers running local Large Language Models (LLMs) up to a 40 percent prompt processing speedup on long contexts.
