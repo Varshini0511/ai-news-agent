@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-17 06:31
+
+- **[maxwell-model/Maxwell-V1-Flash · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xyamk6/maxwellmodelmaxwellv1flash_hugging_face/)** (Reddit LocalLLaMA, 6/10) - Maxwell-V1-Flash is a new open-source Mixture-of-Experts (MoE) language model featuring 35 billion total parameters with only 3 billion active per token and a 256K context window. It provides developers with an efficient local model option capable of processing long prompts with significantly lower hardware memory requirements.
+
 ## 2026-11-17 02:01
 
 - **[Running coding agents without handing them my credentials](https://blog.antonio.cx/running-agents-with-lend)** (Hacker News, 6/10) - A technical post explores techniques for running AI coding agents inside isolated sandboxes without exposing master API keys or developer credentials. This helps builders design secure agentic workflows that safely execute shell commands and code updates.
