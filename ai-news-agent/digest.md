@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-17 21:31
+
+- **[rust-v0.169.1](https://github.com/openai/codex/releases/tag/rust-v0.169.1)** (OpenAI Codex releases, 7/10) - OpenAI updated its Codex code‑generation model to version 0.169.1, adding a number of fixes and new features for the Rust programming language. This means Rust developers can now get more accurate autocomplete and code‑completion suggestions directly in their editors, speeding up coding and reducing simple bugs.
+
 ## 2026-11-17 21:01
 
 - **[Introducing staged publishing on NuGet.org](https://devblogs.microsoft.com/dotnet/nuget-staged-publishing/)** (.NET Blog, 7/10) - NuGet.org now offers staged publishing, allowing you to upload a .NET package and keep it hidden while you run tests or get approvals before making it public. This prevents accidental releases and gives teams a safe checkpoint before users can install the package.
