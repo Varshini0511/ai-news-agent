@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-17 10:01
+
+- **[nvidia/Nemotron-Labs-Sigma 8B/3B](https://www.reddit.com/r/LocalLLaMA/comments/1xxwg6w/nvidianemotronlabssigma_8b3b/)** (Reddit LocalLLaMA, 7/10) - Nemotron Labs released Sigma‑8B‑instruct, an 8 billion‑parameter language model that generates text by denoising a low‑dimensional continuous embedding space instead of predicting one token at a time. This approach can produce faster inference and smoother text generation, giving developers a new open‑source model to experiment with for building chatbots, assistants, or any app that needs compact, high‑quality language generation.
+
 ## 2026-11-17 09:31
 
 - **[[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026](https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/)** (Latent Space, 7/10) - Perplexity AI introduced a Monitor API that provides real‑time metrics like request counts, latency, and error rates for apps using its language models. Developers can use these metrics to debug issues faster and manage usage costs when integrating Perplexity’s models into their products.
