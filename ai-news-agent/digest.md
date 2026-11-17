@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-17 19:01
+
+- **[MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)** (Hacker News, 9/10) - Mistral AI launched Code 2 and Code 2 Flash, two new large language models built for writing software code. Developers can call them through Mistral’s API to get quicker and more accurate code completions in their IDEs or CI pipelines.
+- **[Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free](https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free)** (The Verge AI, 7/10) - Google renamed its Spark AI agent to “Tasks” and made it free, running on the new Gemini 4 Hydrogen model. The agent can automatically create meal plans, manage calendars, and search email for recurring expenses, giving developers an easy‑to‑use personal‑assistant component they can embed in their applications.
+
 ## 2026-11-17 18:31
 
 - **[Introducing GPT-6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol)** (OpenAI Blog, 9/10) - OpenAI launched GPT‑6.2 Astra and Sol, two new model variants that claim better professional‑grade output, coding help, and computer‑use abilities while costing less. Developers can call these models through the existing ChatGPT Work, Codex, and API endpoints to get higher quality results without raising their cloud spend.
