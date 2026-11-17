@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-17 11:31
+
+- **[OVH announces Olala mini 7A1B](https://www.reddit.com/r/LocalLLaMA/comments/1xygtj4/ovh_announces_olala_mini_7a1b/)** (Reddit LocalLLaMA, 7/10) - OVH introduced Olala mini, a 7‑billion‑parameter language model that activates only about one‑billion parameters per request using a mixture‑of‑experts design and hybrid attention. This makes the model cheaper and faster to run, which is handy for developers who need an efficient LLM without paying for large‑scale compute.
+
 ## 2026-11-17 11:01
 
 - **[Clover 2: dense 27.8B base + 7 LoRA experts routed per token, not a static merge, weights public](https://www.reddit.com/r/LocalLLaMA/comments/1xyb7jw/clover_2_dense_278b_base_7_lora_experts_routed/)** (Reddit LocalLLaMA, 8/10) - Clover 2 ships a 27.8 billion‑parameter base model plus seven LoRA adapters that are chosen token‑by‑token for tasks such as math, security or long‑document handling. This lets developers add specialized skills without retraining the full model, saving compute and simplifying customization.
