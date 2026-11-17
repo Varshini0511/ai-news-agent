@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-17 09:01
+
+- **[Ballet](https://www.producthunt.com/products/ballet)** (Product Hunt, 7/10) - Ballet provides a framework for deterministic AI workflow automation aimed at operations teams. It helps developers create reliable, repeatable pipelines for model training and deployment.
+- **[infaiw](https://www.producthunt.com/products/infaiw)** (Product Hunt, 7/10) - infaiw introduces side‑car agents that can take on tasks and require an approval script before completing them. It offers a simple way to build and manage autonomous agents for custom AI applications.
+- **[AWS Emulator](https://www.producthunt.com/products/aws)** (Product Hunt, 6/10) - The AWS Emulator lets you run and test Amazon Web Services code on your own machine without deploying to the cloud. This speeds up development of AI services that rely on AWS components such as Lambda or SageMaker.
+
 ## 2026-11-17 08:31
 
 - **[Pinecall](https://www.producthunt.com/products/pinecall)** (Product Hunt, 8/10) - Pinecall is an open‑source framework for building voice‑enabled AI agents that can speak and listen. Its codebase lets developers add conversational voice features to their own applications without starting from scratch.
