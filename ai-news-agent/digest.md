@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-18 06:31
+
+- **[Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)** (arXiv cs.AI, 7/10) - A new method lets language models edit their own weight matrices during inference, instead of requiring a full re‑training run. This could enable on‑the‑fly model updates and lower maintenance costs.
+- **[DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding](https://arxiv.org/abs/2611.21925)** (arXiv cs.AI, 7/10) - DNeo improves speculative‑diffusion decoding by giving the small draft model better feature encoding, speeding up token generation. Faster decoding is valuable for real‑time applications such as chatbots.
+- **[DiscoveryAgent: A Framework for Scientist-centric Agentic AI](https://arxiv.org/abs/2611.21950)** (arXiv cs.AI, 7/10) - DiscoveryAgent is a new, domain‑agnostic framework that lets scientists guide autonomous AI agents while still inspecting their work. It provides a reusable building block for creating research‑assistant bots.
+
 ## 2026-11-18 03:32
 
 - **[Microsoft and Oracle bring agentic AI into flow of enterprise work](https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-bring-agentic-ai-into-flow-of-enterprise-work/)** (Microsoft AI / Azure, 7/10) - Microsoft and Oracle announced an integration that lets Azure AI agents access and reason over Oracle's enterprise data. This helps developers embed data‑driven AI assistants directly into business apps without building custom data pipelines.
