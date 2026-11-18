@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-18 16:31
+
+- **[Microsoft AI: Seven new world-class models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)** (Hacker News, 9/10) - Microsoft announced seven new AI models—including chat, embeddings, and vision—hosted on Azure with price-performance tiers that scale to large workloads. This gives developers a broader choice of high‑quality models that can be plugged into apps at predictable, lower costs.
+- **[rust-v0.172.0-alpha.1](https://github.com/openai/codex/releases/tag/rust-v0.172.0-alpha.1)** (OpenAI Codex releases, 7/10) - OpenAI published version 0.172.0‑alpha.1 of the Rust SDK for Codex, adding new endpoints and fixing several bugs. Rust programmers can now call Codex directly from their code to generate or complete snippets, speeding up AI‑assisted development.
+
 ## 2026-11-18 16:01
 
 - **[Quoting Daniel Stenberg](https://simonwillison.net/2026/Nov/18/daniel-stenberg/)** (Simon Willison, 7/10) - AI agents automatically rewrote curl's 185,000 lines of C code into 340,000 lines of Rust, merging over 300 commits and fixing more than 200 bugs in just three weeks. This demonstrates that autonomous code‑translation agents can speed up large‑scale refactoring and improve software quality, a practical technique for developers building with AI.
