@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-18 10:31
+
+- **[Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)** (Hacker News, 6/10) - A new research paper introduces Energy-Based Reasoners, a method claiming up to 385 times more efficient inference for complex reasoning tasks. This is useful for developers tracking novel architectures that could drastically cut model hosting and operational costs.
+
 ## 2026-11-18 10:01
 
 - **[MAI Cyber 2 Flash](https://www.producthunt.com/products/mai-image-2-3)** (Product Hunt, 7/10) - Microsoft launched MAI Cyber 2 Flash, a low‑cost security‑focused AI that can process up to one million tokens in a single request. The huge context window lets analysts feed whole logs or reports to the model, making it easier to get AI‑generated security insights without chopping the data.
