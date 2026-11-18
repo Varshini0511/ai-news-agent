@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-18 11:31
+
+- **[Suno now lets you make AI videos for your AI music](https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature)** (The Verge AI, 6/10) - Suno added a feature called Visuals that can turn AI‑generated songs into short video clips that automatically lip‑sync to the lyrics, and it can also create images from text prompts. This gives developers a ready‑made way to add music‑driven video generation to their apps without building or training their own video model.
+
 ## 2026-11-18 10:31
 
 - **[Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)** (Hacker News, 6/10) - A new research paper introduces Energy-Based Reasoners, a method claiming up to 385 times more efficient inference for complex reasoning tasks. This is useful for developers tracking novel architectures that could drastically cut model hosting and operational costs.
