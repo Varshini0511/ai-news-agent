@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-18 09:31
+
+- **[v2.5.0](https://github.com/modelcontextprotocol/servers/releases/tag/v2.5.0)** (MCP servers releases, 7/10) - The Model Context Protocol (MCP) servers were updated to version 2.5.0, which patches eight security vulnerabilities across three server packages. Updating protects any application that uses MCP from known attack vectors and keeps the deployment stable.
+
 ## 2026-11-18 09:01
 
 - **[Qwen4-Max](https://www.producthunt.com/products/qwen3)** (Product Hunt, 8/10) - Alibaba released Qwen4-Max, a flagship Large Language Model (LLM) optimized for long-horizon agent execution. It gives developers a high-performing model capable of maintaining accuracy and context across complex, multi-step autonomous workflows.
