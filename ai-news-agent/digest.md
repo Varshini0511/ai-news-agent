@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-18 10:01
+
+- **[MAI Cyber 2 Flash](https://www.producthunt.com/products/mai-image-2-3)** (Product Hunt, 7/10) - Microsoft launched MAI Cyber 2 Flash, a low‑cost security‑focused AI that can process up to one million tokens in a single request. The huge context window lets analysts feed whole logs or reports to the model, making it easier to get AI‑generated security insights without chopping the data.
+- **[Claude was trained on protein sequences at scale](http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/)** (Hacker News, 6/10) - A research post reported that the Claude language model was trained on large collections of protein sequences. This shows the model can understand biological data, opening the door for developers to build AI tools that help analyze proteins or automate biotech research.
+
 ## 2026-11-18 09:31
 
 - **[v2.5.0](https://github.com/modelcontextprotocol/servers/releases/tag/v2.5.0)** (MCP servers releases, 7/10) - The Model Context Protocol (MCP) servers were updated to version 2.5.0, which patches eight security vulnerabilities across three server packages. Updating protects any application that uses MCP from known attack vectors and keeps the deployment stable.
