@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-18 00:31
+
+- **[v0.25.0](https://github.com/openai/openai-agents-python/releases/tag/v0.25.0)** (OpenAI Agents SDK, 6/10) - OpenAI released version 0.25.0 of its Agents SDK, adding support for third‑party session adapters and improving error‑recovery handling. This lets developers more easily connect external services to their AI agents and makes the SDK more stable for production use.
+
 ## 2026-11-17 23:31
 
 - **[v2.1.327](https://github.com/anthropics/claude-code/releases/tag/v2.1.327)** (Claude Code releases, 7/10) - Claude Code version 2.1.327 adds a confirmation step before installing a GitHub app, a new command to read JSON from stdin, and a log line for resumed sessions. These tweaks improve security and make it easier to automate the coding assistant without exposing secrets.
