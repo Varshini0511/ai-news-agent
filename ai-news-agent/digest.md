@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-18 08:32
+
+- **[SoreQen Code](https://www.producthunt.com/products/soreqen-code)** (Product Hunt, 6/10) - SoreQen Code released an AI coding agent that automatically runs tests and checks its own generated output for errors before finalizing code. This self-correction mechanism helps developers save time by reducing basic runtime and syntax bugs in generated code.
+
 ## 2026-11-18 08:03
 
 - **[Beacon](https://www.producthunt.com/products/beacon-26)** (Product Hunt, 7/10) - Beacon lets an AI agent use the web browser you are already logged into, sharing cookies and session data. This makes it easier to build agents that can act on your behalf without re‑authenticating each time.
