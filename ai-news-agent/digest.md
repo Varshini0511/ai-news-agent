@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-18 01:01
+
+- **[rust-v0.170.0-alpha.4.2](https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.4.2)** (OpenAI Codex releases, 7/10) - OpenAI released a new version of its Codex model that supports the Rust programming language (rust‑v0.170.0‑alpha.4.2). Rust developers can now get AI‑generated code suggestions directly in their workflow, speeding up coding and learning.
+
 ## 2026-11-18 00:31
 
 - **[v0.25.0](https://github.com/openai/openai-agents-python/releases/tag/v0.25.0)** (OpenAI Agents SDK, 6/10) - OpenAI released version 0.25.0 of its Agents SDK, adding support for third‑party session adapters and improving error‑recovery handling. This lets developers more easily connect external services to their AI agents and makes the SDK more stable for production use.
