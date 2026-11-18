@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-18 22:01
+
+- **[Introducing Gemini 4 Neon](https://deepmind.google/blog/introducing-gemini-4-neon/)** (Google DeepMind, 9/10) - DeepMind launched Gemini 4 Neon, a new multimodal large language model that handles text and images with improved reasoning. Builders can integrate it via the Gemini API for higher‑quality generation and more versatile AI agents.
+
 ## 2026-11-18 21:01
 
 - **[DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1](https://www.radixark.com/blog/daisyrose-27b)** (Hacker News, 7/10) - Researchers released the DaisyRose-27B model, which uses reinforcement learning on 1,200 tasks to boost Qwen3.8's accuracy from 5.6% to 12% on the Terminal‑Bench 4.1 evaluation. This shows that targeted RL fine‑tuning can markedly improve a language model's ability to follow complex instructions, which is useful for developers building more reliable AI agents.
