@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-18 18:31
+
+- **[Genie 4 is now available](https://deepmind.google/blog/genie-4-is-now-available/)** (Google DeepMind, 8/10) - DeepMind announced Genie 4, the latest version of its multimodal language model that can process text and images and generate detailed responses. The model is available through an API, giving developers a new tool for building agents that need visual understanding.
+- **[Inside the Codex sandbox](https://openai.com/index/inside-the-codex-sandbox)** (OpenAI Blog, 7/10) - OpenAI released a sandbox that lets the Codex model run shell commands on a developer’s computer while keeping the file system and network access limited by the user. This makes it safe to test AI‑generated scripts on macOS, Linux and Windows without risking unwanted changes.
+
 ## 2026-11-18 18:01
 
 - **[Lakegres: Vector search on existing Open/Hudi/Iceberg tables](https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats)** (Hacker News, 7/10) - Lakegres adds vector similarity search capabilities directly on top of existing Open, Hudi, or Iceberg data tables. This lets engineers reuse their current data lake without moving data into a separate vector database.
