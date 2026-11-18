@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-18 09:01
+
+- **[Qwen4-Max](https://www.producthunt.com/products/qwen3)** (Product Hunt, 8/10) - Alibaba released Qwen4-Max, a flagship Large Language Model (LLM) optimized for long-horizon agent execution. It gives developers a high-performing model capable of maintaining accuracy and context across complex, multi-step autonomous workflows.
+- **[Microsoft IQ](https://www.producthunt.com/products/microsoft-365)** (Product Hunt, 6/10) - Microsoft launched Microsoft IQ, an enterprise context layer designed to give AI agents access to shared business knowledge. This helps developers build context-aware agents that can securely query and act on organizational data.
+- **[canfit](https://www.producthunt.com/products/canfit)** (Product Hunt, 6/10) - Canfit is a terminal monitoring tool built specifically to inspect resource and video memory usage when running local Large Language Models (LLMs). It helps developers quickly debug hardware bottlenecks and track VRAM footprint while testing open-source models locally.
+
 ## 2026-11-18 08:32
 
 - **[SoreQen Code](https://www.producthunt.com/products/soreqen-code)** (Product Hunt, 6/10) - SoreQen Code released an AI coding agent that automatically runs tests and checks its own generated output for errors before finalizing code. This self-correction mechanism helps developers save time by reducing basic runtime and syntax bugs in generated code.
