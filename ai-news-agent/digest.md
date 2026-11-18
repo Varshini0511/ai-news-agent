@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-18 17:01
+
+- **[180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers](https://huggingface.co/blog/moe-expert-streaming)** (Hugging Face, 8/10) - Hugging Face demonstrated that a 180‑billion‑parameter mixture‑of‑experts model can run inference on a single server with 32 GB of memory. The technique shows how builders can serve very large models without buying expensive hardware.
+- **[The Gemini app is now available on lower-memory Android devices.](https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/)** (Google AI Blog, 7/10) - Google released an updated Gemini app that runs on Android phones with less than 2 GB of RAM. This lets developers test Gemini’s live chat and image‑generation features on low‑cost devices without needing a high‑end phone.
+
 ## 2026-11-18 16:31
 
 - **[Microsoft AI: Seven new world-class models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)** (Hacker News, 9/10) - Microsoft announced seven new AI models—including chat, embeddings, and vision—hosted on Azure with price-performance tiers that scale to large workloads. This gives developers a broader choice of high‑quality models that can be plugged into apps at predictable, lower costs.
