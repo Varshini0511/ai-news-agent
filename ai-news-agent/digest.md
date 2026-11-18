@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-18 19:31
+
+- **[Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)** (Hacker News, 8/10) - Genie 4, a new large language model, has been released and is now accessible through its provider’s API and downloadable weights. It offers stronger reasoning and coding assistance than its predecessor, giving developers a fresh, high‑quality model to experiment with for chatbots, code generation, and other AI‑driven features.
+
 ## 2026-11-18 19:03
 
 - **[Why your fine-tuning job takes longer than the FLOPs say](https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time)** (Hugging Face, 7/10) - Hugging Face published an article explaining why fine‑tuning jobs often run slower than the FLOPs (floating‑point operations) estimate would suggest. Knowing the real‑world factors that add overhead helps engineers plan compute budgets and troubleshoot training pipelines.
