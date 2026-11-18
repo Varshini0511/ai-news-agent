@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-18 01:31
+
+- **[Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)** (Hacker News, 7/10) - Harvard researchers examined how AI coding assistants affect software development and discovered that while these agents speed up writing code, they shift the biggest delay to the code‑review step. This is useful for builders because it highlights that improving review workflows or adding tools to automate review can boost overall productivity more than just faster code generation.
+
 ## 2026-11-18 01:01
 
 - **[rust-v0.170.0-alpha.4.2](https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.4.2)** (OpenAI Codex releases, 7/10) - OpenAI released a new version of its Codex model that supports the Rust programming language (rust‑v0.170.0‑alpha.4.2). Rust developers can now get AI‑generated code suggestions directly in their workflow, speeding up coding and learning.
