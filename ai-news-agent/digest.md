@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-18 21:01
+
+- **[DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1](https://www.radixark.com/blog/daisyrose-27b)** (Hacker News, 7/10) - Researchers released the DaisyRose-27B model, which uses reinforcement learning on 1,200 tasks to boost Qwen3.8's accuracy from 5.6% to 12% on the Terminal‑Bench 4.1 evaluation. This shows that targeted RL fine‑tuning can markedly improve a language model's ability to follow complex instructions, which is useful for developers building more reliable AI agents.
+
 ## 2026-11-18 20:01
 
 - **[DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency](https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin)** (Hugging Face, 7/10) - Hugging Face released DaisyRose‑27B, a 27‑billion‑parameter language model that uses a new post‑training technique to cut inference cost by up to 40 %. This makes a large model cheaper to run, so developers can add strong language capabilities to apps without paying for expensive GPU time.
