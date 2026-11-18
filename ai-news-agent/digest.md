@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-18 20:01
+
+- **[DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency](https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin)** (Hugging Face, 7/10) - Hugging Face released DaisyRose‑27B, a 27‑billion‑parameter language model that uses a new post‑training technique to cut inference cost by up to 40 %. This makes a large model cheaper to run, so developers can add strong language capabilities to apps without paying for expensive GPU time.
+- **[Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor](https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/)** (TechCrunch AI, 6/10) - Snapchat announced a developer feature that lets you create AR lenses by describing them in plain language, with AI assistants like Claude Code and Cursor handling the coding and asset generation. It speeds up building interactive AR experiences, letting engineers focus on design rather than low‑level implementation.
+
 ## 2026-11-18 19:31
 
 - **[Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)** (Hacker News, 8/10) - Genie 4, a new large language model, has been released and is now accessible through its provider’s API and downloadable weights. It offers stronger reasoning and coding assistance than its predecessor, giving developers a fresh, high‑quality model to experiment with for chatbots, code generation, and other AI‑driven features.
