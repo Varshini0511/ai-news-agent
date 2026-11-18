@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-18 15:01
+
+- **[Rumble-2-Flash: an open 0.5B speech model for 40+ languages](https://huggingface.co/blog/rumble-2-flash)** (Hugging Face, 8/10) - Hugging Face released Rumble‑2‑Flash, an open‑source speech‑to‑text model (0.5 billion parameters) that understands more than 40 languages. Engineers can use it to add multilingual transcription to apps, especially on low‑resource or on‑device setups, without paying for external API services.
+- **[Time-Series Models in the Streamhouse: A New Frontier and Use Cases](https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse)** (Hugging Face, 7/10) - Hugging Face added a collection of time‑series models to its Streamhouse library, with example code for forecasting, anomaly detection, and classification on live data streams. This lets developers plug in ready‑made models for real‑time predictions without building and training their own from scratch.
+
 ## 2026-11-18 11:31
 
 - **[Suno now lets you make AI videos for your AI music](https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature)** (The Verge AI, 6/10) - Suno added a feature called Visuals that can turn AI‑generated songs into short video clips that automatically lip‑sync to the lyrics, and it can also create images from text prompts. This gives developers a ready‑made way to add music‑driven video generation to their apps without building or training their own video model.
