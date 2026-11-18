@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-18 16:01
+
+- **[Quoting Daniel Stenberg](https://simonwillison.net/2026/Nov/18/daniel-stenberg/)** (Simon Willison, 7/10) - AI agents automatically rewrote curl's 185,000 lines of C code into 340,000 lines of Rust, merging over 300 commits and fixing more than 200 bugs in just three weeks. This demonstrates that autonomous code‑translation agents can speed up large‑scale refactoring and improve software quality, a practical technique for developers building with AI.
+
 ## 2026-11-18 15:01
 
 - **[Rumble-2-Flash: an open 0.5B speech model for 40+ languages](https://huggingface.co/blog/rumble-2-flash)** (Hugging Face, 8/10) - Hugging Face released Rumble‑2‑Flash, an open‑source speech‑to‑text model (0.5 billion parameters) that understands more than 40 languages. Engineers can use it to add multilingual transcription to apps, especially on low‑resource or on‑device setups, without paying for external API services.
