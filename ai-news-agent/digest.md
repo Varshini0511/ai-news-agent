@@ -1,5 +1,12 @@
 # AI Digest
 
+## 2026-11-18 03:32
+
+- **[Microsoft and Oracle bring agentic AI into flow of enterprise work](https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-bring-agentic-ai-into-flow-of-enterprise-work/)** (Microsoft AI / Azure, 7/10) - Microsoft and Oracle announced an integration that lets Azure AI agents access and reason over Oracle's enterprise data. This helps developers embed data‑driven AI assistants directly into business apps without building custom data pipelines.
+- **[Introducing Azure Catalyst agentic modernization and new AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/introducing-azure-catalyst-agentic-modernization-and-new-ai-infrastructure-innovations/)** (Microsoft AI / Azure, 7/10) - At Ignite 2026 Microsoft unveiled Azure Catalyst, a co‑engineered stack that aligns large language models, specialized silicon, and cloud services. It lets builders tune the whole stack for faster, more secure agent execution, reducing latency and cost.
+- **[Azure Cobalt 200 VMs now available, proven on real workloads and built for the agentic era](https://azure.microsoft.com/en-us/blog/azure-cobalt-200-vms-now-available-proven-on-real-workloads-and-built-for-the-agentic-era/)** (Microsoft AI / Azure, 7/10) - Azure introduced Cobalt 200 virtual machines, optimized for agentic AI and high‑performance database workloads. Developers get better price‑performance for running multi‑agent systems or inference jobs.
+- **[T3 Code Nightly 0.1.11-nightly.20261118.4864 (3e1b7c4e93d7)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.11-nightly.20261118.4864)** (T3 Code releases, 6/10) - T3 Code released nightly version 0.1.11 with multilingual UI, project and thread persistence, and better handling of missing database records. These enhancements make the IDE more stable for developers building AI‑assisted code tools.
+
 ## 2026-11-18 02:31
 
 - **[rust-v0.170.0](https://github.com/openai/codex/releases/tag/rust-v0.170.0)** (OpenAI Codex releases, 6/10) - OpenAI released Codex version 0.170.0 for the Rust programming language, adding new language support and fixing bugs. This lets Rust developers get more accurate code suggestions and speed up building AI‑assisted tools.
