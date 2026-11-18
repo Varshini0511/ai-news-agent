@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-18 23:31
+
+- **[Research acceleration: The jagged frontier](https://openai.com/index/research-acceleration-jagged-frontier)** (OpenAI Blog, 7/10) - OpenAI posted a blog that explains how they measured the speed at which coding agents are helping AI research, showing rapid gains in some tasks but uneven performance overall. This insight lets developers see where automated code assistants work well and where they still need improvement, helping them build more reliable AI‑powered tools.
+
 ## 2026-11-18 22:01
 
 - **[Introducing Gemini 4 Neon](https://deepmind.google/blog/introducing-gemini-4-neon/)** (Google DeepMind, 9/10) - DeepMind launched Gemini 4 Neon, a new multimodal large language model that handles text and images with improved reasoning. Builders can integrate it via the Gemini API for higher‑quality generation and more versatile AI agents.
