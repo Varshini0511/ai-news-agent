@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-18 08:03
+
+- **[Beacon](https://www.producthunt.com/products/beacon-26)** (Product Hunt, 7/10) - Beacon lets an AI agent use the web browser you are already logged into, sharing cookies and session data. This makes it easier to build agents that can act on your behalf without re‑authenticating each time.
+- **[dusk bot](https://www.producthunt.com/products/dusk-bot)** (Product Hunt, 7/10) - dusk bot is an open‑source chatbot that mimics the functionality of Grok, using a freely available language model. It gives developers a cheap way to experiment with conversational AI on their own servers.
+- **[Incredible Agents](https://www.producthunt.com/products/incredible)** (Product Hunt, 7/10) - Incredible Agents offers proactive AI assistants that run continuously on a computer and perform tasks like filing emails or updating files. It demonstrates a ready‑made agent framework that can be extended for custom automation.
+
 ## 2026-11-18 06:31
 
 - **[Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)** (arXiv cs.AI, 7/10) - A new method lets language models edit their own weight matrices during inference, instead of requiring a full re‑training run. This could enable on‑the‑fly model updates and lower maintenance costs.
