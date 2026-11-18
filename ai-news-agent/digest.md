@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-18 18:01
+
+- **[Lakegres: Vector search on existing Open/Hudi/Iceberg tables](https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats)** (Hacker News, 7/10) - Lakegres adds vector similarity search capabilities directly on top of existing Open, Hudi, or Iceberg data tables. This lets engineers reuse their current data lake without moving data into a separate vector database.
+
 ## 2026-11-18 17:31
 
 - **[Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models)** (OpenAI Blog, 6/10) - OpenAI published a blog showing how its GPT‑6 Astra model was used to optimize circuit layouts and improve a RISC‑V processor design. Builders can see a concrete example of how large language models can help with hardware engineering tasks such as chip layout and verification.
