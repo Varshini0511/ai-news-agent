@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-18 17:31
+
+- **[Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models)** (OpenAI Blog, 6/10) - OpenAI published a blog showing how its GPT‑6 Astra model was used to optimize circuit layouts and improve a RISC‑V processor design. Builders can see a concrete example of how large language models can help with hardware engineering tasks such as chip layout and verification.
+- **[Launch HN: Maritime (YC F26) – The managed cloud for production AI agents](https://news.ycombinator.com/item?id=50549188)** (Hacker News, 6/10) - Maritime launched a managed cloud service designed to host, monitor, and scale production AI agents for businesses. It gives developers a ready‑made environment for running agents without building their own infrastructure, speeding up deployment of agent‑based products.
+
 ## 2026-11-18 17:01
 
 - **[180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers](https://huggingface.co/blog/moe-expert-streaming)** (Hugging Face, 8/10) - Hugging Face demonstrated that a 180‑billion‑parameter mixture‑of‑experts model can run inference on a single server with 32 GB of memory. The technique shows how builders can serve very large models without buying expensive hardware.
