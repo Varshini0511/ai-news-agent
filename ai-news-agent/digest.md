@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-18 19:03
+
+- **[Why your fine-tuning job takes longer than the FLOPs say](https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time)** (Hugging Face, 7/10) - Hugging Face published an article explaining why fine‑tuning jobs often run slower than the FLOPs (floating‑point operations) estimate would suggest. Knowing the real‑world factors that add overhead helps engineers plan compute budgets and troubleshoot training pipelines.
+- **[Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models/)** (Hacker News, 7/10) - A recent post demonstrates how OpenAI’s language models are used to speed up semiconductor chip design, providing layout suggestions and automatic rule checks. Developers can apply the same prompting techniques to build AI‑assisted tools for their own hardware or design workflows.
+
 ## 2026-11-18 18:31
 
 - **[Genie 4 is now available](https://deepmind.google/blog/genie-4-is-now-available/)** (Google DeepMind, 8/10) - DeepMind announced Genie 4, the latest version of its multimodal language model that can process text and images and generate detailed responses. The model is available through an API, giving developers a new tool for building agents that need visual understanding.
