@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-19 00:31
+
+- **[Release v0.70.0-preview.0](https://github.com/google-gemini/gemini-cli/releases/tag/v0.70.0-preview.0)** (Gemini CLI releases, 6/10) - Google updated its Gemini Command Line Interface (CLI) developer tool to version 0.70.0-preview with automated release tweaks and testing fixes. It provides developers using Gemini from the terminal with the newest preview bug fixes and stability improvements.
+
 ## 2026-11-19 00:03
 
 - **[Anthropic prices initial public offering](https://www.anthropic.com/news/anthropic-prices-initial-public-offering)** (Anthropic News, 6/10) - T3 Code published a preview build for iOS, letting developers download and run the latest mobile version of the project. This gives AI and .NET developers a chance to test mobile integration early and provide feedback before the full release.
