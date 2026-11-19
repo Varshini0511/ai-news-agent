@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-19 08:01
+
+- **[Fieldwork Code](https://www.producthunt.com/products/fieldwork-code)** (Product Hunt, 7/10) - Fieldwork Code launched a product that lets you run AI‑powered code generation on your laptop, in the cloud, or from a phone. It lets developers get code suggestions or completions anywhere they work without needing a heavy IDE.
+- **[Tecla](https://www.producthunt.com/products/tecla-3)** (Product Hunt, 7/10) - Tecla is an AI agent that presents its work as a TODO list you can edit and can act on your behalf. It demonstrates a lightweight agent‑interaction model that can be integrated into custom tooling.
+
 ## 2026-11-19 07:01
 
 - **[llm-gemini 0.38](https://simonwillison.net/2026/Nov/18/llm-gemini/)** (Simon Willison, 7/10) - Google added a new Gemini 4 Neon model and the llm-gemini 0.38 library now supports it. Developers can use the updated library to call the Neon model from Python, making it easier to experiment with the latest Gemini features.
