@@ -1,5 +1,12 @@
 # AI Digest
 
+## 2026-11-19 23:31
+
+- **[Get started with Daybreak Blue](https://openai.com/business/learn/daybreak-blue-onboarding-demo)** (OpenAI Blog, 7/10) - OpenAI released a guided video for onboarding to Daybreak Blue, its new platform for creating and deploying AI agents. The demo shows the step‑by‑step setup, making it easier for developers to start building custom agents without deep infrastructure work.
+- **[Explore the Codex Security Plugin](https://openai.com/business/learn/codex-security-plugin-demo)** (OpenAI Blog, 6/10) - OpenAI posted a video showing how the Codex Security Plugin scans code for vulnerabilities and presents the findings inside a development workflow. This helps engineers quickly add automated security checks to their code bases without writing custom tooling.
+- **[See PR scans in action](https://openai.com/business/learn/pr-scans-demo)** (OpenAI Blog, 6/10) - A walkthrough demonstrates how OpenAI’s PR scan feature analyzes pull‑request changes and returns security and quality feedback directly in the review UI. Builders can use this to catch bugs early and keep repositories safer with minimal configuration.
+- **[rust-v0.171.0](https://github.com/openai/codex/releases/tag/rust-v0.171.0)** (OpenAI Codex releases, 6/10) - The Rust SDK for OpenAI Codex was updated to version 0.171.0, adding bug fixes and support for the latest API endpoints. Rust developers can now integrate Codex features more reliably and take advantage of new capabilities with minimal code changes.
+
 ## 2026-11-19 22:31
 
 - **[v2.1.329](https://github.com/anthropics/claude-code/releases/tag/v2.1.329)** (Claude Code releases, 6/10) - Anthropic released version 2.1.329 of Claude Code, adding trust prompts for folder hooks and improved status warnings for scheduled task loops. These additions help developers run automated terminal agent workflows more securely and with clearer debugging feedback.
