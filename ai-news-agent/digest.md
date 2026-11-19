@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-19 00:03
+
+- **[Anthropic prices initial public offering](https://www.anthropic.com/news/anthropic-prices-initial-public-offering)** (Anthropic News, 6/10) - T3 Code published a preview build for iOS, letting developers download and run the latest mobile version of the project. This gives AI and .NET developers a chance to test mobile integration early and provide feedback before the full release.
+
 ## 2026-11-18 23:31
 
 - **[Research acceleration: The jagged frontier](https://openai.com/index/research-acceleration-jagged-frontier)** (OpenAI Blog, 7/10) - OpenAI posted a blog that explains how they measured the speed at which coding agents are helping AI research, showing rapid gains in some tasks but uneven performance overall. This insight lets developers see where automated code assistants work well and where they still need improvement, helping them build more reliable AI‑powered tools.
