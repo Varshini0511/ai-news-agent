@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-19 09:31
+
+- **[Rezora IO](https://www.producthunt.com/products/rezora-io-ai-calling-assistant)** (Product Hunt, 7/10) - Rezora IO launched a platform that lets anyone build an AI voice agent and publish it to a Shopify‑style store in under ten minutes. This gives developers a fast, low‑code way to create and monetize voice assistants.
+
 ## 2026-11-19 09:01
 
 - **[T3 Code Nightly 0.1.11-nightly.20261119.4928 (e8c4824b70f3)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.11-nightly.20261119.4928)** (T3 Code releases, 7/10) - T3 Code released version 0.1.11-nightly, adding an Antigravity terminal‑triage agent, ARM64 installation packages, and a GitHub‑stack merging feature. These additions let developers automate command‑line debugging and repository management directly from the coding assistant, which speeds up day‑to‑day development work.
