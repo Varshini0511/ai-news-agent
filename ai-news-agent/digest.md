@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-19 15:31
+
+- **[T3 Code Nightly 0.1.11-nightly.20261119.4941 (ff9efe89f6e7)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.11-nightly.20261119.4941)** (T3 Code releases, 6/10) - T3 Code nightly build 0.1.11 adds resumable update downloads, faster handling of long conversation threads, and improved server stability. These changes make the code‑generation tool more reliable and quicker to respond when you’re working with large prompts or long sessions.
+
 ## 2026-11-19 15:01
 
 - **[Gemini 4 Neon 🚀, Genie 4 worlds 🌍, AI designs chips 🔬](https://tldr.tech/ai/2026-11-19)** (TLDR AI, 8/10) - Google released Gemini 4 Neon, an upgraded multimodal model with better reasoning and lower latency, now accessible via Vertex AI. Developers can use it for building agents, retrieval‑augmented generation, and other AI features with higher quality output.
