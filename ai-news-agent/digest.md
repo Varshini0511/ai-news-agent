@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-19 22:31
+
+- **[v2.1.329](https://github.com/anthropics/claude-code/releases/tag/v2.1.329)** (Claude Code releases, 6/10) - Anthropic released version 2.1.329 of Claude Code, adding trust prompts for folder hooks and improved status warnings for scheduled task loops. These additions help developers run automated terminal agent workflows more securely and with clearer debugging feedback.
+
 ## 2026-11-19 21:31
 
 - **[Rebuilding my local voice assistant pipeline](https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline)** (Hacker News, 6/10) - A developer shared their technical approach to rebuilding a fully local voice assistant pipeline using modern open-source speech and language models. This offers practical architecture patterns for engineers wanting to build private, low-latency voice agents without relying on paid cloud services.
