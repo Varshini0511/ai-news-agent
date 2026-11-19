@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-19 15:01
+
+- **[Gemini 4 Neon 🚀, Genie 4 worlds 🌍, AI designs chips 🔬](https://tldr.tech/ai/2026-11-19)** (TLDR AI, 8/10) - Google released Gemini 4 Neon, an upgraded multimodal model with better reasoning and lower latency, now accessible via Vertex AI. Developers can use it for building agents, retrieval‑augmented generation, and other AI features with higher quality output.
+- **[CodeDesign v3](https://www.producthunt.com/products/codedesign)** (Product Hunt, 7/10) - CodeDesign v3 lets you generate full‑stack web pages and business applications by prompting ChatGPT or Claude, handling front‑end, back‑end and deployment automatically. It speeds up prototyping and lets engineers focus on logic rather than boiler‑plate code.
+
 ## 2026-11-19 14:31
 
 - **[rust-v0.172.0-alpha.2](https://github.com/openai/codex/releases/tag/rust-v0.172.0-alpha.2)** (OpenAI Codex releases, 7/10) - OpenAI published version 0.172.0‑alpha.2 of its Codex library for the Rust language. The update adds newer code‑completion models and tighter type‑checking, making it easier for Rust developers to embed AI‑driven coding assistance into their tools.
