@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-19 19:01
+
+- **[Introducing Tool Retrieval in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/)** (Google AI Blog, 7/10) - Google added a "tool retrieval" feature to the Gemini API, letting the model call external tools (like search or calculators) during a conversation. This lets developers build more capable agents that can fetch up‑to‑date data or perform calculations without hard‑coding prompts.
+
 ## 2026-11-19 18:31
 
 - **[Google gives Gemini the ability to use your Mac for you](https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/)** (TechCrunch AI, 7/10) - Google updated its Gemini desktop application on macOS to include computer use capabilities for managing files, web pages, and local applications. This gives developers a practical reference for how consumer-facing AI agents are handling local file access and desktop interface automation.
