@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-19 14:01
+
+- **[Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2](https://contralabs.com/frontierdesign)** (Hacker News, 7/10) - Two previously hidden language models were added to a public benchmark and both scored higher than the recent Fable 5.2 release. Their strong results give builders more options to evaluate when picking a model for downstream tasks.
+- **[Superhuman pushes its Go assistant everywhere](https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/)** (TechCrunch AI, 6/10) - Superhuman launched a Go‑language AI assistant that works inside its email, Docs, and other productivity tools. The cross‑application agent shows a practical way to expose a single AI service through multiple user interfaces.
+
 ## 2026-11-19 09:31
 
 - **[Rezora IO](https://www.producthunt.com/products/rezora-io-ai-calling-assistant)** (Product Hunt, 7/10) - Rezora IO launched a platform that lets anyone build an AI voice agent and publish it to a Shopify‑style store in under ten minutes. This gives developers a fast, low‑code way to create and monetize voice assistants.
