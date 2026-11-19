@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-19 02:01
+
+- **[Release v0.69.0](https://github.com/google-gemini/gemini-cli/releases/tag/v0.69.0)** (Gemini CLI releases, 6/10) - Google released Gemini CLI version 0.69.0, fixing a bug that corrupted literal $ characters in templates and adding a new `stats heatmap` command that shows daily token usage. This lets developers script against Gemini more reliably and monitor their API costs without leaving the command line.
+
 ## 2026-11-19 01:32
 
 - **[v2.1.328](https://github.com/anthropics/claude-code/releases/tag/v2.1.328)** (Claude Code releases, 7/10) - Anthropic updated the Claude Code command-line tool, bringing auto mode support across major cloud platforms and adding failure-blocking controls for Model Context Protocol (MCP) tools. This helps developers build safer, automated coding workflows across multi-cloud environments without manual permission prompts interrupting execution.
