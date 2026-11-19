@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-19 03:31
+
+- **[datasette-arrows 0.1a0](https://simonwillison.net/2026/Nov/18/datasette-arrows/)** (Simon Willison, 6/10) - Datasette 1.0a43 now lets plugins stream CSV and TSV files directly, so you can export millions of rows without loading them all into memory. This helps AI engineers move large training datasets out of a database quickly and cheaply.
+
 ## 2026-11-19 02:01
 
 - **[Release v0.69.0](https://github.com/google-gemini/gemini-cli/releases/tag/v0.69.0)** (Gemini CLI releases, 6/10) - Google released Gemini CLI version 0.69.0, fixing a bug that corrupted literal $ characters in templates and adding a new `stats heatmap` command that shows daily token usage. This lets developers script against Gemini more reliably and monitor their API costs without leaving the command line.
