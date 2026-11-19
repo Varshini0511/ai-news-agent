@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-19 18:31
+
+- **[Google gives Gemini the ability to use your Mac for you](https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/)** (TechCrunch AI, 7/10) - Google updated its Gemini desktop application on macOS to include computer use capabilities for managing files, web pages, and local applications. This gives developers a practical reference for how consumer-facing AI agents are handling local file access and desktop interface automation.
+- **[Gemini on Mac can now use your computer](https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use)** (The Verge AI, 7/10) - Google added a computer-use feature to the Gemini macOS app, enabling the assistant to perform multi-step tasks across desktop software and local documents. This helps engineers understand current implementation trends for operating system integration when designing custom agentic workflows.
+
 ## 2026-11-19 18:01
 
 - **[How OpenAI’s Performance Factory keeps ChatGPT fast](https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast)** (OpenAI Blog, 6/10) - OpenAI described a system called the Performance Factory that automatically looks for speed problems in ChatGPT and fixes them using a code‑writing model named Codex. Builders can learn how to set up similar automated testing and repair pipelines to keep their own AI services responsive.
