@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-19 21:31
+
+- **[Rebuilding my local voice assistant pipeline](https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline)** (Hacker News, 6/10) - A developer shared their technical approach to rebuilding a fully local voice assistant pipeline using modern open-source speech and language models. This offers practical architecture patterns for engineers wanting to build private, low-latency voice agents without relying on paid cloud services.
+
 ## 2026-11-19 19:01
 
 - **[Introducing Tool Retrieval in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/)** (Google AI Blog, 7/10) - Google added a "tool retrieval" feature to the Gemini API, letting the model call external tools (like search or calculators) during a conversation. This lets developers build more capable agents that can fetch up‑to‑date data or perform calculations without hard‑coding prompts.
