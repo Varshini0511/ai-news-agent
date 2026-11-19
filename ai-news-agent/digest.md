@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-19 18:01
+
+- **[How OpenAI’s Performance Factory keeps ChatGPT fast](https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast)** (OpenAI Blog, 6/10) - OpenAI described a system called the Performance Factory that automatically looks for speed problems in ChatGPT and fixes them using a code‑writing model named Codex. Builders can learn how to set up similar automated testing and repair pipelines to keep their own AI services responsive.
+
 ## 2026-11-19 15:31
 
 - **[T3 Code Nightly 0.1.11-nightly.20261119.4941 (ff9efe89f6e7)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.11-nightly.20261119.4941)** (T3 Code releases, 6/10) - T3 Code nightly build 0.1.11 adds resumable update downloads, faster handling of long conversation threads, and improved server stability. These changes make the code‑generation tool more reliable and quicker to respond when you’re working with large prompts or long sessions.
