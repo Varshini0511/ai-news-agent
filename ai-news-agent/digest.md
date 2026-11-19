@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-19 14:31
+
+- **[rust-v0.172.0-alpha.2](https://github.com/openai/codex/releases/tag/rust-v0.172.0-alpha.2)** (OpenAI Codex releases, 7/10) - OpenAI published version 0.172.0‑alpha.2 of its Codex library for the Rust language. The update adds newer code‑completion models and tighter type‑checking, making it easier for Rust developers to embed AI‑driven coding assistance into their tools.
+- **[Noteshell](https://www.producthunt.com/products/noteshell)** (Product Hunt, 6/10) - Noteshell is an AI‑powered assistant that can generate scripts, configure environments, and automate routine workspace tasks. Developers can use it to speed up setup and repetitive work without writing the automation code themselves.
+
 ## 2026-11-19 14:01
 
 - **[Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2](https://contralabs.com/frontierdesign)** (Hacker News, 7/10) - Two previously hidden language models were added to a public benchmark and both scored higher than the recent Fable 5.2 release. Their strong results give builders more options to evaluate when picking a model for downstream tasks.
