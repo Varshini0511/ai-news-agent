@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-19 07:01
+
+- **[llm-gemini 0.38](https://simonwillison.net/2026/Nov/18/llm-gemini/)** (Simon Willison, 7/10) - Google added a new Gemini 4 Neon model and the llm-gemini 0.38 library now supports it. Developers can use the updated library to call the Neon model from Python, making it easier to experiment with the latest Gemini features.
+
 ## 2026-11-19 05:01
 
 - **[GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance](https://arxiv.org/abs/2611.23476)** (arXiv cs.AI, 7/10) - GUARD introduces a method for letting autonomous AI agents improve their own prompts and tool usage without changing the underlying model weights. This could let developers create agents that get better over time without costly retraining.
