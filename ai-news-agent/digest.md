@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-19 08:31
+
+- **[Source](https://www.producthunt.com/products/source-public-beta)** (Product Hunt, 7/10) - Source provides an attribution data layer that records where each piece of information used by an AI agent originates. This improves the auditability and trustworthiness of autonomous workflows.
+- **[Tabstack by Mozilla](https://www.producthunt.com/products/tabstack)** (Product Hunt, 7/10) - Tabstack by Mozilla lets language models browse the web while keeping the user’s browsing data private. Developers can give LLMs current web information without exposing personal data.
+- **[Show HN: An API for word timestamps from speech, 75% within 20ms](https://quebec.yarn.so)** (Hacker News, 6/10) - A new API returns a timestamp for each spoken word, with 75 % of timestamps accurate within 20 ms. It makes it easy to add precise subtitles or sync speech with other data in AI applications.
+
 ## 2026-11-19 08:01
 
 - **[Fieldwork Code](https://www.producthunt.com/products/fieldwork-code)** (Product Hunt, 7/10) - Fieldwork Code launched a product that lets you run AI‑powered code generation on your laptop, in the cloud, or from a phone. It lets developers get code suggestions or completions anywhere they work without needing a heavy IDE.
