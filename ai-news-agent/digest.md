@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-19 05:01
+
+- **[GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance](https://arxiv.org/abs/2611.23476)** (arXiv cs.AI, 7/10) - GUARD introduces a method for letting autonomous AI agents improve their own prompts and tool usage without changing the underlying model weights. This could let developers create agents that get better over time without costly retraining.
+- **[SpecLook: Speculating Where to Look for Fast and Reliable Agentic MLLMs](https://arxiv.org/abs/2611.23483)** (arXiv cs.AI, 7/10) - SpecLook proposes a way for multimodal agents to predict which image regions to examine next, making their reasoning faster and providing a confidence score. Faster, more reliable agents can lower compute costs for developers using visual AI.
+- **[GRAFT: Execution-Guided Genetic Recombination for Agent Design](https://arxiv.org/abs/2611.23509)** (arXiv cs.AI, 7/10) - GRAFT uses evolutionary techniques to automatically combine successful agent components into new designs, improving task performance without manual coding. This automation can speed up building custom AI agents for specific workflows.
+
 ## 2026-11-19 03:31
 
 - **[datasette-arrows 0.1a0](https://simonwillison.net/2026/Nov/18/datasette-arrows/)** (Simon Willison, 6/10) - Datasette 1.0a43 now lets plugins stream CSV and TSV files directly, so you can export millions of rows without loading them all into memory. This helps AI engineers move large training datasets out of a database quickly and cheaply.
