@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-20 16:02
+
+- **[greatai Review](https://www.producthunt.com/products/greatai-review)** (Product Hunt, 6/10) - A new product named greatai Review launched to provide automated artificial intelligence code reviews paired with human oversight for open-source repositories. It helps developers improve code quality and catch bugs automatically during pull request workflows.
+
 ## 2026-11-20 15:02
 
 - **[Gemini tool retrieval 🔧, Stripe evals methods 👨‍💻, agent swarms 🐝](https://tldr.tech/ai/2026-11-20)** (TLDR AI, 6/10) - This newsletter issue covers Google's Gemini tool retrieval features, Stripe's methodology for testing AI models, and multi-agent swarm concepts. Developers can learn practical approaches for evaluating Large Language Model (LLM) performance in production and structuring complex agent workflows.
