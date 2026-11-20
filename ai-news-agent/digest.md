@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-20 18:03
+
+- **[PostgreSQL 19: A hands-on tour with runnable browser examples](https://certuvia.com/blog/postgres-19)** (Hacker News, 7/10) - The .NET Blog published a case study where AI agents automatically rebuilt a .NET MAUI cross‑platform app’s UI within a few days. This demonstrates that AI coding assistants can dramatically cut development and maintenance time for multi‑platform .NET apps, helping engineers ship features faster.
+
 ## 2026-11-20 16:02
 
 - **[greatai Review](https://www.producthunt.com/products/greatai-review)** (Product Hunt, 6/10) - A new product named greatai Review launched to provide automated artificial intelligence code reviews paired with human oversight for open-source repositories. It helps developers improve code quality and catch bugs automatically during pull request workflows.
