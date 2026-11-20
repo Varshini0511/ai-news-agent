@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-20 22:31
+
+- **[A few hours ago Google DeepMind created a math horizon repo](https://github.com/google-deepmind/math-horizon)** (Hacker News, 6/10) - Google DeepMind released a new open-source repository focused on evaluating mathematical reasoning capabilities in AI models. Developers building math-focused agents or benchmarking reasoning performance can leverage these tools to test their systems.
+
 ## 2026-11-20 22:01
 
 - **[DreamCoder: Coding harness and IDE from the author of Mastering Emacs](https://www.masteringemacs.org/article/announcing-dreamcoder)** (Hacker News, 6/10) - Mickey Petersen created DreamCoder, an experimental coding harness and environment designed for Large Language Model (LLM) assisted software development. It provides developers with a tailored workspace to test and refine agentic coding workflows within their editor setup.
