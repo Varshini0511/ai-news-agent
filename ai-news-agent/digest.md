@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-20 00:31
+
+- **[Deploying Daybreak Red](https://openai.com/business/learn/deploying-daybreak-red)** (OpenAI Blog, 7/10) - OpenAI published a reference architecture called Daybreak Red for building AI agents that assist with security operations. It provides practical design patterns for implementing safety controls, human supervision, and monitoring when deploying autonomous workflows in production.
+
 ## 2026-11-19 23:31
 
 - **[Get started with Daybreak Blue](https://openai.com/business/learn/daybreak-blue-onboarding-demo)** (OpenAI Blog, 7/10) - OpenAI released a guided video for onboarding to Daybreak Blue, its new platform for creating and deploying AI agents. The demo shows the step‑by‑step setup, making it easier for developers to start building custom agents without deep infrastructure work.
