@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-20 23:01
+
+- **[v2.1.330](https://github.com/anthropics/claude-code/releases/tag/v2.1.330)** (Claude Code releases, 7/10) - Anthropic released version 2.1.330 of Claude Code, adding enterprise admin login support and a built-in charting tool called Easel. This helps software engineers enforce company security settings and render visual diagrams directly inside their AI terminal workflows using the Model Context Protocol (MCP).
+
 ## 2026-11-20 22:31
 
 - **[A few hours ago Google DeepMind created a math horizon repo](https://github.com/google-deepmind/math-horizon)** (Hacker News, 6/10) - Google DeepMind released a new open-source repository focused on evaluating mathematical reasoning capabilities in AI models. Developers building math-focused agents or benchmarking reasoning performance can leverage these tools to test their systems.
