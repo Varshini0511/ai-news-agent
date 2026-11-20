@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-20 15:02
+
+- **[Gemini tool retrieval 🔧, Stripe evals methods 👨‍💻, agent swarms 🐝](https://tldr.tech/ai/2026-11-20)** (TLDR AI, 6/10) - This newsletter issue covers Google's Gemini tool retrieval features, Stripe's methodology for testing AI models, and multi-agent swarm concepts. Developers can learn practical approaches for evaluating Large Language Model (LLM) performance in production and structuring complex agent workflows.
+
 ## 2026-11-20 14:02
 
 - **[Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](https://huggingface.co/blog/harness-adapters-at-scale)** (Hugging Face, 6/10) - Hugging Face introduced harness adapters to better integrate open-source models with evaluation frameworks. This helps developers benchmark models more accurately while cutting down on computing costs during testing.
