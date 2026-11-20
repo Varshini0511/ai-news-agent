@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-20 08:01
+
+- **[T3 Code v0.1.11](https://github.com/pingdotgg/t3code/releases/tag/v0.1.11)** (T3 Code releases, 7/10) - T3 Code 0.1.11 adds built‑in browser tunneling and port‑forwarding, allowing an AI‑driven agent that starts a dev server on another machine to display the site inside the app or expose it on your local host. This saves you from setting up separate forwarding tools and speeds up debugging of code that agents generate.
+
 ## 2026-11-20 03:01
 
 - **[Token fraud is here and it’s BAD (YouTube)](https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/)** (Simon Willison, 6/10) - Product leader Claire Vo detailed how attackers exploit public-facing AI web applications to steal underlying LLM API tokens and drain compute budgets. Understanding these abuse patterns helps software engineers design secure API proxies, rate limits, and anti-fraud controls for production AI apps.
