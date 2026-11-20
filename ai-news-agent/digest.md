@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-20 13:01
+
+- **[T3 Code Nightly 0.1.12-nightly.20261120.4994 (602e5b32f58e)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.12-nightly.20261120.4994)** (T3 Code releases, 6/10) - The T3 Code project updated its editor release, adding support for background command execution during AI agent workflows. This is useful for software engineers using AI coding tools, as agents can now automatically monitor background builds and tests while you code.
+
 ## 2026-11-20 09:03
 
 - **[Volcano](https://www.producthunt.com/products/volcano-3)** (Product Hunt, 7/10) - Volcano is a cloud service that runs autonomous AI agents and automatically restarts them if they crash. It makes it easier to keep long‑running AI assistants reliable.
