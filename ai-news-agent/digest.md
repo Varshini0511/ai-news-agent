@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-20 20:31
+
+- **[Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup](https://huggingface.co/blog/inkling2mini)** (Hugging Face, 7/10) - Inkling has released Inkling 2 Mini, a compact open-source model optimized to run efficiently on local hardware. It gives developers a lightweight, privacy-focused option for building offline AI features without relying on cloud API calls.
+
 ## 2026-11-20 18:03
 
 - **[PostgreSQL 19: A hands-on tour with runnable browser examples](https://certuvia.com/blog/postgres-19)** (Hacker News, 7/10) - The .NET Blog published a case study where AI agents automatically rebuilt a .NET MAUI cross‑platform app’s UI within a few days. This demonstrates that AI coding assistants can dramatically cut development and maintenance time for multi‑platform .NET apps, helping engineers ship features faster.
