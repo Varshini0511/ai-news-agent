@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-20 08:31
+
+- **[Currents](https://www.producthunt.com/products/currents-4)** (Product Hunt, 6/10) - Currents released an integration that pipes automated test suite failures directly into coding assistants like Claude and OpenAI's Codex. This provides language models with real-time test execution data, helping developers fix broken code faster without manual copy-pasting.
+- **[InteraOne](https://www.producthunt.com/products/interaone)** (Product Hunt, 6/10) - InteraOne launched an open-source customer support platform equipped with autonomous AI agents designed to replace legacy services like Zendesk. It provides software engineers with inspectable code and architecture patterns for building self-hosted customer service workflows.
+- **[Groundwork](https://www.producthunt.com/products/groundwork-6)** (Product Hunt, 6/10) - Groundwork introduced a state management tool for Anthropic's Claude Code command-line agent to prevent project plans from being overwritten during repeated runs. This helps developers maintain persistent architecture contexts when building complex projects using autonomous terminal agents.
+
 ## 2026-11-20 08:01
 
 - **[T3 Code v0.1.11](https://github.com/pingdotgg/t3code/releases/tag/v0.1.11)** (T3 Code releases, 7/10) - T3 Code 0.1.11 adds built‑in browser tunneling and port‑forwarding, allowing an AI‑driven agent that starts a dev server on another machine to display the site inside the app or expose it on your local host. This saves you from setting up separate forwarding tools and speeds up debugging of code that agents generate.
