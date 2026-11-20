@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-20 21:31
+
+- **[The War Against Slop and an Emerging Weapon to Fight it: Formal Verification](https://latent.space/p/formal-verification/)** (Latent Space, 6/10) - Developers are combining AI language models with theorem provers like Lean to automate formal software verification. This allows engineers to mathematically prove their code is correct, helping eliminate bugs and errors in AI-generated software.
+
 ## 2026-11-20 21:01
 
 - **[Agents SDK v1.0.0-alpha.1](https://github.com/openai/openai-agents-python/releases/tag/v1.0.0-alpha.1)** (OpenAI Agents SDK, 7/10) - OpenAI released an alpha update for their Python Agents SDK (Software Development Kit) that allows targeting Codex as a model provider per run. This gives developers building automated agent workflows a native way to route coding tasks to specialized code-generation models.
