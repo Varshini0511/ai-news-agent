@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-20 22:01
+
+- **[DreamCoder: Coding harness and IDE from the author of Mastering Emacs](https://www.masteringemacs.org/article/announcing-dreamcoder)** (Hacker News, 6/10) - Mickey Petersen created DreamCoder, an experimental coding harness and environment designed for Large Language Model (LLM) assisted software development. It provides developers with a tailored workspace to test and refine agentic coding workflows within their editor setup.
+
 ## 2026-11-20 21:31
 
 - **[The War Against Slop and an Emerging Weapon to Fight it: Formal Verification](https://latent.space/p/formal-verification/)** (Latent Space, 6/10) - Developers are combining AI language models with theorem provers like Lean to automate formal software verification. This allows engineers to mathematically prove their code is correct, helping eliminate bugs and errors in AI-generated software.
