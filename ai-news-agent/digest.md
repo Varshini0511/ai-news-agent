@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-20 03:01
+
+- **[Token fraud is here and it’s BAD (YouTube)](https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/)** (Simon Willison, 6/10) - Product leader Claire Vo detailed how attackers exploit public-facing AI web applications to steal underlying LLM API tokens and drain compute budgets. Understanding these abuse patterns helps software engineers design secure API proxies, rate limits, and anti-fraud controls for production AI apps.
+
 ## 2026-11-20 00:31
 
 - **[Deploying Daybreak Red](https://openai.com/business/learn/deploying-daybreak-red)** (OpenAI Blog, 7/10) - OpenAI published a reference architecture called Daybreak Red for building AI agents that assist with security operations. It provides practical design patterns for implementing safety controls, human supervision, and monitoring when deploying autonomous workflows in production.
