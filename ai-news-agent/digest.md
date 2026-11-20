@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-20 21:01
+
+- **[Agents SDK v1.0.0-alpha.1](https://github.com/openai/openai-agents-python/releases/tag/v1.0.0-alpha.1)** (OpenAI Agents SDK, 7/10) - OpenAI released an alpha update for their Python Agents SDK (Software Development Kit) that allows targeting Codex as a model provider per run. This gives developers building automated agent workflows a native way to route coding tasks to specialized code-generation models.
+
 ## 2026-11-20 20:31
 
 - **[Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup](https://huggingface.co/blog/inkling2mini)** (Hugging Face, 7/10) - Inkling has released Inkling 2 Mini, a compact open-source model optimized to run efficiently on local hardware. It gives developers a lightweight, privacy-focused option for building offline AI features without relying on cloud API calls.
