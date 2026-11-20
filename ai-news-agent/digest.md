@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-20 14:02
+
+- **[Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](https://huggingface.co/blog/harness-adapters-at-scale)** (Hugging Face, 6/10) - Hugging Face introduced harness adapters to better integrate open-source models with evaluation frameworks. This helps developers benchmark models more accurately while cutting down on computing costs during testing.
+
 ## 2026-11-20 13:01
 
 - **[T3 Code Nightly 0.1.12-nightly.20261120.4994 (602e5b32f58e)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.12-nightly.20261120.4994)** (T3 Code releases, 6/10) - The T3 Code project updated its editor release, adding support for background command execution during AI agent workflows. This is useful for software engineers using AI coding tools, as agents can now automatically monitor background builds and tests while you code.
