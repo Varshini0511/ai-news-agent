@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-20 09:03
+
+- **[Volcano](https://www.producthunt.com/products/volcano-3)** (Product Hunt, 7/10) - Volcano is a cloud service that runs autonomous AI agents and automatically restarts them if they crash. It makes it easier to keep long‑running AI assistants reliable.
+- **[Nexuro AI](https://www.producthunt.com/products/nexuro-ai)** (Product Hunt, 7/10) - Nexuro AI lets you create a chatbot in minutes by feeding it your own documents and web pages. It speeds up building support bots without writing code.
+- **[UndoGuard](https://www.producthunt.com/products/undoguard)** (Product Hunt, 7/10) - UndoGuard adds an undo feature that can roll back actions taken by autonomous AI agents. It gives developers a safety net when agents make mistakes.
+
 ## 2026-11-20 08:31
 
 - **[Currents](https://www.producthunt.com/products/currents-4)** (Product Hunt, 6/10) - Currents released an integration that pipes automated test suite failures directly into coding assistants like Claude and OpenAI's Codex. This provides language models with real-time test execution data, helping developers fix broken code faster without manual copy-pasting.
