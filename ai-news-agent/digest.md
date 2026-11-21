@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-21 18:31
+
+- **[Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)** (Hacker News, 6/10) - Developers released a quantized version of the Inkling-2-Mini model configured to run within 5.4 GB of memory. This allows builders to run a local language model on budget hardware or consumer devices without relying on paid cloud APIs.
+
 ## 2026-11-21 15:01
 
 - **[T3 Code Nightly 0.1.12-nightly.20261121.5051 (dd941b9c3b58)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.12-nightly.20261121.5051)** (T3 Code releases, 7/10) - T3 Code released nightly version 0.1.12 with new slash‑command support and full file‑name hover in the file tree. These updates make it easier to control an AI coding agent and see exact file paths while working.
