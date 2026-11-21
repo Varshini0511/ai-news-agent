@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-21 15:01
+
+- **[T3 Code Nightly 0.1.12-nightly.20261121.5051 (dd941b9c3b58)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.12-nightly.20261121.5051)** (T3 Code releases, 7/10) - T3 Code released nightly version 0.1.12 with new slash‑command support and full file‑name hover in the file tree. These updates make it easier to control an AI coding agent and see exact file paths while working.
+
 ## 2026-11-21 10:32
 
 - **[Stitch Loop](https://www.producthunt.com/products/stitch-loop)** (Product Hunt, 8/10) - Stitch Loop is a Google‑built AI agent that automatically applies code fixes and then monitors the related performance metric. It helps developers automate bug resolution and see whether the change actually improves the system.
