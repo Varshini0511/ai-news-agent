@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-21 01:01
+
+- **[mobile-ios-build/testflight/3.0.0/78428d3adfbf03366285a57446292dc44eb1b3e1](https://github.com/pingdotgg/t3code/releases/tag/mobile-ios-build%2Ftestflight%2F3.0.0%2F78428d3adfbf03366285a57446292dc44eb1b3e1)** (T3 Code releases, 6/10) - The T3 Code mobile library released version 3.0.0 with a fix that starts voice dictation capture earlier on iOS and desktop. This reduces latency for speech‑to‑text features, making voice‑driven apps feel more responsive.
+
 ## 2026-11-20 23:01
 
 - **[v2.1.330](https://github.com/anthropics/claude-code/releases/tag/v2.1.330)** (Claude Code releases, 7/10) - Anthropic released version 2.1.330 of Claude Code, adding enterprise admin login support and a built-in charting tool called Easel. This helps software engineers enforce company security settings and render visual diagrams directly inside their AI terminal workflows using the Model Context Protocol (MCP).
