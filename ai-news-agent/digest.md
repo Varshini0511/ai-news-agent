@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-21 10:32
+
+- **[Stitch Loop](https://www.producthunt.com/products/stitch-loop)** (Product Hunt, 8/10) - Stitch Loop is a Google‑built AI agent that automatically applies code fixes and then monitors the related performance metric. It helps developers automate bug resolution and see whether the change actually improves the system.
+- **[gitroots](https://www.producthunt.com/products/gitroots)** (Product Hunt, 7/10) - Gitroots lets a program request read or write permission for specific folders inside a GitHub repository instead of the whole repo. This lets AI agents work on code safely and only touch the parts they need, reducing risk and simplifying permissions.
+- **[WaitFeed](https://www.producthunt.com/products/waitfeed-2)** (Product Hunt, 6/10) - WaitFeed shows a live tech news feed while an AI agent is waiting for a response or a long‑running task. Developers can keep agents informed with fresh information without adding extra steps.
+
 ## 2026-11-21 02:31
 
 - **[New offer: Google AI plans](https://one.google.com/about/google-ai-plans/)** (Google AI plans, 8/10) - Google is offering a Black Friday discount of up to 50% on select Google AI plans. This early access deal is available to Google members.
