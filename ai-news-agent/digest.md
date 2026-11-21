@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-21 02:31
+
+- **[New offer: Google AI plans](https://one.google.com/about/google-ai-plans/)** (Google AI plans, 8/10) - Google is offering a Black Friday discount of up to 50% on select Google AI plans. This early access deal is available to Google members.
+
 ## 2026-11-21 01:01
 
 - **[mobile-ios-build/testflight/3.0.0/78428d3adfbf03366285a57446292dc44eb1b3e1](https://github.com/pingdotgg/t3code/releases/tag/mobile-ios-build%2Ftestflight%2F3.0.0%2F78428d3adfbf03366285a57446292dc44eb1b3e1)** (T3 Code releases, 6/10) - The T3 Code mobile library released version 3.0.0 with a fix that starts voice dictation capture earlier on iOS and desktop. This reduces latency for speech‑to‑text features, making voice‑driven apps feel more responsive.
