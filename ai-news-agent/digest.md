@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-21 21:24
+
+- **[T3 Code Nightly 0.1.12-nightly.20261121.5064 (1a9a858d4573)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.12-nightly.20261121.5064)** (T3 Code releases, 6/10) - T3 Code released a nightly update that enables AI agents to file issues under specific Linear teams and adds Git Bash support for Windows commands. These additions make it easier to integrate autonomous AI coding tools into existing project management and Windows development workflows.
+
 ## 2026-11-21 19:03
 
 - **[llm-gemini 0.38.1](https://simonwillison.net/2026/Nov/20/llm-gemini/)** (Simon Willison, 7/10) - The llm-gemini Python library was updated to version 0.38.1, fixing support for the extra “xhigh” reasoning level in Gemini 4 Hydrogen and Neon models. This lets developers request the highest reasoning mode from those Gemini models without errors, making it easier to use the newest Gemini capabilities in their applications.
