@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-22 03:01
+
+- **[OpenRouter off-boards 3 providers, pulls 125 endpoints from zero data retention](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)** (Hacker News, 6/10) - OpenRouter removed three AI providers and disabled 125 model endpoints, and it now enforces zero data retention for all requests. This means developers using OpenRouter will have fewer model choices but can be assured that their input data is not stored, which may affect integration planning and privacy compliance.
+
 ## 2026-11-21 21:24
 
 - **[T3 Code Nightly 0.1.12-nightly.20261121.5064 (1a9a858d4573)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.12-nightly.20261121.5064)** (T3 Code releases, 6/10) - T3 Code released a nightly update that enables AI agents to file issues under specific Linear teams and adds Git Bash support for Windows commands. These additions make it easier to integrate autonomous AI coding tools into existing project management and Windows development workflows.
