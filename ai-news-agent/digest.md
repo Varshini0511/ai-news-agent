@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-22 09:01
+
+- **[Omi CLI](https://www.producthunt.com/products/omi-cli)** (Product Hunt, 6/10) - Omi CLI is a new open-source command-line tool that brings AI coding agents directly into your terminal across 13 different large language models. It helps developers automate code generation and refactoring while giving them the flexibility to choose their preferred AI model provider.
+
 ## 2026-11-22 06:01
 
 - **[Together.ai: Prompt Leakage for Requests](https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026)** (Hacker News, 6/10) - A security issue on Together AI reportedly caused prompt leakage between different API requests. Developers using Together AI to serve LLM requests should review their usage and logs to ensure sensitive system prompts or user data were not exposed.
