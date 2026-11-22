@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-22 06:01
+
+- **[Together.ai: Prompt Leakage for Requests](https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026)** (Hacker News, 6/10) - A security issue on Together AI reportedly caused prompt leakage between different API requests. Developers using Together AI to serve LLM requests should review their usage and logs to ensure sensitive system prompts or user data were not exposed.
+
 ## 2026-11-22 03:01
 
 - **[OpenRouter off-boards 3 providers, pulls 125 endpoints from zero data retention](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)** (Hacker News, 6/10) - OpenRouter removed three AI providers and disabled 125 model endpoints, and it now enforces zero data retention for all requests. This means developers using OpenRouter will have fewer model choices but can be assured that their input data is not stored, which may affect integration planning and privacy compliance.
