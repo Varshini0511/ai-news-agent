@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-22 22:01
+
+- **[A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)** (Hacker News, 7/10) - This guide demonstrates how to set up and run open-source AI models locally using Inkling, the Qwen model family, and Unsloth for efficient fine-tuning. It provides a practical step-by-step workflow for developers looking to build private, low-cost AI applications on their own hardware.
+
 ## 2026-11-22 09:01
 
 - **[Omi CLI](https://www.producthunt.com/products/omi-cli)** (Product Hunt, 6/10) - Omi CLI is a new open-source command-line tool that brings AI coding agents directly into your terminal across 13 different large language models. It helps developers automate code generation and refactoring while giving them the flexibility to choose their preferred AI model provider.
