@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-23 19:31
+
+- **[Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses](https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/)** (TechCrunch AI, 7/10) - Google Search’s AI Mode can now read data from a user’s Google Drive and Wallet to give more personalized answers. Builders can use the same integration ideas to let their apps safely pull user‑owned data for context‑aware responses.
+- **[Fable 5.2 Is More Capable But Not "Better"](https://www.youtube.com/shorts/l1PlTcVGqok)** (Theo (t3.gg) YouTube, 6/10) - The Fable 5.2 model was released with higher capability but the presenter says it isn’t necessarily a better overall experience. Developers can test the new model to see if its performance gains help specific coding or language tasks.
+
 ## 2026-11-23 19:02
 
 - **[NariQ: BF16-level Qwen3.8-27B in a 10 GB file](https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF)** (Hacker News, 7/10) - NariQ released a compressed version of the Qwen 3.8‑27B model that keeps BF16‑level quality while fitting in a 10 GB file. This lets developers run a 27 billion‑parameter model on a single GPU or modest server, reducing storage and memory costs for fine‑tuning or inference.
