@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-23 08:31
+
+- **[Replit Missions](https://www.producthunt.com/products/replit)** (Product Hunt, 7/10) - Replit launched Missions, a feature that lets developers assign budget-capped tasks to teams of autonomous AI agents. It provides developers with a practical platform to experiment with multi-agent coordination and automated coding workflows.
+
 ## 2026-11-23 05:01
 
 - **[TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator](https://arxiv.org/abs/2611.26722)** (arXiv cs.AI, 6/10) - Researchers released TOUMAII, an open dataset of 4.5 million training pairs alongside a generator script built specifically for agent tool calling. Developers fine-tuning custom models can use this dataset to make their agents execute external API calls and database queries far more reliably.
