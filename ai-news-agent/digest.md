@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-23 04:01
+
+- **[Localcode, open source agentic coding on your Mac with one command](https://github.com/mjwsolo/localcode)** (Hacker News, 6/10) - Localcode is an open-source tool designed to run an AI coding agent locally on macOS using a single terminal command. It gives developers a private, cloud-free option to experiment with autonomous code generation and local agentic workflows.
+
 ## 2026-11-23 02:57
 
 - **[T3 Code Nightly 0.1.12-nightly.20261123.5124 (2808e878de91)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.12-nightly.20261123.5124)** (T3 Code releases, 6/10) - T3 Code released a nightly update that introduces customizable workflows for coordinating automated agents, code events, and human approvals. This is useful for software engineers looking to orchestrate and visually inspect complex multi-agent coding tasks.
