@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-23 23:16
+
+- **[rust-v0.173.0-alpha.5](https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.5)** (OpenAI Codex releases, 7/10) - OpenAI released Codex version rust‑v0.173.0‑alpha.5, which adds support for the latest Rust language features and includes several stability fixes. This lets Rust programmers get more accurate AI‑generated code suggestions, speeding up writing, refactoring, and debugging Rust projects.
+
 ## 2026-11-23 23:01
 
 - **[rust-v0.172.0](https://github.com/openai/codex/releases/tag/rust-v0.172.0)** (OpenAI Codex releases, 7/10) - OpenAI released version 0.172.0 of its Codex Rust client library, adding async support and fixing several bugs. This lets Rust developers call the Codex code‑completion API directly from their programs, simplifying AI‑assisted coding tools and integration into Rust applications.
