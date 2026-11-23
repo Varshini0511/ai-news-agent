@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-23 23:32
+
+- **[datasette-charts 0.1a0](https://simonwillison.net/2026/Nov/23/datasette-charts/)** (Simon Willison, 6/10) - Datasette‑charts 0.1a0 adds an AI feature that creates charts from a dataset using Anthropic's Claude model. It lets developers embed quick visualizations in their data apps without writing chart code.
+- **[T3 Code Nightly 0.1.12-nightly.20261123.5165 (67c442a17e6e)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.12-nightly.20261123.5165)** (T3 Code releases, 6/10) - T3 Code Nightly 0.1.12 speeds up the completion of AI‑generated code and refreshes the model picker as new open‑source code models become available. This gives developers faster AI assistance and easier access to the latest models.
+
 ## 2026-11-23 23:16
 
 - **[rust-v0.173.0-alpha.5](https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.5)** (OpenAI Codex releases, 7/10) - OpenAI released Codex version rust‑v0.173.0‑alpha.5, which adds support for the latest Rust language features and includes several stability fixes. This lets Rust programmers get more accurate AI‑generated code suggestions, speeding up writing, refactoring, and debugging Rust projects.
