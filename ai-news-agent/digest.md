@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-23 15:01
+
+- **[Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark](https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks)** (Import AI, 6/10) - Huawei released fresh AI kernel benchmarks and a national laboratory unveiled an AI science benchmark, while researchers demonstrated a new model for detecting airborne drones. Builders can use the benchmark numbers to compare hardware and model performance for cost‑effective deployment, and the drone‑detection model offers a ready‑to‑use example of real‑time object‑detection pipelines.
+
 ## 2026-11-23 14:01
 
 - **[How to build and maintain an agentic evaluation](https://huggingface.co/blog/agentic-evals)** (Hugging Face, 7/10) - Hugging Face published a guide on how to design and maintain evaluation workflows specifically for AI agents. This is useful for developers who need to measure and benchmark the reliability, reasoning, and tool usage of their agentic applications.
