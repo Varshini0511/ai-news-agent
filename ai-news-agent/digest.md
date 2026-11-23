@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-23 16:03
+
+- **[rust-v0.172.0-alpha.2.1](https://github.com/openai/codex/releases/tag/rust-v0.172.0-alpha.2.1)** (OpenAI Codex releases, 7/10) - OpenAI released version 0.172.0-alpha.2.1 of its Rust client library for Codex, adding new endpoint support and fixing several bugs. This lets Rust developers call the Codex code‑generation API more easily and with fewer errors, speeding up integration of AI‑assisted coding into Rust projects.
+
 ## 2026-11-23 15:01
 
 - **[Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark](https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks)** (Import AI, 6/10) - Huawei released fresh AI kernel benchmarks and a national laboratory unveiled an AI science benchmark, while researchers demonstrated a new model for detecting airborne drones. Builders can use the benchmark numbers to compare hardware and model performance for cost‑effective deployment, and the drone‑detection model offers a ready‑to‑use example of real‑time object‑detection pipelines.
