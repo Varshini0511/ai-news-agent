@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-23 02:57
+
+- **[T3 Code Nightly 0.1.12-nightly.20261123.5124 (2808e878de91)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.12-nightly.20261123.5124)** (T3 Code releases, 6/10) - T3 Code released a nightly update that introduces customizable workflows for coordinating automated agents, code events, and human approvals. This is useful for software engineers looking to orchestrate and visually inspect complex multi-agent coding tasks.
+
 ## 2026-11-23 01:01
 
 - **[mobile-ios-build/testflight/3.0.0/1da083f3be9e0e27a0fbab81f02666b9f41ade7a: fix(mobile): enlarge PR file Viewed tap target (#39950)](https://github.com/pingdotgg/t3code/releases/tag/mobile-ios-build%2Ftestflight%2F3.0.0%2F1da083f3be9e0e27a0fbab81f02666b9f41ade7a)** (T3 Code releases, 6/10) - T3 released version 3.0.0 of its iOS mobile SDK, fixing the size of the pull‑request file view button so it’s easier to tap. This makes it simpler for developers to test and use AI‑assisted code review features on iPhone or iPad.
