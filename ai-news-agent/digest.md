@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-23 20:01
+
+- **[Claude AI can review pull requests and ship fixes on its own now](https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests)** (The Verge AI, 8/10) - Anthropic launched Claude Ship, enabling Claude to automatically review, fix, and approve pull requests. This lets engineers delegate routine code‑review work to the model, speeding up development cycles and reducing manual effort.
+
 ## 2026-11-23 19:31
 
 - **[Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses](https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/)** (TechCrunch AI, 7/10) - Google Search’s AI Mode can now read data from a user’s Google Drive and Wallet to give more personalized answers. Builders can use the same integration ideas to let their apps safely pull user‑owned data for context‑aware responses.
