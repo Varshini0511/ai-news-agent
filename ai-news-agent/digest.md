@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-23 14:01
+
+- **[How to build and maintain an agentic evaluation](https://huggingface.co/blog/agentic-evals)** (Hugging Face, 7/10) - Hugging Face published a guide on how to design and maintain evaluation workflows specifically for AI agents. This is useful for developers who need to measure and benchmark the reliability, reasoning, and tool usage of their agentic applications.
+- **[FigmaMCP](https://www.producthunt.com/products/figmamcp)** (Product Hunt, 7/10) - FigmaMCP is an integration using the Model Context Protocol (MCP) that lets AI coding assistants like Claude Code directly view and edit Figma design files. This helps builders streamline their frontend workflow by letting LLMs inspect UI designs and assist in code generation.
+
 ## 2026-11-23 11:32
 
 - **[GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://z.ai/blog/glm-5.4)** (Hacker News, 8/10) - The GLM team released version 5.4, a large language model built for writing and improving code using a loop‑style generation approach. It can produce code, check its own output, and make corrections in one go, letting developers prototype and debug faster without extra tooling.
