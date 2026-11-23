@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-23 10:01
+
+- **[T3 Code Nightly 0.1.12-nightly.20261123.5138 (1368854828e2)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.12-nightly.20261123.5138)** (T3 Code releases, 6/10) - T3 Code released a nightly update allowing external AI agents like ChatGPT to receive events from the code editor. This helps developers integrate conversational AI assistants directly into their local development workflows and Git repositories.
+
 ## 2026-11-23 08:31
 
 - **[Replit Missions](https://www.producthunt.com/products/replit)** (Product Hunt, 7/10) - Replit launched Missions, a feature that lets developers assign budget-capped tasks to teams of autonomous AI agents. It provides developers with a practical platform to experiment with multi-agent coordination and automated coding workflows.
