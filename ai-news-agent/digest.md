@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-23 20:31
+
+- **[Agents SDK v1.0.0-alpha.2](https://github.com/openai/openai-agents-python/releases/tag/v1.0.0-alpha.2)** (OpenAI Agents SDK, 7/10) - OpenAI released version 1.0.0-alpha.2 of its Agents SDK, adding features for tool execution hooks and state resumption across worker threads. This allows developers to build more reliable multi-step agent workflows that can safely pause for human approvals and filter tools dynamically.
+
 ## 2026-11-23 20:01
 
 - **[Claude AI can review pull requests and ship fixes on its own now](https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests)** (The Verge AI, 8/10) - Anthropic launched Claude Ship, enabling Claude to automatically review, fix, and approve pull requests. This lets engineers delegate routine code‑review work to the model, speeding up development cycles and reducing manual effort.
