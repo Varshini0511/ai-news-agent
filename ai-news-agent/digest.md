@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-23 11:03
+
+- **[Meta Muse can now do your Black Friday shopping at Walmart](https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday)** (The Verge AI, 7/10) - Meta’s Muse agent is now allowed to log into Walmart’s website, find Black Friday deals and complete purchases on a shopper’s behalf. This demonstrates a practical way to link AI agents to real‑world services, giving developers a concrete example of building transaction‑capable agents.
+
 ## 2026-11-23 10:01
 
 - **[T3 Code Nightly 0.1.12-nightly.20261123.5138 (1368854828e2)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.12-nightly.20261123.5138)** (T3 Code releases, 6/10) - T3 Code released a nightly update allowing external AI agents like ChatGPT to receive events from the code editor. This helps developers integrate conversational AI assistants directly into their local development workflows and Git repositories.
