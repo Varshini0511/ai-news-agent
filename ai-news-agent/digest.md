@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-23 11:32
+
+- **[GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://z.ai/blog/glm-5.4)** (Hacker News, 8/10) - The GLM team released version 5.4, a large language model built for writing and improving code using a loop‑style generation approach. It can produce code, check its own output, and make corrections in one go, letting developers prototype and debug faster without extra tooling.
+
 ## 2026-11-23 11:03
 
 - **[Meta Muse can now do your Black Friday shopping at Walmart](https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday)** (The Verge AI, 7/10) - Meta’s Muse agent is now allowed to log into Walmart’s website, find Black Friday deals and complete purchases on a shopper’s behalf. This demonstrates a practical way to link AI agents to real‑world services, giving developers a concrete example of building transaction‑capable agents.
