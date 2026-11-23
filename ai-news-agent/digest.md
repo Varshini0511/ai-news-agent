@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-23 18:31
+
+- **[Run local models in your .NET apps with Llama on Windows](https://devblogs.microsoft.com/dotnet/local-models-dotnet-llama-windows/)** (.NET Blog, 7/10) - The .NET Blog shows how to install the Llama‑cpp runtime on Windows, download an open‑source Llama model from Hugging Face, and call it directly from a .NET 11 C# app. This lets .NET developers run inference locally without cloud credits, useful for low‑latency or privacy‑sensitive applications.
+- **[rust-v0.171.0-alpha.13.2](https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.13.2)** (OpenAI Codex releases, 6/10) - OpenAI released rust‑v0.171.0‑alpha.13.2, a new Rust client library version for accessing OpenAI’s APIs. The update adds support for the latest endpoints and improves async handling, helping Rust developers integrate AI features like chat or code generation more easily.
+
 ## 2026-11-23 17:31
 
 - **[RoboTrack: Point tracking for real-world robotic manipulation](https://huggingface.co/blog/allenai/robotrack)** (Hugging Face, 7/10) - Hugging Face released RoboTrack, an open‑source model that tracks points on objects to enable real‑world robotic manipulation. Builders can plug it into vision pipelines to give robots grasping and moving capabilities without training their own tracker.
