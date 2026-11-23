@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-23 17:31
+
+- **[RoboTrack: Point tracking for real-world robotic manipulation](https://huggingface.co/blog/allenai/robotrack)** (Hugging Face, 7/10) - Hugging Face released RoboTrack, an open‑source model that tracks points on objects to enable real‑world robotic manipulation. Builders can plug it into vision pipelines to give robots grasping and moving capabilities without training their own tracker.
+
 ## 2026-11-23 16:31
 
 - **[Ladybird Is Now in Alpha](https://ladybird.org/posts/alpha/)** (Hacker News, 7/10) - The Ladybird language model has been released in an alpha version, making the first public build available for testing. Developers can experiment with it now to see how its performance compares to other models and start building applications on top of it.
