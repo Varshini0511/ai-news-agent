@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-23 19:02
+
+- **[NariQ: BF16-level Qwen3.8-27B in a 10 GB file](https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF)** (Hacker News, 7/10) - NariQ released a compressed version of the Qwen 3.8‑27B model that keeps BF16‑level quality while fitting in a 10 GB file. This lets developers run a 27 billion‑parameter model on a single GPU or modest server, reducing storage and memory costs for fine‑tuning or inference.
+
 ## 2026-11-23 18:31
 
 - **[Run local models in your .NET apps with Llama on Windows](https://devblogs.microsoft.com/dotnet/local-models-dotnet-llama-windows/)** (.NET Blog, 7/10) - The .NET Blog shows how to install the Llama‑cpp runtime on Windows, download an open‑source Llama model from Hugging Face, and call it directly from a .NET 11 C# app. This lets .NET developers run inference locally without cloud credits, useful for low‑latency or privacy‑sensitive applications.
