@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-23 16:31
+
+- **[Ladybird Is Now in Alpha](https://ladybird.org/posts/alpha/)** (Hacker News, 7/10) - The Ladybird language model has been released in an alpha version, making the first public build available for testing. Developers can experiment with it now to see how its performance compares to other models and start building applications on top of it.
+- **[T3 Code Nightly 0.1.12-nightly.20261123.5151 (856b105fa23f)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.12-nightly.20261123.5151)** (T3 Code releases, 6/10) - The T3 Code nightly build (v0.1.12) adds support for agents to take screenshots of a browser and to let other agents influence a running task. This lets developers create more interactive AI‑driven coding assistants that can see and react to visual UI changes.
+
 ## 2026-11-23 16:03
 
 - **[rust-v0.172.0-alpha.2.1](https://github.com/openai/codex/releases/tag/rust-v0.172.0-alpha.2.1)** (OpenAI Codex releases, 7/10) - OpenAI released version 0.172.0-alpha.2.1 of its Rust client library for Codex, adding new endpoint support and fixing several bugs. This lets Rust developers call the Codex code‑generation API more easily and with fewer errors, speeding up integration of AI‑assisted coding into Rust projects.
