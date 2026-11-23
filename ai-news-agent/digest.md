@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-23 22:01
+
+- **[v2.1.331](https://github.com/anthropics/claude-code/releases/tag/v2.1.331)** (Claude Code releases, 8/10) - Anthropic released Claude Code v2.1.331, adding Code Mode support for terminal sessions on Amazon Bedrock, Google Cloud’s Agent Platform, Microsoft Azure AI Foundry, and the Claude platform on AWS. The feature lets developers write, run, and debug code inside the model’s chat, simplifying the creation of AI‑assisted coding tools across major cloud services.
+
 ## 2026-11-23 20:31
 
 - **[Agents SDK v1.0.0-alpha.2](https://github.com/openai/openai-agents-python/releases/tag/v1.0.0-alpha.2)** (OpenAI Agents SDK, 7/10) - OpenAI released version 1.0.0-alpha.2 of its Agents SDK, adding features for tool execution hooks and state resumption across worker threads. This allows developers to build more reliable multi-step agent workflows that can safely pause for human approvals and filter tools dynamically.
