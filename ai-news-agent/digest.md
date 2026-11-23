@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-23 01:01
+
+- **[mobile-ios-build/testflight/3.0.0/1da083f3be9e0e27a0fbab81f02666b9f41ade7a: fix(mobile): enlarge PR file Viewed tap target (#39950)](https://github.com/pingdotgg/t3code/releases/tag/mobile-ios-build%2Ftestflight%2F3.0.0%2F1da083f3be9e0e27a0fbab81f02666b9f41ade7a)** (T3 Code releases, 6/10) - T3 released version 3.0.0 of its iOS mobile SDK, fixing the size of the pull‑request file view button so it’s easier to tap. This makes it simpler for developers to test and use AI‑assisted code review features on iPhone or iPad.
+- **[mobile-android-build/2.3.0/7a5a2d66d8f22a83162de9fbf5c01f9dc9823dd5: fix(mobile): enlarge PR file Viewed tap target (#39950)](https://github.com/pingdotgg/t3code/releases/tag/mobile-android-build%2F2.3.0%2F7a5a2d66d8f22a83162de9fbf5c01f9dc9823dd5)** (T3 Code releases, 6/10) - T3 released version 2.3.0 of its Android mobile SDK, applying the same larger tap target fix for the pull‑request file view. Android developers can now more reliably interact with the AI‑driven code‑review UI while building mobile apps.
+
 ## 2026-11-22 22:01
 
 - **[A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)** (Hacker News, 7/10) - This guide demonstrates how to set up and run open-source AI models locally using Inkling, the Qwen model family, and Unsloth for efficient fine-tuning. It provides a practical step-by-step workflow for developers looking to build private, low-cost AI applications on their own hardware.
