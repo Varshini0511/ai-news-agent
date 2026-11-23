@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-23 05:01
+
+- **[TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator](https://arxiv.org/abs/2611.26722)** (arXiv cs.AI, 6/10) - Researchers released TOUMAII, an open dataset of 4.5 million training pairs alongside a generator script built specifically for agent tool calling. Developers fine-tuning custom models can use this dataset to make their agents execute external API calls and database queries far more reliably.
+- **[Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents](https://arxiv.org/abs/2611.26966)** (arXiv cs.AI, 6/10) - Researchers proposed a runtime governance architecture for tool-using AI agents that separates an agent's proposed actions from the actual authorization and execution systems. This pattern helps software engineers build safer enterprise agents by ensuring LLMs (Large Language Models) cannot trigger unauthorized side effects directly.
+
 ## 2026-11-23 04:01
 
 - **[Localcode, open source agentic coding on your Mac with one command](https://github.com/mjwsolo/localcode)** (Hacker News, 6/10) - Localcode is an open-source tool designed to run an AI coding agent locally on macOS using a single terminal command. It gives developers a private, cloud-free option to experiment with autonomous code generation and local agentic workflows.
