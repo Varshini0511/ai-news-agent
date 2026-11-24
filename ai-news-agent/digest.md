@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-24 21:01
+
+- **[Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)** (Hacker News, 7/10) - The Ternary Bonsai 2.5 model, a 27‑billion‑parameter open‑source language model, was released on GitHub. It gives developers a large, freely available model they can fine‑tune or run locally for building chat or code‑generation apps.
+- **[T3 Code Nightly 0.1.12-nightly.20261124.5209 (84e4264bb347)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.12-nightly.20261124.5209)** (T3 Code releases, 6/10) - T3 Code Nightly 0.1.12 was published, adding sign‑in alerts for T3 Connect devices and automatic thread resumption after quota resets. These updates improve the developer experience when using T3’s AI‑assisted coding environment.
+
 ## 2026-11-24 20:31
 
 - **[From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver](https://andlukyane.com/blog/cayley-graphs-and-torchtpu)** (Hacker News, 6/10) - This engineering post details lessons learned from porting high-performance graph solver code across CUDA, JAX, and PyTorch for Tensor Processing Units (TorchTPU). It provides useful low-level compute optimization insights for developers scaling custom machine learning workloads beyond standard GPUs.
