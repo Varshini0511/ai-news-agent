@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-24 05:31
+
+- **[datasette-charts 0.2a0](https://simonwillison.net/2026/Nov/24/datasette-charts/)** (Simon Willison, 6/10) - Simon Willison updated the datasette-charts plugin to version 0.2a0, integrating it with Datasette Agent. Developers using Datasette can now let users request custom data visualizations using plain text chat commands.
+
 ## 2026-11-24 05:01
 
 - **[Declare is a UI language for you and your AI](https://davidtemkin.github.io/declarelang/)** (Hacker News, 6/10) - Declare launches a declarative UI language that lets an AI generate or manipulate interface elements at runtime. The simple syntax can speed up building AI assistants that need to display or edit information in a web UI.
