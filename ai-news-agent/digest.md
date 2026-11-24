@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-24 17:31
+
+- **[Meta brings its Muse AI assistant directly into Instagram DMs](https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/)** (TechCrunch AI, 7/10) - Meta added its Muse AI chatbot directly into Instagram direct messages, so users can chat with the assistant without opening a separate app. This makes it easier for developers to build Instagram‑centric AI features and for marketers to experiment with conversational experiences inside a popular social platform.
+
 ## 2026-11-24 17:02
 
 - **[Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton](https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance)** (Hugging Face, 7/10) - Hugging Face published a tutorial named “Microduck Obstacle Avoidance” that demonstrates how to train a robot to avoid obstacles using NVIDIA’s Isaac Lab simulator together with the Newton reinforcement‑learning library. The guide walks developers from simulation to a real robot, cutting down data‑collection effort and showing a practical path for building autonomous navigation agents.
