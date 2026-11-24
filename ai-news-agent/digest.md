@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-24 19:00
+
+- **[How iFood scales coding agents across 15,000 repositories](https://openai.com/index/ifood)** (OpenAI Blog, 7/10) - OpenAI published a case study on how food delivery company iFood deployed automated coding agents across 15,000 software repositories. It provides practical insights and architectural patterns for engineering teams scaling AI coding tools across large codebases.
+- **[Claude Code Mode Internals](https://muthuishere.medium.com/code-mode-internals-and-adapting-them-for-your-clis-and-agent-skills-3a9ae4c9782f)** (Hacker News, 7/10) - An analysis breaks down the internal prompts, tool implementations, and control flow of Anthropic's Claude Code command-line tool. Examining these mechanics helps developers build more effective autonomous agents and custom system instructions.
+- **[T3 Code Nightly 0.1.12-nightly.20261124.5204 (11c63a9f2cea)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.12-nightly.20261124.5204)** (T3 Code releases, 6/10) - T3 Code released a nightly update adding skill steering mentions during execution and multi-repository task delegation. These features give developers more control when directing AI coding agents across complex, multi-project codebases.
+
 ## 2026-11-24 18:31
 
 - **[Introducing DocumentExtractionClient (preview): Extract documents in .NET](https://devblogs.microsoft.com/dotnet/document-extraction-dotnet-preview/)** (.NET Blog, 7/10) - Microsoft released DocumentExtractionClient, a preview .NET library for converting PDFs, images, and documents into structured text. It provides .NET developers with a standardized API to parse unstructured files for Retrieval-Augmented Generation (RAG) pipelines.
