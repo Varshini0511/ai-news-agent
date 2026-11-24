@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-24 05:01
+
+- **[Declare is a UI language for you and your AI](https://davidtemkin.github.io/declarelang/)** (Hacker News, 6/10) - Declare launches a declarative UI language that lets an AI generate or manipulate interface elements at runtime. The simple syntax can speed up building AI assistants that need to display or edit information in a web UI.
+
 ## 2026-11-24 04:01
 
 - **[Mcpseal: Grade an MCP server for safety before you install it](https://www.npmjs.com/package/@hashshabbir/mcp-pack)** (Hacker News, 7/10) - Mcpseal is a security evaluation tool that scans Model Context Protocol (MCP) servers for safety risks before you install them. It helps developers safely add third-party tool integrations to their AI agents without exposing sensitive data or executing malicious code.
