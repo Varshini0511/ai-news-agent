@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-24 20:02
+
+- **[Show HN: Brickie – deploy sandboxes in your own AWS account](https://github.com/hatchet-dev/brickie)** (Hacker News, 6/10) - Brickie is an open-source tool for deploying isolated code sandboxes directly inside your own Amazon Web Services (AWS) account. It is useful for AI developers building agents that need to safely execute untrusted, LLM-generated code without using third-party execution services.
+
 ## 2026-11-24 19:31
 
 - **[How iFood scales coding agents across 15,000 repositories](https://openai.com/business/customer-stories/ifood)** (OpenAI Blog, 6/10) - iFood detailed their engineering approach for deploying automated AI coding agents across 15,000 software repositories. It provides valuable architectural patterns for developers attempting to scale automated code modification tools in enterprise environments.
