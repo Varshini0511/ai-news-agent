@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-24 08:32
+
+- **[AutoPILOT: A Visual Agent Harness for Real-Time Gameplay](https://arxiv.org/abs/2611.28202)** (arXiv cs.AI, 6/10) - Researchers released AutoPILOT, a visual harness system that manages prompt timing and frame memory for visual LLM agents operating in real-time games. It provides actionable design patterns for building vision-language agents in fast-paced streaming environments where input latency is critical.
+- **[Demystifying the Autoresearch Harness: How Context and Skills Shape Self-Evolving Agents](https://arxiv.org/abs/2611.28244)** (arXiv cs.AI, 6/10) - A research paper analyzes the system harnesses behind autonomous research agents to identify how context window structure and tool integration drive performance. It provides software engineers with clear architecture insights for building self-evolving agent loops.
+- **[Selection Policies for Equal-Byte Mixed-Precision Quantization of Small Language Models](https://arxiv.org/abs/2611.28318)** (arXiv cs.AI, 6/10) - The paper compares two genetic‑algorithm selection rules for assigning 2‑, 4‑, or 8‑bit precision to different weight matrices in a small language model, showing modest accuracy gains without increasing storage size. This gives engineers a concrete way to shrink models for edge devices while keeping them useful.
+
 ## 2026-11-24 06:32
 
 - **[Lowering Perplexity Without Scaling](https://micjm.com/blog/lowering-perplexity-without-scaling/)** (Hacker News, 7/10) - A recent discussion highlighted a technique that reduces a language model's perplexity (prediction error) without needing larger models or more compute. This can help developers achieve higher quality text generation while keeping costs and hardware requirements low.
