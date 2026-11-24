@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-24 16:31
+
+- **[A training engine for your local model, using your idle compute](https://github.com/sous-labs/songe)** (Hacker News, 7/10) - An open‑source training engine was released that can stitch together idle CPU or GPU cycles on a local network to train your own language model. This lets developers prototype and fine‑tune models without needing expensive cloud compute or a dedicated server.
+
 ## 2026-11-24 15:03
 
 - **[GLM-5.4 loops 🔁, Claude Ship 🚢, OpenAI secures Linux 🔒](https://tldr.tech/ai/2026-11-24)** (TLDR AI, 8/10) - Today GLM‑5.4, an open‑source large language model with efficient looped generation, was released, and Anthropic announced Claude Ship, a fully managed Claude chat service. Both give developers ready‑to‑use models that can be integrated quickly, reducing the engineering effort to run or fine‑tune large models.
