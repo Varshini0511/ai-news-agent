@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-24 22:01
+
+- **[rust-v0.174.0-alpha.4](https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.4)** (OpenAI Codex releases, 7/10) - OpenAI released version 0.174.0-alpha.4 of the Codex library for the Rust programming language, adding support for the latest Rust syntax and improving suggestion quality. Rust developers can now get AI‑generated code snippets directly in their tools, speeding up coding work.
+- **[Even the best AI agents struggle with everyday life](https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/)** (TechCrunch AI, 6/10) - A new benchmark measured how well popular AI assistants handle everyday tasks and found they often make mistakes or create new problems. Knowing these weaknesses helps developers build agents that are safer and more reliable.
+
 ## 2026-11-24 21:01
 
 - **[Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)** (Hacker News, 7/10) - The Ternary Bonsai 2.5 model, a 27‑billion‑parameter open‑source language model, was released on GitHub. It gives developers a large, freely available model they can fine‑tune or run locally for building chat or code‑generation apps.
