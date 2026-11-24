@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-24 17:02
+
+- **[Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton](https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance)** (Hugging Face, 7/10) - Hugging Face published a tutorial named “Microduck Obstacle Avoidance” that demonstrates how to train a robot to avoid obstacles using NVIDIA’s Isaac Lab simulator together with the Newton reinforcement‑learning library. The guide walks developers from simulation to a real robot, cutting down data‑collection effort and showing a practical path for building autonomous navigation agents.
+
 ## 2026-11-24 16:31
 
 - **[A training engine for your local model, using your idle compute](https://github.com/sous-labs/songe)** (Hacker News, 7/10) - An open‑source training engine was released that can stitch together idle CPU or GPU cycles on a local network to train your own language model. This lets developers prototype and fine‑tune models without needing expensive cloud compute or a dedicated server.
