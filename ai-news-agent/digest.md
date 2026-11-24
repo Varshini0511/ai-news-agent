@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-24 09:32
+
+- **[Claude Ship](https://www.producthunt.com/products/claude-code)** (Product Hunt, 6/10) - Claude Ship launched on Product Hunt as a new tool that lets developers write code and have Claude (Anthropic’s model) automatically generate, test, and ship it. It speeds up the development cycle by handling routine coding tasks, letting engineers focus on design and problem solving.
+
 ## 2026-11-24 09:01
 
 - **[Viktor Code](https://www.producthunt.com/products/viktor)** (Product Hunt, 7/10) - Viktor Code is an AI coding assistant that scans a repository to learn a project's structure and conventions, then suggests code that follows the same patterns. It helps developers speed up feature work and keep code consistent without manually configuring prompts or templates.
