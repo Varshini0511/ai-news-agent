@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-24 18:31
+
+- **[Introducing DocumentExtractionClient (preview): Extract documents in .NET](https://devblogs.microsoft.com/dotnet/document-extraction-dotnet-preview/)** (.NET Blog, 7/10) - Microsoft released DocumentExtractionClient, a preview .NET library for converting PDFs, images, and documents into structured text. It provides .NET developers with a standardized API to parse unstructured files for Retrieval-Augmented Generation (RAG) pipelines.
+
 ## 2026-11-24 17:31
 
 - **[Meta brings its Muse AI assistant directly into Instagram DMs](https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/)** (TechCrunch AI, 7/10) - Meta added its Muse AI chatbot directly into Instagram direct messages, so users can chat with the assistant without opening a separate app. This makes it easier for developers to build Instagram‑centric AI features and for marketers to experiment with conversational experiences inside a popular social platform.
