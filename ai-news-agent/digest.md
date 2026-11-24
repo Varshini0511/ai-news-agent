@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-24 03:31
+
+- **[v0.26.0](https://github.com/openai/openai-agents-python/releases/tag/v0.26.0)** (OpenAI Agents SDK, 6/10) - OpenAI updated its Agents Software Development Kit (SDK) to version 0.26.0, adding bug fixes for file path validations and updating demo projects. This release helps developers maintain more stable and secure codebases when building autonomous AI agents.
+
 ## 2026-11-24 00:31
 
 - **[GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://simonwillison.net/2026/Nov/23/glm-54/)** (Simon Willison, 7/10) - Chinese AI lab Z.ai has released GLM-5.4, a coding-focused model built with a loop transformer architecture that reuses layer parameters multiple times during a single pass. This gives developers a new open model option for software development tasks that aims to achieve deeper reasoning while keeping model sizes smaller.
