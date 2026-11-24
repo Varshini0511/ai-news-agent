@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-24 20:31
+
+- **[From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver](https://andlukyane.com/blog/cayley-graphs-and-torchtpu)** (Hacker News, 6/10) - This engineering post details lessons learned from porting high-performance graph solver code across CUDA, JAX, and PyTorch for Tensor Processing Units (TorchTPU). It provides useful low-level compute optimization insights for developers scaling custom machine learning workloads beyond standard GPUs.
+
 ## 2026-11-24 20:02
 
 - **[Show HN: Brickie – deploy sandboxes in your own AWS account](https://github.com/hatchet-dev/brickie)** (Hacker News, 6/10) - Brickie is an open-source tool for deploying isolated code sandboxes directly inside your own Amazon Web Services (AWS) account. It is useful for AI developers building agents that need to safely execute untrusted, LLM-generated code without using third-party execution services.
