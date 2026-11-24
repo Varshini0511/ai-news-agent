@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-24 06:32
+
+- **[Lowering Perplexity Without Scaling](https://micjm.com/blog/lowering-perplexity-without-scaling/)** (Hacker News, 7/10) - A recent discussion highlighted a technique that reduces a language model's perplexity (prediction error) without needing larger models or more compute. This can help developers achieve higher quality text generation while keeping costs and hardware requirements low.
+
 ## 2026-11-24 05:31
 
 - **[datasette-charts 0.2a0](https://simonwillison.net/2026/Nov/24/datasette-charts/)** (Simon Willison, 6/10) - Simon Willison updated the datasette-charts plugin to version 0.2a0, integrating it with Datasette Agent. Developers using Datasette can now let users request custom data visualizations using plain text chat commands.
