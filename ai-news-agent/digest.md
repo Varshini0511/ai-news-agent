@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-24 23:31
+
+- **[Three LLM inflection points in twelve months](https://simonwillison.net/2026/Nov/24/llm-inflection-points/)** (Simon Willison, 6/10) - Simon Willison shared a keynote talk outlining three major breakthroughs in Large Language Model (LLM) coding capabilities over the past year. It offers practical insights for engineers building or using AI coding agents to improve software development workflows.
+
 ## 2026-11-24 22:01
 
 - **[rust-v0.174.0-alpha.4](https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.4)** (OpenAI Codex releases, 7/10) - OpenAI released version 0.174.0-alpha.4 of the Codex library for the Rust programming language, adding support for the latest Rust syntax and improving suggestion quality. Rust developers can now get AI‑generated code snippets directly in their tools, speeding up coding work.
