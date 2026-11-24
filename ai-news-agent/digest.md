@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-24 19:31
+
+- **[How iFood scales coding agents across 15,000 repositories](https://openai.com/business/customer-stories/ifood)** (OpenAI Blog, 6/10) - iFood detailed their engineering approach for deploying automated AI coding agents across 15,000 software repositories. It provides valuable architectural patterns for developers attempting to scale automated code modification tools in enterprise environments.
+- **[Compiling Web Applications into Verified Operations for AI Agents](https://protocolis.co/paper/)** (Hacker News, 6/10) - A theoretical framework was presented for translating web applications into structured, verifiable operations for AI agents to interact with safely. This helps engineers design more resilient web-browsing agents that do not break when user interfaces change.
+
 ## 2026-11-24 19:00
 
 - **[How iFood scales coding agents across 15,000 repositories](https://openai.com/index/ifood)** (OpenAI Blog, 7/10) - OpenAI published a case study on how food delivery company iFood deployed automated coding agents across 15,000 software repositories. It provides practical insights and architectural patterns for engineering teams scaling AI coding tools across large codebases.
