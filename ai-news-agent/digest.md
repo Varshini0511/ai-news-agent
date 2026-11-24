@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-24 00:31
+
+- **[GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://simonwillison.net/2026/Nov/23/glm-54/)** (Simon Willison, 7/10) - Chinese AI lab Z.ai has released GLM-5.4, a coding-focused model built with a loop transformer architecture that reuses layer parameters multiple times during a single pass. This gives developers a new open model option for software development tasks that aims to achieve deeper reasoning while keeping model sizes smaller.
+
 ## 2026-11-23 23:32
 
 - **[datasette-charts 0.1a0](https://simonwillison.net/2026/Nov/23/datasette-charts/)** (Simon Willison, 6/10) - Datasette‑charts 0.1a0 adds an AI feature that creates charts from a dataset using Anthropic's Claude model. It lets developers embed quick visualizations in their data apps without writing chart code.
