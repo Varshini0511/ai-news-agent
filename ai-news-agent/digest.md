@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-24 15:03
+
+- **[GLM-5.4 loops 🔁, Claude Ship 🚢, OpenAI secures Linux 🔒](https://tldr.tech/ai/2026-11-24)** (TLDR AI, 8/10) - Today GLM‑5.4, an open‑source large language model with efficient looped generation, was released, and Anthropic announced Claude Ship, a fully managed Claude chat service. Both give developers ready‑to‑use models that can be integrated quickly, reducing the engineering effort to run or fine‑tune large models.
+
 ## 2026-11-24 09:32
 
 - **[Claude Ship](https://www.producthunt.com/products/claude-code)** (Product Hunt, 6/10) - Claude Ship launched on Product Hunt as a new tool that lets developers write code and have Claude (Anthropic’s model) automatically generate, test, and ship it. It speeds up the development cycle by handling routine coding tasks, letting engineers focus on design and problem solving.
