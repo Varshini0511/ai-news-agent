@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-24 04:01
+
+- **[Mcpseal: Grade an MCP server for safety before you install it](https://www.npmjs.com/package/@hashshabbir/mcp-pack)** (Hacker News, 7/10) - Mcpseal is a security evaluation tool that scans Model Context Protocol (MCP) servers for safety risks before you install them. It helps developers safely add third-party tool integrations to their AI agents without exposing sensitive data or executing malicious code.
+- **[Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in](https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26)** (Hacker News, 6/10) - Juncts is a unified messaging inbox that connects five chat applications to AI assistants like Claude and ChatGPT. It helps developers deploy conversational AI agents that can interact with users across multiple messaging channels simultaneously.
+
 ## 2026-11-24 03:31
 
 - **[v0.26.0](https://github.com/openai/openai-agents-python/releases/tag/v0.26.0)** (OpenAI Agents SDK, 6/10) - OpenAI updated its Agents Software Development Kit (SDK) to version 0.26.0, adding bug fixes for file path validations and updating demo projects. This release helps developers maintain more stable and secure codebases when building autonomous AI agents.
