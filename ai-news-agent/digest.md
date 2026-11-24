@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-24 09:01
+
+- **[Viktor Code](https://www.producthunt.com/products/viktor)** (Product Hunt, 7/10) - Viktor Code is an AI coding assistant that scans a repository to learn a project's structure and conventions, then suggests code that follows the same patterns. It helps developers speed up feature work and keep code consistent without manually configuring prompts or templates.
+- **[SparrowDesk Phone Calls](https://www.producthunt.com/products/sparrowdesk)** (Product Hunt, 6/10) - SparrowDesk added phone call handling to its omnichannel inbox, letting agents answer calls alongside email, chat, and WhatsApp from one view. This saves developers time building custom telephony integrations and lets support bots use the same context across channels.
+
 ## 2026-11-24 08:32
 
 - **[AutoPILOT: A Visual Agent Harness for Real-Time Gameplay](https://arxiv.org/abs/2611.28202)** (arXiv cs.AI, 6/10) - Researchers released AutoPILOT, a visual harness system that manages prompt timing and frame memory for visual LLM agents operating in real-time games. It provides actionable design patterns for building vision-language agents in fast-paced streaming environments where input latency is critical.
