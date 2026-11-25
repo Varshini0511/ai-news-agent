@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-25 14:01
+
+- **[OpenEight](https://www.producthunt.com/products/openeight)** (Product Hunt, 6/10) - OpenEight launched an open-source control layer designed to add deterministic guardrails and state management to AI agents. It helps developers prevent autonomous agents from taking unpredictable actions or getting stuck in loops during execution.
+
 ## 2026-11-25 13:31
 
 - **[T3 Code Nightly 0.1.13-nightly.20261125.5245 (1c3f0ee88fc7)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.13-nightly.20261125.5245)** (T3 Code releases, 6/10) - T3 Code released a nightly update that adds workflow concurrency limits to queue and cap simultaneous execution runs. This feature helps software engineers prevent resource exhaustion when running automated coding agents in parallel.
