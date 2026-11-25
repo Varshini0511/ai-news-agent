@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-25 03:02
+
+- **[New offer: GitHub Education pack](https://education.github.com/pack)** (GitHub Education pack, 8/10) - Camber is offering a free Student plan for its AI coding agent for data and scientific work, which includes 40 compute hours, 50 GB storage, and 50 agent messages per month. Enrolled students can claim and use this offer for as long as they remain enrolled.
+
 ## 2026-11-25 02:01
 
 - **[v2.1.332](https://github.com/anthropics/claude-code/releases/tag/v2.1.332)** (Claude Code releases, 7/10) - Anthropic updated its Claude Code command-line tool to support skills exposed by Model Context Protocol (MCP) servers, alongside new security hooks for inline shell execution. This allows developers to seamlessly integrate custom tools and contextual APIs into their AI coding workflow.
