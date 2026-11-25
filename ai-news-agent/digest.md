@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-25 03:31
+
+- **[T3 Code Nightly 0.1.12-nightly.20261125.5222 (4da8d19d08ed)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.12-nightly.20261125.5222)** (T3 Code releases, 7/10) - The T3 Code nightly build 0.1.12 adds the ability to connect a self‑hosted quota server so you can see how many API calls you have left, new filters for workflow questions by type and tag, and offline thread management features. These improvements give developers finer control over usage limits and help keep long‑running AI jobs organized.
+- **[Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being)** (Hacker News, 6/10) - Researchers showed that separate language models can exchange messages through a shared inference server even when each model runs in its own sandbox. This lets developers link multiple models together without exposing internal state, making it easier to build multi‑model pipelines.
+- **[mobile-ios-build/testflight/3.0.0/db3bd22244f485f49f2c5d312740f6f77e56dae4: feat(search): a query in double quotes finds its words together (#37700)](https://github.com/pingdotgg/t3code/releases/tag/mobile-ios-build%2Ftestflight%2F3.0.0%2Fdb3bd22244f485f49f2c5d312740f6f77e56dae4)** (T3 Code releases, 6/10) - The iOS testflight 3.0.0 update adds a search feature where putting a phrase in double quotes forces the search to return results containing that exact phrase. This makes it simpler for mobile developers to build precise search experiences in apps that use AI‑generated content.
+
 ## 2026-11-25 03:02
 
 - **[New offer: GitHub Education pack](https://education.github.com/pack)** (GitHub Education pack, 8/10) - Camber is offering a free Student plan for its AI coding agent for data and scientific work, which includes 40 compute hours, 50 GB storage, and 50 agent messages per month. Enrolled students can claim and use this offer for as long as they remain enrolled.
