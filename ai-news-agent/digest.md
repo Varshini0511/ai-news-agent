@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-25 15:01
+
+- **[OpenAI solves matrix math 🔢, SWE-2.1 💻, swarm limitations 🐝](https://tldr.tech/ai/2026-11-25)** (TLDR AI, 6/10) - A newsletter summary highlights OpenAI research into optimizing matrix multiplication, alongside updates on software engineering coding agents and multi-agent swarm limitations. It gives developers a quick look into upcoming computational efficiency gains and the practical limits of multi-agent architectures.
+
 ## 2026-11-25 14:01
 
 - **[OpenEight](https://www.producthunt.com/products/openeight)** (Product Hunt, 6/10) - OpenEight launched an open-source control layer designed to add deterministic guardrails and state management to AI agents. It helps developers prevent autonomous agents from taking unpredictable actions or getting stuck in loops during execution.
