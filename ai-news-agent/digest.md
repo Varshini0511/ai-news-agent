@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-25 13:31
+
+- **[T3 Code Nightly 0.1.13-nightly.20261125.5245 (1c3f0ee88fc7)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.13-nightly.20261125.5245)** (T3 Code releases, 6/10) - T3 Code released a nightly update that adds workflow concurrency limits to queue and cap simultaneous execution runs. This feature helps software engineers prevent resource exhaustion when running automated coding agents in parallel.
+
 ## 2026-11-25 10:31
 
 - **[An Indic Voice Agent with CUGA](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga)** (Hugging Face, 6/10) - Hugging Face published a guide on building interactive voice agents for Indic languages using the CUGA framework. It provides developers with a practical reference for implementing real-time, multilingual speech-to-speech pipelines in AI applications.
