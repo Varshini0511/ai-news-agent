@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-25 23:32
+
+- **[Jev is (probably) Qwen3.5-35B-A3B](https://modaic.dev/blog/latency-doesnt-lie)** (Hacker News, 7/10) - A post on Hacker News identifies the model referred to as “Jev” as the Qwen 3.5 35B‑A3B, a 35‑billion‑parameter language model released by Alibaba. The model is openly available, giving developers a powerful, free‑to‑use option for building chatbots, RAG pipelines, or other AI‑driven features.
+
 ## 2026-11-25 21:31
 
 - **[Show HN: An agent skill that optimizes code with falsifiable hypotheses](https://chszlab.github.io/AgenticAlgorithmEngineering/)** (Hacker News, 7/10) - An open-source tool was released that gives AI agents a systematic method to optimize software code by forming and testing falsifiable hypotheses. It offers developers a practical pattern for building self-correcting coding agents that rely on concrete benchmark results rather than unverified suggestions.
