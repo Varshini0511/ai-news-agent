@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-25 19:31
+
+- **[Show HN: Keeping faces and features consistent across 24 AI-driven comic pages](https://joonoo.art/create-comic)** (Hacker News, 6/10) - A developer shared a practical workflow for maintaining consistent character faces and features across multi-page AI-generated comics. This provides useful techniques for developers building image generation pipelines that require visual continuity across multiple prompts.
+
 ## 2026-11-25 17:31
 
 - **[Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000](https://huggingface.co/blog/inkling-2-mini-inference-hillclimb)** (Hugging Face, 7/10) - Hugging Face showed that the Inkling 2 Mini language model can run inference on a single RTX PRO 6000 GPU with acceptable latency. This lets developers experiment with a decent‑size model on‑premise without paying for large cloud instances.
