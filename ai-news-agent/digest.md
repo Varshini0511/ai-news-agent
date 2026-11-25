@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-25 08:01
+
+- **[T3 Code v0.1.12](https://github.com/pingdotgg/t3code/releases/tag/v0.1.12)** (T3 Code releases, 6/10) - T3 Code released version 0.1.12, introducing support for multi-repository projects and durable agent workflows. This gives developers tools to orchestrate AI agents across multiple codebases with scheduled tasks, webhooks, and human approval steps.
+
 ## 2026-11-25 07:01
 
 - **[T3 Code Nightly 0.1.12-nightly.20261125.5230 (ca81b7b97a1c)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.12-nightly.20261125.5230)** (T3 Code releases, 7/10) - T3 Code released a nightly build (v0.1.12) that adds richer workflow‑question types, thread actions, and UI controls like pin, snooze, and archive. These features let developers create more organized AI‑assisted coding sessions and manage tasks directly inside the tool.
