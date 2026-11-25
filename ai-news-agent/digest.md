@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-25 10:31
+
+- **[An Indic Voice Agent with CUGA](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga)** (Hugging Face, 6/10) - Hugging Face published a guide on building interactive voice agents for Indic languages using the CUGA framework. It provides developers with a practical reference for implementing real-time, multilingual speech-to-speech pipelines in AI applications.
+
 ## 2026-11-25 08:31
 
 - **[MAGI-2](https://www.producthunt.com/products/magi-1)** (Product Hunt, 6/10) - Sand AI released MAGI-2, a 480-billion parameter model designed for generating cinematic video content. Developers working on generative media can use this large-scale model for automated video production.
