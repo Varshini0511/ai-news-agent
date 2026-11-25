@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-25 08:31
+
+- **[MAGI-2](https://www.producthunt.com/products/magi-1)** (Product Hunt, 6/10) - Sand AI released MAGI-2, a 480-billion parameter model designed for generating cinematic video content. Developers working on generative media can use this large-scale model for automated video production.
+
 ## 2026-11-25 08:01
 
 - **[T3 Code v0.1.12](https://github.com/pingdotgg/t3code/releases/tag/v0.1.12)** (T3 Code releases, 6/10) - T3 Code released version 0.1.12, introducing support for multi-repository projects and durable agent workflows. This gives developers tools to orchestrate AI agents across multiple codebases with scheduled tasks, webhooks, and human approval steps.
