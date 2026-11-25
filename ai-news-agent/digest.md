@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-25 16:32
+
+- **[Predicting LoRA size for any dataset](https://engram.com/blog/lora-size)** (Hacker News, 7/10) - A new open‑source utility can estimate the optimal LoRA (low‑rank adaptation) rank for any fine‑tuning dataset, letting you size the adapter before training. This saves compute and helps developers quickly set up efficient fine‑tuning pipelines.
+
 ## 2026-11-25 15:01
 
 - **[OpenAI solves matrix math 🔢, SWE-2.1 💻, swarm limitations 🐝](https://tldr.tech/ai/2026-11-25)** (TLDR AI, 6/10) - A newsletter summary highlights OpenAI research into optimizing matrix multiplication, alongside updates on software engineering coding agents and multi-agent swarm limitations. It gives developers a quick look into upcoming computational efficiency gains and the practical limits of multi-agent architectures.
