@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-25 02:01
+
+- **[v2.1.332](https://github.com/anthropics/claude-code/releases/tag/v2.1.332)** (Claude Code releases, 7/10) - Anthropic updated its Claude Code command-line tool to support skills exposed by Model Context Protocol (MCP) servers, alongside new security hooks for inline shell execution. This allows developers to seamlessly integrate custom tools and contextual APIs into their AI coding workflow.
+- **[PenGPT: A Generative Transformer for Handwriting and Sketches](https://greydanus.github.io/2026/11/12/pengpt/)** (Hacker News, 6/10) - PenGPT is a new generative Transformer model designed to generate vector-based handwriting and vector sketches. It is useful for developers building digital ink applications, drawing assistants, or vector graphic tools.
+
 ## 2026-11-24 23:31
 
 - **[Three LLM inflection points in twelve months](https://simonwillison.net/2026/Nov/24/llm-inflection-points/)** (Simon Willison, 6/10) - Simon Willison shared a keynote talk outlining three major breakthroughs in Large Language Model (LLM) coding capabilities over the past year. It offers practical insights for engineers building or using AI coding agents to improve software development workflows.
