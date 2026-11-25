@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-25 04:31
+
+- **[Serving Qwen via AWS Lambdas for fun and 80x negative profit](https://noahbuilt.it/writing/qwen-on-5600-lambdas)** (Hacker News, 7/10) - A developer documented their attempt to host the open-source Qwen language model on AWS Lambda serverless functions, detailing extreme cold-start latency and cost penalties. This case study is useful for understanding why serverless cloud infrastructure is generally a poor choice for hosting open-source models.
+
 ## 2026-11-25 03:31
 
 - **[T3 Code Nightly 0.1.12-nightly.20261125.5222 (4da8d19d08ed)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.12-nightly.20261125.5222)** (T3 Code releases, 7/10) - The T3 Code nightly build 0.1.12 adds the ability to connect a self‑hosted quota server so you can see how many API calls you have left, new filters for workflow questions by type and tag, and offline thread management features. These improvements give developers finer control over usage limits and help keep long‑running AI jobs organized.
