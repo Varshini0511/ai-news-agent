@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-25 05:31
+
+- **[ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection](https://arxiv.org/abs/2611.31424)** (arXiv cs.AI, 8/10) - The paper demonstrates ContextLure, a technique that injects hidden prompts via ordinary conversation history to steer large language models without obvious cues. Knowing this risk lets developers design safer prompt‑handling and conversation‑logging safeguards.
+- **[Taxi: Analyzing Agents at (Real) Scale](https://arxiv.org/abs/2611.31457)** (arXiv cs.AI, 8/10) - Taxi is a system for debugging, clustering, and monitoring millions of agent steps efficiently, providing visualizations and analytics at scale. It gives engineers a practical way to track and improve large fleets of AI agents in production.
+- **[Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs](https://arxiv.org/abs/2611.31345)** (arXiv cs.AI, 7/10) - The authors created a benchmark that measures how well multimodal large language models can generate code from interactive charts, not just static images. Builders of chart‑to‑code assistants can use it to test and improve the interactivity of their systems.
+
 ## 2026-11-25 04:31
 
 - **[Serving Qwen via AWS Lambdas for fun and 80x negative profit](https://noahbuilt.it/writing/qwen-on-5600-lambdas)** (Hacker News, 7/10) - A developer documented their attempt to host the open-source Qwen language model on AWS Lambda serverless functions, detailing extreme cold-start latency and cost penalties. This case study is useful for understanding why serverless cloud infrastructure is generally a poor choice for hosting open-source models.
