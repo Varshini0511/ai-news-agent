@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-25 21:31
+
+- **[Show HN: An agent skill that optimizes code with falsifiable hypotheses](https://chszlab.github.io/AgenticAlgorithmEngineering/)** (Hacker News, 7/10) - An open-source tool was released that gives AI agents a systematic method to optimize software code by forming and testing falsifiable hypotheses. It offers developers a practical pattern for building self-correcting coding agents that rely on concrete benchmark results rather than unverified suggestions.
+
 ## 2026-11-25 19:31
 
 - **[Show HN: Keeping faces and features consistent across 24 AI-driven comic pages](https://joonoo.art/create-comic)** (Hacker News, 6/10) - A developer shared a practical workflow for maintaining consistent character faces and features across multi-page AI-generated comics. This provides useful techniques for developers building image generation pipelines that require visual continuity across multiple prompts.
