@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-25 17:31
+
+- **[Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000](https://huggingface.co/blog/inkling-2-mini-inference-hillclimb)** (Hugging Face, 7/10) - Hugging Face showed that the Inkling 2 Mini language model can run inference on a single RTX PRO 6000 GPU with acceptable latency. This lets developers experiment with a decent‑size model on‑premise without paying for large cloud instances.
+
 ## 2026-11-25 16:32
 
 - **[Predicting LoRA size for any dataset](https://engram.com/blog/lora-size)** (Hacker News, 7/10) - A new open‑source utility can estimate the optimal LoRA (low‑rank adaptation) rank for any fine‑tuning dataset, letting you size the adapter before training. This saves compute and helps developers quickly set up efficient fine‑tuning pipelines.
