@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-26 22:32
+
+- **[AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)** (Hacker News, 6/10) - A Hacker News post highlighted new tools and scripts that make it easier to run large language models on your own hardware. This helps developers who want full control over costs, data privacy, or custom tweaks without relying on cloud services.
+
 ## 2026-11-26 21:03
 
 - **[rust-v0.174.0-alpha.8](https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.8)** (OpenAI Codex releases, 7/10) - OpenAI released version 0.174.0‑alpha.8 of the Codex Rust client library. The update adds the newest API features and bug fixes, so Rust programmers can more easily embed AI‑generated code assistance into their applications.
