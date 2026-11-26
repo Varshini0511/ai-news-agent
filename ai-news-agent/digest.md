@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-26 05:01
+
+- **[Context Scaling: A New Frontier of AI Scaling](https://arxiv.org/abs/2611.33160)** (arXiv cs.AI, 7/10) - The paper “Context Scaling” studies how expanding the amount of contextual information given to a model improves performance and where it fails. Builders of LLM‑based apps can use the findings to decide how much context to feed and how to structure prompts.
+- **[General-Purpose Decision Models for AI Configuration Tuning](https://arxiv.org/abs/2611.33190)** (arXiv cs.AI, 7/10) - The study on General‑Purpose Decision Models presents a framework for automatically tuning AI system hyper‑parameters within a limited budget. Practitioners can apply these decision models to get better performance without hand‑tuning many settings.
+- **[Partial Routing: Trace-Tuned Delegation for Resource-Efficient Agentic Workflows](https://arxiv.org/abs/2611.33402)** (arXiv cs.AI, 7/10) - Partial Routing introduces a method to split a single agentic task into sub‑tasks and send each to the most cost‑effective model, balancing cheap and powerful models. This can cut API costs for complex workflows while keeping quality.
+
 ## 2026-11-26 04:31
 
 - **[Android beta 2.4.0 (831)](https://github.com/pingdotgg/t3code/releases/tag/android-beta-831)** (T3 Code releases, 7/10) - T3 Code released version 2.4.0 (831) as a beta for Android, available through a closed test on Google Play. This update adds new coding assistance features and bug fixes, helping Android developers integrate AI-powered code suggestions directly into their mobile development workflow.
