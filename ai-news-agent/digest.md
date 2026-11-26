@@ -1,5 +1,11 @@
 # AI Digest
 
+## 2026-11-26 09:31
+
+- **[NEXUS](https://www.producthunt.com/products/nexus-42)** (Product Hunt, 8/10) - NEXUS scans a local codebase, builds a graph of its structure, and lets an AI suggest changes only after you approve them. This reduces the risk of unintended edits when using AI coding assistants.
+- **[Remora](https://www.producthunt.com/products/remora-6)** (Product Hunt, 7/10) - Remora adds a long‑term memory layer that AI agents can read and write to across sessions. Builders can create agents that remember past interactions without rebuilding the whole system.
+- **[Claude-Mem Cloud Sync](https://www.producthunt.com/products/claude-mem)** (Product Hunt, 6/10) - Claude‑Mem Cloud Sync lets you move Claude‑based AI agents between devices while preserving their conversation memory. It saves developers time by avoiding re‑training or re‑loading context when switching laptops or phones.
+
 ## 2026-11-26 09:02
 
 - **[Pax by Pydantic](https://www.producthunt.com/products/pydantic)** (Product Hunt, 8/10) - Pax, built on the Pydantic data‑validation library, is a framework where each coding step is a plug‑in that the AI can call as needed. This modular approach lets developers customize and extend coding agents without rewriting core logic.
