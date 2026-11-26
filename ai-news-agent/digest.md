@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-26 15:01
+
+- **[Opus 5.6 testing 🤖, OpenAI private Inference 🔒, Jev is probably Qwen 📝](https://tldr.tech/ai/2026-11-26)** (TLDR AI, 9/10) - OpenAI introduced private inference, a service that runs its models on isolated hardware so your data never leaves your environment. This lets developers add OpenAI’s capabilities to apps that need strict privacy, while the Opus 5.6 model and the Qwen (codenamed Jev) model also entered testing, offering newer options for building agents and retrieval‑augmented generation.
+
 ## 2026-11-26 13:01
 
 - **[Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems](https://huggingface.co/blog/training-swarms)** (Hugging Face, 7/10) - Hugging Face released a practical guide titled “Swarms, Flocks, Gangs” that shows how to build, train, and evaluate multi‑agent systems with open‑source tools. It gives ready‑to‑run code and simple evaluation methods, letting developers start experimenting with collaborative AI agents without building the whole stack themselves.
