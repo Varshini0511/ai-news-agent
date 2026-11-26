@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-26 05:31
+
+- **[Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference](https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin)** (Hugging Face, 7/10) - Hugging Face released a guide showing how to fine‑tune the open‑source Nemotron 3.5 model using publicly available datasets and how to speed up its inference with optimization tricks. This helps developers quickly adapt a powerful language model to their own tasks without paying for proprietary APIs, and the performance tips make it cheaper to run in production.
+
 ## 2026-11-26 05:01
 
 - **[Context Scaling: A New Frontier of AI Scaling](https://arxiv.org/abs/2611.33160)** (arXiv cs.AI, 7/10) - The paper “Context Scaling” studies how expanding the amount of contextual information given to a model improves performance and where it fails. Builders of LLM‑based apps can use the findings to decide how much context to feed and how to structure prompts.
