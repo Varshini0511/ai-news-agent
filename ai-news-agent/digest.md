@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-26 13:01
+
+- **[Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems](https://huggingface.co/blog/training-swarms)** (Hugging Face, 7/10) - Hugging Face released a practical guide titled “Swarms, Flocks, Gangs” that shows how to build, train, and evaluate multi‑agent systems with open‑source tools. It gives ready‑to‑run code and simple evaluation methods, letting developers start experimenting with collaborative AI agents without building the whole stack themselves.
+
 ## 2026-11-26 11:03
 
 - **[Bifura](https://www.producthunt.com/products/bifura)** (Product Hunt, 7/10) - Bifura is a web tool that visualises a site the way an AI agent would see it when crawling or scraping. It helps developers debug and optimise prompts and retrieval‑augmented generation pipelines that rely on web‑page content.
