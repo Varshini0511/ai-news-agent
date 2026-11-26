@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-26 23:32
+
+- **[How Clay Builds GTM Agents — Jeff Barg, Head of AI](https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/)** (Latent Space, 6/10) - Clay's Head of AI shared architectural and product insights on how they build AI agents for automated sales and marketing workflows. It offers practical design lessons for developers, such as simplifying the user interface by hiding model selection and managing background agent execution costs.
+
 ## 2026-11-26 23:01
 
 - **[How Clay Builds GTM Agents — Jeff Barg, Head of AI](https://latent.space/p/how_clay_builds_gtm_agents_jeff_barg_head_of_ai/)** (Latent Space, 6/10) - Clay released a walkthrough showing how its GTM (go‑to‑market) agents can be run either through Clay’s own interface or by calling Claude Code from an external app. This lets developers pick the integration style they prefer while still getting the same agent behavior, making it easier to add sales‑automation bots to existing software.
