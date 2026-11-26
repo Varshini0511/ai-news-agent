@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-26 04:31
+
+- **[Android beta 2.4.0 (831)](https://github.com/pingdotgg/t3code/releases/tag/android-beta-831)** (T3 Code releases, 7/10) - T3 Code released version 2.4.0 (831) as a beta for Android, available through a closed test on Google Play. This update adds new coding assistance features and bug fixes, helping Android developers integrate AI-powered code suggestions directly into their mobile development workflow.
+
 ## 2026-11-26 03:01
 
 - **[rust-v0.174.0-alpha.7](https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.7)** (OpenAI Codex releases, 7/10) - OpenAI released version 0.174.0‑alpha.7 of its Codex Rust client library. The update adds new endpoint support, bug fixes, and better type safety, making it easier for Rust developers to integrate code‑generation models into their applications.
