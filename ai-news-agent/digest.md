@@ -1,5 +1,12 @@
 # AI Digest
 
+## 2026-11-26 09:02
+
+- **[Pax by Pydantic](https://www.producthunt.com/products/pydantic)** (Product Hunt, 8/10) - Pax, built on the Pydantic data‑validation library, is a framework where each coding step is a plug‑in that the AI can call as needed. This modular approach lets developers customize and extend coding agents without rewriting core logic.
+- **[Moat: Your OpenRouter Replacement](https://commandcode.ai/moat)** (Hacker News, 7/10) - Moat launched as a self‑hosted alternative to OpenRouter, letting developers route requests to multiple large‑language‑model providers from one endpoint. It simplifies switching models and managing keys, which saves time when testing or scaling AI services.
+- **[DeskFleet](https://www.producthunt.com/products/deskfleet)** (Product Hunt, 7/10) - DeskFleet allows a team to launch the same AI coding agent on multiple machines and share the workload in real time. This distributed setup can speed up batch processing or large‑scale code generation tasks.
+- **[Hub](https://www.producthunt.com/products/hub-20)** (Product Hunt, 7/10) - Hub claims to run up to 100 concurrent Claude Code or Codex sessions while only using the resources of a few. This scaling layer lets developers test many code‑generation prompts in parallel, saving time and cost.
+
 ## 2026-11-26 05:31
 
 - **[Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference](https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin)** (Hugging Face, 7/10) - Hugging Face released a guide showing how to fine‑tune the open‑source Nemotron 3.5 model using publicly available datasets and how to speed up its inference with optimization tricks. This helps developers quickly adapt a powerful language model to their own tasks without paying for proprietary APIs, and the performance tips make it cheaper to run in production.
