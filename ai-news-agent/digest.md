@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-26 10:01
+
+- **[Ottante](https://www.producthunt.com/products/ottante)** (Product Hunt, 7/10) - Ottante is a new Mac utility that automatically reviews the output your AI agents produce and highlights mistakes or inconsistencies. It saves developers time by giving a quick sanity‑check without having to write custom validation code.
+
 ## 2026-11-26 09:31
 
 - **[NEXUS](https://www.producthunt.com/products/nexus-42)** (Product Hunt, 8/10) - NEXUS scans a local codebase, builds a graph of its structure, and lets an AI suggest changes only after you approve them. This reduces the risk of unintended edits when using AI coding assistants.
