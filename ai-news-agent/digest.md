@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-26 19:01
+
+- **[DeepSeekMath: Pushing the Limits of Mathematical Reasoning](https://github.com/deepseek-ai/deepseek-math)** (Hacker News, 7/10) - DeepSeek released a new large language model specialized for mathematical reasoning that outperforms prior models on standard math benchmarks. This gives developers a stronger, open‑source tool for building tutoring apps, finance calculators, or any software that needs reliable step‑by‑step calculations.
+
 ## 2026-11-26 17:31
 
 - **[AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp)** (Hacker News, 7/10) - Developers posted patches to the llama.cpp inference library that add support for AMD GPUs via the ROCm stack and improve performance on that hardware. This lets engineers who use AMD cards run LLaMA models locally without needing an NVIDIA GPU, widening hardware options for low‑cost deployment.
