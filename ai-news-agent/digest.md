@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-26 03:01
+
+- **[rust-v0.174.0-alpha.7](https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.7)** (OpenAI Codex releases, 7/10) - OpenAI released version 0.174.0‑alpha.7 of its Codex Rust client library. The update adds new endpoint support, bug fixes, and better type safety, making it easier for Rust developers to integrate code‑generation models into their applications.
+
 ## 2026-11-25 23:32
 
 - **[Jev is (probably) Qwen3.5-35B-A3B](https://modaic.dev/blog/latency-doesnt-lie)** (Hacker News, 7/10) - A post on Hacker News identifies the model referred to as “Jev” as the Qwen 3.5 35B‑A3B, a 35‑billion‑parameter language model released by Alibaba. The model is openly available, giving developers a powerful, free‑to‑use option for building chatbots, RAG pipelines, or other AI‑driven features.
