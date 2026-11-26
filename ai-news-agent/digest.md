@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-26 23:01
+
+- **[How Clay Builds GTM Agents — Jeff Barg, Head of AI](https://latent.space/p/how_clay_builds_gtm_agents_jeff_barg_head_of_ai/)** (Latent Space, 6/10) - Clay released a walkthrough showing how its GTM (go‑to‑market) agents can be run either through Clay’s own interface or by calling Claude Code from an external app. This lets developers pick the integration style they prefer while still getting the same agent behavior, making it easier to add sales‑automation bots to existing software.
+
 ## 2026-11-26 22:32
 
 - **[AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)** (Hacker News, 6/10) - A Hacker News post highlighted new tools and scripts that make it easier to run large language models on your own hardware. This helps developers who want full control over costs, data privacy, or custom tweaks without relying on cloud services.
