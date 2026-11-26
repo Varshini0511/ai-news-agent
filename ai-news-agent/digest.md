@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-26 11:03
+
+- **[Bifura](https://www.producthunt.com/products/bifura)** (Product Hunt, 7/10) - Bifura is a web tool that visualises a site the way an AI agent would see it when crawling or scraping. It helps developers debug and optimise prompts and retrieval‑augmented generation pipelines that rely on web‑page content.
+
 ## 2026-11-26 10:01
 
 - **[Ottante](https://www.producthunt.com/products/ottante)** (Product Hunt, 7/10) - Ottante is a new Mac utility that automatically reviews the output your AI agents produce and highlights mistakes or inconsistencies. It saves developers time by giving a quick sanity‑check without having to write custom validation code.
