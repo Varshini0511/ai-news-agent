@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-27 23:01
+
+- **[Prospero: Bloat-free, native AI coding harness with ImGui](https://github.com/skeeto/prospero)** (Hacker News, 7/10) - Prospero is a lightweight native library that lets you run AI code inside an ImGui (immediate‑mode graphical user interface) window. It gives developers a quick way to prototype AI‑powered apps without the overhead of large frameworks.
+
 ## 2026-11-27 16:03
 
 - **[rust-v0.174.0-alpha.9](https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.9)** (OpenAI Codex releases, 7/10) - OpenAI released version 0.174.0-alpha.9 of its Rust client library for Codex. The update adds new endpoints and bug fixes, making it easier for Rust developers to embed code‑completion AI into their projects.
