@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-27 10:02
+
+- **[v2.6.0](https://github.com/modelcontextprotocol/servers/releases/tag/v2.6.0)** (MCP servers releases, 7/10) - The Model Context Protocol project released version 2.6.0 to fix eight security vulnerabilities in its official memory, git, and fetch server packages. Developers using Model Context Protocol (MCP) to connect AI agents to external tools and context should upgrade immediately to protect their applications.
+
 ## 2026-11-27 08:32
 
 - **[Contral](https://www.producthunt.com/products/contral)** (Product Hunt, 7/10) - Contral released an AI coding assistant that automatically runs the code you write, checks the output, and explains any mistakes. This helps developers catch errors quickly and learn from the feedback, speeding up development and skill growth.
