@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-27 08:32
+
+- **[Contral](https://www.producthunt.com/products/contral)** (Product Hunt, 7/10) - Contral released an AI coding assistant that automatically runs the code you write, checks the output, and explains any mistakes. This helps developers catch errors quickly and learn from the feedback, speeding up development and skill growth.
+
 ## 2026-11-27 08:01
 
 - **[Ploid](https://www.producthunt.com/products/ploid)** (Product Hunt, 6/10) - Ploid launched a identity search service designed to let autonomous software agents query over two billion public profiles. This is useful for developers who need to give their AI agents structured human lookup capabilities via an Application Programming Interface (API).
