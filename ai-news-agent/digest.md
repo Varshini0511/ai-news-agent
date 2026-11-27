@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-27 16:03
+
+- **[rust-v0.174.0-alpha.9](https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.9)** (OpenAI Codex releases, 7/10) - OpenAI released version 0.174.0-alpha.9 of its Rust client library for Codex. The update adds new endpoints and bug fixes, making it easier for Rust developers to embed code‑completion AI into their projects.
+
 ## 2026-11-27 14:37
 
 - **[OpenAI cost controls 💰, measuring RSI 📈, looped transformers ➰](https://tldr.tech/ai/2026-11-27)** (TLDR AI, 6/10) - OpenAI has introduced new cost control features to help developers set spend limits and monitor usage across projects. This is useful for developers building with OpenAI APIs to prevent unexpected bill spikes and manage production budgets.
