@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-27 02:31
+
+- **[An introduction to uncertainty in machine learning](https://chrhenning.com/blog/2026/introduction-to-uncertainty/)** (Hacker News, 7/10) - The piece explains how to measure and manage uncertainty in machine‑learning predictions using methods like Bayesian inference and confidence intervals. Knowing a model’s uncertainty helps engineers build safer systems and decide when to trust or reject outputs.
+
 ## 2026-11-26 23:32
 
 - **[How Clay Builds GTM Agents — Jeff Barg, Head of AI](https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/)** (Latent Space, 6/10) - Clay's Head of AI shared architectural and product insights on how they build AI agents for automated sales and marketing workflows. It offers practical design lessons for developers, such as simplifying the user interface by hiding model selection and managing background agent execution costs.
