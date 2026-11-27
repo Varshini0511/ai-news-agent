@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-27 13:31
+
+- **[Kimi for Science More scientific ideas, made possible](https://www.kimi.ai/news/kimi-for-science-program)** (Hacker News, 6/10) - Moonshot AI announced Kimi for Science, a specialized initiative leveraging large language models to assist with scientific discovery and research. This is useful for developers exploring how to adapt AI models for advanced domain-specific reasoning and research workflows.
+
 ## 2026-11-27 12:31
 
 - **[Taking Trainium3 to the Track: Generating Videos with LTX-2.5](https://huggingface.co/blog/video-trainium3)** (Hugging Face, 6/10) - Hugging Face published a technical guide on generating video with the open-source LTX-2.5 model using AWS (Amazon Web Services) Trainium chips. This gives developers practical code and setup instructions to run optimized media generation workloads on specialized cloud hardware.
