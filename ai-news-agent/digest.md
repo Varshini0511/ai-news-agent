@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-27 14:37
+
+- **[OpenAI cost controls 💰, measuring RSI 📈, looped transformers ➰](https://tldr.tech/ai/2026-11-27)** (TLDR AI, 6/10) - OpenAI has introduced new cost control features to help developers set spend limits and monitor usage across projects. This is useful for developers building with OpenAI APIs to prevent unexpected bill spikes and manage production budgets.
+
 ## 2026-11-27 13:31
 
 - **[Kimi for Science More scientific ideas, made possible](https://www.kimi.ai/news/kimi-for-science-program)** (Hacker News, 6/10) - Moonshot AI announced Kimi for Science, a specialized initiative leveraging large language models to assist with scientific discovery and research. This is useful for developers exploring how to adapt AI models for advanced domain-specific reasoning and research workflows.
