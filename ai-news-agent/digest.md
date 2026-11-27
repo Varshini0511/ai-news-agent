@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-27 12:31
+
+- **[Taking Trainium3 to the Track: Generating Videos with LTX-2.5](https://huggingface.co/blog/video-trainium3)** (Hugging Face, 6/10) - Hugging Face published a technical guide on generating video with the open-source LTX-2.5 model using AWS (Amazon Web Services) Trainium chips. This gives developers practical code and setup instructions to run optimized media generation workloads on specialized cloud hardware.
+
 ## 2026-11-27 10:02
 
 - **[v2.6.0](https://github.com/modelcontextprotocol/servers/releases/tag/v2.6.0)** (MCP servers releases, 7/10) - The Model Context Protocol project released version 2.6.0 to fix eight security vulnerabilities in its official memory, git, and fetch server packages. Developers using Model Context Protocol (MCP) to connect AI agents to external tools and context should upgrade immediately to protect their applications.
