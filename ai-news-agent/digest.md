@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-27 08:01
+
+- **[Ploid](https://www.producthunt.com/products/ploid)** (Product Hunt, 6/10) - Ploid launched a identity search service designed to let autonomous software agents query over two billion public profiles. This is useful for developers who need to give their AI agents structured human lookup capabilities via an Application Programming Interface (API).
+- **[gpyou](https://www.producthunt.com/products/gpyou)** (Product Hunt, 6/10) - gpyou launched a service that dynamically routes compute tasks to the cheapest available cloud Graphics Processing Unit (GPU). This is useful for developers seeking to reduce hosting and training costs when running open-source models.
+
 ## 2026-11-27 02:31
 
 - **[An introduction to uncertainty in machine learning](https://chrhenning.com/blog/2026/introduction-to-uncertainty/)** (Hacker News, 7/10) - The piece explains how to measure and manage uncertainty in machine‑learning predictions using methods like Bayesian inference and confidence intervals. Knowing a model’s uncertainty helps engineers build safer systems and decide when to trust or reject outputs.
