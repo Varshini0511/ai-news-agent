@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-28 16:01
+
+- **[The Comprehensive Guide to Encrypted Inference with Tees](https://trynito.ai/blog/encrypted-inference-tees)** (Hacker News, 7/10) - A step‑by‑step guide was posted on Hacker News showing how to run AI inference inside secure hardware enclaves (Trusted Execution Environments) so the model and data stay private. This lets developers protect their AI assets and meet privacy rules while still using the model for predictions.
+
 ## 2026-11-28 13:01
 
 - **[GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims](https://malspark.com/blog/malicious-gguf-models-hugging-face/)** (Hacker News, 6/10) - Security researchers discovered malicious GGUF format model files on Hugging Face that infected over 2,400 users with malware. This highlights the safety risks of executing unverified open-source model files and underscores the need to sandbox local model environments.
