@@ -1,5 +1,10 @@
 # AI Digest
 
+## 2026-11-28 00:31
+
+- **[datasette-mcp 0.4](https://simonwillison.net/2026/Nov/27/datasette-mcp/)** (Simon Willison, 6/10) - Simon Willison updated the datasette-mcp tool to version 0.4, fixing compatibility issues with the latest Datasette alpha release. This helps developers building with the Model Context Protocol (MCP) seamlessly expose SQLite data to AI agents.
+- **[Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)** (Hacker News, 6/10) - Google published research on DeepCrossAttention, an attention mechanism that matches standard model output quality while running up to three times faster. This technique is useful for builders looking to optimize transformer model inference speed and reduce computation costs.
+
 ## 2026-11-27 23:01
 
 - **[Prospero: Bloat-free, native AI coding harness with ImGui](https://github.com/skeeto/prospero)** (Hacker News, 7/10) - Prospero is a lightweight native library that lets you run AI code inside an ImGui (immediate‑mode graphical user interface) window. It gives developers a quick way to prototype AI‑powered apps without the overhead of large frameworks.
