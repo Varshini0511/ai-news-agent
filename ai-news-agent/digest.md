@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-28 04:01
+
+- **[T3 Code Nightly 0.1.14-nightly.20261128.5372 (9ceb8bfbecd0)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.14-nightly.20261128.5372)** (T3 Code releases, 6/10) - The T3 Code nightly release added a dedicated UI panel showing an AI agent's step-by-step task list and improved remote environment links. This provides better real-time visibility and debugging when using AI agents for automated coding.
+
 ## 2026-11-28 00:31
 
 - **[datasette-mcp 0.4](https://simonwillison.net/2026/Nov/27/datasette-mcp/)** (Simon Willison, 6/10) - Simon Willison updated the datasette-mcp tool to version 0.4, fixing compatibility issues with the latest Datasette alpha release. This helps developers building with the Model Context Protocol (MCP) seamlessly expose SQLite data to AI agents.
