@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-28 10:31
+
+- **[T3 Code Nightly 0.1.14-nightly.20261128.5385 (0eeb7d10c8f3)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.14-nightly.20261128.5385)** (T3 Code releases, 6/10) - The T3 Code editor released a nightly update that adds drawing tools for image attachments, local folder uploads, and local file saving. These features make it easier to visually annotate context and manage project files when working with an AI coding assistant.
+
 ## 2026-11-28 08:01
 
 - **[Stacktrace](https://www.producthunt.com/products/stacktrace)** (Product Hunt, 6/10) - Stacktrace launched a platform designed to monitor, steer, and apply safety guardrails to AI agents in real time. It helps developers prevent unintended agent behaviors and enforce system boundaries while building autonomous applications.
