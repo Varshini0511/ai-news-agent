@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-28 13:01
+
+- **[GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims](https://malspark.com/blog/malicious-gguf-models-hugging-face/)** (Hacker News, 6/10) - Security researchers discovered malicious GGUF format model files on Hugging Face that infected over 2,400 users with malware. This highlights the safety risks of executing unverified open-source model files and underscores the need to sandbox local model environments.
+
 ## 2026-11-28 10:31
 
 - **[T3 Code Nightly 0.1.14-nightly.20261128.5385 (0eeb7d10c8f3)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.14-nightly.20261128.5385)** (T3 Code releases, 6/10) - The T3 Code editor released a nightly update that adds drawing tools for image attachments, local folder uploads, and local file saving. These features make it easier to visually annotate context and manage project files when working with an AI coding assistant.
