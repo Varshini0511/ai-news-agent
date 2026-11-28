@@ -1,5 +1,9 @@
 # AI Digest
 
+## 2026-11-28 08:01
+
+- **[Stacktrace](https://www.producthunt.com/products/stacktrace)** (Product Hunt, 6/10) - Stacktrace launched a platform designed to monitor, steer, and apply safety guardrails to AI agents in real time. It helps developers prevent unintended agent behaviors and enforce system boundaries while building autonomous applications.
+
 ## 2026-11-28 04:01
 
 - **[T3 Code Nightly 0.1.14-nightly.20261128.5372 (9ceb8bfbecd0)](https://github.com/pingdotgg/t3code/releases/tag/v0.1.14-nightly.20261128.5372)** (T3 Code releases, 6/10) - The T3 Code nightly release added a dedicated UI panel showing an AI agent's step-by-step task list and improved remote environment links. This provides better real-time visibility and debugging when using AI agents for automated coding.
